@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "m_login_bonus_sheet_id": 1,
+    "prefab_id": "Popup_LoginBonus",
+    "m_character_id": 1000001,
+    "voice_id": "0",
+    "serif": "お待ちしてました司令官！\n今日も素敵な１日になりますように♪",
+    "has_r18": 0
+  },
+  {
+    "id": 2,
+    "m_login_bonus_sheet_id": 2,
+    "prefab_id": "LoginBonus_1500001",
+    "m_character_id": 1000002,
+    "voice_id": "0",
+    "serif": "お待ちしてました司令官！今日も素敵な１日になりますように♪",
+    "has_r18": 0
+  },
+  {
+    "id": 3,
+    "m_login_bonus_sheet_id": 3,
+    "prefab_id": "LoginBonus_1020001",
+    "m_character_id": 1300020,
+    "voice_id": "0",
+    "serif": "イベント用　ウェンディのセリフ",
+    "has_r18": 0
+  },
+  {
+    "id": 4,
+    "m_login_bonus_sheet_id": 4,
+    "prefab_id": "LoginBonus_1500003",
+    "m_character_id": 1000001,
+    "voice_id": "0",
+    "serif": "お待ちしてました司令官！\n今日も素敵な１日になりますように♪",
+    "has_r18": 0
+  }
+]

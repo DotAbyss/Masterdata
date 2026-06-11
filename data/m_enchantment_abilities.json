@@ -1,0 +1,4808 @@
+[
+  {
+    "id": 1,
+    "enchantment_ability_no": 10101,
+    "m_ability_effect_id": 10001,
+    "level": 5,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 2,
+    "enchantment_ability_no": 10101,
+    "m_ability_effect_id": 10001,
+    "level": 6,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 3,
+    "enchantment_ability_no": 10101,
+    "m_ability_effect_id": 10001,
+    "level": 7,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 4,
+    "enchantment_ability_no": 10101,
+    "m_ability_effect_id": 10001,
+    "level": 8,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 5,
+    "enchantment_ability_no": 10101,
+    "m_ability_effect_id": 10001,
+    "level": 9,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 6,
+    "enchantment_ability_no": 10101,
+    "m_ability_effect_id": 10001,
+    "level": 10,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 7,
+    "enchantment_ability_no": 10101,
+    "m_ability_effect_id": 10002,
+    "level": 1,
+    "weight": 100000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 8,
+    "enchantment_ability_no": 10101,
+    "m_ability_effect_id": 10002,
+    "level": 2,
+    "weight": 100000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 9,
+    "enchantment_ability_no": 10101,
+    "m_ability_effect_id": 10002,
+    "level": 3,
+    "weight": 100000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 10,
+    "enchantment_ability_no": 10101,
+    "m_ability_effect_id": 10002,
+    "level": 4,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 11,
+    "enchantment_ability_no": 10101,
+    "m_ability_effect_id": 10002,
+    "level": 5,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 12,
+    "enchantment_ability_no": 10102,
+    "m_ability_effect_id": 10001,
+    "level": 2,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 13,
+    "enchantment_ability_no": 10103,
+    "m_ability_effect_id": 10001,
+    "level": 4,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 14,
+    "enchantment_ability_no": 11101,
+    "m_ability_effect_id": 10003,
+    "level": 5,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 15,
+    "enchantment_ability_no": 11101,
+    "m_ability_effect_id": 10003,
+    "level": 6,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 16,
+    "enchantment_ability_no": 11101,
+    "m_ability_effect_id": 10003,
+    "level": 7,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 17,
+    "enchantment_ability_no": 11101,
+    "m_ability_effect_id": 10003,
+    "level": 8,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 18,
+    "enchantment_ability_no": 11101,
+    "m_ability_effect_id": 10003,
+    "level": 9,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 19,
+    "enchantment_ability_no": 11101,
+    "m_ability_effect_id": 10003,
+    "level": 10,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 20,
+    "enchantment_ability_no": 11101,
+    "m_ability_effect_id": 10004,
+    "level": 1,
+    "weight": 100000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 21,
+    "enchantment_ability_no": 11101,
+    "m_ability_effect_id": 10004,
+    "level": 2,
+    "weight": 100000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 22,
+    "enchantment_ability_no": 11101,
+    "m_ability_effect_id": 10004,
+    "level": 3,
+    "weight": 100000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 23,
+    "enchantment_ability_no": 11101,
+    "m_ability_effect_id": 10004,
+    "level": 4,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 24,
+    "enchantment_ability_no": 11101,
+    "m_ability_effect_id": 10004,
+    "level": 5,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 25,
+    "enchantment_ability_no": 11102,
+    "m_ability_effect_id": 10003,
+    "level": 2,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 26,
+    "enchantment_ability_no": 11103,
+    "m_ability_effect_id": 10003,
+    "level": 4,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 27,
+    "enchantment_ability_no": 12101,
+    "m_ability_effect_id": 10005,
+    "level": 5,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 28,
+    "enchantment_ability_no": 12101,
+    "m_ability_effect_id": 10005,
+    "level": 6,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 29,
+    "enchantment_ability_no": 12101,
+    "m_ability_effect_id": 10005,
+    "level": 7,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 30,
+    "enchantment_ability_no": 12101,
+    "m_ability_effect_id": 10005,
+    "level": 8,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 31,
+    "enchantment_ability_no": 12101,
+    "m_ability_effect_id": 10005,
+    "level": 9,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 32,
+    "enchantment_ability_no": 12101,
+    "m_ability_effect_id": 10005,
+    "level": 10,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 33,
+    "enchantment_ability_no": 12101,
+    "m_ability_effect_id": 10006,
+    "level": 1,
+    "weight": 100000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 34,
+    "enchantment_ability_no": 12101,
+    "m_ability_effect_id": 10006,
+    "level": 2,
+    "weight": 100000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 35,
+    "enchantment_ability_no": 12101,
+    "m_ability_effect_id": 10006,
+    "level": 3,
+    "weight": 100000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 36,
+    "enchantment_ability_no": 12101,
+    "m_ability_effect_id": 10006,
+    "level": 4,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 37,
+    "enchantment_ability_no": 12101,
+    "m_ability_effect_id": 10006,
+    "level": 5,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 38,
+    "enchantment_ability_no": 12102,
+    "m_ability_effect_id": 10005,
+    "level": 2,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 39,
+    "enchantment_ability_no": 12103,
+    "m_ability_effect_id": 10005,
+    "level": 4,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 40,
+    "enchantment_ability_no": 13101,
+    "m_ability_effect_id": 10007,
+    "level": 3,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 41,
+    "enchantment_ability_no": 13101,
+    "m_ability_effect_id": 10007,
+    "level": 4,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 42,
+    "enchantment_ability_no": 13101,
+    "m_ability_effect_id": 10007,
+    "level": 5,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 43,
+    "enchantment_ability_no": 13101,
+    "m_ability_effect_id": 10007,
+    "level": 6,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 44,
+    "enchantment_ability_no": 13101,
+    "m_ability_effect_id": 10007,
+    "level": 7,
+    "weight": 150000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 45,
+    "enchantment_ability_no": 13101,
+    "m_ability_effect_id": 10007,
+    "level": 8,
+    "weight": 150000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 46,
+    "enchantment_ability_no": 13101,
+    "m_ability_effect_id": 10007,
+    "level": 9,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 47,
+    "enchantment_ability_no": 13101,
+    "m_ability_effect_id": 10007,
+    "level": 10,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 48,
+    "enchantment_ability_no": 13102,
+    "m_ability_effect_id": 10007,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 49,
+    "enchantment_ability_no": 13103,
+    "m_ability_effect_id": 10007,
+    "level": 2,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 50,
+    "enchantment_ability_no": 14101,
+    "m_ability_effect_id": 10009,
+    "level": 3,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 51,
+    "enchantment_ability_no": 14101,
+    "m_ability_effect_id": 10009,
+    "level": 4,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 52,
+    "enchantment_ability_no": 14101,
+    "m_ability_effect_id": 10009,
+    "level": 5,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 53,
+    "enchantment_ability_no": 14101,
+    "m_ability_effect_id": 10009,
+    "level": 6,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 54,
+    "enchantment_ability_no": 14101,
+    "m_ability_effect_id": 10009,
+    "level": 7,
+    "weight": 150000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 55,
+    "enchantment_ability_no": 14101,
+    "m_ability_effect_id": 10009,
+    "level": 8,
+    "weight": 150000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 56,
+    "enchantment_ability_no": 14101,
+    "m_ability_effect_id": 10009,
+    "level": 9,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 57,
+    "enchantment_ability_no": 14101,
+    "m_ability_effect_id": 10009,
+    "level": 10,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 58,
+    "enchantment_ability_no": 14102,
+    "m_ability_effect_id": 10009,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 59,
+    "enchantment_ability_no": 14103,
+    "m_ability_effect_id": 10009,
+    "level": 2,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 60,
+    "enchantment_ability_no": 15101,
+    "m_ability_effect_id": 10011,
+    "level": 3,
+    "weight": 216667,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 61,
+    "enchantment_ability_no": 15101,
+    "m_ability_effect_id": 10011,
+    "level": 4,
+    "weight": 216667,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 62,
+    "enchantment_ability_no": 15101,
+    "m_ability_effect_id": 10011,
+    "level": 5,
+    "weight": 216667,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 63,
+    "enchantment_ability_no": 15101,
+    "m_ability_effect_id": 10011,
+    "level": 6,
+    "weight": 300000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 64,
+    "enchantment_ability_no": 15101,
+    "m_ability_effect_id": 10011,
+    "level": 7,
+    "weight": 50000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 65,
+    "enchantment_ability_no": 15102,
+    "m_ability_effect_id": 10011,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 66,
+    "enchantment_ability_no": 15103,
+    "m_ability_effect_id": 10011,
+    "level": 2,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 67,
+    "enchantment_ability_no": 16101,
+    "m_ability_effect_id": 10101,
+    "level": 5,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 68,
+    "enchantment_ability_no": 16101,
+    "m_ability_effect_id": 10101,
+    "level": 6,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 69,
+    "enchantment_ability_no": 16101,
+    "m_ability_effect_id": 10101,
+    "level": 7,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 70,
+    "enchantment_ability_no": 16101,
+    "m_ability_effect_id": 10101,
+    "level": 8,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 71,
+    "enchantment_ability_no": 16101,
+    "m_ability_effect_id": 10101,
+    "level": 9,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 72,
+    "enchantment_ability_no": 16101,
+    "m_ability_effect_id": 10101,
+    "level": 10,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 73,
+    "enchantment_ability_no": 16101,
+    "m_ability_effect_id": 10102,
+    "level": 1,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 74,
+    "enchantment_ability_no": 16101,
+    "m_ability_effect_id": 10102,
+    "level": 2,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 75,
+    "enchantment_ability_no": 16101,
+    "m_ability_effect_id": 10102,
+    "level": 3,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 76,
+    "enchantment_ability_no": 16101,
+    "m_ability_effect_id": 10102,
+    "level": 4,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 77,
+    "enchantment_ability_no": 16101,
+    "m_ability_effect_id": 10102,
+    "level": 5,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 78,
+    "enchantment_ability_no": 16101,
+    "m_ability_effect_id": 10102,
+    "level": 6,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 79,
+    "enchantment_ability_no": 16101,
+    "m_ability_effect_id": 10102,
+    "level": 7,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 80,
+    "enchantment_ability_no": 16101,
+    "m_ability_effect_id": 10102,
+    "level": 8,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 81,
+    "enchantment_ability_no": 16101,
+    "m_ability_effect_id": 10102,
+    "level": 9,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 82,
+    "enchantment_ability_no": 16101,
+    "m_ability_effect_id": 10102,
+    "level": 10,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 83,
+    "enchantment_ability_no": 16102,
+    "m_ability_effect_id": 10101,
+    "level": 2,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 84,
+    "enchantment_ability_no": 16103,
+    "m_ability_effect_id": 10101,
+    "level": 4,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 85,
+    "enchantment_ability_no": 17101,
+    "m_ability_effect_id": 10103,
+    "level": 3,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 86,
+    "enchantment_ability_no": 17101,
+    "m_ability_effect_id": 10103,
+    "level": 4,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 87,
+    "enchantment_ability_no": 17101,
+    "m_ability_effect_id": 10103,
+    "level": 5,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 88,
+    "enchantment_ability_no": 17101,
+    "m_ability_effect_id": 10103,
+    "level": 6,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 89,
+    "enchantment_ability_no": 17101,
+    "m_ability_effect_id": 10103,
+    "level": 7,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 90,
+    "enchantment_ability_no": 17101,
+    "m_ability_effect_id": 10103,
+    "level": 8,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 91,
+    "enchantment_ability_no": 17101,
+    "m_ability_effect_id": 10103,
+    "level": 9,
+    "weight": 60000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 92,
+    "enchantment_ability_no": 17101,
+    "m_ability_effect_id": 10103,
+    "level": 10,
+    "weight": 60000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 93,
+    "enchantment_ability_no": 17101,
+    "m_ability_effect_id": 10104,
+    "level": 1,
+    "weight": 60000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 94,
+    "enchantment_ability_no": 17101,
+    "m_ability_effect_id": 10104,
+    "level": 2,
+    "weight": 60000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 95,
+    "enchantment_ability_no": 17101,
+    "m_ability_effect_id": 10104,
+    "level": 3,
+    "weight": 60000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 96,
+    "enchantment_ability_no": 17101,
+    "m_ability_effect_id": 10104,
+    "level": 4,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 97,
+    "enchantment_ability_no": 17101,
+    "m_ability_effect_id": 10104,
+    "level": 5,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 98,
+    "enchantment_ability_no": 17102,
+    "m_ability_effect_id": 10103,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 99,
+    "enchantment_ability_no": 17103,
+    "m_ability_effect_id": 10103,
+    "level": 2,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 100,
+    "enchantment_ability_no": 18101,
+    "m_ability_effect_id": 10105,
+    "level": 3,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 101,
+    "enchantment_ability_no": 18101,
+    "m_ability_effect_id": 10105,
+    "level": 4,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 102,
+    "enchantment_ability_no": 18101,
+    "m_ability_effect_id": 10105,
+    "level": 5,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 103,
+    "enchantment_ability_no": 18101,
+    "m_ability_effect_id": 10105,
+    "level": 6,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 104,
+    "enchantment_ability_no": 18101,
+    "m_ability_effect_id": 10105,
+    "level": 7,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 105,
+    "enchantment_ability_no": 18101,
+    "m_ability_effect_id": 10105,
+    "level": 8,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 106,
+    "enchantment_ability_no": 18101,
+    "m_ability_effect_id": 10105,
+    "level": 9,
+    "weight": 60000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 107,
+    "enchantment_ability_no": 18101,
+    "m_ability_effect_id": 10105,
+    "level": 10,
+    "weight": 60000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 108,
+    "enchantment_ability_no": 18101,
+    "m_ability_effect_id": 10106,
+    "level": 1,
+    "weight": 60000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 109,
+    "enchantment_ability_no": 18101,
+    "m_ability_effect_id": 10106,
+    "level": 2,
+    "weight": 60000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 110,
+    "enchantment_ability_no": 18101,
+    "m_ability_effect_id": 10106,
+    "level": 3,
+    "weight": 60000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 111,
+    "enchantment_ability_no": 18101,
+    "m_ability_effect_id": 10106,
+    "level": 4,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 112,
+    "enchantment_ability_no": 18101,
+    "m_ability_effect_id": 10106,
+    "level": 5,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 113,
+    "enchantment_ability_no": 18102,
+    "m_ability_effect_id": 10105,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 114,
+    "enchantment_ability_no": 18103,
+    "m_ability_effect_id": 10105,
+    "level": 2,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 115,
+    "enchantment_ability_no": 19101,
+    "m_ability_effect_id": 10107,
+    "level": 5,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 116,
+    "enchantment_ability_no": 19101,
+    "m_ability_effect_id": 10107,
+    "level": 6,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 117,
+    "enchantment_ability_no": 19101,
+    "m_ability_effect_id": 10107,
+    "level": 7,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 118,
+    "enchantment_ability_no": 19101,
+    "m_ability_effect_id": 10107,
+    "level": 8,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 119,
+    "enchantment_ability_no": 19101,
+    "m_ability_effect_id": 10107,
+    "level": 9,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 120,
+    "enchantment_ability_no": 19101,
+    "m_ability_effect_id": 10107,
+    "level": 10,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 121,
+    "enchantment_ability_no": 19101,
+    "m_ability_effect_id": 10108,
+    "level": 1,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 122,
+    "enchantment_ability_no": 19101,
+    "m_ability_effect_id": 10108,
+    "level": 2,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 123,
+    "enchantment_ability_no": 19101,
+    "m_ability_effect_id": 10108,
+    "level": 3,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 124,
+    "enchantment_ability_no": 19101,
+    "m_ability_effect_id": 10108,
+    "level": 4,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 125,
+    "enchantment_ability_no": 19101,
+    "m_ability_effect_id": 10108,
+    "level": 5,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 126,
+    "enchantment_ability_no": 19101,
+    "m_ability_effect_id": 10108,
+    "level": 6,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 127,
+    "enchantment_ability_no": 19101,
+    "m_ability_effect_id": 10108,
+    "level": 7,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 128,
+    "enchantment_ability_no": 19101,
+    "m_ability_effect_id": 10108,
+    "level": 8,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 129,
+    "enchantment_ability_no": 19101,
+    "m_ability_effect_id": 10108,
+    "level": 9,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 130,
+    "enchantment_ability_no": 19101,
+    "m_ability_effect_id": 10108,
+    "level": 10,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 131,
+    "enchantment_ability_no": 19102,
+    "m_ability_effect_id": 10107,
+    "level": 2,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 132,
+    "enchantment_ability_no": 19103,
+    "m_ability_effect_id": 10107,
+    "level": 4,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 133,
+    "enchantment_ability_no": 20101,
+    "m_ability_effect_id": 10109,
+    "level": 3,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 134,
+    "enchantment_ability_no": 20101,
+    "m_ability_effect_id": 10109,
+    "level": 4,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 135,
+    "enchantment_ability_no": 20101,
+    "m_ability_effect_id": 10109,
+    "level": 5,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 136,
+    "enchantment_ability_no": 20101,
+    "m_ability_effect_id": 10109,
+    "level": 6,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 137,
+    "enchantment_ability_no": 20101,
+    "m_ability_effect_id": 10109,
+    "level": 7,
+    "weight": 150000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 138,
+    "enchantment_ability_no": 20101,
+    "m_ability_effect_id": 10109,
+    "level": 8,
+    "weight": 150000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 139,
+    "enchantment_ability_no": 20101,
+    "m_ability_effect_id": 10109,
+    "level": 9,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 140,
+    "enchantment_ability_no": 20101,
+    "m_ability_effect_id": 10109,
+    "level": 10,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 141,
+    "enchantment_ability_no": 20102,
+    "m_ability_effect_id": 10109,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 142,
+    "enchantment_ability_no": 20103,
+    "m_ability_effect_id": 10109,
+    "level": 2,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 143,
+    "enchantment_ability_no": 21101,
+    "m_ability_effect_id": 10110,
+    "level": 3,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 144,
+    "enchantment_ability_no": 21101,
+    "m_ability_effect_id": 10110,
+    "level": 4,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 145,
+    "enchantment_ability_no": 21101,
+    "m_ability_effect_id": 10110,
+    "level": 5,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 146,
+    "enchantment_ability_no": 21101,
+    "m_ability_effect_id": 10110,
+    "level": 6,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 147,
+    "enchantment_ability_no": 21101,
+    "m_ability_effect_id": 10110,
+    "level": 7,
+    "weight": 150000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 148,
+    "enchantment_ability_no": 21101,
+    "m_ability_effect_id": 10110,
+    "level": 8,
+    "weight": 150000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 149,
+    "enchantment_ability_no": 21101,
+    "m_ability_effect_id": 10110,
+    "level": 9,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 150,
+    "enchantment_ability_no": 21101,
+    "m_ability_effect_id": 10110,
+    "level": 10,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 151,
+    "enchantment_ability_no": 21102,
+    "m_ability_effect_id": 10110,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 152,
+    "enchantment_ability_no": 21103,
+    "m_ability_effect_id": 10110,
+    "level": 2,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 153,
+    "enchantment_ability_no": 22101,
+    "m_ability_effect_id": 10111,
+    "level": 3,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 154,
+    "enchantment_ability_no": 22101,
+    "m_ability_effect_id": 10111,
+    "level": 4,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 155,
+    "enchantment_ability_no": 22101,
+    "m_ability_effect_id": 10111,
+    "level": 5,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 156,
+    "enchantment_ability_no": 22101,
+    "m_ability_effect_id": 10111,
+    "level": 6,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 157,
+    "enchantment_ability_no": 22101,
+    "m_ability_effect_id": 10111,
+    "level": 7,
+    "weight": 150000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 158,
+    "enchantment_ability_no": 22101,
+    "m_ability_effect_id": 10111,
+    "level": 8,
+    "weight": 150000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 159,
+    "enchantment_ability_no": 22101,
+    "m_ability_effect_id": 10111,
+    "level": 9,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 160,
+    "enchantment_ability_no": 22101,
+    "m_ability_effect_id": 10111,
+    "level": 10,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 161,
+    "enchantment_ability_no": 22102,
+    "m_ability_effect_id": 10111,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 162,
+    "enchantment_ability_no": 22103,
+    "m_ability_effect_id": 10111,
+    "level": 2,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 163,
+    "enchantment_ability_no": 23101,
+    "m_ability_effect_id": 10112,
+    "level": 3,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 164,
+    "enchantment_ability_no": 23101,
+    "m_ability_effect_id": 10112,
+    "level": 4,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 165,
+    "enchantment_ability_no": 23101,
+    "m_ability_effect_id": 10112,
+    "level": 5,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 166,
+    "enchantment_ability_no": 23101,
+    "m_ability_effect_id": 10112,
+    "level": 6,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 167,
+    "enchantment_ability_no": 23101,
+    "m_ability_effect_id": 10112,
+    "level": 7,
+    "weight": 150000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 168,
+    "enchantment_ability_no": 23101,
+    "m_ability_effect_id": 10112,
+    "level": 8,
+    "weight": 150000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 169,
+    "enchantment_ability_no": 23101,
+    "m_ability_effect_id": 10112,
+    "level": 9,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 170,
+    "enchantment_ability_no": 23101,
+    "m_ability_effect_id": 10112,
+    "level": 10,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 171,
+    "enchantment_ability_no": 23102,
+    "m_ability_effect_id": 10112,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 172,
+    "enchantment_ability_no": 23103,
+    "m_ability_effect_id": 10112,
+    "level": 2,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 173,
+    "enchantment_ability_no": 24101,
+    "m_ability_effect_id": 10114,
+    "level": 3,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 174,
+    "enchantment_ability_no": 24101,
+    "m_ability_effect_id": 10114,
+    "level": 4,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 175,
+    "enchantment_ability_no": 24101,
+    "m_ability_effect_id": 10114,
+    "level": 5,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 176,
+    "enchantment_ability_no": 24101,
+    "m_ability_effect_id": 10114,
+    "level": 6,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 177,
+    "enchantment_ability_no": 24101,
+    "m_ability_effect_id": 10114,
+    "level": 7,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 178,
+    "enchantment_ability_no": 24101,
+    "m_ability_effect_id": 10114,
+    "level": 8,
+    "weight": 108333,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 179,
+    "enchantment_ability_no": 24101,
+    "m_ability_effect_id": 10114,
+    "level": 9,
+    "weight": 60000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 180,
+    "enchantment_ability_no": 24101,
+    "m_ability_effect_id": 10114,
+    "level": 10,
+    "weight": 60000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 181,
+    "enchantment_ability_no": 24101,
+    "m_ability_effect_id": 10115,
+    "level": 1,
+    "weight": 60000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 182,
+    "enchantment_ability_no": 24101,
+    "m_ability_effect_id": 10115,
+    "level": 2,
+    "weight": 60000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 183,
+    "enchantment_ability_no": 24101,
+    "m_ability_effect_id": 10115,
+    "level": 3,
+    "weight": 60000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 184,
+    "enchantment_ability_no": 24101,
+    "m_ability_effect_id": 10115,
+    "level": 4,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 185,
+    "enchantment_ability_no": 24101,
+    "m_ability_effect_id": 10115,
+    "level": 5,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 186,
+    "enchantment_ability_no": 24102,
+    "m_ability_effect_id": 10114,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 187,
+    "enchantment_ability_no": 24103,
+    "m_ability_effect_id": 10114,
+    "level": 2,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 188,
+    "enchantment_ability_no": 25101,
+    "m_ability_effect_id": 10116,
+    "level": 3,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 189,
+    "enchantment_ability_no": 25101,
+    "m_ability_effect_id": 10116,
+    "level": 4,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 190,
+    "enchantment_ability_no": 25101,
+    "m_ability_effect_id": 10116,
+    "level": 5,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 191,
+    "enchantment_ability_no": 25101,
+    "m_ability_effect_id": 10116,
+    "level": 6,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 192,
+    "enchantment_ability_no": 25101,
+    "m_ability_effect_id": 10116,
+    "level": 7,
+    "weight": 150000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 193,
+    "enchantment_ability_no": 25101,
+    "m_ability_effect_id": 10116,
+    "level": 8,
+    "weight": 150000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 194,
+    "enchantment_ability_no": 25101,
+    "m_ability_effect_id": 10116,
+    "level": 9,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 195,
+    "enchantment_ability_no": 25101,
+    "m_ability_effect_id": 10116,
+    "level": 10,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 196,
+    "enchantment_ability_no": 25102,
+    "m_ability_effect_id": 10116,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 197,
+    "enchantment_ability_no": 25103,
+    "m_ability_effect_id": 10116,
+    "level": 2,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 198,
+    "enchantment_ability_no": 26101,
+    "m_ability_effect_id": 10117,
+    "level": 3,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 199,
+    "enchantment_ability_no": 26101,
+    "m_ability_effect_id": 10117,
+    "level": 4,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 200,
+    "enchantment_ability_no": 26101,
+    "m_ability_effect_id": 10117,
+    "level": 5,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 201,
+    "enchantment_ability_no": 26101,
+    "m_ability_effect_id": 10117,
+    "level": 6,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 202,
+    "enchantment_ability_no": 26101,
+    "m_ability_effect_id": 10117,
+    "level": 7,
+    "weight": 150000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 203,
+    "enchantment_ability_no": 26101,
+    "m_ability_effect_id": 10117,
+    "level": 8,
+    "weight": 150000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 204,
+    "enchantment_ability_no": 26101,
+    "m_ability_effect_id": 10117,
+    "level": 9,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 205,
+    "enchantment_ability_no": 26101,
+    "m_ability_effect_id": 10117,
+    "level": 10,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 206,
+    "enchantment_ability_no": 26102,
+    "m_ability_effect_id": 10117,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 207,
+    "enchantment_ability_no": 26103,
+    "m_ability_effect_id": 10117,
+    "level": 2,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 208,
+    "enchantment_ability_no": 28101,
+    "m_ability_effect_id": 10902,
+    "level": 1,
+    "weight": 65,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 209,
+    "enchantment_ability_no": 28101,
+    "m_ability_effect_id": 10903,
+    "level": 1,
+    "weight": 30,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 210,
+    "enchantment_ability_no": 28101,
+    "m_ability_effect_id": 10904,
+    "level": 1,
+    "weight": 5,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 211,
+    "enchantment_ability_no": 28102,
+    "m_ability_effect_id": 10900,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 212,
+    "enchantment_ability_no": 28103,
+    "m_ability_effect_id": 10901,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 213,
+    "enchantment_ability_no": 29101,
+    "m_ability_effect_id": 10924,
+    "level": 1,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 214,
+    "enchantment_ability_no": 29101,
+    "m_ability_effect_id": 10925,
+    "level": 1,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 215,
+    "enchantment_ability_no": 29101,
+    "m_ability_effect_id": 10926,
+    "level": 1,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 216,
+    "enchantment_ability_no": 29101,
+    "m_ability_effect_id": 10927,
+    "level": 1,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 217,
+    "enchantment_ability_no": 29101,
+    "m_ability_effect_id": 10928,
+    "level": 1,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 218,
+    "enchantment_ability_no": 29101,
+    "m_ability_effect_id": 10929,
+    "level": 1,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 219,
+    "enchantment_ability_no": 29101,
+    "m_ability_effect_id": 10930,
+    "level": 1,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 220,
+    "enchantment_ability_no": 29101,
+    "m_ability_effect_id": 10931,
+    "level": 1,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 221,
+    "enchantment_ability_no": 29101,
+    "m_ability_effect_id": 10932,
+    "level": 1,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 222,
+    "enchantment_ability_no": 29101,
+    "m_ability_effect_id": 10933,
+    "level": 1,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 223,
+    "enchantment_ability_no": 29101,
+    "m_ability_effect_id": 10934,
+    "level": 1,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 224,
+    "enchantment_ability_no": 29101,
+    "m_ability_effect_id": 10935,
+    "level": 1,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 225,
+    "enchantment_ability_no": 29101,
+    "m_ability_effect_id": 10936,
+    "level": 1,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 226,
+    "enchantment_ability_no": 29101,
+    "m_ability_effect_id": 10937,
+    "level": 1,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 227,
+    "enchantment_ability_no": 29101,
+    "m_ability_effect_id": 10938,
+    "level": 1,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 228,
+    "enchantment_ability_no": 29101,
+    "m_ability_effect_id": 10939,
+    "level": 1,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 229,
+    "enchantment_ability_no": 29102,
+    "m_ability_effect_id": 10921,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 230,
+    "enchantment_ability_no": 29103,
+    "m_ability_effect_id": 10923,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 231,
+    "enchantment_ability_no": 100101,
+    "m_ability_effect_id": 11001,
+    "level": 10,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 232,
+    "enchantment_ability_no": 100201,
+    "m_ability_effect_id": 11002,
+    "level": 10,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 233,
+    "enchantment_ability_no": 100301,
+    "m_ability_effect_id": 11003,
+    "level": 1,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 234,
+    "enchantment_ability_no": 100401,
+    "m_ability_effect_id": 11004,
+    "level": 10,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 235,
+    "enchantment_ability_no": 100501,
+    "m_ability_effect_id": 10511,
+    "level": 4,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 236,
+    "enchantment_ability_no": 100502,
+    "m_ability_effect_id": 11005,
+    "level": 10,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 237,
+    "enchantment_ability_no": 100601,
+    "m_ability_effect_id": 11006,
+    "level": 10,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 238,
+    "enchantment_ability_no": 100701,
+    "m_ability_effect_id": 11007,
+    "level": 2,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 239,
+    "enchantment_ability_no": 100801,
+    "m_ability_effect_id": 11008,
+    "level": 10,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 240,
+    "enchantment_ability_no": 100901,
+    "m_ability_effect_id": 11009,
+    "level": 10,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 241,
+    "enchantment_ability_no": 101001,
+    "m_ability_effect_id": 10008,
+    "level": 10,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 242,
+    "enchantment_ability_no": 101002,
+    "m_ability_effect_id": 11010,
+    "level": 1,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 243,
+    "enchantment_ability_no": 101101,
+    "m_ability_effect_id": 11011,
+    "level": 10,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 244,
+    "enchantment_ability_no": 101201,
+    "m_ability_effect_id": 11012,
+    "level": 2,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 245,
+    "enchantment_ability_no": 101301,
+    "m_ability_effect_id": 11013,
+    "level": 10,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 246,
+    "enchantment_ability_no": 101401,
+    "m_ability_effect_id": 10521,
+    "level": 4,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 247,
+    "enchantment_ability_no": 101402,
+    "m_ability_effect_id": 11014,
+    "level": 10,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 248,
+    "enchantment_ability_no": 101501,
+    "m_ability_effect_id": 11015,
+    "level": 10,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 249,
+    "enchantment_ability_no": 101601,
+    "m_ability_effect_id": 11016,
+    "level": 10,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 250,
+    "enchantment_ability_no": 101701,
+    "m_ability_effect_id": 11017,
+    "level": 10,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 251,
+    "enchantment_ability_no": 101801,
+    "m_ability_effect_id": 13021,
+    "level": 5,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 252,
+    "enchantment_ability_no": 101802,
+    "m_ability_effect_id": 11018,
+    "level": 10,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 253,
+    "enchantment_ability_no": 101901,
+    "m_ability_effect_id": 11019,
+    "level": 10,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 254,
+    "enchantment_ability_no": 102001,
+    "m_ability_effect_id": 13013,
+    "level": 5,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 255,
+    "enchantment_ability_no": 102002,
+    "m_ability_effect_id": 11020,
+    "level": 10,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 256,
+    "enchantment_ability_no": 102101,
+    "m_ability_effect_id": 16022,
+    "level": 1,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 257,
+    "enchantment_ability_no": 102102,
+    "m_ability_effect_id": 11021,
+    "level": 10,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 258,
+    "enchantment_ability_no": 102201,
+    "m_ability_effect_id": 11022,
+    "level": 1,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 259,
+    "enchantment_ability_no": 102301,
+    "m_ability_effect_id": 11023,
+    "level": 10,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 260,
+    "enchantment_ability_no": 102401,
+    "m_ability_effect_id": 11024,
+    "level": 10,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 261,
+    "enchantment_ability_no": 102501,
+    "m_ability_effect_id": 11025,
+    "level": 10,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 262,
+    "enchantment_ability_no": 102601,
+    "m_ability_effect_id": 11026,
+    "level": 10,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 263,
+    "enchantment_ability_no": 102701,
+    "m_ability_effect_id": 13025,
+    "level": 2,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 264,
+    "enchantment_ability_no": 102702,
+    "m_ability_effect_id": 11027,
+    "level": 10,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 265,
+    "enchantment_ability_no": 102801,
+    "m_ability_effect_id": 11028,
+    "level": 10,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 266,
+    "enchantment_ability_no": 102901,
+    "m_ability_effect_id": 11029,
+    "level": 10,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 267,
+    "enchantment_ability_no": 103001,
+    "m_ability_effect_id": 11030,
+    "level": 2,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 268,
+    "enchantment_ability_no": 103101,
+    "m_ability_effect_id": 11031,
+    "level": 1,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 269,
+    "enchantment_ability_no": 103201,
+    "m_ability_effect_id": 11032,
+    "level": 10,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 270,
+    "enchantment_ability_no": 103301,
+    "m_ability_effect_id": 11033,
+    "level": 5,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 271,
+    "enchantment_ability_no": 103401,
+    "m_ability_effect_id": 10501,
+    "level": 4,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 272,
+    "enchantment_ability_no": 103402,
+    "m_ability_effect_id": 11034,
+    "level": 2,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 273,
+    "enchantment_ability_no": 103501,
+    "m_ability_effect_id": 10117,
+    "level": 10,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 274,
+    "enchantment_ability_no": 103502,
+    "m_ability_effect_id": 11035,
+    "level": 10,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 275,
+    "enchantment_ability_no": 103601,
+    "m_ability_effect_id": 11036,
+    "level": 10,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 276,
+    "enchantment_ability_no": 103701,
+    "m_ability_effect_id": 10501,
+    "level": 4,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 277,
+    "enchantment_ability_no": 103702,
+    "m_ability_effect_id": 11037,
+    "level": 2,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 279,
+    "enchantment_ability_no": 130101,
+    "m_ability_effect_id": 13001,
+    "level": 3,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 280,
+    "enchantment_ability_no": 130101,
+    "m_ability_effect_id": 13001,
+    "level": 4,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 281,
+    "enchantment_ability_no": 130101,
+    "m_ability_effect_id": 13001,
+    "level": 5,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 282,
+    "enchantment_ability_no": 130101,
+    "m_ability_effect_id": 13001,
+    "level": 6,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 283,
+    "enchantment_ability_no": 130101,
+    "m_ability_effect_id": 13001,
+    "level": 7,
+    "weight": 150000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 284,
+    "enchantment_ability_no": 130101,
+    "m_ability_effect_id": 13001,
+    "level": 8,
+    "weight": 150000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 285,
+    "enchantment_ability_no": 130101,
+    "m_ability_effect_id": 13001,
+    "level": 9,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 286,
+    "enchantment_ability_no": 130101,
+    "m_ability_effect_id": 13001,
+    "level": 10,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 287,
+    "enchantment_ability_no": 130102,
+    "m_ability_effect_id": 13001,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 288,
+    "enchantment_ability_no": 130103,
+    "m_ability_effect_id": 13001,
+    "level": 2,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 289,
+    "enchantment_ability_no": 130201,
+    "m_ability_effect_id": 13004,
+    "level": 3,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 290,
+    "enchantment_ability_no": 130201,
+    "m_ability_effect_id": 13004,
+    "level": 4,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 291,
+    "enchantment_ability_no": 130201,
+    "m_ability_effect_id": 13004,
+    "level": 5,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 292,
+    "enchantment_ability_no": 130201,
+    "m_ability_effect_id": 13004,
+    "level": 6,
+    "weight": 162500,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 293,
+    "enchantment_ability_no": 130201,
+    "m_ability_effect_id": 13004,
+    "level": 7,
+    "weight": 150000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 294,
+    "enchantment_ability_no": 130201,
+    "m_ability_effect_id": 13004,
+    "level": 8,
+    "weight": 150000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 295,
+    "enchantment_ability_no": 130201,
+    "m_ability_effect_id": 13004,
+    "level": 9,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 296,
+    "enchantment_ability_no": 130201,
+    "m_ability_effect_id": 13004,
+    "level": 10,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 297,
+    "enchantment_ability_no": 130202,
+    "m_ability_effect_id": 13004,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 298,
+    "enchantment_ability_no": 130203,
+    "m_ability_effect_id": 13004,
+    "level": 2,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 299,
+    "enchantment_ability_no": 130301,
+    "m_ability_effect_id": 13007,
+    "level": 3,
+    "weight": 216667,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 300,
+    "enchantment_ability_no": 130301,
+    "m_ability_effect_id": 13007,
+    "level": 4,
+    "weight": 216667,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 301,
+    "enchantment_ability_no": 130301,
+    "m_ability_effect_id": 13007,
+    "level": 5,
+    "weight": 216667,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 302,
+    "enchantment_ability_no": 130301,
+    "m_ability_effect_id": 13007,
+    "level": 6,
+    "weight": 300000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 303,
+    "enchantment_ability_no": 130301,
+    "m_ability_effect_id": 13007,
+    "level": 7,
+    "weight": 50000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 304,
+    "enchantment_ability_no": 130302,
+    "m_ability_effect_id": 13007,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 305,
+    "enchantment_ability_no": 130303,
+    "m_ability_effect_id": 13007,
+    "level": 2,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 306,
+    "enchantment_ability_no": 130401,
+    "m_ability_effect_id": 13010,
+    "level": 3,
+    "weight": 216667,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 307,
+    "enchantment_ability_no": 130401,
+    "m_ability_effect_id": 13010,
+    "level": 4,
+    "weight": 216667,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 308,
+    "enchantment_ability_no": 130401,
+    "m_ability_effect_id": 13010,
+    "level": 5,
+    "weight": 216667,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 309,
+    "enchantment_ability_no": 130401,
+    "m_ability_effect_id": 13010,
+    "level": 6,
+    "weight": 300000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 310,
+    "enchantment_ability_no": 130401,
+    "m_ability_effect_id": 13010,
+    "level": 7,
+    "weight": 50000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 311,
+    "enchantment_ability_no": 130402,
+    "m_ability_effect_id": 13010,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 312,
+    "enchantment_ability_no": 130403,
+    "m_ability_effect_id": 13010,
+    "level": 2,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 313,
+    "enchantment_ability_no": 130501,
+    "m_ability_effect_id": 13013,
+    "level": 3,
+    "weight": 216667,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 314,
+    "enchantment_ability_no": 130501,
+    "m_ability_effect_id": 13013,
+    "level": 4,
+    "weight": 216667,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 315,
+    "enchantment_ability_no": 130501,
+    "m_ability_effect_id": 13013,
+    "level": 5,
+    "weight": 216667,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 316,
+    "enchantment_ability_no": 130501,
+    "m_ability_effect_id": 13013,
+    "level": 6,
+    "weight": 300000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 317,
+    "enchantment_ability_no": 130501,
+    "m_ability_effect_id": 13013,
+    "level": 7,
+    "weight": 50000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 318,
+    "enchantment_ability_no": 130502,
+    "m_ability_effect_id": 13013,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 319,
+    "enchantment_ability_no": 130503,
+    "m_ability_effect_id": 13013,
+    "level": 2,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 320,
+    "enchantment_ability_no": 130601,
+    "m_ability_effect_id": 13015,
+    "level": 1,
+    "weight": 65,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 321,
+    "enchantment_ability_no": 130601,
+    "m_ability_effect_id": 13015,
+    "level": 2,
+    "weight": 30,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 322,
+    "enchantment_ability_no": 130601,
+    "m_ability_effect_id": 13015,
+    "level": 3,
+    "weight": 5,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 323,
+    "enchantment_ability_no": 130602,
+    "m_ability_effect_id": 13015,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 324,
+    "enchantment_ability_no": 130603,
+    "m_ability_effect_id": 13015,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 325,
+    "enchantment_ability_no": 130701,
+    "m_ability_effect_id": 13016,
+    "level": 3,
+    "weight": 216667,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 326,
+    "enchantment_ability_no": 130701,
+    "m_ability_effect_id": 13016,
+    "level": 4,
+    "weight": 216667,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 327,
+    "enchantment_ability_no": 130701,
+    "m_ability_effect_id": 13016,
+    "level": 5,
+    "weight": 216667,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 328,
+    "enchantment_ability_no": 130701,
+    "m_ability_effect_id": 13016,
+    "level": 6,
+    "weight": 300000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 329,
+    "enchantment_ability_no": 130701,
+    "m_ability_effect_id": 13016,
+    "level": 7,
+    "weight": 50000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 330,
+    "enchantment_ability_no": 130702,
+    "m_ability_effect_id": 13016,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 331,
+    "enchantment_ability_no": 130703,
+    "m_ability_effect_id": 13016,
+    "level": 2,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 332,
+    "enchantment_ability_no": 130801,
+    "m_ability_effect_id": 13018,
+    "level": 3,
+    "weight": 65,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 333,
+    "enchantment_ability_no": 130801,
+    "m_ability_effect_id": 13018,
+    "level": 4,
+    "weight": 30,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 334,
+    "enchantment_ability_no": 130801,
+    "m_ability_effect_id": 13018,
+    "level": 5,
+    "weight": 5,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 335,
+    "enchantment_ability_no": 130802,
+    "m_ability_effect_id": 13018,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 336,
+    "enchantment_ability_no": 130803,
+    "m_ability_effect_id": 13018,
+    "level": 2,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 337,
+    "enchantment_ability_no": 130901,
+    "m_ability_effect_id": 13020,
+    "level": 1,
+    "weight": 90,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 338,
+    "enchantment_ability_no": 130901,
+    "m_ability_effect_id": 13020,
+    "level": 2,
+    "weight": 10,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 339,
+    "enchantment_ability_no": 130902,
+    "m_ability_effect_id": 13020,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 340,
+    "enchantment_ability_no": 130903,
+    "m_ability_effect_id": 13020,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 341,
+    "enchantment_ability_no": 131001,
+    "m_ability_effect_id": 13021,
+    "level": 3,
+    "weight": 65,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 342,
+    "enchantment_ability_no": 131001,
+    "m_ability_effect_id": 13021,
+    "level": 4,
+    "weight": 30,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 343,
+    "enchantment_ability_no": 131001,
+    "m_ability_effect_id": 13021,
+    "level": 5,
+    "weight": 5,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 344,
+    "enchantment_ability_no": 131002,
+    "m_ability_effect_id": 13021,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 345,
+    "enchantment_ability_no": 131003,
+    "m_ability_effect_id": 13021,
+    "level": 2,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 346,
+    "enchantment_ability_no": 131101,
+    "m_ability_effect_id": 13024,
+    "level": 1,
+    "weight": 90,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 347,
+    "enchantment_ability_no": 131101,
+    "m_ability_effect_id": 13024,
+    "level": 2,
+    "weight": 10,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 348,
+    "enchantment_ability_no": 131102,
+    "m_ability_effect_id": 13024,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 349,
+    "enchantment_ability_no": 131103,
+    "m_ability_effect_id": 13024,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 350,
+    "enchantment_ability_no": 131201,
+    "m_ability_effect_id": 13025,
+    "level": 1,
+    "weight": 65,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 351,
+    "enchantment_ability_no": 131201,
+    "m_ability_effect_id": 13025,
+    "level": 2,
+    "weight": 30,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 352,
+    "enchantment_ability_no": 131201,
+    "m_ability_effect_id": 13025,
+    "level": 3,
+    "weight": 5,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 353,
+    "enchantment_ability_no": 131202,
+    "m_ability_effect_id": 13025,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 354,
+    "enchantment_ability_no": 131203,
+    "m_ability_effect_id": 13025,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 355,
+    "enchantment_ability_no": 160101,
+    "m_ability_effect_id": 16001,
+    "level": 5,
+    "weight": 46429,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 356,
+    "enchantment_ability_no": 160101,
+    "m_ability_effect_id": 16001,
+    "level": 6,
+    "weight": 46429,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 357,
+    "enchantment_ability_no": 160101,
+    "m_ability_effect_id": 16001,
+    "level": 7,
+    "weight": 46429,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 358,
+    "enchantment_ability_no": 160101,
+    "m_ability_effect_id": 16001,
+    "level": 8,
+    "weight": 46429,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 359,
+    "enchantment_ability_no": 160101,
+    "m_ability_effect_id": 16001,
+    "level": 9,
+    "weight": 46429,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 360,
+    "enchantment_ability_no": 160101,
+    "m_ability_effect_id": 16001,
+    "level": 10,
+    "weight": 46429,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 361,
+    "enchantment_ability_no": 160101,
+    "m_ability_effect_id": 16002,
+    "level": 1,
+    "weight": 46429,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 362,
+    "enchantment_ability_no": 160101,
+    "m_ability_effect_id": 16002,
+    "level": 2,
+    "weight": 46429,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 363,
+    "enchantment_ability_no": 160101,
+    "m_ability_effect_id": 16002,
+    "level": 3,
+    "weight": 46429,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 364,
+    "enchantment_ability_no": 160101,
+    "m_ability_effect_id": 16002,
+    "level": 4,
+    "weight": 46429,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 365,
+    "enchantment_ability_no": 160101,
+    "m_ability_effect_id": 16002,
+    "level": 5,
+    "weight": 46429,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 366,
+    "enchantment_ability_no": 160101,
+    "m_ability_effect_id": 16002,
+    "level": 6,
+    "weight": 46429,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 367,
+    "enchantment_ability_no": 160101,
+    "m_ability_effect_id": 16002,
+    "level": 7,
+    "weight": 46429,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 368,
+    "enchantment_ability_no": 160101,
+    "m_ability_effect_id": 16002,
+    "level": 8,
+    "weight": 46429,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 369,
+    "enchantment_ability_no": 160101,
+    "m_ability_effect_id": 16002,
+    "level": 9,
+    "weight": 30000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 370,
+    "enchantment_ability_no": 160101,
+    "m_ability_effect_id": 16002,
+    "level": 10,
+    "weight": 30000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 371,
+    "enchantment_ability_no": 160101,
+    "m_ability_effect_id": 16003,
+    "level": 1,
+    "weight": 30000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 372,
+    "enchantment_ability_no": 160101,
+    "m_ability_effect_id": 16003,
+    "level": 2,
+    "weight": 30000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 373,
+    "enchantment_ability_no": 160101,
+    "m_ability_effect_id": 16003,
+    "level": 3,
+    "weight": 30000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 374,
+    "enchantment_ability_no": 160101,
+    "m_ability_effect_id": 16003,
+    "level": 4,
+    "weight": 30000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 375,
+    "enchantment_ability_no": 160101,
+    "m_ability_effect_id": 16003,
+    "level": 5,
+    "weight": 30000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 376,
+    "enchantment_ability_no": 160101,
+    "m_ability_effect_id": 16003,
+    "level": 6,
+    "weight": 30000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 377,
+    "enchantment_ability_no": 160101,
+    "m_ability_effect_id": 16003,
+    "level": 7,
+    "weight": 30000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 378,
+    "enchantment_ability_no": 160101,
+    "m_ability_effect_id": 16003,
+    "level": 8,
+    "weight": 30000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 379,
+    "enchantment_ability_no": 160101,
+    "m_ability_effect_id": 16003,
+    "level": 9,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 380,
+    "enchantment_ability_no": 160101,
+    "m_ability_effect_id": 16003,
+    "level": 10,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 381,
+    "enchantment_ability_no": 160102,
+    "m_ability_effect_id": 16001,
+    "level": 2,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 382,
+    "enchantment_ability_no": 160103,
+    "m_ability_effect_id": 16001,
+    "level": 4,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 383,
+    "enchantment_ability_no": 160201,
+    "m_ability_effect_id": 16004,
+    "level": 5,
+    "weight": 46429,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 384,
+    "enchantment_ability_no": 160201,
+    "m_ability_effect_id": 16004,
+    "level": 6,
+    "weight": 46429,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 385,
+    "enchantment_ability_no": 160201,
+    "m_ability_effect_id": 16004,
+    "level": 7,
+    "weight": 46429,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 386,
+    "enchantment_ability_no": 160201,
+    "m_ability_effect_id": 16004,
+    "level": 8,
+    "weight": 46429,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 387,
+    "enchantment_ability_no": 160201,
+    "m_ability_effect_id": 16004,
+    "level": 9,
+    "weight": 46429,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 388,
+    "enchantment_ability_no": 160201,
+    "m_ability_effect_id": 16004,
+    "level": 10,
+    "weight": 46429,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 389,
+    "enchantment_ability_no": 160201,
+    "m_ability_effect_id": 16005,
+    "level": 1,
+    "weight": 46429,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 390,
+    "enchantment_ability_no": 160201,
+    "m_ability_effect_id": 16005,
+    "level": 2,
+    "weight": 46429,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 391,
+    "enchantment_ability_no": 160201,
+    "m_ability_effect_id": 16005,
+    "level": 3,
+    "weight": 46429,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 392,
+    "enchantment_ability_no": 160201,
+    "m_ability_effect_id": 16005,
+    "level": 4,
+    "weight": 46429,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 393,
+    "enchantment_ability_no": 160201,
+    "m_ability_effect_id": 16005,
+    "level": 5,
+    "weight": 46429,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 394,
+    "enchantment_ability_no": 160201,
+    "m_ability_effect_id": 16005,
+    "level": 6,
+    "weight": 46429,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 395,
+    "enchantment_ability_no": 160201,
+    "m_ability_effect_id": 16005,
+    "level": 7,
+    "weight": 46429,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 396,
+    "enchantment_ability_no": 160201,
+    "m_ability_effect_id": 16005,
+    "level": 8,
+    "weight": 46429,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 397,
+    "enchantment_ability_no": 160201,
+    "m_ability_effect_id": 16005,
+    "level": 9,
+    "weight": 30000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 398,
+    "enchantment_ability_no": 160201,
+    "m_ability_effect_id": 16005,
+    "level": 10,
+    "weight": 30000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 399,
+    "enchantment_ability_no": 160201,
+    "m_ability_effect_id": 16006,
+    "level": 1,
+    "weight": 30000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 400,
+    "enchantment_ability_no": 160201,
+    "m_ability_effect_id": 16006,
+    "level": 2,
+    "weight": 30000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 401,
+    "enchantment_ability_no": 160201,
+    "m_ability_effect_id": 16006,
+    "level": 3,
+    "weight": 30000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 402,
+    "enchantment_ability_no": 160201,
+    "m_ability_effect_id": 16006,
+    "level": 4,
+    "weight": 30000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 403,
+    "enchantment_ability_no": 160201,
+    "m_ability_effect_id": 16006,
+    "level": 5,
+    "weight": 30000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 404,
+    "enchantment_ability_no": 160201,
+    "m_ability_effect_id": 16006,
+    "level": 6,
+    "weight": 30000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 405,
+    "enchantment_ability_no": 160201,
+    "m_ability_effect_id": 16006,
+    "level": 7,
+    "weight": 30000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 406,
+    "enchantment_ability_no": 160201,
+    "m_ability_effect_id": 16006,
+    "level": 8,
+    "weight": 30000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 407,
+    "enchantment_ability_no": 160201,
+    "m_ability_effect_id": 16006,
+    "level": 9,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 408,
+    "enchantment_ability_no": 160201,
+    "m_ability_effect_id": 16006,
+    "level": 10,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 409,
+    "enchantment_ability_no": 160202,
+    "m_ability_effect_id": 16004,
+    "level": 2,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 410,
+    "enchantment_ability_no": 160203,
+    "m_ability_effect_id": 16004,
+    "level": 4,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 411,
+    "enchantment_ability_no": 160301,
+    "m_ability_effect_id": 16007,
+    "level": 3,
+    "weight": 65000,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 412,
+    "enchantment_ability_no": 160301,
+    "m_ability_effect_id": 16007,
+    "level": 4,
+    "weight": 65000,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 413,
+    "enchantment_ability_no": 160301,
+    "m_ability_effect_id": 16007,
+    "level": 5,
+    "weight": 65000,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 414,
+    "enchantment_ability_no": 160301,
+    "m_ability_effect_id": 16007,
+    "level": 6,
+    "weight": 65000,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 415,
+    "enchantment_ability_no": 160301,
+    "m_ability_effect_id": 16007,
+    "level": 7,
+    "weight": 65000,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 416,
+    "enchantment_ability_no": 160301,
+    "m_ability_effect_id": 16007,
+    "level": 8,
+    "weight": 65000,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 417,
+    "enchantment_ability_no": 160301,
+    "m_ability_effect_id": 16007,
+    "level": 9,
+    "weight": 65000,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 418,
+    "enchantment_ability_no": 160301,
+    "m_ability_effect_id": 16007,
+    "level": 10,
+    "weight": 65000,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 419,
+    "enchantment_ability_no": 160301,
+    "m_ability_effect_id": 16008,
+    "level": 1,
+    "weight": 65000,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 420,
+    "enchantment_ability_no": 160301,
+    "m_ability_effect_id": 16008,
+    "level": 2,
+    "weight": 65000,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 421,
+    "enchantment_ability_no": 160301,
+    "m_ability_effect_id": 16008,
+    "level": 3,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 422,
+    "enchantment_ability_no": 160301,
+    "m_ability_effect_id": 16008,
+    "level": 4,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 423,
+    "enchantment_ability_no": 160301,
+    "m_ability_effect_id": 16008,
+    "level": 5,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 424,
+    "enchantment_ability_no": 160301,
+    "m_ability_effect_id": 16008,
+    "level": 6,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 425,
+    "enchantment_ability_no": 160301,
+    "m_ability_effect_id": 16008,
+    "level": 7,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 426,
+    "enchantment_ability_no": 160301,
+    "m_ability_effect_id": 16008,
+    "level": 8,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 427,
+    "enchantment_ability_no": 160301,
+    "m_ability_effect_id": 16008,
+    "level": 9,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 428,
+    "enchantment_ability_no": 160301,
+    "m_ability_effect_id": 16008,
+    "level": 10,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 429,
+    "enchantment_ability_no": 160302,
+    "m_ability_effect_id": 16007,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 430,
+    "enchantment_ability_no": 160303,
+    "m_ability_effect_id": 16007,
+    "level": 2,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 431,
+    "enchantment_ability_no": 160401,
+    "m_ability_effect_id": 16010,
+    "level": 3,
+    "weight": 65000,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 432,
+    "enchantment_ability_no": 160401,
+    "m_ability_effect_id": 16010,
+    "level": 4,
+    "weight": 65000,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 433,
+    "enchantment_ability_no": 160401,
+    "m_ability_effect_id": 16010,
+    "level": 5,
+    "weight": 65000,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 434,
+    "enchantment_ability_no": 160401,
+    "m_ability_effect_id": 16010,
+    "level": 6,
+    "weight": 65000,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 435,
+    "enchantment_ability_no": 160401,
+    "m_ability_effect_id": 16010,
+    "level": 7,
+    "weight": 65000,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 436,
+    "enchantment_ability_no": 160401,
+    "m_ability_effect_id": 16010,
+    "level": 8,
+    "weight": 65000,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 437,
+    "enchantment_ability_no": 160401,
+    "m_ability_effect_id": 16010,
+    "level": 9,
+    "weight": 65000,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 438,
+    "enchantment_ability_no": 160401,
+    "m_ability_effect_id": 16010,
+    "level": 10,
+    "weight": 65000,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 439,
+    "enchantment_ability_no": 160401,
+    "m_ability_effect_id": 16011,
+    "level": 1,
+    "weight": 65000,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 440,
+    "enchantment_ability_no": 160401,
+    "m_ability_effect_id": 16011,
+    "level": 2,
+    "weight": 65000,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 441,
+    "enchantment_ability_no": 160401,
+    "m_ability_effect_id": 16011,
+    "level": 3,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 442,
+    "enchantment_ability_no": 160401,
+    "m_ability_effect_id": 16011,
+    "level": 4,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 443,
+    "enchantment_ability_no": 160401,
+    "m_ability_effect_id": 16011,
+    "level": 5,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 444,
+    "enchantment_ability_no": 160401,
+    "m_ability_effect_id": 16011,
+    "level": 6,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 445,
+    "enchantment_ability_no": 160401,
+    "m_ability_effect_id": 16011,
+    "level": 7,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 446,
+    "enchantment_ability_no": 160401,
+    "m_ability_effect_id": 16011,
+    "level": 8,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 447,
+    "enchantment_ability_no": 160401,
+    "m_ability_effect_id": 16011,
+    "level": 9,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 448,
+    "enchantment_ability_no": 160401,
+    "m_ability_effect_id": 16011,
+    "level": 10,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 449,
+    "enchantment_ability_no": 160402,
+    "m_ability_effect_id": 16010,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 450,
+    "enchantment_ability_no": 160403,
+    "m_ability_effect_id": 16010,
+    "level": 2,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 451,
+    "enchantment_ability_no": 160501,
+    "m_ability_effect_id": 16013,
+    "level": 3,
+    "weight": 65000,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 452,
+    "enchantment_ability_no": 160501,
+    "m_ability_effect_id": 16013,
+    "level": 4,
+    "weight": 65000,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 453,
+    "enchantment_ability_no": 160501,
+    "m_ability_effect_id": 16013,
+    "level": 5,
+    "weight": 65000,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 454,
+    "enchantment_ability_no": 160501,
+    "m_ability_effect_id": 16013,
+    "level": 6,
+    "weight": 65000,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 455,
+    "enchantment_ability_no": 160501,
+    "m_ability_effect_id": 16013,
+    "level": 7,
+    "weight": 65000,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 456,
+    "enchantment_ability_no": 160501,
+    "m_ability_effect_id": 16013,
+    "level": 8,
+    "weight": 65000,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 457,
+    "enchantment_ability_no": 160501,
+    "m_ability_effect_id": 16013,
+    "level": 9,
+    "weight": 65000,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 458,
+    "enchantment_ability_no": 160501,
+    "m_ability_effect_id": 16013,
+    "level": 10,
+    "weight": 65000,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 459,
+    "enchantment_ability_no": 160501,
+    "m_ability_effect_id": 16014,
+    "level": 1,
+    "weight": 65000,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 460,
+    "enchantment_ability_no": 160501,
+    "m_ability_effect_id": 16014,
+    "level": 2,
+    "weight": 65000,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 461,
+    "enchantment_ability_no": 160501,
+    "m_ability_effect_id": 16014,
+    "level": 3,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 462,
+    "enchantment_ability_no": 160501,
+    "m_ability_effect_id": 16014,
+    "level": 4,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 463,
+    "enchantment_ability_no": 160501,
+    "m_ability_effect_id": 16014,
+    "level": 5,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 464,
+    "enchantment_ability_no": 160501,
+    "m_ability_effect_id": 16014,
+    "level": 6,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 465,
+    "enchantment_ability_no": 160501,
+    "m_ability_effect_id": 16014,
+    "level": 7,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 466,
+    "enchantment_ability_no": 160501,
+    "m_ability_effect_id": 16014,
+    "level": 8,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 467,
+    "enchantment_ability_no": 160501,
+    "m_ability_effect_id": 16014,
+    "level": 9,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 468,
+    "enchantment_ability_no": 160501,
+    "m_ability_effect_id": 16014,
+    "level": 10,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 469,
+    "enchantment_ability_no": 160502,
+    "m_ability_effect_id": 16013,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 470,
+    "enchantment_ability_no": 160503,
+    "m_ability_effect_id": 16013,
+    "level": 2,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 471,
+    "enchantment_ability_no": 160601,
+    "m_ability_effect_id": 16015,
+    "level": 5,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 472,
+    "enchantment_ability_no": 160601,
+    "m_ability_effect_id": 16015,
+    "level": 6,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 473,
+    "enchantment_ability_no": 160601,
+    "m_ability_effect_id": 16015,
+    "level": 7,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 474,
+    "enchantment_ability_no": 160601,
+    "m_ability_effect_id": 16015,
+    "level": 8,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 475,
+    "enchantment_ability_no": 160601,
+    "m_ability_effect_id": 16015,
+    "level": 9,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 476,
+    "enchantment_ability_no": 160601,
+    "m_ability_effect_id": 16015,
+    "level": 10,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 477,
+    "enchantment_ability_no": 160601,
+    "m_ability_effect_id": 16016,
+    "level": 1,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 478,
+    "enchantment_ability_no": 160601,
+    "m_ability_effect_id": 16016,
+    "level": 2,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 479,
+    "enchantment_ability_no": 160601,
+    "m_ability_effect_id": 16016,
+    "level": 3,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 480,
+    "enchantment_ability_no": 160601,
+    "m_ability_effect_id": 16016,
+    "level": 4,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 481,
+    "enchantment_ability_no": 160601,
+    "m_ability_effect_id": 16016,
+    "level": 5,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 482,
+    "enchantment_ability_no": 160601,
+    "m_ability_effect_id": 16016,
+    "level": 6,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 483,
+    "enchantment_ability_no": 160601,
+    "m_ability_effect_id": 16016,
+    "level": 7,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 484,
+    "enchantment_ability_no": 160601,
+    "m_ability_effect_id": 16016,
+    "level": 8,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 485,
+    "enchantment_ability_no": 160601,
+    "m_ability_effect_id": 16016,
+    "level": 9,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 486,
+    "enchantment_ability_no": 160601,
+    "m_ability_effect_id": 16016,
+    "level": 10,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 487,
+    "enchantment_ability_no": 160602,
+    "m_ability_effect_id": 16015,
+    "level": 2,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 488,
+    "enchantment_ability_no": 160603,
+    "m_ability_effect_id": 16015,
+    "level": 4,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 489,
+    "enchantment_ability_no": 160701,
+    "m_ability_effect_id": 16017,
+    "level": 5,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 490,
+    "enchantment_ability_no": 160701,
+    "m_ability_effect_id": 16017,
+    "level": 6,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 491,
+    "enchantment_ability_no": 160701,
+    "m_ability_effect_id": 16017,
+    "level": 7,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 492,
+    "enchantment_ability_no": 160701,
+    "m_ability_effect_id": 16017,
+    "level": 8,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 493,
+    "enchantment_ability_no": 160701,
+    "m_ability_effect_id": 16017,
+    "level": 9,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 494,
+    "enchantment_ability_no": 160701,
+    "m_ability_effect_id": 16017,
+    "level": 10,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 495,
+    "enchantment_ability_no": 160701,
+    "m_ability_effect_id": 16018,
+    "level": 1,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 496,
+    "enchantment_ability_no": 160701,
+    "m_ability_effect_id": 16018,
+    "level": 2,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 497,
+    "enchantment_ability_no": 160701,
+    "m_ability_effect_id": 16018,
+    "level": 3,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 498,
+    "enchantment_ability_no": 160701,
+    "m_ability_effect_id": 16018,
+    "level": 4,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 499,
+    "enchantment_ability_no": 160701,
+    "m_ability_effect_id": 16018,
+    "level": 5,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 500,
+    "enchantment_ability_no": 160701,
+    "m_ability_effect_id": 16018,
+    "level": 6,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 501,
+    "enchantment_ability_no": 160701,
+    "m_ability_effect_id": 16018,
+    "level": 7,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 502,
+    "enchantment_ability_no": 160701,
+    "m_ability_effect_id": 16018,
+    "level": 8,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 503,
+    "enchantment_ability_no": 160701,
+    "m_ability_effect_id": 16018,
+    "level": 9,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 504,
+    "enchantment_ability_no": 160701,
+    "m_ability_effect_id": 16018,
+    "level": 10,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 505,
+    "enchantment_ability_no": 160702,
+    "m_ability_effect_id": 16017,
+    "level": 2,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 506,
+    "enchantment_ability_no": 160703,
+    "m_ability_effect_id": 16017,
+    "level": 4,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 507,
+    "enchantment_ability_no": 160801,
+    "m_ability_effect_id": 16019,
+    "level": 5,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 508,
+    "enchantment_ability_no": 160801,
+    "m_ability_effect_id": 16019,
+    "level": 6,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 509,
+    "enchantment_ability_no": 160801,
+    "m_ability_effect_id": 16019,
+    "level": 7,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 510,
+    "enchantment_ability_no": 160801,
+    "m_ability_effect_id": 16019,
+    "level": 8,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 511,
+    "enchantment_ability_no": 160801,
+    "m_ability_effect_id": 16019,
+    "level": 9,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 512,
+    "enchantment_ability_no": 160801,
+    "m_ability_effect_id": 16019,
+    "level": 10,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 513,
+    "enchantment_ability_no": 160801,
+    "m_ability_effect_id": 16020,
+    "level": 1,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 514,
+    "enchantment_ability_no": 160801,
+    "m_ability_effect_id": 16020,
+    "level": 2,
+    "weight": 81250,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 515,
+    "enchantment_ability_no": 160801,
+    "m_ability_effect_id": 16020,
+    "level": 3,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 516,
+    "enchantment_ability_no": 160801,
+    "m_ability_effect_id": 16020,
+    "level": 4,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 517,
+    "enchantment_ability_no": 160801,
+    "m_ability_effect_id": 16020,
+    "level": 5,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 518,
+    "enchantment_ability_no": 160801,
+    "m_ability_effect_id": 16020,
+    "level": 6,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 519,
+    "enchantment_ability_no": 160801,
+    "m_ability_effect_id": 16020,
+    "level": 7,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 520,
+    "enchantment_ability_no": 160801,
+    "m_ability_effect_id": 16020,
+    "level": 8,
+    "weight": 50000,
+    "quality": 2,
+    "base_power": 200
+  },
+  {
+    "id": 521,
+    "enchantment_ability_no": 160801,
+    "m_ability_effect_id": 16020,
+    "level": 9,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 522,
+    "enchantment_ability_no": 160801,
+    "m_ability_effect_id": 16020,
+    "level": 10,
+    "weight": 25000,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 523,
+    "enchantment_ability_no": 160802,
+    "m_ability_effect_id": 16019,
+    "level": 2,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 524,
+    "enchantment_ability_no": 160803,
+    "m_ability_effect_id": 16019,
+    "level": 4,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 525,
+    "enchantment_ability_no": 160901,
+    "m_ability_effect_id": 16021,
+    "level": 1,
+    "weight": 90,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 526,
+    "enchantment_ability_no": 160901,
+    "m_ability_effect_id": 16021,
+    "level": 2,
+    "weight": 10,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 527,
+    "enchantment_ability_no": 160902,
+    "m_ability_effect_id": 16021,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 528,
+    "enchantment_ability_no": 160903,
+    "m_ability_effect_id": 16021,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 529,
+    "enchantment_ability_no": 161001,
+    "m_ability_effect_id": 16022,
+    "level": 1,
+    "weight": 90,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 530,
+    "enchantment_ability_no": 161001,
+    "m_ability_effect_id": 16022,
+    "level": 2,
+    "weight": 10,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 531,
+    "enchantment_ability_no": 161002,
+    "m_ability_effect_id": 16022,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 532,
+    "enchantment_ability_no": 161003,
+    "m_ability_effect_id": 16022,
+    "level": 1,
+    "weight": 100,
+    "quality": 1,
+    "base_power": 100
+  },
+  {
+    "id": 535,
+    "enchantment_ability_no": 1,
+    "m_ability_effect_id": 10006,
+    "level": 4,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 536,
+    "enchantment_ability_no": 2,
+    "m_ability_effect_id": 10002,
+    "level": 4,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 537,
+    "enchantment_ability_no": 3,
+    "m_ability_effect_id": 10004,
+    "level": 4,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1001,
+    "name": "宿舎の建設依頼",
+    "description": "アップグレード「宿舎の設置」解放",
+    "m_character_id": 1200002,
+    "display_asset_id": "100201000G",
+    "display_name": "ベリサ"
+  },
+  {
+    "id": 1002,
+    "name": "訓練所の建設依頼",
+    "description": "アップグレード「訓練所の設置」解放",
+    "m_character_id": 1200016,
+    "display_asset_id": "106501000G",
+    "display_name": "ソフィア"
+  },
+  {
+    "id": 1003,
+    "name": "治療所の建設依頼",
+    "description": "アップグレード「治療所の設置」解放",
+    "m_character_id": 1200003,
+    "display_asset_id": "100301000G",
+    "display_name": "マリナ"
+  },
+  {
+    "id": 1004,
+    "name": "噴水の建設依頼",
+    "description": "アップグレード「噴水の設置」解放",
+    "m_character_id": 1200018,
+    "display_asset_id": "106701000G",
+    "display_name": "クルル"
+  },
+  {
+    "id": 1100,
+    "name": "探索隊の効率化計画",
+    "description": "アップグレード「探索隊の編成計画Lv1」解放",
+    "m_character_id": 1200002,
+    "display_asset_id": "300201000",
+    "display_name": "アリシア"
+  },
+  {
+    "id": 1101,
+    "name": "探索隊のリーダー講習",
+    "description": "アップグレード「探索隊の編成計画Lv２」解放",
+    "m_character_id": 1300015,
+    "display_asset_id": "102001000G",
+    "display_name": "ラヴェリア"
+  },
+  {
+    "id": 2001,
+    "name": "VIP席の設置",
+    "description": "アップグレード「娼館の拡張1」解放",
+    "m_character_id": 1100006,
+    "display_asset_id": "300301000",
+    "display_name": "ルディア"
+  },
+  {
+    "id": 2002,
+    "name": "個室の設置",
+    "description": "アップグレード「娼館の拡張2」解放",
+    "m_character_id": 1100006,
+    "display_asset_id": "300301000",
+    "display_name": "ルディア"
+  },
+  {
+    "id": 2100,
+    "name": "娼館の経営戦略1",
+    "description": "アップグレード「娼館の経営戦略Lv1」解放",
+    "m_character_id": 1200002,
+    "display_asset_id": "100201000X",
+    "display_name": "ベリサ"
+  },
+  {
+    "id": 2101,
+    "name": "娼館の経営戦略2",
+    "description": "アップグレード「娼館の経営戦略Lv2」解放",
+    "m_character_id": 1200016,
+    "display_asset_id": "106501000X",
+    "display_name": "ソフィア"
+  },
+  {
+    "id": 2102,
+    "name": "娼館の経営戦略3",
+    "description": "アップグレード「娼館の経営戦略Lv3」解放",
+    "m_character_id": 1200003,
+    "display_asset_id": "100301000X",
+    "display_name": "マリナ"
+  },
+  {
+    "id": 2103,
+    "name": "娼館の経営戦略4",
+    "description": "アップグレード「娼館の経営戦略Lv3」解放",
+    "m_character_id": 1200017,
+    "display_asset_id": "106601000X",
+    "display_name": "ヒマリ"
+  },
+  {
+    "id": 3001,
+    "name": "溶鉱炉の設置",
+    "description": "アップグレード「溶鉱炉の整備」解放",
+    "m_character_id": 1300032,
+    "display_asset_id": "106301000G",
+    "display_name": "ホノカ"
+  },
+  {
+    "id": 5001,
+    "name": "シンクロ研究",
+    "description": "アップグレード「シンクロ研究」解放",
+    "m_character_id": 1200002,
+    "display_asset_id": "108701000G",
+    "display_name": "アーデルハイト"
+  },
+  {
+    "id": 5101,
+    "name": "マナクリスタル強化1",
+    "description": "アップグレード「マナクリスタル研究Lv4」解放",
+    "m_character_id": 1200013,
+    "display_asset_id": "104201000G",
+    "display_name": "ヘイリー"
+  },
+  {
+    "id": 5102,
+    "name": "マナクリスタル強化2",
+    "description": "アップグレード「マナクリスタル研究Lv8」解放",
+    "m_character_id": 1300008,
+    "display_asset_id": "100501000G",
+    "display_name": "エレクトラ"
+  },
+  {
+    "id": 10001,
+    "name": "基地スキルの開放1",
+    "description": "アップグレード「壁上・基地スキルの強化Lv5」解放",
+    "m_character_id": 1200002,
+    "display_asset_id": "108701000G",
+    "display_name": "アーデルハイト"
+  },
+  {
+    "id": 10002,
+    "name": "基地スキルの開放2",
+    "description": "アップグレード「壁上・基地スキルの強化Lv10」解放",
+    "m_character_id": 1200002,
+    "display_asset_id": "108701000G",
+    "display_name": "アーデルハイト"
+  }
+]

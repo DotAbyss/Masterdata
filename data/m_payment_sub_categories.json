@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "category": 2,
+    "sub_category_id": 1,
+    "category_text": "リリース記念"
+  },
+  {
+    "id": 2,
+    "category": 2,
+    "sub_category_id": 2,
+    "category_text": "ストーリーイベント"
+  },
+  {
+    "id": 3,
+    "category": 2,
+    "sub_category_id": 3,
+    "category_text": "ラッキーボックス"
+  },
+  {
+    "id": 4,
+    "category": 3,
+    "sub_category_id": 1,
+    "category_text": "マンスリー"
+  },
+  {
+    "id": 5,
+    "category": 3,
+    "sub_category_id": 2,
+    "category_text": "ウィークリー"
+  },
+  {
+    "id": 6,
+    "category": 3,
+    "sub_category_id": 3,
+    "category_text": "デイリー"
+  }
+]

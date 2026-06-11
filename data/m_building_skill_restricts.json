@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "m_building_skill_level_id": 200000,
+    "description": "絆Lvの合計が20以上",
+    "restrict_type": 1,
+    "restrict_param_1": 20,
+    "restrict_param_2": 0,
+    "restrict_param_3": 0
+  },
+  {
+    "id": 2,
+    "m_building_skill_level_id": 200001,
+    "description": "絆Lvの合計が30以上",
+    "restrict_type": 1,
+    "restrict_param_1": 30,
+    "restrict_param_2": 0,
+    "restrict_param_3": 0
+  },
+  {
+    "id": 5,
+    "m_building_skill_level_id": 1000100,
+    "description": "キャラクター10体のレベルを30にする",
+    "restrict_type": 2,
+    "restrict_param_1": 10,
+    "restrict_param_2": 0,
+    "restrict_param_3": 0
+  }
+]

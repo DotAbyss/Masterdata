@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1001,
+    "rank": 1,
+    "total_exp": 0,
+    "stamina_max": 240
+  },
+  {
+    "id": 1002,
+    "rank": 2,
+    "total_exp": 80,
+    "stamina_max": 245
+  },
+  {
+    "id": 1003,
+    "rank": 3,
+    "total_exp": 200,
+    "stamina_max": 250
+  },
+  {
+    "id": 1004,
+    "rank": 4,
+    "total_exp": 360,
+    "stamina_max": 255
+  },
+  {
+    "id": 1005,
+    "rank": 5,
+    "total_exp": 560,
+    "stamina_max": 260
+  },
+  {
+    "id": 1006,
+    "rank": 6,
+    "total_exp": 800,
+    "stamina_max": 265
+  },
+  {
+    "id": 1007,
+    "rank": 7,
+    "total_exp": 1080,
+    "stamina_max": 270
+  },
+  {
+    "id": 1008,
+    "rank": 8,
+    "total_exp": 1400,
+    "stamina_max": 275
+  },
+  {
+    "id": 1009,
+    "rank": 9,
+    "total_exp": 1760,
+    "stamina_max": 280
+  },
+  {
+    "id": 1010,
+    "rank": 10,
+    "total_exp": 2160,
+    "stamina_max": 285
+  },
+  {
+    "id": 1011,
+    "rank": 11,
+    "total_exp": 2600,
+    "stamina_max": 290
+  },
+  {
+    "id": 1012,
+    "rank": 12,
+    "total_exp": 3080,
+    "stamina_max": 295
+  },
+  {
+    "id": 1013,
+    "rank": 13,
+    "total_exp": 3600,
+    "stamina_max": 300
+  },
+  {
+    "id": 1014,
+    "rank": 14,
+    "total_exp": 4160,
+    "stamina_max": 305
+  },
+  {
+    "id": 1015,
+    "rank": 15,
+    "total_exp": 4760,
+    "stamina_max": 310
+  },
+  {
+    "id": 1016,
+    "rank": 16,
+    "total_exp": 5400,
+    "stamina_max": 315
+  },
+  {
+    "id": 1017,
+    "rank": 17,
+    "total_exp": 6080,
+    "stamina_max": 320
+  },
+  {
+    "id": 1018,
+    "rank": 18,
+    "total_exp": 6800,
+    "stamina_max": 325
+  },
+  {
+    "id": 1019,
+    "rank": 19,
+    "total_exp": 7560,
+    "stamina_max": 330
+  },
+  {
+    "id": 1020,
+    "rank": 20,
+    "total_exp": 8360,
+    "stamina_max": 335
+  },
+  {
+    "id": 1021,
+    "rank": 21,
+    "total_exp": 9200,
+    "stamina_max": 340
+  },
+  {
+    "id": 1022,
+    "rank": 22,
+    "total_exp": 10080,
+    "stamina_max": 345
+  },
+  {
+    "id": 1023,
+    "rank": 23,
+    "total_exp": 11000,
+    "stamina_max": 350
+  },
+  {
+    "id": 1024,
+    "rank": 24,
+    "total_exp": 11960,
+    "stamina_max": 355
+  },
+  {
+    "id": 1025,
+    "rank": 25,
+    "total_exp": 12960,
+    "stamina_max": 360
+  },
+  {
+    "id": 1026,
+    "rank": 26,
+    "total_exp": 13960,
+    "stamina_max": 365
+  },
+  {
+    "id": 1027,
+    "rank": 27,
+    "total_exp": 14960,
+    "stamina_max": 370
+  },
+  {
+    "id": 1028,
+    "rank": 28,
+    "total_exp": 15960,
+    "stamina_max": 375
+  },
+  {
+    "id": 1029,
+    "rank": 29,
+    "total_exp": 16960,
+    "stamina_max": 380
+  },
+  {
+    "id": 1030,
+    "rank": 30,
+    "total_exp": 17960,
+    "stamina_max": 385
+  },
+  {
+    "id": 1031,
+    "rank": 31,
+    "total_exp": 18960,
+    "stamina_max": 390
+  },
+  {
+    "id": 1032,
+    "rank": 32,
+    "total_exp": 19960,
+    "stamina_max": 395
+  },
+  {
+    "id": 1033,
+    "rank": 33,
+    "total_exp": 20960,
+    "stamina_max": 400
+  },
+  {
+    "id": 1034,
+    "rank": 34,
+    "total_exp": 21960,
+    "stamina_max": 405
+  },
+  {
+    "id": 1035,
+    "rank": 35,
+    "total_exp": 22960,
+    "stamina_max": 410
+  },
+  {
+    "id": 1036,
+    "rank": 36,
+    "total_exp": 23960,
+    "stamina_max": 415
+  },
+  {
+    "id": 1037,
+    "rank": 37,
+    "total_exp": 24960,
+    "stamina_max": 420
+  },
+  {
+    "id": 1038,
+    "rank": 38,
+    "total_exp": 25960,
+    "stamina_max": 425
+  },
+  {
+    "id": 1039,
+    "rank": 39,
+    "total_exp": 26960,
+    "stamina_max": 430
+  },
+  {
+    "id": 1040,
+    "rank": 40,
+    "total_exp": 27960,
+    "stamina_max": 435
+  },
+  {
+    "id": 1041,
+    "rank": 41,
+    "total_exp": 28960,
+    "stamina_max": 440
+  },
+  {
+    "id": 1042,
+    "rank": 42,
+    "total_exp": 29960,
+    "stamina_max": 445
+  },
+  {
+    "id": 1043,
+    "rank": 43,
+    "total_exp": 30960,
+    "stamina_max": 450
+  },
+  {
+    "id": 1044,
+    "rank": 44,
+    "total_exp": 31960,
+    "stamina_max": 455
+  },
+  {
+    "id": 1045,
+    "rank": 45,
+    "total_exp": 32960,
+    "stamina_max": 460
+  },
+  {
+    "id": 1046,
+    "rank": 46,
+    "total_exp": 33960,
+    "stamina_max": 465
+  },
+  {
+    "id": 1047,
+    "rank": 47,
+    "total_exp": 34960,
+    "stamina_max": 470
+  },
+  {
+    "id": 1048,
+    "rank": 48,
+    "total_exp": 35960,
+    "stamina_max": 475
+  },
+  {
+    "id": 1049,
+    "rank": 49,
+    "total_exp": 36960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1050,
+    "rank": 50,
+    "total_exp": 37960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1051,
+    "rank": 51,
+    "total_exp": 38960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1052,
+    "rank": 52,
+    "total_exp": 39960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1053,
+    "rank": 53,
+    "total_exp": 40960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1054,
+    "rank": 54,
+    "total_exp": 41960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1055,
+    "rank": 55,
+    "total_exp": 42960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1056,
+    "rank": 56,
+    "total_exp": 43960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1057,
+    "rank": 57,
+    "total_exp": 44960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1058,
+    "rank": 58,
+    "total_exp": 45960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1059,
+    "rank": 59,
+    "total_exp": 46960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1060,
+    "rank": 60,
+    "total_exp": 47960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1061,
+    "rank": 61,
+    "total_exp": 48960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1062,
+    "rank": 62,
+    "total_exp": 49960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1063,
+    "rank": 63,
+    "total_exp": 50960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1064,
+    "rank": 64,
+    "total_exp": 51960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1065,
+    "rank": 65,
+    "total_exp": 52960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1066,
+    "rank": 66,
+    "total_exp": 53960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1067,
+    "rank": 67,
+    "total_exp": 54960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1068,
+    "rank": 68,
+    "total_exp": 55960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1069,
+    "rank": 69,
+    "total_exp": 56960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1070,
+    "rank": 70,
+    "total_exp": 57960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1071,
+    "rank": 71,
+    "total_exp": 58960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1072,
+    "rank": 72,
+    "total_exp": 59960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1073,
+    "rank": 73,
+    "total_exp": 60960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1074,
+    "rank": 74,
+    "total_exp": 61960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1075,
+    "rank": 75,
+    "total_exp": 62960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1076,
+    "rank": 76,
+    "total_exp": 63960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1077,
+    "rank": 77,
+    "total_exp": 64960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1078,
+    "rank": 78,
+    "total_exp": 65960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1079,
+    "rank": 79,
+    "total_exp": 66960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1080,
+    "rank": 80,
+    "total_exp": 67960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1081,
+    "rank": 81,
+    "total_exp": 68960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1082,
+    "rank": 82,
+    "total_exp": 69960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1083,
+    "rank": 83,
+    "total_exp": 70960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1084,
+    "rank": 84,
+    "total_exp": 71960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1085,
+    "rank": 85,
+    "total_exp": 72960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1086,
+    "rank": 86,
+    "total_exp": 73960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1087,
+    "rank": 87,
+    "total_exp": 74960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1088,
+    "rank": 88,
+    "total_exp": 75960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1089,
+    "rank": 89,
+    "total_exp": 76960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1090,
+    "rank": 90,
+    "total_exp": 77960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1091,
+    "rank": 91,
+    "total_exp": 78960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1092,
+    "rank": 92,
+    "total_exp": 79960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1093,
+    "rank": 93,
+    "total_exp": 80960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1094,
+    "rank": 94,
+    "total_exp": 81960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1095,
+    "rank": 95,
+    "total_exp": 82960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1096,
+    "rank": 96,
+    "total_exp": 83960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1097,
+    "rank": 97,
+    "total_exp": 84960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1098,
+    "rank": 98,
+    "total_exp": 85960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1099,
+    "rank": 99,
+    "total_exp": 86960,
+    "stamina_max": 480
+  },
+  {
+    "id": 1100,
+    "rank": 100,
+    "total_exp": 87960,
+    "stamina_max": 480
+  }
+]

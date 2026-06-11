@@ -1,0 +1,1143 @@
+[
+  {
+    "id": 1,
+    "enchantment_no": 101,
+    "asset_id": "Hp",
+    "name": "HP上昇",
+    "description": "HP【{1}%】上昇"
+  },
+  {
+    "id": 2,
+    "enchantment_no": 102,
+    "asset_id": "Hp",
+    "name": "HP上昇",
+    "description": "HP【{1}%】上昇"
+  },
+  {
+    "id": 3,
+    "enchantment_no": 103,
+    "asset_id": "Hp",
+    "name": "HP上昇",
+    "description": "HP【{1}%】上昇"
+  },
+  {
+    "id": 4,
+    "enchantment_no": 111,
+    "asset_id": "Attack",
+    "name": "攻撃上昇",
+    "description": "攻撃【{1}%】上昇"
+  },
+  {
+    "id": 5,
+    "enchantment_no": 112,
+    "asset_id": "Attack",
+    "name": "攻撃上昇",
+    "description": "攻撃【{1}%】上昇"
+  },
+  {
+    "id": 6,
+    "enchantment_no": 113,
+    "asset_id": "Attack",
+    "name": "攻撃上昇",
+    "description": "攻撃【{1}%】上昇"
+  },
+  {
+    "id": 7,
+    "enchantment_no": 121,
+    "asset_id": "Defense",
+    "name": "防御上昇",
+    "description": "防御【{1}%】上昇"
+  },
+  {
+    "id": 8,
+    "enchantment_no": 122,
+    "asset_id": "Defense",
+    "name": "防御上昇",
+    "description": "防御【{1}%】上昇"
+  },
+  {
+    "id": 9,
+    "enchantment_no": 123,
+    "asset_id": "Defense",
+    "name": "防御上昇",
+    "description": "防御【{1}%】上昇"
+  },
+  {
+    "id": 10,
+    "enchantment_no": 131,
+    "asset_id": "CriticalRate",
+    "name": "会心率上昇",
+    "description": "会心率【{1}%】上昇"
+  },
+  {
+    "id": 11,
+    "enchantment_no": 132,
+    "asset_id": "CriticalRate",
+    "name": "会心率上昇",
+    "description": "会心率【{1}%】上昇"
+  },
+  {
+    "id": 12,
+    "enchantment_no": 133,
+    "asset_id": "CriticalRate",
+    "name": "会心率上昇",
+    "description": "会心率【{1}%】上昇"
+  },
+  {
+    "id": 13,
+    "enchantment_no": 141,
+    "asset_id": "Attack",
+    "name": "連撃率上昇",
+    "description": "連撃率【{1}%】上昇"
+  },
+  {
+    "id": 14,
+    "enchantment_no": 142,
+    "asset_id": "Attack",
+    "name": "連撃率上昇",
+    "description": "連撃率【{1}%】上昇"
+  },
+  {
+    "id": 15,
+    "enchantment_no": 143,
+    "asset_id": "Attack",
+    "name": "連撃率上昇",
+    "description": "連撃率【{1}%】上昇"
+  },
+  {
+    "id": 16,
+    "enchantment_no": 151,
+    "asset_id": "SkillChargeUp",
+    "name": "スキルチャージ効率上昇",
+    "description": "スキルチャージ効率【{1}%】上昇"
+  },
+  {
+    "id": 17,
+    "enchantment_no": 152,
+    "asset_id": "SkillChargeUp",
+    "name": "スキルチャージ効率上昇",
+    "description": "スキルチャージ効率【{1}%】上昇"
+  },
+  {
+    "id": 18,
+    "enchantment_no": 153,
+    "asset_id": "SkillChargeUp",
+    "name": "スキルチャージ効率上昇",
+    "description": "スキルチャージ効率【{1}%】上昇"
+  },
+  {
+    "id": 19,
+    "enchantment_no": 161,
+    "asset_id": "Attack",
+    "name": "攻撃UP",
+    "description": "会心時、15秒間自身の攻撃【{1}%】UP"
+  },
+  {
+    "id": 20,
+    "enchantment_no": 162,
+    "asset_id": "Attack",
+    "name": "攻撃UP",
+    "description": "会心時、15秒間自身の攻撃【{1}%】UP"
+  },
+  {
+    "id": 21,
+    "enchantment_no": 163,
+    "asset_id": "Attack",
+    "name": "攻撃UP",
+    "description": "会心時、15秒間自身の攻撃【{1}%】UP"
+  },
+  {
+    "id": 22,
+    "enchantment_no": 171,
+    "asset_id": "CriticalRate",
+    "name": "会心率UP",
+    "description": "敵撃破時、15秒間自身の会心率【{1}%】UP"
+  },
+  {
+    "id": 23,
+    "enchantment_no": 172,
+    "asset_id": "CriticalRate",
+    "name": "会心率UP",
+    "description": "敵撃破時、15秒間自身の会心率【{1}%】UP"
+  },
+  {
+    "id": 24,
+    "enchantment_no": 173,
+    "asset_id": "CriticalRate",
+    "name": "会心率UP",
+    "description": "敵撃破時、15秒間自身の会心率【{1}%】UP"
+  },
+  {
+    "id": 25,
+    "enchantment_no": 181,
+    "asset_id": "Attack",
+    "name": "連撃率UP",
+    "description": "10回攻撃ごとに15秒間自身の連撃率【{1}%】UP"
+  },
+  {
+    "id": 26,
+    "enchantment_no": 182,
+    "asset_id": "Attack",
+    "name": "連撃率UP",
+    "description": "10回攻撃ごとに15秒間自身の連撃率【{1}%】UP"
+  },
+  {
+    "id": 27,
+    "enchantment_no": 183,
+    "asset_id": "Attack",
+    "name": "連撃率UP",
+    "description": "10回攻撃ごとに15秒間自身の連撃率【{1}%】UP"
+  },
+  {
+    "id": 28,
+    "enchantment_no": 191,
+    "asset_id": "Defense",
+    "name": "防御UP",
+    "description": "被ダメージ時、10%の確率で、15秒間自身の防御【{1}%】UP"
+  },
+  {
+    "id": 29,
+    "enchantment_no": 192,
+    "asset_id": "Defense",
+    "name": "防御UP",
+    "description": "被ダメージ時、10%の確率で、15秒間自身の防御【{1}%】UP"
+  },
+  {
+    "id": 30,
+    "enchantment_no": 193,
+    "asset_id": "Defense",
+    "name": "防御UP",
+    "description": "被ダメージ時、10%の確率で、15秒間自身の防御【{1}%】UP"
+  },
+  {
+    "id": 31,
+    "enchantment_no": 201,
+    "asset_id": "SkillChargeUp",
+    "name": "スキルチャージ効率UP",
+    "description": "HP30%以下になったとき、自身のスキルチャージ効率【{1}%】UP(戦闘中に2回)"
+  },
+  {
+    "id": 32,
+    "enchantment_no": 202,
+    "asset_id": "SkillChargeUp",
+    "name": "スキルチャージ効率UP",
+    "description": "HP30%以下になったとき、自身のスキルチャージ効率【{1}%】UP(戦闘中に2回)"
+  },
+  {
+    "id": 33,
+    "enchantment_no": 203,
+    "asset_id": "SkillChargeUp",
+    "name": "スキルチャージ効率UP",
+    "description": "HP30%以下になったとき、自身のスキルチャージ効率【{1}%】UP(戦闘中に2回)"
+  },
+  {
+    "id": 34,
+    "enchantment_no": 211,
+    "asset_id": "SkillChargeUp",
+    "name": "スキルチャージ効率UP",
+    "description": "敵が戦闘不能になったとき、5%の確率で、自分のスキルチャージ効率【{1}%】UP"
+  },
+  {
+    "id": 35,
+    "enchantment_no": 212,
+    "asset_id": "SkillChargeUp",
+    "name": "スキルチャージ効率UP",
+    "description": "敵が戦闘不能になったとき、5%の確率で、自分のスキルチャージ効率【{1}%】UP"
+  },
+  {
+    "id": 36,
+    "enchantment_no": 213,
+    "asset_id": "SkillChargeUp",
+    "name": "スキルチャージ効率UP",
+    "description": "敵が戦闘不能になったとき、5%の確率で、自分のスキルチャージ効率【{1}%】UP"
+  },
+  {
+    "id": 37,
+    "enchantment_no": 221,
+    "asset_id": "Hp",
+    "name": "HP回復",
+    "description": "30秒に1回、前衛のHPを自身の最大HP【{1}%】分回復"
+  },
+  {
+    "id": 38,
+    "enchantment_no": 222,
+    "asset_id": "Hp",
+    "name": "HP回復",
+    "description": "30秒に1回、前衛のHPを自身の最大HP【{1}%】分回復"
+  },
+  {
+    "id": 39,
+    "enchantment_no": 223,
+    "asset_id": "Hp",
+    "name": "HP回復",
+    "description": "30秒に1回、前衛のHPを自身の最大HP【{1}%】分回復"
+  },
+  {
+    "id": 40,
+    "enchantment_no": 231,
+    "asset_id": "ConditionPowerUp",
+    "name": "状態異常付与確率上昇",
+    "description": "状態異常付与確率【{1}%】上昇"
+  },
+  {
+    "id": 41,
+    "enchantment_no": 232,
+    "asset_id": "ConditionPowerUp",
+    "name": "状態異常付与確率上昇",
+    "description": "状態異常付与確率【{1}%】上昇"
+  },
+  {
+    "id": 42,
+    "enchantment_no": 233,
+    "asset_id": "ConditionPowerUp",
+    "name": "状態異常付与確率上昇",
+    "description": "状態異常付与確率【{1}%】上昇"
+  },
+  {
+    "id": 43,
+    "enchantment_no": 241,
+    "asset_id": "Attack",
+    "name": "連撃率UP",
+    "description": "FC発動時、15秒間自身の連撃率【{1}%】UP"
+  },
+  {
+    "id": 44,
+    "enchantment_no": 242,
+    "asset_id": "Attack",
+    "name": "連撃率UP",
+    "description": "FC発動時、15秒間自身の連撃率【{1}%】UP"
+  },
+  {
+    "id": 45,
+    "enchantment_no": 243,
+    "asset_id": "Attack",
+    "name": "連撃率UP",
+    "description": "FC発動時、15秒間自身の連撃率【{1}%】UP"
+  },
+  {
+    "id": 46,
+    "enchantment_no": 251,
+    "asset_id": "SkillChargeUp",
+    "name": "スキルチャージ効率UP",
+    "description": "30秒に1回、15秒間自身のスキルチャージ効率【{1}%】UP"
+  },
+  {
+    "id": 47,
+    "enchantment_no": 252,
+    "asset_id": "SkillChargeUp",
+    "name": "スキルチャージ効率UP",
+    "description": "30秒に1回、15秒間自身のスキルチャージ効率【{1}%】UP"
+  },
+  {
+    "id": 48,
+    "enchantment_no": 253,
+    "asset_id": "SkillChargeUp",
+    "name": "スキルチャージ効率UP",
+    "description": "30秒に1回、15秒間自身のスキルチャージ効率【{1}%】UP"
+  },
+  {
+    "id": 49,
+    "enchantment_no": 261,
+    "asset_id": "Hp",
+    "name": "HP回復",
+    "description": "5秒に1回、自身のHPを最大HP【{1}%】分回復"
+  },
+  {
+    "id": 50,
+    "enchantment_no": 262,
+    "asset_id": "Hp",
+    "name": "HP回復",
+    "description": "5秒に1回、自身のHPを最大HP【{1}%】分回復"
+  },
+  {
+    "id": 51,
+    "enchantment_no": 263,
+    "asset_id": "Hp",
+    "name": "HP回復",
+    "description": "5秒に1回、自身のHPを最大HP【{1}%】分回復"
+  },
+  {
+    "id": 52,
+    "enchantment_no": 281,
+    "asset_id": "ExtraDoropUp",
+    "name": "ドロップ率UP",
+    "description": "ドロップ率【{1}%】UP"
+  },
+  {
+    "id": 53,
+    "enchantment_no": 282,
+    "asset_id": "ExtraDoropUp",
+    "name": "ドロップ率UP",
+    "description": "ドロップ率【{1}%】UP"
+  },
+  {
+    "id": 54,
+    "enchantment_no": 283,
+    "asset_id": "ExtraDoropUp",
+    "name": "ドロップ率UP",
+    "description": "ドロップ率【{1}%】UP"
+  },
+  {
+    "id": 55,
+    "enchantment_no": 291,
+    "asset_id": "ExplorationPowerUp",
+    "name": "探索力UP",
+    "description": "探索力【{1}%】UP"
+  },
+  {
+    "id": 56,
+    "enchantment_no": 292,
+    "asset_id": "ExplorationPowerUp",
+    "name": "探索力UP",
+    "description": "探索力【{1}%】UP"
+  },
+  {
+    "id": 57,
+    "enchantment_no": 293,
+    "asset_id": "ExplorationPowerUp",
+    "name": "探索力UP",
+    "description": "探索力【{1}%】UP"
+  },
+  {
+    "id": 58,
+    "enchantment_no": 1001,
+    "asset_id": "Unique",
+    "name": "覇光の剣",
+    "description": "30秒に1回、15秒間味方全体の攻撃力【{1}%】UP（1編成につき1本分のみ効果発動）"
+  },
+  {
+    "id": 59,
+    "enchantment_no": 1002,
+    "asset_id": "Unique",
+    "name": "深蝕の剣",
+    "description": "会心ヒット時、最も近い敵に爆発で追撃を行う"
+  },
+  {
+    "id": 60,
+    "enchantment_no": 1003,
+    "asset_id": "Unique",
+    "name": "漆黒の剣",
+    "description": "クエスト開始時、味方全体に紋章：情熱を【{1}】付与（1編成につき1本分のみ効果発動）"
+  },
+  {
+    "id": 61,
+    "enchantment_no": 1004,
+    "asset_id": "Unique",
+    "name": "怨魔の大剣",
+    "description": "敵にダメージを与えたとき、30%の確率で、最も近い敵に隕石で追撃を行う"
+  },
+  {
+    "id": 62,
+    "enchantment_no": 1005,
+    "asset_id": "Unique",
+    "name": "深蝕の大剣",
+    "description": "攻撃力【{1}%】減少。紋章：情熱1ごとに、自身の会心率【{2}%】UP"
+  },
+  {
+    "id": 63,
+    "enchantment_no": 1006,
+    "asset_id": "Unique",
+    "name": "漆黒の大剣",
+    "description": "紋章：衝撃が消費されたとき、15秒間味方フロント全体の防御力【{1}%】UP（1編成につき1本分のみ効果発動）"
+  },
+  {
+    "id": 64,
+    "enchantment_no": 1007,
+    "asset_id": "Unique",
+    "name": "龍牙のナックル",
+    "description": "紋章：衝撃が消費されたとき、味方フロント全体に紋章：衝撃を【{1}】付与（1編成につき1本分のみ効果発動）"
+  },
+  {
+    "id": 65,
+    "enchantment_no": 1008,
+    "asset_id": "Unique",
+    "name": "深蝕のナックル",
+    "description": "敵にダメージを与えたとき、30%の確率で、最も近い敵に黒い稲妻で追撃を行う"
+  },
+  {
+    "id": 66,
+    "enchantment_no": 1009,
+    "asset_id": "Unique",
+    "name": "漆黒のナックル",
+    "description": "紋章：情熱が10以上で紋章：情熱が付与されたとき、15秒間味方全体の攻撃力【{1}%】UP（1編成につき1本分のみ効果発動）"
+  },
+  {
+    "id": 67,
+    "enchantment_no": 1010,
+    "asset_id": "Unique",
+    "name": "鳳翼の神弓",
+    "description": "会心率【{1}%】上昇。敵を倒したとき、2%の確率で、味方バック全体に紋章：情熱を【{2}】付与（1編成につき1本分のみ効果発動）"
+  },
+  {
+    "id": 68,
+    "enchantment_no": 1011,
+    "asset_id": "Unique",
+    "name": "深蝕の弓",
+    "description": "敵にダメージを与えたとき、30%の確率で、ランダムで2体に稲妻で追撃を行う"
+  },
+  {
+    "id": 69,
+    "enchantment_no": 1012,
+    "asset_id": "Unique",
+    "name": "漆黒の弓",
+    "description": "30秒に1回、味方バック全体に紋章：衝撃を【{1}】付与（1編成につき1本分のみ効果発動）"
+  },
+  {
+    "id": 70,
+    "enchantment_no": 1013,
+    "asset_id": "Unique",
+    "name": "エーテルノヴァブラスター",
+    "description": "敵にダメージを与えたとき、30%の確率で、HPの高い敵1体に氷で追撃を行う"
+  },
+  {
+    "id": 71,
+    "enchantment_no": 1014,
+    "asset_id": "Unique",
+    "name": "深蝕のライフル",
+    "description": "防御力【{1}%】減少。紋章：衝撃が付与されたとき、15秒間味方全体の攻撃力【{2}%】UP（1編成につき1本分のみ効果発動）"
+  },
+  {
+    "id": 72,
+    "enchantment_no": 1015,
+    "asset_id": "Unique",
+    "name": "漆黒のライフル",
+    "description": "紋章：情熱が5以上で紋章：情熱が付与されたとき、15秒間味方バック全体の会心率【{1}%】UP（1編成につき1本分のみ効果発動）"
+  },
+  {
+    "id": 73,
+    "enchantment_no": 1016,
+    "asset_id": "Unique",
+    "name": "暁光の杖",
+    "description": "会心時、15秒間味方バック全体の連撃率【{1}%】UP（1編成につき1本分のみ効果発動）"
+  },
+  {
+    "id": 74,
+    "enchantment_no": 1017,
+    "asset_id": "Unique",
+    "name": "深蝕の杖",
+    "description": "会心ヒット時、ランダムで2体に斬撃で追撃を行う"
+  },
+  {
+    "id": 75,
+    "enchantment_no": 1018,
+    "asset_id": "Unique",
+    "name": "漆黒の杖",
+    "description": "凍結状態の敵に対して自身の与ダメージ【{2}%】上昇。紋章：情熱1ごとに、自身の状態異常付与確率【{1}%】UP"
+  },
+  {
+    "id": 76,
+    "enchantment_no": 1019,
+    "asset_id": "Unique",
+    "name": "深淵鉱石の書",
+    "description": "紋章：衝撃が消費されたとき、15秒間自身の連撃率【{1}%】UP"
+  },
+  {
+    "id": 77,
+    "enchantment_no": 1020,
+    "asset_id": "Unique",
+    "name": "深蝕の魔導書",
+    "description": "紋章：情熱が付与されたとき、15秒間自身のスキルチャージ効率【{1}%】UP。味方を回復時、15秒間回復した対象の攻撃力【{2}%】UP（1編成につき1本分のみ効果発動）"
+  },
+  {
+    "id": 78,
+    "enchantment_no": 1021,
+    "asset_id": "Unique",
+    "name": "漆黒の魔導書",
+    "description": "クエスト開始時、自身に紋章：衝撃を【{1}】付与。紋章：衝撃が消費されたとき、15秒間味方全体の防御力【{2}%】UP（1編成につき1本分のみ効果発動）"
+  },
+  {
+    "id": 79,
+    "enchantment_no": 1022,
+    "asset_id": "Unique",
+    "name": "碧光のツルハシ",
+    "description": "敵が戦闘不能になったとき、1%の確率で、味方フロント全体に紋章：衝撃を【{1}】付与（1編成につき1本分のみ効果発動）"
+  },
+  {
+    "id": 80,
+    "enchantment_no": 1023,
+    "asset_id": "Unique",
+    "name": "深蝕のツルハシ",
+    "description": "マナチャージ効率【{1}%】上昇"
+  },
+  {
+    "id": 81,
+    "enchantment_no": 1024,
+    "asset_id": "Unique",
+    "name": "漆黒のツルハシ",
+    "description": "紋章：情熱が10以上で紋章：情熱が付与されたとき、15秒間味方全体の連撃率【{1}%】UP（1編成につき1本分のみ効果発動）"
+  },
+  {
+    "id": 82,
+    "enchantment_no": 1025,
+    "asset_id": "Unique",
+    "name": "ギルデッドスチールアーマー",
+    "description": "紋章：情熱1ごとに、自身の状態異常付与確率【{1}%】UP"
+  },
+  {
+    "id": 83,
+    "enchantment_no": 1026,
+    "asset_id": "Unique",
+    "name": "漆黒のアーマー",
+    "description": "紋章：衝撃が消費されたとき、15秒間味方フロント全体の防御力【{1}%】UP（1編成につき1本分のみ効果発動）"
+  },
+  {
+    "id": 84,
+    "enchantment_no": 1027,
+    "asset_id": "Unique",
+    "name": "エレメンタルマント",
+    "description": "紋章：情熱が付与されたとき、自身のHPを最大HP【{1}%】分回復。40秒経過ごとに15秒間味方バック全体の連撃率【{2}%】UP（1編成につき1本分のみ効果発動）"
+  },
+  {
+    "id": 85,
+    "enchantment_no": 1028,
+    "asset_id": "Unique",
+    "name": "フォレストマント",
+    "description": "FC発動時、15秒間自身の攻撃力【{1}%】UP"
+  },
+  {
+    "id": 86,
+    "enchantment_no": 1029,
+    "asset_id": "Unique",
+    "name": "漆黒のマント",
+    "description": "紋章：衝撃が消費されたとき、15秒間味方バック全体のスキルチャージ効率【{1}%】UP（1編成につき1本分のみ効果発動）"
+  },
+  {
+    "id": 87,
+    "enchantment_no": 1030,
+    "asset_id": "Unique",
+    "name": "バニースーツ",
+    "description": "紋章：情熱が付与されたとき、15秒間味方フロント全体のスキルチャージ効率【{1}%】UP（1編成につき1本分のみ効果発動）"
+  },
+  {
+    "id": 88,
+    "enchantment_no": 1031,
+    "asset_id": "Unique",
+    "name": "漆黒のドレス",
+    "description": "30秒経過ごとに味方全体に紋章：衝撃を【{1}】付与（1編成につき1本分のみ効果発動）"
+  },
+  {
+    "id": 89,
+    "enchantment_no": 1032,
+    "asset_id": "Unique",
+    "name": "飢餓のモニュメント",
+    "description": "紋章：衝撃が消費されたとき、自身のHPを最大HP【{1}%】分回復"
+  },
+  {
+    "id": 90,
+    "enchantment_no": 1033,
+    "asset_id": "Unique",
+    "name": "氷河のモニュメント",
+    "description": "紋章：情熱が付与されたとき、15秒間自身の凍結耐性【{1}%】UP"
+  },
+  {
+    "id": 91,
+    "enchantment_no": 1034,
+    "asset_id": "Unique",
+    "name": "天使のモニュメント",
+    "description": "最大HP【{1}%】減少。クエスト開始時、自身に紋章：衝撃を【{2}】付与"
+  },
+  {
+    "id": 92,
+    "enchantment_no": 1035,
+    "asset_id": "Unique",
+    "name": "飢餓のタリスマン",
+    "description": "5秒に1回、自身のHPを最大HP【{1}%】分回復。紋章：衝撃が消費されたとき、15秒間自身の攻撃力【{2}%】UP"
+  },
+  {
+    "id": 93,
+    "enchantment_no": 1036,
+    "asset_id": "Unique",
+    "name": "氷河のタリスマン",
+    "description": "紋章：情熱1ごとに、自身の凍結耐性【{1}%】上昇"
+  },
+  {
+    "id": 94,
+    "enchantment_no": 1037,
+    "asset_id": "Unique",
+    "name": "天使のタリスマン",
+    "description": "最大HP【{1}%】減少。30秒に1回、自身に紋章：衝撃を【{2}】付与"
+  },
+  {
+    "id": 96,
+    "enchantment_no": 1301,
+    "asset_id": "Attack",
+    "name": "紋章：情熱攻撃UP",
+    "description": "紋章：情熱が付与されたとき、15秒間自身の攻撃【{1}%】UP"
+  },
+  {
+    "id": 97,
+    "enchantment_no": 1302,
+    "asset_id": "Defense",
+    "name": "紋章：情熱防御UP",
+    "description": "紋章：情熱が付与されたとき、15秒間自身の防御【{1}%】UP"
+  },
+  {
+    "id": 98,
+    "enchantment_no": 1303,
+    "asset_id": "CriticalRate",
+    "name": "紋章：情熱会心率UP",
+    "description": "紋章：情熱が付与されたとき、15秒間自身の会心率【{1}%】UP"
+  },
+  {
+    "id": 99,
+    "enchantment_no": 1304,
+    "asset_id": "Attack",
+    "name": "紋章：情熱連撃率UP",
+    "description": "紋章：情熱が付与されたとき、15秒間自身の連撃率【{1}%】UP"
+  },
+  {
+    "id": 100,
+    "enchantment_no": 1305,
+    "asset_id": "SkillChargeUp",
+    "name": "紋章：情熱スキルチャージ",
+    "description": "紋章：情熱が付与されたとき、15秒間自分のスキルチャージ効率【{1}%】UP"
+  },
+  {
+    "id": 101,
+    "enchantment_no": 1306,
+    "asset_id": "Hp",
+    "name": "紋章：情熱HP回復",
+    "description": "紋章：情熱が付与されたとき、前衛のHPを自身の最大HP【{1}%】分回復"
+  },
+  {
+    "id": 102,
+    "enchantment_no": 1307,
+    "asset_id": "Attack",
+    "name": "紋章：情熱攻撃ダウン",
+    "description": "紋章：情熱が付与されたとき、15秒間敵全体の攻撃【{1}%】減少"
+  },
+  {
+    "id": 103,
+    "enchantment_no": 1308,
+    "asset_id": "CriticalRate",
+    "name": "紋章：情熱会心率UP",
+    "description": "紋章：情熱が付与されたとき、15秒間前衛の会心率【{1}%】UP"
+  },
+  {
+    "id": 104,
+    "enchantment_no": 1309,
+    "asset_id": "Defense",
+    "name": "紋章：情熱付与",
+    "description": "被ダメージ時、10%の確率で、自身に紋章：情熱を【{1}】付与"
+  },
+  {
+    "id": 105,
+    "enchantment_no": 1310,
+    "asset_id": "ConditionPowerUp",
+    "name": "紋章：情熱状態異常確率UP",
+    "description": "紋章：情熱が付与されたとき、15秒間自身の状態異常付与確率【{1}%】UP"
+  },
+  {
+    "id": 106,
+    "enchantment_no": 1311,
+    "asset_id": "Attack",
+    "name": "紋章：情熱付与",
+    "description": "クエスト開始時、自身に紋章：情熱を【{1}】付与"
+  },
+  {
+    "id": 107,
+    "enchantment_no": 1312,
+    "asset_id": "Hp",
+    "name": "紋章：情熱HP回復",
+    "description": "紋章：情熱が付与されたとき、自身のHPを最大HP【{1}%】分回復"
+  },
+  {
+    "id": 108,
+    "enchantment_no": 1313,
+    "asset_id": "Attack",
+    "name": "紋章：情熱攻撃UP",
+    "description": "紋章：情熱が付与されたとき、15秒間自身の攻撃【{1}%】UP"
+  },
+  {
+    "id": 109,
+    "enchantment_no": 1314,
+    "asset_id": "Defense",
+    "name": "紋章：情熱防御UP",
+    "description": "紋章：情熱が付与されたとき、15秒間自身の防御【{1}%】UP"
+  },
+  {
+    "id": 110,
+    "enchantment_no": 1315,
+    "asset_id": "CriticalRate",
+    "name": "紋章：情熱会心率UP",
+    "description": "紋章：情熱が付与されたとき、15秒間自身の会心率【{1}%】UP"
+  },
+  {
+    "id": 111,
+    "enchantment_no": 1316,
+    "asset_id": "Attack",
+    "name": "紋章：情熱連撃率UP",
+    "description": "紋章：情熱が付与されたとき、15秒間自身の連撃率【{1}%】UP"
+  },
+  {
+    "id": 112,
+    "enchantment_no": 1317,
+    "asset_id": "SkillChargeUp",
+    "name": "紋章：情熱スキルチャージ",
+    "description": "紋章：情熱が付与されたとき、15秒間自分のスキルチャージ効率【{1}%】UP"
+  },
+  {
+    "id": 113,
+    "enchantment_no": 1318,
+    "asset_id": "Hp",
+    "name": "紋章：情熱HP回復",
+    "description": "紋章：情熱が付与されたとき、前衛のHPを自身の最大HP【{1}%】分回復"
+  },
+  {
+    "id": 114,
+    "enchantment_no": 1319,
+    "asset_id": "Attack",
+    "name": "紋章：情熱攻撃ダウン",
+    "description": "紋章：情熱が付与されたとき、15秒間敵全体の攻撃【{1}%】減少"
+  },
+  {
+    "id": 115,
+    "enchantment_no": 1320,
+    "asset_id": "CriticalRate",
+    "name": "紋章：情熱会心率UP",
+    "description": "紋章：情熱が付与されたとき、15秒間前衛の会心率【{1}%】UP"
+  },
+  {
+    "id": 116,
+    "enchantment_no": 1321,
+    "asset_id": "Defense",
+    "name": "紋章：情熱付与",
+    "description": "被ダメージ時、10%の確率で、自身に紋章：情熱を【{1}】付与"
+  },
+  {
+    "id": 117,
+    "enchantment_no": 1322,
+    "asset_id": "ConditionPowerUp",
+    "name": "紋章：情熱状態異常確率UP",
+    "description": "紋章：情熱が付与されたとき、15秒間自身の状態異常付与確率【{1}%】UP"
+  },
+  {
+    "id": 118,
+    "enchantment_no": 1323,
+    "asset_id": "Attack",
+    "name": "紋章：情熱付与",
+    "description": "クエスト開始時、自身に紋章：情熱を【{1}】付与"
+  },
+  {
+    "id": 119,
+    "enchantment_no": 1324,
+    "asset_id": "Hp",
+    "name": "紋章：情熱HP回復",
+    "description": "紋章：情熱が付与されたとき、自身のHPを最大HP【{1}%】分回復"
+  },
+  {
+    "id": 120,
+    "enchantment_no": 1325,
+    "asset_id": "Attack",
+    "name": "紋章：情熱攻撃UP",
+    "description": "紋章：情熱が付与されたとき、15秒間自身の攻撃【{1}%】UP"
+  },
+  {
+    "id": 121,
+    "enchantment_no": 1326,
+    "asset_id": "Defense",
+    "name": "紋章：情熱防御UP",
+    "description": "紋章：情熱が付与されたとき、15秒間自身の防御【{1}%】UP"
+  },
+  {
+    "id": 122,
+    "enchantment_no": 1327,
+    "asset_id": "CriticalRate",
+    "name": "紋章：情熱会心率UP",
+    "description": "紋章：情熱が付与されたとき、15秒間自身の会心率【{1}%】UP"
+  },
+  {
+    "id": 123,
+    "enchantment_no": 1328,
+    "asset_id": "Attack",
+    "name": "紋章：情熱連撃率UP",
+    "description": "紋章：情熱が付与されたとき、15秒間自身の連撃率【{1}%】UP"
+  },
+  {
+    "id": 124,
+    "enchantment_no": 1329,
+    "asset_id": "SkillChargeUp",
+    "name": "紋章：情熱スキルチャージ",
+    "description": "紋章：情熱が付与されたとき、15秒間自分のスキルチャージ効率【{1}%】UP"
+  },
+  {
+    "id": 125,
+    "enchantment_no": 1330,
+    "asset_id": "Hp",
+    "name": "紋章：情熱HP回復",
+    "description": "紋章：情熱が付与されたとき、前衛のHPを自身の最大HP【{1}%】分回復"
+  },
+  {
+    "id": 126,
+    "enchantment_no": 1331,
+    "asset_id": "Attack",
+    "name": "紋章：情熱攻撃ダウン",
+    "description": "紋章：情熱が付与されたとき、15秒間敵全体の攻撃【{1}%】減少"
+  },
+  {
+    "id": 127,
+    "enchantment_no": 1332,
+    "asset_id": "CriticalRate",
+    "name": "紋章：情熱会心率UP",
+    "description": "紋章：情熱が付与されたとき、15秒間前衛の会心率【{1}%】UP"
+  },
+  {
+    "id": 128,
+    "enchantment_no": 1333,
+    "asset_id": "Defense",
+    "name": "紋章：情熱付与",
+    "description": "被ダメージ時、10%の確率で、自身に紋章：情熱を【{1}】付与"
+  },
+  {
+    "id": 129,
+    "enchantment_no": 1334,
+    "asset_id": "ConditionPowerUp",
+    "name": "紋章：情熱状態異常確率UP",
+    "description": "紋章：情熱が付与されたとき、15秒間自身の状態異常付与確率【{1}%】UP"
+  },
+  {
+    "id": 130,
+    "enchantment_no": 1335,
+    "asset_id": "Attack",
+    "name": "紋章：情熱付与",
+    "description": "クエスト開始時、自身に紋章：情熱を【{1}】付与"
+  },
+  {
+    "id": 131,
+    "enchantment_no": 1336,
+    "asset_id": "Hp",
+    "name": "紋章：情熱HP回復",
+    "description": "紋章：情熱が付与されたとき、自身のHPを最大HP【{1}%】分回復"
+  },
+  {
+    "id": 132,
+    "enchantment_no": 1601,
+    "asset_id": "Attack",
+    "name": "紋章：衝撃攻撃UP",
+    "description": "紋章：衝撃が消費されたとき、15秒間自身の攻撃【{1}%】UP"
+  },
+  {
+    "id": 133,
+    "enchantment_no": 1602,
+    "asset_id": "Defense",
+    "name": "紋章：衝撃防御UP",
+    "description": "紋章：衝撃が消費されたとき、15秒間自身の防御【{1}%】UP"
+  },
+  {
+    "id": 134,
+    "enchantment_no": 1603,
+    "asset_id": "CriticalRate",
+    "name": "紋章：衝撃会心率UP",
+    "description": "紋章：衝撃が消費されたとき、15秒間自身の会心率【{1}%】UP"
+  },
+  {
+    "id": 135,
+    "enchantment_no": 1604,
+    "asset_id": "Attack",
+    "name": "紋章：衝撃連撃率UP",
+    "description": "紋章：衝撃が消費されたとき、15秒間自身の連撃率【{1}%】UP"
+  },
+  {
+    "id": 136,
+    "enchantment_no": 1605,
+    "asset_id": "SkillChargeUp",
+    "name": "紋章：衝撃スキルチャージ",
+    "description": "紋章：衝撃が消費されたとき、15秒間自分のスキルチャージ効率【{1}%】UP"
+  },
+  {
+    "id": 137,
+    "enchantment_no": 1606,
+    "asset_id": "Defense",
+    "name": "紋章：衝撃防御ダウン",
+    "description": "紋章：衝撃が消費されたとき、15秒間敵全体の防御【{1}%】減少"
+  },
+  {
+    "id": 138,
+    "enchantment_no": 1607,
+    "asset_id": "Attack",
+    "name": "紋章：衝撃攻撃UP",
+    "description": "紋章：衝撃が消費されたとき、15秒間後衛の攻撃【{1}%】UP"
+  },
+  {
+    "id": 139,
+    "enchantment_no": 1608,
+    "asset_id": "Attack",
+    "name": "紋章：衝撃連撃率UP",
+    "description": "紋章：衝撃が消費されたとき、15秒間後衛の連撃率【{1}%】UP"
+  },
+  {
+    "id": 140,
+    "enchantment_no": 1609,
+    "asset_id": "Attack",
+    "name": "紋章：衝撃付与",
+    "description": "FC発動時、自身に紋章：衝撃を【{1}】付与"
+  },
+  {
+    "id": 141,
+    "enchantment_no": 1610,
+    "asset_id": "Attack",
+    "name": "紋章：衝撃付与",
+    "description": "クエスト開始時、自身に紋章：衝撃を【{1}】付与"
+  },
+  {
+    "id": 142,
+    "enchantment_no": 1611,
+    "asset_id": "Attack",
+    "name": "紋章：衝撃攻撃UP",
+    "description": "紋章：衝撃が消費されたとき、15秒間自身の攻撃【{1}%】UP"
+  },
+  {
+    "id": 143,
+    "enchantment_no": 1612,
+    "asset_id": "Defense",
+    "name": "紋章：衝撃防御UP",
+    "description": "紋章：衝撃が消費されたとき、15秒間自身の防御【{1}%】UP"
+  },
+  {
+    "id": 144,
+    "enchantment_no": 1613,
+    "asset_id": "CriticalRate",
+    "name": "紋章：衝撃会心率UP",
+    "description": "紋章：衝撃が消費されたとき、15秒間自身の会心率【{1}%】UP"
+  },
+  {
+    "id": 145,
+    "enchantment_no": 1614,
+    "asset_id": "Attack",
+    "name": "紋章：衝撃連撃率UP",
+    "description": "紋章：衝撃が消費されたとき、15秒間自身の連撃率【{1}%】UP"
+  },
+  {
+    "id": 146,
+    "enchantment_no": 1615,
+    "asset_id": "SkillChargeUp",
+    "name": "紋章：衝撃スキルチャージ",
+    "description": "紋章：衝撃が消費されたとき、自分のスキルチャージ効率【{1}%】UP"
+  },
+  {
+    "id": 147,
+    "enchantment_no": 1616,
+    "asset_id": "Defense",
+    "name": "紋章：衝撃防御ダウン",
+    "description": "紋章：衝撃が消費されたとき、15秒間敵全体の防御【{1}%】減少"
+  },
+  {
+    "id": 148,
+    "enchantment_no": 1617,
+    "asset_id": "Attack",
+    "name": "紋章：衝撃攻撃UP",
+    "description": "紋章：衝撃が消費されたとき、15秒間後衛の攻撃【{1}%】UP"
+  },
+  {
+    "id": 149,
+    "enchantment_no": 1618,
+    "asset_id": "Attack",
+    "name": "紋章：衝撃連撃率UP",
+    "description": "紋章：衝撃が消費されたとき、15秒間後衛の連撃率【{1}%】UP"
+  },
+  {
+    "id": 150,
+    "enchantment_no": 1619,
+    "asset_id": "Attack",
+    "name": "紋章：衝撃付与",
+    "description": "FC発動時、自身に紋章：衝撃を【{1}】付与"
+  },
+  {
+    "id": 151,
+    "enchantment_no": 1620,
+    "asset_id": "Attack",
+    "name": "紋章：衝撃付与",
+    "description": "クエスト開始時、自身に紋章：衝撃を【{1}】付与"
+  },
+  {
+    "id": 152,
+    "enchantment_no": 1621,
+    "asset_id": "Attack",
+    "name": "紋章：衝撃攻撃UP",
+    "description": "紋章：衝撃が消費されたとき、15秒間自身の攻撃【{1}%】UP"
+  },
+  {
+    "id": 153,
+    "enchantment_no": 1622,
+    "asset_id": "Defense",
+    "name": "紋章：衝撃防御UP",
+    "description": "紋章：衝撃が消費されたとき、15秒間自身の防御【{1}%】UP"
+  },
+  {
+    "id": 154,
+    "enchantment_no": 1623,
+    "asset_id": "CriticalRate",
+    "name": "紋章：衝撃会心率UP",
+    "description": "紋章：衝撃が消費されたとき、15秒間自身の会心率【{1}%】UP"
+  },
+  {
+    "id": 155,
+    "enchantment_no": 1624,
+    "asset_id": "Attack",
+    "name": "紋章：衝撃連撃率UP",
+    "description": "紋章：衝撃が消費されたとき、15秒間自身の連撃率【{1}%】UP"
+  },
+  {
+    "id": 156,
+    "enchantment_no": 1625,
+    "asset_id": "SkillChargeUp",
+    "name": "紋章：衝撃スキルチャージ",
+    "description": "紋章：衝撃が消費されたとき、自分のスキルチャージ効率【{1}%】UP"
+  },
+  {
+    "id": 157,
+    "enchantment_no": 1626,
+    "asset_id": "Defense",
+    "name": "紋章：衝撃防御ダウン",
+    "description": "紋章：衝撃が消費されたとき、15秒間敵全体の防御【{1}%】減少"
+  },
+  {
+    "id": 158,
+    "enchantment_no": 1627,
+    "asset_id": "Attack",
+    "name": "紋章：衝撃攻撃UP",
+    "description": "紋章：衝撃が消費されたとき、15秒間後衛の攻撃【{1}%】UP"
+  },
+  {
+    "id": 159,
+    "enchantment_no": 1628,
+    "asset_id": "Attack",
+    "name": "紋章：衝撃連撃率UP",
+    "description": "紋章：衝撃が消費されたとき、15秒間後衛の連撃率【{1}%】UP"
+  },
+  {
+    "id": 160,
+    "enchantment_no": 1629,
+    "asset_id": "Attack",
+    "name": "紋章：衝撃付与",
+    "description": "FC発動時、自身に紋章：衝撃を【{1}】付与"
+  },
+  {
+    "id": 161,
+    "enchantment_no": 1630,
+    "asset_id": "Attack",
+    "name": "紋章：衝撃付与",
+    "description": "クエスト開始時、自身に紋章：衝撃を【{1}】付与"
+  },
+  {
+    "id": 163,
+    "enchantment_no": 1,
+    "asset_id": "Defense",
+    "name": "防御上昇",
+    "description": "防御【{1}%】上昇"
+  },
+  {
+    "id": 164,
+    "enchantment_no": 2,
+    "asset_id": "Hp",
+    "name": "HP上昇",
+    "description": "HP【{1}%】上昇"
+  },
+  {
+    "id": 165,
+    "enchantment_no": 3,
+    "asset_id": "Attack",
+    "name": "攻撃上昇",
+    "description": "攻撃【{1}%】上昇"
+  }
+]

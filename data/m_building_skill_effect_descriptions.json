@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "description": "すべてのキャラの最大HP＋5.0%",
+    "type": 0,
+    "display_order": 1
+  },
+  {
+    "id": 2,
+    "description": "すべてのキャラの攻撃力＋5.0%",
+    "type": 0,
+    "display_order": 2
+  },
+  {
+    "id": 3,
+    "description": "すべてのキャラの防御力＋5.0％",
+    "type": 0,
+    "display_order": 3
+  },
+  {
+    "id": 4,
+    "description": "「エアタレットⅡ」を解放",
+    "type": 0,
+    "display_order": 4
+  },
+  {
+    "id": 5,
+    "description": "「エアタレットⅢ」を解放",
+    "type": 0,
+    "display_order": 5
+  },
+  {
+    "id": 6,
+    "description": "「魔道キャノンⅠ」を解放",
+    "type": 0,
+    "display_order": 6
+  },
+  {
+    "id": 7,
+    "description": "「魔道キャノンⅡ」を解放",
+    "type": 0,
+    "display_order": 7
+  },
+  {
+    "id": 8,
+    "description": "「魔道キャノンⅢ」を解放",
+    "type": 0,
+    "display_order": 8
+  },
+  {
+    "id": 9,
+    "description": "「豊穣の女神像」を解放",
+    "type": 0,
+    "display_order": 9
+  },
+  {
+    "id": 10,
+    "description": "「強化連装砲塔」を解放",
+    "type": 0,
+    "display_order": 10
+  },
+  {
+    "id": 11,
+    "description": "「状態異常魔法陣（炎上）」解放",
+    "type": 0,
+    "display_order": 11
+  },
+  {
+    "id": 12,
+    "description": "「状態異常魔法陣（凍結）」解放",
+    "type": 0,
+    "display_order": 12
+  },
+  {
+    "id": 13,
+    "description": "「状態異常魔法陣（石化）」解放",
+    "type": 0,
+    "display_order": 13
+  },
+  {
+    "id": 14,
+    "description": "「魔法障壁【軽】」解放",
+    "type": 0,
+    "display_order": 14
+  },
+  {
+    "id": 15,
+    "description": "「魔法障壁【重】」解放",
+    "type": 0,
+    "display_order": 15
+  },
+  {
+    "id": 16,
+    "description": "「地雷Ⅱ」解放",
+    "type": 0,
+    "display_order": 16
+  },
+  {
+    "id": 17,
+    "description": "「地雷Ⅲ」解放",
+    "type": 0,
+    "display_order": 17
+  },
+  {
+    "id": 18,
+    "description": "「砲撃支援」解放",
+    "type": 0,
+    "display_order": 18
+  },
+  {
+    "id": 19,
+    "description": "「エレクトロボール」解放",
+    "type": 0,
+    "display_order": 19
+  },
+  {
+    "id": 20,
+    "description": "「聖浄の調べ」解放",
+    "type": 0,
+    "display_order": 20
+  },
+  {
+    "id": 21,
+    "description": "2階のおしごと解放",
+    "type": 0,
+    "display_order": 21
+  },
+  {
+    "id": 22,
+    "description": "3階のおしごと解放",
+    "type": 0,
+    "display_order": 22
+  },
+  {
+    "id": 23,
+    "description": "営業デッキLv{0}",
+    "type": 1,
+    "display_order": 23
+  },
+  {
+    "id": 24,
+    "description": "おしごと報酬UP{0}",
+    "type": 1,
+    "display_order": 24
+  },
+  {
+    "id": 25,
+    "description": "「衝撃のマナクリスタル」解放",
+    "type": 0,
+    "display_order": 25
+  },
+  {
+    "id": 26,
+    "description": "「猛毒のマナクリスタル」解放",
+    "type": 0,
+    "display_order": 26
+  },
+  {
+    "id": 27,
+    "description": "「解除のマナクリスタル」解放",
+    "type": 0,
+    "display_order": 27
+  },
+  {
+    "id": 28,
+    "description": "「防護のマナクリスタル」解放",
+    "type": 0,
+    "display_order": 28
+  },
+  {
+    "id": 29,
+    "description": "「崩壊のマナクリスタル」解放",
+    "type": 0,
+    "display_order": 29
+  },
+  {
+    "id": 30,
+    "description": "「復活のマナクリスタル」解放",
+    "type": 0,
+    "display_order": 30
+  },
+  {
+    "id": 31,
+    "description": "レベルシンクロ機能解放",
+    "type": 0,
+    "display_order": 31
+  },
+  {
+    "id": 32,
+    "description": "追加アイテム入手確率＋{0}％",
+    "type": 1,
+    "display_order": 33
+  },
+  {
+    "id": 33,
+    "description": "探索隊編成枠を{0}つ解放",
+    "type": 1,
+    "display_order": 34
+  },
+  {
+    "id": 34,
+    "description": "すべてのキャラの最大HP+{0}%",
+    "type": 1,
+    "display_order": 35
+  },
+  {
+    "id": 35,
+    "description": "すべてのキャラの攻撃力+{0}％",
+    "type": 1,
+    "display_order": 36
+  },
+  {
+    "id": 36,
+    "description": "すべてのキャラの防御力+{0}％",
+    "type": 1,
+    "display_order": 37
+  },
+  {
+    "id": 37,
+    "description": "分解した際のマイレージ+{0}％",
+    "type": 1,
+    "display_order": 38
+  },
+  {
+    "id": 38,
+    "description": "「エアタレットⅠ」Lv{0}",
+    "type": 1,
+    "display_order": 39
+  },
+  {
+    "id": 39,
+    "description": "「エアタレットⅡ」Lv{0}",
+    "type": 1,
+    "display_order": 40
+  },
+  {
+    "id": 40,
+    "description": "「エアタレットⅢ」Lv{0}",
+    "type": 1,
+    "display_order": 41
+  },
+  {
+    "id": 41,
+    "description": "「魔道キャノンⅠ」Lv{0}",
+    "type": 1,
+    "display_order": 42
+  },
+  {
+    "id": 42,
+    "description": "「魔道キャノンⅡ」Lv{0}",
+    "type": 1,
+    "display_order": 43
+  },
+  {
+    "id": 43,
+    "description": "「魔道キャノンⅢ」Lv{0}",
+    "type": 1,
+    "display_order": 44
+  },
+  {
+    "id": 44,
+    "description": "「連装砲塔」Lv{0}",
+    "type": 1,
+    "display_order": 45
+  },
+  {
+    "id": 45,
+    "description": "「豊穣の女神像」Lv{0}",
+    "type": 1,
+    "display_order": 46
+  },
+  {
+    "id": 46,
+    "description": "「強化連装砲塔」Lv{0}",
+    "type": 1,
+    "display_order": 47
+  },
+  {
+    "id": 47,
+    "description": "「魔法障壁」Lv{0}",
+    "type": 1,
+    "display_order": 48
+  },
+  {
+    "id": 48,
+    "description": "「魔法障壁【軽】」Lv{0}",
+    "type": 1,
+    "display_order": 49
+  },
+  {
+    "id": 49,
+    "description": "「魔法障壁【重】」Lv{0}",
+    "type": 1,
+    "display_order": 50
+  },
+  {
+    "id": 50,
+    "description": "「地雷Ⅰ」Lv{0}",
+    "type": 1,
+    "display_order": 51
+  },
+  {
+    "id": 51,
+    "description": "「地雷Ⅱ」Lv{0}",
+    "type": 1,
+    "display_order": 52
+  },
+  {
+    "id": 52,
+    "description": "「地雷Ⅲ」Lv{0}",
+    "type": 1,
+    "display_order": 53
+  },
+  {
+    "id": 53,
+    "description": "「状態異常魔法陣（炎上）」Lv{0}",
+    "type": 1,
+    "display_order": 54
+  },
+  {
+    "id": 54,
+    "description": "「状態異常魔法陣（凍結）」Lv{0}",
+    "type": 1,
+    "display_order": 55
+  },
+  {
+    "id": 55,
+    "description": "「状態異常魔法陣（石化）」Lv{0}",
+    "type": 1,
+    "display_order": 56
+  },
+  {
+    "id": 56,
+    "description": "「大砲」Lv{0}",
+    "type": 1,
+    "display_order": 57
+  },
+  {
+    "id": 57,
+    "description": "「エレクトロボール」Lv{0}",
+    "type": 1,
+    "display_order": 58
+  },
+  {
+    "id": 58,
+    "description": "「砲撃支援」Lv{0}",
+    "type": 1,
+    "display_order": 59
+  },
+  {
+    "id": 59,
+    "description": "「聖浄の調べ」Lv{0}",
+    "type": 1,
+    "display_order": 60
+  },
+  {
+    "id": 60,
+    "description": "マナクリスタルのRANK+{0}",
+    "type": 1,
+    "display_order": 61
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "m_nether_map_floor_id": 37,
+    "description": "侵食率0以上100以下",
+    "restrict_type": 1,
+    "restrict_param_1": 70,
+    "restrict_param_2": 100,
+    "restrict_param_3": 0
+  },
+  {
+    "id": 2,
+    "m_nether_map_floor_id": 86,
+    "description": "侵食率70以上100以下",
+    "restrict_type": 1,
+    "restrict_param_1": 70,
+    "restrict_param_2": 100,
+    "restrict_param_3": 0
+  },
+  {
+    "id": 3,
+    "m_nether_map_floor_id": 134,
+    "description": "侵食率10以上40以下",
+    "restrict_type": 1,
+    "restrict_param_1": 10,
+    "restrict_param_2": 40,
+    "restrict_param_3": 0
+  },
+  {
+    "id": 4,
+    "m_nether_map_floor_id": 181,
+    "description": "侵食率40以上80以下",
+    "restrict_type": 1,
+    "restrict_param_1": 40,
+    "restrict_param_2": 80,
+    "restrict_param_3": 0
+  },
+  {
+    "id": 5,
+    "m_nether_map_floor_id": 228,
+    "description": "侵食率80以上100以下",
+    "restrict_type": 1,
+    "restrict_param_1": 80,
+    "restrict_param_2": 100,
+    "restrict_param_3": 0
+  },
+  {
+    "id": 6,
+    "m_nether_map_floor_id": 275,
+    "description": "侵食率20以上50以下",
+    "restrict_type": 1,
+    "restrict_param_1": 20,
+    "restrict_param_2": 50,
+    "restrict_param_3": 0
+  },
+  {
+    "id": 7,
+    "m_nether_map_floor_id": 322,
+    "description": "侵食率60以上90以下",
+    "restrict_type": 1,
+    "restrict_param_1": 60,
+    "restrict_param_2": 90,
+    "restrict_param_3": 0
+  },
+  {
+    "id": 8,
+    "m_nether_map_floor_id": 369,
+    "description": "侵食率0以上30以下",
+    "restrict_type": 1,
+    "restrict_param_1": 0,
+    "restrict_param_2": 30,
+    "restrict_param_3": 0
+  },
+  {
+    "id": 9,
+    "m_nether_map_floor_id": 416,
+    "description": "侵食率10以上70以下",
+    "restrict_type": 1,
+    "restrict_param_1": 10,
+    "restrict_param_2": 70,
+    "restrict_param_3": 0
+  },
+  {
+    "id": 10,
+    "m_nether_map_floor_id": 464,
+    "description": "侵食率80以上100以下",
+    "restrict_type": 1,
+    "restrict_param_1": 80,
+    "restrict_param_2": 100,
+    "restrict_param_3": 0
+  }
+]

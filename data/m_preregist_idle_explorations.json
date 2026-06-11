@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "keep_slot": 3,
+    "acquire_count": 1,
+    "efficiency_bonus": 0,
+    "begin_at": "2026-01-25 4:00:00",
+    "end_at": "2026-04-21 4:59:59",
+    "asset_id": "Earth"
+  },
+  {
+    "id": 2,
+    "keep_slot": 3,
+    "acquire_count": 1,
+    "efficiency_bonus": 0,
+    "begin_at": "2026-04-21 5:00:00",
+    "end_at": "2026-05-01 4:59:59",
+    "asset_id": "Water"
+  },
+  {
+    "id": 3,
+    "keep_slot": 4,
+    "acquire_count": 1,
+    "efficiency_bonus": 0,
+    "begin_at": "2026-05-01 5:00:00",
+    "end_at": "2026-05-07 4:59:59",
+    "asset_id": "Water"
+  },
+  {
+    "id": 4,
+    "keep_slot": 4,
+    "acquire_count": 2,
+    "efficiency_bonus": 0,
+    "begin_at": "2026-05-07 5:00:00",
+    "end_at": "2026-05-14 4:59:59",
+    "asset_id": "Fire"
+  },
+  {
+    "id": 5,
+    "keep_slot": 4,
+    "acquire_count": 2,
+    "efficiency_bonus": 0,
+    "begin_at": "2026-05-14 5:00:00",
+    "end_at": "2026-05-22 4:59:59",
+    "asset_id": "Dark"
+  },
+  {
+    "id": 6,
+    "keep_slot": 5,
+    "acquire_count": 2,
+    "efficiency_bonus": 0,
+    "begin_at": "2026-05-22 5:00:00",
+    "end_at": "2026-05-28 4:59:59",
+    "asset_id": "Dark"
+  },
+  {
+    "id": 7,
+    "keep_slot": 5,
+    "acquire_count": 2,
+    "efficiency_bonus": 0,
+    "begin_at": "2026-05-28 5:00:00",
+    "end_at": "2026-06-04 4:59:59",
+    "asset_id": "Artifact"
+  },
+  {
+    "id": 9,
+    "keep_slot": 5,
+    "acquire_count": 2,
+    "efficiency_bonus": 100,
+    "begin_at": "2026-06-04 5:00:00",
+    "end_at": "2030-12-31 23:59:59",
+    "asset_id": "Earth"
+  }
+]

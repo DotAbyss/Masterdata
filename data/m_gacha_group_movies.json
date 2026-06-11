@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "m_gacha_group_id": 103,
+    "m_character_id": 1300020,
+    "display_order": 1,
+    "movie_normal": "gacha_top_102501000_normal",
+    "movie_r18": "gacha_top_102501000_r18",
+    "adult_telop_duration": 4000,
+    "normal_telop_duration": 7000,
+    "skill_name": "ストームワルツ",
+    "skill_flavor": "前方範囲内の\u003cgradient=\"GachaSkillColorGrad\"\u003e敵全体\u003c/gradient\u003eにダメージを与える！",
+    "ntr_flag_1": 0,
+    "story_flavor_1": "壊れてしまったかもしれません",
+    "ntr_flag_2": 1,
+    "story_flavor_2": "わたしがお相手を務めます",
+    "ntr_flag_3": 0,
+    "story_flavor_3": "胸（特殊魔導炉）が高鳴ります"
+  },
+  {
+    "id": 2,
+    "m_gacha_group_id": 103,
+    "m_character_id": 1300009,
+    "display_order": 2,
+    "movie_normal": "gacha_top_100801000_normal",
+    "movie_r18": "gacha_top_100801000_r18",
+    "adult_telop_duration": 4000,
+    "normal_telop_duration": 7000,
+    "skill_name": "フロストスパイク",
+    "skill_flavor": "通常攻撃対象の敵を中心とした\u003cbr\u003e\n\u003cgradient=\"GachaSkillColorGrad\"\u003e範囲内にいる敵全体\u003c/gradient\u003eにダメージを与える！",
+    "ntr_flag_1": 0,
+    "story_flavor_1": "秘めたる才能",
+    "ntr_flag_2": 1,
+    "story_flavor_2": "ヴィーラお姉ちゃんの筆下ろし",
+    "ntr_flag_3": 0,
+    "story_flavor_3": "譲れない気持ち"
+  }
+]

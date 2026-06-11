@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "disaster_level": 3,
+    "description": "2章クリアで大厄災出現",
+    "restrict_type": 3,
+    "restrict_param_1": 1020406,
+    "restrict_param_2": 0
+  },
+  {
+    "id": 2,
+    "disaster_level": 4,
+    "description": "4章クリアで大厄災出現",
+    "restrict_type": 3,
+    "restrict_param_1": 1040505,
+    "restrict_param_2": 0
+  },
+  {
+    "id": 3,
+    "disaster_level": 5,
+    "description": "6章クリアで大厄災出現",
+    "restrict_type": 3,
+    "restrict_param_1": 1060505,
+    "restrict_param_2": 0
+  }
+]

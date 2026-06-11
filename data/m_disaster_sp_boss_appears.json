@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "m_disaster_boss_id": 2027301,
+    "require_cost": 1,
+    "only_reaching_level": 0,
+    "disaster_level": 1,
+    "m_disaster_quest_id": 10010201,
+    "hp_power_ratio": 1000,
+    "attack_power_ratio": 1000,
+    "defence_power_ratio": 1000
+  },
+  {
+    "id": 2,
+    "m_disaster_boss_id": 2022201,
+    "require_cost": 1,
+    "only_reaching_level": 0,
+    "disaster_level": 2,
+    "m_disaster_quest_id": 10020201,
+    "hp_power_ratio": 1000,
+    "attack_power_ratio": 1000,
+    "defence_power_ratio": 1000
+  },
+  {
+    "id": 3,
+    "m_disaster_boss_id": 2026501,
+    "require_cost": 1,
+    "only_reaching_level": 0,
+    "disaster_level": 3,
+    "m_disaster_quest_id": 10030201,
+    "hp_power_ratio": 1000,
+    "attack_power_ratio": 1000,
+    "defence_power_ratio": 1000
+  },
+  {
+    "id": 4,
+    "m_disaster_boss_id": 2024401,
+    "require_cost": 1,
+    "only_reaching_level": 0,
+    "disaster_level": 4,
+    "m_disaster_quest_id": 10040201,
+    "hp_power_ratio": 1000,
+    "attack_power_ratio": 1000,
+    "defence_power_ratio": 1000
+  },
+  {
+    "id": 5,
+    "m_disaster_boss_id": 2022201,
+    "require_cost": 1,
+    "only_reaching_level": 0,
+    "disaster_level": 5,
+    "m_disaster_quest_id": 10050201,
+    "hp_power_ratio": 1000,
+    "attack_power_ratio": 1000,
+    "defence_power_ratio": 1000
+  },
+  {
+    "id": 6,
+    "m_disaster_boss_id": 2026501,
+    "require_cost": 1,
+    "only_reaching_level": 0,
+    "disaster_level": 6,
+    "m_disaster_quest_id": 10060201,
+    "hp_power_ratio": 1000,
+    "attack_power_ratio": 1000,
+    "defence_power_ratio": 1000
+  },
+  {
+    "id": 7,
+    "m_disaster_boss_id": 2022201,
+    "require_cost": 1,
+    "only_reaching_level": 0,
+    "disaster_level": 7,
+    "m_disaster_quest_id": 10070201,
+    "hp_power_ratio": 1000,
+    "attack_power_ratio": 1000,
+    "defence_power_ratio": 1000
+  },
+  {
+    "id": 8,
+    "m_disaster_boss_id": 2026501,
+    "require_cost": 1,
+    "only_reaching_level": 0,
+    "disaster_level": 7,
+    "m_disaster_quest_id": 10070202,
+    "hp_power_ratio": 1000,
+    "attack_power_ratio": 1000,
+    "defence_power_ratio": 1000
+  },
+  {
+    "id": 9,
+    "m_disaster_boss_id": 2024401,
+    "require_cost": 1,
+    "only_reaching_level": 0,
+    "disaster_level": 8,
+    "m_disaster_quest_id": 10080201,
+    "hp_power_ratio": 1000,
+    "attack_power_ratio": 1000,
+    "defence_power_ratio": 1000
+  },
+  {
+    "id": 10,
+    "m_disaster_boss_id": 2024401,
+    "require_cost": 1,
+    "only_reaching_level": 0,
+    "disaster_level": 9,
+    "m_disaster_quest_id": 10090201,
+    "hp_power_ratio": 1000,
+    "attack_power_ratio": 1000,
+    "defence_power_ratio": 1000
+  },
+  {
+    "id": 11,
+    "m_disaster_boss_id": 2022201,
+    "require_cost": 1,
+    "only_reaching_level": 0,
+    "disaster_level": 10,
+    "m_disaster_quest_id": 10100201,
+    "hp_power_ratio": 1000,
+    "attack_power_ratio": 1000,
+    "defence_power_ratio": 1000
+  },
+  {
+    "id": 12,
+    "m_disaster_boss_id": 2022201,
+    "require_cost": 1,
+    "only_reaching_level": 0,
+    "disaster_level": 11,
+    "m_disaster_quest_id": 10110201,
+    "hp_power_ratio": 1000,
+    "attack_power_ratio": 1000,
+    "defence_power_ratio": 1000
+  },
+  {
+    "id": 13,
+    "m_disaster_boss_id": 2026501,
+    "require_cost": 1,
+    "only_reaching_level": 0,
+    "disaster_level": 12,
+    "m_disaster_quest_id": 10120201,
+    "hp_power_ratio": 1000,
+    "attack_power_ratio": 1000,
+    "defence_power_ratio": 1000
+  },
+  {
+    "id": 14,
+    "m_disaster_boss_id": 2026501,
+    "require_cost": 1,
+    "only_reaching_level": 0,
+    "disaster_level": 13,
+    "m_disaster_quest_id": 10130201,
+    "hp_power_ratio": 1000,
+    "attack_power_ratio": 1000,
+    "defence_power_ratio": 1000
+  },
+  {
+    "id": 15,
+    "m_disaster_boss_id": 2024401,
+    "require_cost": 1,
+    "only_reaching_level": 0,
+    "disaster_level": 14,
+    "m_disaster_quest_id": 10140201,
+    "hp_power_ratio": 1000,
+    "attack_power_ratio": 1000,
+    "defence_power_ratio": 1000
+  },
+  {
+    "id": 16,
+    "m_disaster_boss_id": 2022201,
+    "require_cost": 1,
+    "only_reaching_level": 0,
+    "disaster_level": 15,
+    "m_disaster_quest_id": 10150201,
+    "hp_power_ratio": 1000,
+    "attack_power_ratio": 1000,
+    "defence_power_ratio": 1000
+  },
+  {
+    "id": 17,
+    "m_disaster_boss_id": 2026501,
+    "require_cost": 1,
+    "only_reaching_level": 0,
+    "disaster_level": 15,
+    "m_disaster_quest_id": 10150202,
+    "hp_power_ratio": 1000,
+    "attack_power_ratio": 1000,
+    "defence_power_ratio": 1000
+  },
+  {
+    "id": 18,
+    "m_disaster_boss_id": 2024401,
+    "require_cost": 1,
+    "only_reaching_level": 0,
+    "disaster_level": 15,
+    "m_disaster_quest_id": 10150203,
+    "hp_power_ratio": 1000,
+    "attack_power_ratio": 1000,
+    "defence_power_ratio": 1000
+  }
+]

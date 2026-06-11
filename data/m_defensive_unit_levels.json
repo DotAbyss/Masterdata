@@ -1,0 +1,922 @@
+[
+  {
+    "id": 1001001,
+    "m_defensive_unit_id": 1001,
+    "level": 1,
+    "power": 900,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "MusicTroupe_01",
+    "icon_id": "MusicTroupe_01"
+  },
+  {
+    "id": 1001002,
+    "m_defensive_unit_id": 1001,
+    "level": 2,
+    "power": 1080,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "MusicTroupe_01",
+    "icon_id": "MusicTroupe_01"
+  },
+  {
+    "id": 1001003,
+    "m_defensive_unit_id": 1001,
+    "level": 3,
+    "power": 1260,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "MusicTroupe_01",
+    "icon_id": "MusicTroupe_01"
+  },
+  {
+    "id": 1001004,
+    "m_defensive_unit_id": 1001,
+    "level": 4,
+    "power": 1440,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "MusicTroupe_01",
+    "icon_id": "MusicTroupe_01"
+  },
+  {
+    "id": 1002001,
+    "m_defensive_unit_id": 1002,
+    "level": 1,
+    "power": 1200,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "ArtillerySupport_01",
+    "icon_id": "ArtillerySupport_01"
+  },
+  {
+    "id": 1002002,
+    "m_defensive_unit_id": 1002,
+    "level": 2,
+    "power": 1500,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "ArtillerySupport_01",
+    "icon_id": "ArtillerySupport_01"
+  },
+  {
+    "id": 1002003,
+    "m_defensive_unit_id": 1002,
+    "level": 3,
+    "power": 1800,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "ArtillerySupport_01",
+    "icon_id": "ArtillerySupport_01"
+  },
+  {
+    "id": 1002004,
+    "m_defensive_unit_id": 1002,
+    "level": 4,
+    "power": 2100,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "ArtillerySupport_01",
+    "icon_id": "ArtillerySupport_01"
+  },
+  {
+    "id": 2001001,
+    "m_defensive_unit_id": 2001,
+    "level": 1,
+    "power": 800,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 13,
+    "asset_id": "Cannon_01",
+    "icon_id": "Cannon_01"
+  },
+  {
+    "id": 2001002,
+    "m_defensive_unit_id": 2001,
+    "level": 2,
+    "power": 1000,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 13,
+    "asset_id": "Cannon_01",
+    "icon_id": "Cannon_01"
+  },
+  {
+    "id": 2001003,
+    "m_defensive_unit_id": 2001,
+    "level": 3,
+    "power": 1200,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 13,
+    "asset_id": "Cannon_01",
+    "icon_id": "Cannon_01"
+  },
+  {
+    "id": 2001004,
+    "m_defensive_unit_id": 2001,
+    "level": 4,
+    "power": 1400,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 13,
+    "asset_id": "Cannon_01",
+    "icon_id": "Cannon_01"
+  },
+  {
+    "id": 2002001,
+    "m_defensive_unit_id": 2002,
+    "level": 1,
+    "power": 1000,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 4,
+    "asset_id": "ElectroBall_01",
+    "icon_id": "ElectroGlove_01"
+  },
+  {
+    "id": 2002002,
+    "m_defensive_unit_id": 2002,
+    "level": 2,
+    "power": 1250,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 4,
+    "asset_id": "ElectroBall_01",
+    "icon_id": "ElectroGlove_01"
+  },
+  {
+    "id": 2002003,
+    "m_defensive_unit_id": 2002,
+    "level": 3,
+    "power": 1500,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 4,
+    "asset_id": "ElectroBall_01",
+    "icon_id": "ElectroGlove_01"
+  },
+  {
+    "id": 2002004,
+    "m_defensive_unit_id": 2002,
+    "level": 4,
+    "power": 1750,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 4,
+    "asset_id": "ElectroBall_01",
+    "icon_id": "ElectroGlove_01"
+  },
+  {
+    "id": 3001001,
+    "m_defensive_unit_id": 3001,
+    "level": 1,
+    "power": 380,
+    "display_effect_range_start_offset": -2,
+    "display_effect_range": 4,
+    "asset_id": "GoddessStatue_01",
+    "icon_id": "Goddess_01"
+  },
+  {
+    "id": 3001002,
+    "m_defensive_unit_id": 3001,
+    "level": 2,
+    "power": 475,
+    "display_effect_range_start_offset": -2,
+    "display_effect_range": 4,
+    "asset_id": "GoddessStatue_01",
+    "icon_id": "Goddess_01"
+  },
+  {
+    "id": 3001003,
+    "m_defensive_unit_id": 3001,
+    "level": 3,
+    "power": 570,
+    "display_effect_range_start_offset": -2,
+    "display_effect_range": 4,
+    "asset_id": "GoddessStatue_01",
+    "icon_id": "Goddess_01"
+  },
+  {
+    "id": 3001004,
+    "m_defensive_unit_id": 3001,
+    "level": 4,
+    "power": 665,
+    "display_effect_range_start_offset": -2,
+    "display_effect_range": 4,
+    "asset_id": "GoddessStatue_01",
+    "icon_id": "Goddess_01"
+  },
+  {
+    "id": 3001005,
+    "m_defensive_unit_id": 3001,
+    "level": 5,
+    "power": 760,
+    "display_effect_range_start_offset": -2,
+    "display_effect_range": 4,
+    "asset_id": "GoddessStatue_01",
+    "icon_id": "Goddess_01"
+  },
+  {
+    "id": 3001006,
+    "m_defensive_unit_id": 3001,
+    "level": 6,
+    "power": 855,
+    "display_effect_range_start_offset": -2,
+    "display_effect_range": 4,
+    "asset_id": "GoddessStatue_01",
+    "icon_id": "Goddess_01"
+  },
+  {
+    "id": 3002001,
+    "m_defensive_unit_id": 3002,
+    "level": 1,
+    "power": 420,
+    "display_effect_range_start_offset": -2,
+    "display_effect_range": 4,
+    "asset_id": "SniperTower_01",
+    "icon_id": "TwinGuns_01"
+  },
+  {
+    "id": 3002002,
+    "m_defensive_unit_id": 3002,
+    "level": 2,
+    "power": 525,
+    "display_effect_range_start_offset": -2,
+    "display_effect_range": 4,
+    "asset_id": "SniperTower_01",
+    "icon_id": "TwinGuns_01"
+  },
+  {
+    "id": 3002003,
+    "m_defensive_unit_id": 3002,
+    "level": 3,
+    "power": 630,
+    "display_effect_range_start_offset": -2,
+    "display_effect_range": 4,
+    "asset_id": "SniperTower_01",
+    "icon_id": "TwinGuns_01"
+  },
+  {
+    "id": 3002004,
+    "m_defensive_unit_id": 3002,
+    "level": 4,
+    "power": 735,
+    "display_effect_range_start_offset": -2,
+    "display_effect_range": 4,
+    "asset_id": "SniperTower_01",
+    "icon_id": "TwinGuns_01"
+  },
+  {
+    "id": 3002005,
+    "m_defensive_unit_id": 3002,
+    "level": 5,
+    "power": 840,
+    "display_effect_range_start_offset": -2,
+    "display_effect_range": 4,
+    "asset_id": "SniperTower_01",
+    "icon_id": "TwinGuns_01"
+  },
+  {
+    "id": 3002006,
+    "m_defensive_unit_id": 3002,
+    "level": 6,
+    "power": 945,
+    "display_effect_range_start_offset": -2,
+    "display_effect_range": 4,
+    "asset_id": "SniperTower_01",
+    "icon_id": "TwinGuns_01"
+  },
+  {
+    "id": 3003001,
+    "m_defensive_unit_id": 3003,
+    "level": 1,
+    "power": 800,
+    "display_effect_range_start_offset": -2,
+    "display_effect_range": 4,
+    "asset_id": "SniperTower_02",
+    "icon_id": "ReinforcedTwinGuns_01"
+  },
+  {
+    "id": 3003002,
+    "m_defensive_unit_id": 3003,
+    "level": 2,
+    "power": 1000,
+    "display_effect_range_start_offset": -2,
+    "display_effect_range": 4,
+    "asset_id": "SniperTower_02",
+    "icon_id": "ReinforcedTwinGuns_01"
+  },
+  {
+    "id": 3003003,
+    "m_defensive_unit_id": 3003,
+    "level": 3,
+    "power": 1200,
+    "display_effect_range_start_offset": -2,
+    "display_effect_range": 4,
+    "asset_id": "SniperTower_02",
+    "icon_id": "ReinforcedTwinGuns_01"
+  },
+  {
+    "id": 3003004,
+    "m_defensive_unit_id": 3003,
+    "level": 4,
+    "power": 1400,
+    "display_effect_range_start_offset": -2,
+    "display_effect_range": 4,
+    "asset_id": "SniperTower_02",
+    "icon_id": "ReinforcedTwinGuns_01"
+  },
+  {
+    "id": 4001001,
+    "m_defensive_unit_id": 4001,
+    "level": 1,
+    "power": 400,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 3,
+    "asset_id": "AirTurret_01",
+    "icon_id": "AirTurret_01"
+  },
+  {
+    "id": 4001002,
+    "m_defensive_unit_id": 4001,
+    "level": 2,
+    "power": 500,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 3,
+    "asset_id": "AirTurret_01",
+    "icon_id": "AirTurret_01"
+  },
+  {
+    "id": 4001003,
+    "m_defensive_unit_id": 4001,
+    "level": 3,
+    "power": 600,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 3,
+    "asset_id": "AirTurret_01",
+    "icon_id": "AirTurret_01"
+  },
+  {
+    "id": 4001004,
+    "m_defensive_unit_id": 4001,
+    "level": 4,
+    "power": 700,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 3,
+    "asset_id": "AirTurret_01",
+    "icon_id": "AirTurret_01"
+  },
+  {
+    "id": 4001005,
+    "m_defensive_unit_id": 4001,
+    "level": 5,
+    "power": 800,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 3,
+    "asset_id": "AirTurret_01",
+    "icon_id": "AirTurret_01"
+  },
+  {
+    "id": 4001006,
+    "m_defensive_unit_id": 4001,
+    "level": 6,
+    "power": 900,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 3,
+    "asset_id": "AirTurret_01",
+    "icon_id": "AirTurret_01"
+  },
+  {
+    "id": 4002001,
+    "m_defensive_unit_id": 4002,
+    "level": 1,
+    "power": 800,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 3,
+    "asset_id": "AirTurret_02",
+    "icon_id": "AirTurret_02"
+  },
+  {
+    "id": 4002002,
+    "m_defensive_unit_id": 4002,
+    "level": 2,
+    "power": 1000,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 3,
+    "asset_id": "AirTurret_02",
+    "icon_id": "AirTurret_02"
+  },
+  {
+    "id": 4002003,
+    "m_defensive_unit_id": 4002,
+    "level": 3,
+    "power": 1200,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 3,
+    "asset_id": "AirTurret_02",
+    "icon_id": "AirTurret_02"
+  },
+  {
+    "id": 4002004,
+    "m_defensive_unit_id": 4002,
+    "level": 4,
+    "power": 1400,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 3,
+    "asset_id": "AirTurret_02",
+    "icon_id": "AirTurret_02"
+  },
+  {
+    "id": 4002005,
+    "m_defensive_unit_id": 4002,
+    "level": 5,
+    "power": 1600,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 3,
+    "asset_id": "AirTurret_02",
+    "icon_id": "AirTurret_02"
+  },
+  {
+    "id": 4003001,
+    "m_defensive_unit_id": 4003,
+    "level": 1,
+    "power": 1200,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 3,
+    "asset_id": "AirTurret_03",
+    "icon_id": "AirTurret_03"
+  },
+  {
+    "id": 4003002,
+    "m_defensive_unit_id": 4003,
+    "level": 2,
+    "power": 1500,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 3,
+    "asset_id": "AirTurret_03",
+    "icon_id": "AirTurret_03"
+  },
+  {
+    "id": 4003003,
+    "m_defensive_unit_id": 4003,
+    "level": 3,
+    "power": 1800,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 3,
+    "asset_id": "AirTurret_03",
+    "icon_id": "AirTurret_03"
+  },
+  {
+    "id": 4003004,
+    "m_defensive_unit_id": 4003,
+    "level": 4,
+    "power": 2100,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 3,
+    "asset_id": "AirTurret_03",
+    "icon_id": "AirTurret_03"
+  },
+  {
+    "id": 4004001,
+    "m_defensive_unit_id": 4004,
+    "level": 1,
+    "power": 600,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 4,
+    "asset_id": "MagitekCannon_01",
+    "icon_id": "MagicCannon_01"
+  },
+  {
+    "id": 4004002,
+    "m_defensive_unit_id": 4004,
+    "level": 2,
+    "power": 750,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 4,
+    "asset_id": "MagitekCannon_01",
+    "icon_id": "MagicCannon_01"
+  },
+  {
+    "id": 4004003,
+    "m_defensive_unit_id": 4004,
+    "level": 3,
+    "power": 900,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 4,
+    "asset_id": "MagitekCannon_01",
+    "icon_id": "MagicCannon_01"
+  },
+  {
+    "id": 4004004,
+    "m_defensive_unit_id": 4004,
+    "level": 4,
+    "power": 1050,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 4,
+    "asset_id": "MagitekCannon_01",
+    "icon_id": "MagicCannon_01"
+  },
+  {
+    "id": 4004005,
+    "m_defensive_unit_id": 4004,
+    "level": 5,
+    "power": 1200,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 4,
+    "asset_id": "MagitekCannon_01",
+    "icon_id": "MagicCannon_01"
+  },
+  {
+    "id": 4004006,
+    "m_defensive_unit_id": 4004,
+    "level": 6,
+    "power": 1350,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 4,
+    "asset_id": "MagitekCannon_01",
+    "icon_id": "MagicCannon_01"
+  },
+  {
+    "id": 4005001,
+    "m_defensive_unit_id": 4005,
+    "level": 1,
+    "power": 1200,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 4,
+    "asset_id": "MagitekCannon_01",
+    "icon_id": "MagicCannon_02"
+  },
+  {
+    "id": 4005002,
+    "m_defensive_unit_id": 4005,
+    "level": 2,
+    "power": 1500,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 4,
+    "asset_id": "MagitekCannon_01",
+    "icon_id": "MagicCannon_02"
+  },
+  {
+    "id": 4005003,
+    "m_defensive_unit_id": 4005,
+    "level": 3,
+    "power": 1800,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 4,
+    "asset_id": "MagitekCannon_01",
+    "icon_id": "MagicCannon_02"
+  },
+  {
+    "id": 4005004,
+    "m_defensive_unit_id": 4005,
+    "level": 4,
+    "power": 2100,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 4,
+    "asset_id": "MagitekCannon_01",
+    "icon_id": "MagicCannon_02"
+  },
+  {
+    "id": 4005005,
+    "m_defensive_unit_id": 4005,
+    "level": 5,
+    "power": 2400,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 4,
+    "asset_id": "MagitekCannon_01",
+    "icon_id": "MagicCannon_02"
+  },
+  {
+    "id": 4006001,
+    "m_defensive_unit_id": 4006,
+    "level": 1,
+    "power": 1800,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 4,
+    "asset_id": "MagitekCannon_01",
+    "icon_id": "MagicCannon_03"
+  },
+  {
+    "id": 4006002,
+    "m_defensive_unit_id": 4006,
+    "level": 2,
+    "power": 2250,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 4,
+    "asset_id": "MagitekCannon_01",
+    "icon_id": "MagicCannon_03"
+  },
+  {
+    "id": 4006003,
+    "m_defensive_unit_id": 4006,
+    "level": 3,
+    "power": 2700,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 4,
+    "asset_id": "MagitekCannon_01",
+    "icon_id": "MagicCannon_03"
+  },
+  {
+    "id": 4006004,
+    "m_defensive_unit_id": 4006,
+    "level": 4,
+    "power": 3150,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 4,
+    "asset_id": "MagitekCannon_01",
+    "icon_id": "MagicCannon_03"
+  },
+  {
+    "id": 5001001,
+    "m_defensive_unit_id": 5001,
+    "level": 1,
+    "power": 620,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "Landmine_01",
+    "icon_id": "Landmine_01"
+  },
+  {
+    "id": 5001002,
+    "m_defensive_unit_id": 5001,
+    "level": 2,
+    "power": 775,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "Landmine_01",
+    "icon_id": "Landmine_01"
+  },
+  {
+    "id": 5001003,
+    "m_defensive_unit_id": 5001,
+    "level": 3,
+    "power": 930,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "Landmine_01",
+    "icon_id": "Landmine_01"
+  },
+  {
+    "id": 5001004,
+    "m_defensive_unit_id": 5001,
+    "level": 4,
+    "power": 1085,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "Landmine_01",
+    "icon_id": "Landmine_01"
+  },
+  {
+    "id": 5002001,
+    "m_defensive_unit_id": 5002,
+    "level": 1,
+    "power": 1240,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "Landmine_02",
+    "icon_id": "Landmine_02"
+  },
+  {
+    "id": 5002002,
+    "m_defensive_unit_id": 5002,
+    "level": 2,
+    "power": 1550,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "Landmine_02",
+    "icon_id": "Landmine_02"
+  },
+  {
+    "id": 5002003,
+    "m_defensive_unit_id": 5002,
+    "level": 3,
+    "power": 1860,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "Landmine_02",
+    "icon_id": "Landmine_02"
+  },
+  {
+    "id": 5003001,
+    "m_defensive_unit_id": 5003,
+    "level": 1,
+    "power": 1860,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "Landmine_03",
+    "icon_id": "Landmine_03"
+  },
+  {
+    "id": 5003002,
+    "m_defensive_unit_id": 5003,
+    "level": 2,
+    "power": 2325,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "Landmine_03",
+    "icon_id": "Landmine_03"
+  },
+  {
+    "id": 5004001,
+    "m_defensive_unit_id": 5004,
+    "level": 1,
+    "power": 500,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "AbnormalMagicCircle_01",
+    "icon_id": "AbnormalMagicCircle_01"
+  },
+  {
+    "id": 5004002,
+    "m_defensive_unit_id": 5004,
+    "level": 2,
+    "power": 600,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "AbnormalMagicCircle_01",
+    "icon_id": "AbnormalMagicCircle_01"
+  },
+  {
+    "id": 5004003,
+    "m_defensive_unit_id": 5004,
+    "level": 3,
+    "power": 700,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "AbnormalMagicCircle_01",
+    "icon_id": "AbnormalMagicCircle_01"
+  },
+  {
+    "id": 5005001,
+    "m_defensive_unit_id": 5005,
+    "level": 1,
+    "power": 500,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "AbnormalMagicCircle_02",
+    "icon_id": "AbnormalMagicCircle_02"
+  },
+  {
+    "id": 5005002,
+    "m_defensive_unit_id": 5005,
+    "level": 2,
+    "power": 600,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "AbnormalMagicCircle_02",
+    "icon_id": "AbnormalMagicCircle_02"
+  },
+  {
+    "id": 5005003,
+    "m_defensive_unit_id": 5005,
+    "level": 3,
+    "power": 700,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "AbnormalMagicCircle_02",
+    "icon_id": "AbnormalMagicCircle_02"
+  },
+  {
+    "id": 5006001,
+    "m_defensive_unit_id": 5006,
+    "level": 1,
+    "power": 500,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "AbnormalMagicCircle_03",
+    "icon_id": "AbnormalMagicCircle_03"
+  },
+  {
+    "id": 5006002,
+    "m_defensive_unit_id": 5006,
+    "level": 2,
+    "power": 600,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "AbnormalMagicCircle_03",
+    "icon_id": "AbnormalMagicCircle_03"
+  },
+  {
+    "id": 5006003,
+    "m_defensive_unit_id": 5006,
+    "level": 3,
+    "power": 700,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "AbnormalMagicCircle_03",
+    "icon_id": "AbnormalMagicCircle_03"
+  },
+  {
+    "id": 6001001,
+    "m_defensive_unit_id": 6001,
+    "level": 1,
+    "power": 1500,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "Barrier_01",
+    "icon_id": "MagicShield_01"
+  },
+  {
+    "id": 6001002,
+    "m_defensive_unit_id": 6001,
+    "level": 2,
+    "power": 1875,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "Barrier_01",
+    "icon_id": "MagicShield_01"
+  },
+  {
+    "id": 6001003,
+    "m_defensive_unit_id": 6001,
+    "level": 3,
+    "power": 2250,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "Barrier_01",
+    "icon_id": "MagicShield_01"
+  },
+  {
+    "id": 6001004,
+    "m_defensive_unit_id": 6001,
+    "level": 4,
+    "power": 2625,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "Barrier_01",
+    "icon_id": "MagicShield_01"
+  },
+  {
+    "id": 6002001,
+    "m_defensive_unit_id": 6002,
+    "level": 1,
+    "power": 900,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "Barrier_02",
+    "icon_id": "MagicShield_03"
+  },
+  {
+    "id": 6002002,
+    "m_defensive_unit_id": 6002,
+    "level": 2,
+    "power": 1125,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "Barrier_02",
+    "icon_id": "MagicShield_03"
+  },
+  {
+    "id": 6002003,
+    "m_defensive_unit_id": 6002,
+    "level": 3,
+    "power": 1350,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "Barrier_02",
+    "icon_id": "MagicShield_03"
+  },
+  {
+    "id": 6003001,
+    "m_defensive_unit_id": 6003,
+    "level": 1,
+    "power": 2100,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "Barrier_03",
+    "icon_id": "MagicShield_02"
+  },
+  {
+    "id": 6003002,
+    "m_defensive_unit_id": 6003,
+    "level": 2,
+    "power": 2625,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "Barrier_03",
+    "icon_id": "MagicShield_02"
+  },
+  {
+    "id": 9000001,
+    "m_defensive_unit_id": 9000,
+    "level": 1,
+    "power": 0,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "MagicShield_03",
+    "icon_id": "MagicShield_03"
+  },
+  {
+    "id": 9000002,
+    "m_defensive_unit_id": 9000,
+    "level": 2,
+    "power": 0,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "MagicShield_03",
+    "icon_id": "MagicShield_03"
+  },
+  {
+    "id": 9000003,
+    "m_defensive_unit_id": 9000,
+    "level": 3,
+    "power": 0,
+    "display_effect_range_start_offset": 0,
+    "display_effect_range": 0,
+    "asset_id": "MagicShield_03",
+    "icon_id": "MagicShield_03"
+  }
+]

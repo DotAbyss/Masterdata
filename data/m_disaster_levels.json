@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "disaster_level": 1,
+    "max_disaster_point": 30,
+    "require_patrol_cost": 10000
+  },
+  {
+    "id": 2,
+    "disaster_level": 2,
+    "max_disaster_point": 30,
+    "require_patrol_cost": 10000
+  },
+  {
+    "id": 3,
+    "disaster_level": 3,
+    "max_disaster_point": 30,
+    "require_patrol_cost": 10000
+  },
+  {
+    "id": 4,
+    "disaster_level": 4,
+    "max_disaster_point": 45,
+    "require_patrol_cost": 10000
+  },
+  {
+    "id": 5,
+    "disaster_level": 5,
+    "max_disaster_point": 45,
+    "require_patrol_cost": 10000
+  },
+  {
+    "id": 6,
+    "disaster_level": 6,
+    "max_disaster_point": 60,
+    "require_patrol_cost": 10000
+  },
+  {
+    "id": 7,
+    "disaster_level": 7,
+    "max_disaster_point": 60,
+    "require_patrol_cost": 30000
+  },
+  {
+    "id": 8,
+    "disaster_level": 8,
+    "max_disaster_point": 60,
+    "require_patrol_cost": 30000
+  },
+  {
+    "id": 9,
+    "disaster_level": 9,
+    "max_disaster_point": 60,
+    "require_patrol_cost": 30000
+  },
+  {
+    "id": 10,
+    "disaster_level": 10,
+    "max_disaster_point": 90,
+    "require_patrol_cost": 30000
+  },
+  {
+    "id": 11,
+    "disaster_level": 11,
+    "max_disaster_point": 90,
+    "require_patrol_cost": 30000
+  },
+  {
+    "id": 12,
+    "disaster_level": 12,
+    "max_disaster_point": 90,
+    "require_patrol_cost": 30000
+  },
+  {
+    "id": 13,
+    "disaster_level": 13,
+    "max_disaster_point": 90,
+    "require_patrol_cost": 50000
+  },
+  {
+    "id": 14,
+    "disaster_level": 14,
+    "max_disaster_point": 90,
+    "require_patrol_cost": 50000
+  },
+  {
+    "id": 15,
+    "disaster_level": 15,
+    "max_disaster_point": 90,
+    "require_patrol_cost": 50000
+  },
+  {
+    "id": 16,
+    "disaster_level": 16,
+    "max_disaster_point": 90,
+    "require_patrol_cost": 50000
+  }
+]

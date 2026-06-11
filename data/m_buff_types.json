@@ -1,0 +1,970 @@
+[
+  {
+    "id": 1,
+    "name": "バリア",
+    "nameEN": "Barrier",
+    "limit": 0,
+    "icon_asset_id": "Barrier",
+    "description": "受けるダメージを{0}まで無効化する状態"
+  },
+  {
+    "id": 10,
+    "name": "攻撃力UP",
+    "nameEN": "Attack Up",
+    "limit": 0,
+    "icon_asset_id": "Attack_UP",
+    "description": "攻撃力が{0}上昇する状態"
+  },
+  {
+    "id": 11,
+    "name": "攻撃力DOWN",
+    "nameEN": "Attack Down",
+    "limit": 0,
+    "icon_asset_id": "Attack_DOWN",
+    "description": "攻撃力が{0}減少する状態"
+  },
+  {
+    "id": 12,
+    "name": "攻撃力UP",
+    "nameEN": "Attack Up",
+    "limit": 0,
+    "icon_asset_id": "Attack_UP",
+    "description": "攻撃力が{0}上昇する状態"
+  },
+  {
+    "id": 13,
+    "name": "攻撃力DOWN",
+    "nameEN": "Attack Down",
+    "limit": 0,
+    "icon_asset_id": "Attack_DOWN",
+    "description": "攻撃力が{0}減少する状態 "
+  },
+  {
+    "id": 20,
+    "name": "防御力UP",
+    "nameEN": "Defence Up",
+    "limit": 0,
+    "icon_asset_id": "Defence_UP",
+    "description": "防御力が{0}上昇する状態"
+  },
+  {
+    "id": 21,
+    "name": "防御力DOWN",
+    "nameEN": "Defence Down",
+    "limit": 0,
+    "icon_asset_id": "Defence_DOWN",
+    "description": "防御力が{0}減少する状態"
+  },
+  {
+    "id": 22,
+    "name": "防御力UP",
+    "nameEN": "Defence Up",
+    "limit": 0,
+    "icon_asset_id": "Defence_UP",
+    "description": "防御力が{0}上昇する状態"
+  },
+  {
+    "id": 23,
+    "name": "防御力DOWN",
+    "nameEN": "Defence Down",
+    "limit": 0,
+    "icon_asset_id": "Defence_DOWN",
+    "description": "防御力が{0}減少する状態"
+  },
+  {
+    "id": 30,
+    "name": "会心率UP",
+    "nameEN": "Critical Probability Up",
+    "limit": 0,
+    "icon_asset_id": "Critical_UP",
+    "description": "会心率が{0}上昇する状態"
+  },
+  {
+    "id": 31,
+    "name": "会心率DOWN",
+    "nameEN": "Critical Probability Down",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "会心率が{0}減少する状態"
+  },
+  {
+    "id": 32,
+    "name": "会心ダメージ倍率UP",
+    "nameEN": "Critical Damage Up",
+    "limit": 0,
+    "icon_asset_id": "CriticalDamage_UP",
+    "description": "会心ダメージ倍率が{0}上昇する状態"
+  },
+  {
+    "id": 33,
+    "name": "会心ダメージ倍率DOWN",
+    "nameEN": "Critical Damage Down",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "会心ダメージ倍率が{0}減少する状態"
+  },
+  {
+    "id": 41,
+    "name": "与ダメージUP",
+    "nameEN": "Damage Up",
+    "limit": 0,
+    "icon_asset_id": "Damage_UP",
+    "description": "与ダメージが{0}上昇する状態"
+  },
+  {
+    "id": 42,
+    "name": "与ダメージDOWN",
+    "nameEN": "Damage Down",
+    "limit": 0,
+    "icon_asset_id": "Damage_DOWN",
+    "description": "与ダメージが{0}減少する状態"
+  },
+  {
+    "id": 51,
+    "name": "被ダメージUP",
+    "nameEN": "Taken Damage Up",
+    "limit": 0,
+    "icon_asset_id": "TakenDamage_Increcae",
+    "description": "被ダメージが{0}上昇する状態"
+  },
+  {
+    "id": 52,
+    "name": "被ダメージDOWN",
+    "nameEN": "Taken Damage Down",
+    "limit": 0,
+    "icon_asset_id": "TakenDamage_reduction",
+    "description": "被ダメージが{0}減少する状態"
+  },
+  {
+    "id": 53,
+    "name": "通常攻撃被ダメージUP",
+    "nameEN": "Taken Damage Up",
+    "limit": 0,
+    "icon_asset_id": "TakenDamage_Increcae",
+    "description": "通常攻撃による被ダメージが{0}上昇する状態"
+  },
+  {
+    "id": 54,
+    "name": "通常攻撃被ダメージDOWN",
+    "nameEN": "Taken Damage Down",
+    "limit": 0,
+    "icon_asset_id": "TakenDamage_reduction",
+    "description": "通常攻撃による被ダメージが{0}減少する状態"
+  },
+  {
+    "id": 55,
+    "name": "スキル被ダメージUP",
+    "nameEN": "Taken Damage Up",
+    "limit": 0,
+    "icon_asset_id": "TakenDamage_Increcae",
+    "description": "スキルによる被ダメージが{0}上昇する状態"
+  },
+  {
+    "id": 56,
+    "name": "スキル被ダメージDOWN",
+    "nameEN": "Taken Damage Down",
+    "limit": 0,
+    "icon_asset_id": "TakenDamage_reduction",
+    "description": "スキルによる被ダメージが{0}減少する状態"
+  },
+  {
+    "id": 61,
+    "name": "ノックバック強度UP",
+    "nameEN": "Knockback Strength Up",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "ノックバック強度が{0}上昇する状態"
+  },
+  {
+    "id": 62,
+    "name": "ノックバック強度DOWN",
+    "nameEN": "Knockback Strength Down",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "ノックバック強度が{0}減少する状態"
+  },
+  {
+    "id": 63,
+    "name": "ノックバック抵抗UP",
+    "nameEN": "Knockback Resist Up",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "ノックバック抵抗が{0}上昇する状態"
+  },
+  {
+    "id": 64,
+    "name": "ノックバック抵抗DOWN",
+    "nameEN": "Knockback Resist Down",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "ノックバック抵抗が{0}減少する状態"
+  },
+  {
+    "id": 70,
+    "name": "回避率UP",
+    "nameEN": "Evasion Probability Up",
+    "limit": 0,
+    "icon_asset_id": "EvasionRate_UP",
+    "description": "回避率が{0}上昇する状態"
+  },
+  {
+    "id": 71,
+    "name": "回避率DOWN",
+    "nameEN": "Evasion Probability Down",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "回避率が{0}減少する状態"
+  },
+  {
+    "id": 80,
+    "name": "最大HP割合UP",
+    "nameEN": "MaxHp Up",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "最大HPが{0}上昇する状態"
+  },
+  {
+    "id": 81,
+    "name": "最大HP割合DOWN",
+    "nameEN": "MaxHp Down",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "最大HPが{0}減少する状態"
+  },
+  {
+    "id": 82,
+    "name": "最大HP固定UP",
+    "nameEN": "MaxHp Up",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "最大HPが{0}上昇する状態"
+  },
+  {
+    "id": 83,
+    "name": "最大HP固定DOWN",
+    "nameEN": "MaxHp Down",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "最大HPが{0}減少する状態"
+  },
+  {
+    "id": 90,
+    "name": "連撃率UP",
+    "nameEN": "Attack Continuous Probability Up",
+    "limit": 0,
+    "icon_asset_id": "ConsecutiveRate_UP",
+    "description": "連撃率が{0}上昇する状態"
+  },
+  {
+    "id": 91,
+    "name": "連撃率DOWN",
+    "nameEN": "Attack Continuous Probability Down",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "連撃率が{0}減少する状態"
+  },
+  {
+    "id": 101,
+    "name": "蘇生",
+    "nameEN": "",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "戦闘不能から蘇生された状態"
+  },
+  {
+    "id": 110,
+    "name": "回復量UP",
+    "nameEN": "Heal Up",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "回復量が{0}上昇する状態"
+  },
+  {
+    "id": 111,
+    "name": "回復量DOWN",
+    "nameEN": "Heal Down",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "回復量が{0}減少する状態"
+  },
+  {
+    "id": 120,
+    "name": "スキルチャージ効率UP",
+    "nameEN": "Skill Charge Quantity Up",
+    "limit": 0,
+    "icon_asset_id": "SkillChargeQuantity_UP",
+    "description": "スキルチャージ効率が{0}上昇する状態"
+  },
+  {
+    "id": 121,
+    "name": "スキルチャージ効率DOWN",
+    "nameEN": "Skill Charge Quantity Down",
+    "limit": 0,
+    "icon_asset_id": "SkillChargeQuantity_DOWN",
+    "description": "スキルチャージ効率が{0}減少する状態"
+  },
+  {
+    "id": 130,
+    "name": "行動間隔UP",
+    "nameEN": "Action CoolTime Up",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "行動間隔が{0}上昇する状態"
+  },
+  {
+    "id": 131,
+    "name": "行動間隔DOWN",
+    "nameEN": "Action CoolTime Down",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "行動間隔が{0}減少する状態"
+  },
+  {
+    "id": 140,
+    "name": "スキル与ダメージUP",
+    "nameEN": "Skill Damage Up",
+    "limit": 0,
+    "icon_asset_id": "Damage_UP",
+    "description": "スキル与ダメージが{0}上昇する状態"
+  },
+  {
+    "id": 141,
+    "name": "スキル与ダメージDOWN",
+    "nameEN": "Skill Damage Down",
+    "limit": 0,
+    "icon_asset_id": "Damage_DOWN",
+    "description": "スキル与ダメージが{0}減少する状態"
+  },
+  {
+    "id": 150,
+    "name": "マナが多いほど攻撃力UP",
+    "nameEN": "Attack Up",
+    "limit": 0,
+    "icon_asset_id": "Attack_UP",
+    "description": "マナが多いほど攻撃力が上昇する状態【{0}】"
+  },
+  {
+    "id": 160,
+    "name": "パラメータ変換",
+    "nameEN": "Status Conversion",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "{0}の{1}を{2}に変換する状態"
+  },
+  {
+    "id": 170,
+    "name": "特殊行動制御",
+    "nameEN": "",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": ""
+  },
+  {
+    "id": 180,
+    "name": "命中率UP",
+    "nameEN": "Hit Probability Up",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "命中率が{0}上昇する状態"
+  },
+  {
+    "id": 181,
+    "name": "命中率DOWN",
+    "nameEN": "Hit Probability Down",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "命中率が{0}減少する状態"
+  },
+  {
+    "id": 190,
+    "name": "マナチャージ効率UP",
+    "nameEN": "Mana Charge Quantity Up",
+    "limit": 0,
+    "icon_asset_id": "Manacharge_Reinforce",
+    "description": "マナチャージ量が上昇する"
+  },
+  {
+    "id": 501,
+    "name": "毒",
+    "nameEN": "Poison",
+    "limit": 0,
+    "icon_asset_id": "PoisonSwamp",
+    "description": "{0}秒ごとに最大HP{1}分のダメージを受ける状態"
+  },
+  {
+    "id": 601,
+    "name": "行動時HP割合ダメージ",
+    "nameEN": "Damage Per Action",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "行動時に最大HP{0}分のダメージを受ける状態"
+  },
+  {
+    "id": 602,
+    "name": "挑発",
+    "nameEN": "Provocation",
+    "limit": 0,
+    "icon_asset_id": "Provocation",
+    "description": "攻撃のターゲットになりやすい状態"
+  },
+  {
+    "id": 603,
+    "name": "狙撃",
+    "nameEN": "Sniper",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "遠くの敵を狙いやすい状態"
+  },
+  {
+    "id": 604,
+    "name": "トロッコ優先",
+    "nameEN": "Trolley Priority Up",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "トロッコを優先して攻撃しやすい状態"
+  },
+  {
+    "id": 605,
+    "name": "攻撃優先度変更（敵タイプ）",
+    "nameEN": "Enemy Hate Up",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": ""
+  },
+  {
+    "id": 606,
+    "name": "フォースチェイン参加禁止",
+    "nameEN": "Restriction ForceChain",
+    "limit": 0,
+    "icon_asset_id": "NoFC",
+    "description": "フォースチェイン参加が制限された状態"
+  },
+  {
+    "id": 607,
+    "name": "衝撃スタック数増加",
+    "nameEN": "Impact Stack Bonus",
+    "limit": 0,
+    "icon_asset_id": "Impact_Reinforce",
+    "description": "衝撃効果が追加で付与される状態"
+  },
+  {
+    "id": 608,
+    "name": "衝撃スタック消費無効",
+    "nameEN": "Impact Stack Consumption Substitute",
+    "limit": 0,
+    "icon_asset_id": "Impact_Aegis",
+    "description": "1度だけ衝撃効果を消費しない状態"
+  },
+  {
+    "id": 1001,
+    "name": "全状態異常成功率UP",
+    "nameEN": "Abnormal Probability Up - ALL",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "状態異常付与の成功率が{0}%上昇する状態"
+  },
+  {
+    "id": 1002,
+    "name": "全状態異常成功率DOWN",
+    "nameEN": "Abnormal Probability Down - ALL",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "状態異常付与の成功率が{0}%減少する状態"
+  },
+  {
+    "id": 1003,
+    "name": "全状態異常耐性UP",
+    "nameEN": "Abnormal Resist Probability Up - ALL",
+    "limit": 0,
+    "icon_asset_id": "StatusCondition_UP",
+    "description": "全状態異常耐性が{0}%上昇する状態"
+  },
+  {
+    "id": 1004,
+    "name": "全状態異常耐性DOWN",
+    "nameEN": "Abnormal Resist Probability Down - ALL",
+    "limit": 0,
+    "icon_asset_id": "StatusCondition_DOWN",
+    "description": "全状態異常耐性が{0}%減少する状態"
+  },
+  {
+    "id": 1011,
+    "name": "炎上成功率UP",
+    "nameEN": "Abnormal Probability Up - Flame",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "炎上付与の成功率が{0}%上昇する状態"
+  },
+  {
+    "id": 1012,
+    "name": "炎上成功率DOWN",
+    "nameEN": "Abnormal Probability Down - Flame",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "炎上付与の成功率が{0}%減少する状態"
+  },
+  {
+    "id": 1013,
+    "name": "炎上耐性UP",
+    "nameEN": "Abnormal Resist Probability Up - Flame",
+    "limit": 0,
+    "icon_asset_id": "FlameResist_UP",
+    "description": "炎上耐性が{0}%上昇する状態"
+  },
+  {
+    "id": 1014,
+    "name": "炎上耐性DOWN",
+    "nameEN": "Abnormal Resist Probability Down - Flame",
+    "limit": 0,
+    "icon_asset_id": "FlameResist_DOWN",
+    "description": "炎上耐性が{0}%減少する状態"
+  },
+  {
+    "id": 1021,
+    "name": "凍結成功率UP",
+    "nameEN": "Abnormal Probability Up - Frozen",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "凍結付与の成功率が{0}%上昇する状態"
+  },
+  {
+    "id": 1022,
+    "name": "凍結成功率DOWN",
+    "nameEN": "Abnormal Probability Down - Frozen",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "凍結付与の成功率が{0}%減少する状態"
+  },
+  {
+    "id": 1023,
+    "name": "凍結耐性UP",
+    "nameEN": "Abnormal Resist Probability Up - Frozen",
+    "limit": 0,
+    "icon_asset_id": "FrozenResist_UP",
+    "description": "凍結耐性が{0}%上昇する状態"
+  },
+  {
+    "id": 1024,
+    "name": "凍結耐性DOWN",
+    "nameEN": "Abnormal Resist Probability Down - Frozen",
+    "limit": 0,
+    "icon_asset_id": "FrozenResist_DOWN",
+    "description": "凍結耐性が{0}%減少する状態"
+  },
+  {
+    "id": 1031,
+    "name": "麻痺成功率UP",
+    "nameEN": "Abnormal Probability Up - Paralysis",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "麻痺付与の成功率が{0}%上昇する状態"
+  },
+  {
+    "id": 1032,
+    "name": "麻痺成功率DOWN",
+    "nameEN": "Abnormal Probability Down - Paralysis",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "麻痺付与の成功率が{0}%減少する状態"
+  },
+  {
+    "id": 1033,
+    "name": "麻痺耐性UP",
+    "nameEN": "Abnormal Resist Probability Up - Paralysis",
+    "limit": 0,
+    "icon_asset_id": "ParalysisResist_UP",
+    "description": "麻痺耐性が{0}%上昇する状態"
+  },
+  {
+    "id": 1034,
+    "name": "麻痺耐性DOWN",
+    "nameEN": "Abnormal Resist Probability Down - Paralysis",
+    "limit": 0,
+    "icon_asset_id": "ParalysisResist_DOWN",
+    "description": "麻痺耐性が{0}%減少する状態"
+  },
+  {
+    "id": 1041,
+    "name": "石化成功率UP",
+    "nameEN": "Abnormal Probability Up - Stone",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "石化付与の成功率が{0}%上昇する状態"
+  },
+  {
+    "id": 1042,
+    "name": "石化成功率DOWN",
+    "nameEN": "Abnormal Probability Down - Stone",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "石化付与の成功率が{0}%減少する状態"
+  },
+  {
+    "id": 1043,
+    "name": "石化耐性UP",
+    "nameEN": "Abnormal Resist Probability Up - Stone",
+    "limit": 0,
+    "icon_asset_id": "CuringResist_UP",
+    "description": "石化耐性が{0}%上昇する状態"
+  },
+  {
+    "id": 1044,
+    "name": "石化耐性DOWN",
+    "nameEN": "Abnormal Resist Probability Down - Stone",
+    "limit": 0,
+    "icon_asset_id": "CuringResist_DOWN",
+    "description": "石化耐性が{0}%減少する状態"
+  },
+  {
+    "id": 1051,
+    "name": "魅了成功率UP",
+    "nameEN": "Abnormal Probability Up - Charm",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "魅了付与の成功率が{0}%上昇する状態"
+  },
+  {
+    "id": 1052,
+    "name": "魅了成功率DOWN",
+    "nameEN": "Abnormal Probability Down - Charm",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "魅了付与の成功率が{0}%減少する状態"
+  },
+  {
+    "id": 1053,
+    "name": "魅了耐性UP",
+    "nameEN": "Abnormal Resist Probability Up - Charm",
+    "limit": 0,
+    "icon_asset_id": "CharmResist_UP",
+    "description": "魅了耐性が{0}%上昇する状態"
+  },
+  {
+    "id": 1054,
+    "name": "魅了耐性DOWN",
+    "nameEN": "Abnormal Resist Probability Down - Charm",
+    "limit": 0,
+    "icon_asset_id": "CharmResist_DOWN",
+    "description": "魅了耐性が{0}%減少する状態"
+  },
+  {
+    "id": 1061,
+    "name": "喪失成功率UP",
+    "nameEN": "Abnormal Probability Up - Lost",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "喪失付与の成功率が{0}%上昇する状態"
+  },
+  {
+    "id": 1062,
+    "name": "喪失成功率DOWN",
+    "nameEN": "Abnormal Probability Down - Lost",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "喪失付与の成功率が{0}%減少する状態"
+  },
+  {
+    "id": 1063,
+    "name": "喪失耐性UP",
+    "nameEN": "Abnormal Resist Probability Up - Lost",
+    "limit": 0,
+    "icon_asset_id": "LostMotivationResist_UP",
+    "description": "喪失耐性が{0}%上昇する状態"
+  },
+  {
+    "id": 1064,
+    "name": "喪失耐性DOWN",
+    "nameEN": "Abnormal Resist Probability Down - Lost",
+    "limit": 0,
+    "icon_asset_id": "LostMotivationResist_DOWN",
+    "description": "喪失耐性が{0}%減少する状態"
+  },
+  {
+    "id": 2001,
+    "name": "行動間隔延長",
+    "nameEN": "Action Interval Delay",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "行動間隔が{0}%延長された状態"
+  },
+  {
+    "id": 3000,
+    "name": "無属性の敵に対して与ダメージUP",
+    "nameEN": "Damage Up",
+    "limit": 0,
+    "icon_asset_id": "Damage_UP",
+    "description": "無属性の敵に対して与ダメージが{0}上昇する状態"
+  },
+  {
+    "id": 3001,
+    "name": "無属性の敵に対して与ダメージDOWN",
+    "nameEN": "Damage Down",
+    "limit": 0,
+    "icon_asset_id": "Damage_DOWN",
+    "description": "無属性の敵に対して与ダメージが{0}減少する状態"
+  },
+  {
+    "id": 3002,
+    "name": "火属性の敵に対して与ダメージUP",
+    "nameEN": "Damage Up",
+    "limit": 0,
+    "icon_asset_id": "Damage_UP",
+    "description": "火属性の敵に対して与ダメージが{0}上昇する状態"
+  },
+  {
+    "id": 3003,
+    "name": "火属性の敵に対して与ダメージDOWN",
+    "nameEN": "Damage Down",
+    "limit": 0,
+    "icon_asset_id": "Damage_DOWN",
+    "description": "火属性の敵に対して与ダメージが{0}減少する状態"
+  },
+  {
+    "id": 3004,
+    "name": "水属性の敵に対して与ダメージUP",
+    "nameEN": "Damage Up",
+    "limit": 0,
+    "icon_asset_id": "Damage_UP",
+    "description": "水属性の敵に対して与ダメージが{0}上昇する状態"
+  },
+  {
+    "id": 3005,
+    "name": "水属性の敵に対して与ダメージDOWN",
+    "nameEN": "Damage Down",
+    "limit": 0,
+    "icon_asset_id": "Damage_DOWN",
+    "description": "水属性の敵に対して与ダメージが{0}減少する状態"
+  },
+  {
+    "id": 3006,
+    "name": "土属性の敵に対して与ダメージUP",
+    "nameEN": "Damage Up",
+    "limit": 0,
+    "icon_asset_id": "Damage_UP",
+    "description": "土属性の敵に対して与ダメージが{0}上昇する状態"
+  },
+  {
+    "id": 3007,
+    "name": "土属性の敵に対して与ダメージDOWN",
+    "nameEN": "Damage Down",
+    "limit": 0,
+    "icon_asset_id": "Damage_DOWN",
+    "description": "土属性の敵に対して与ダメージが{0}減少する状態"
+  },
+  {
+    "id": 3008,
+    "name": "光属性の敵に対して与ダメージUP",
+    "nameEN": "Damage Up",
+    "limit": 0,
+    "icon_asset_id": "Damage_UP",
+    "description": "光属性の敵に対して与ダメージが{0}上昇する状態"
+  },
+  {
+    "id": 3009,
+    "name": "光属性の敵に対して与ダメージDOWN",
+    "nameEN": "Damage Down",
+    "limit": 0,
+    "icon_asset_id": "Damage_DOWN",
+    "description": "光属性の敵に対して与ダメージが{0}減少する状態"
+  },
+  {
+    "id": 3010,
+    "name": "闇属性の敵に対して与ダメージUP",
+    "nameEN": "Damage Up",
+    "limit": 0,
+    "icon_asset_id": "Damage_UP",
+    "description": "闇属性の敵に対して与ダメージが{0}上昇する状態"
+  },
+  {
+    "id": 3011,
+    "name": "闇属性の敵に対して与ダメージDOWN",
+    "nameEN": "Damage Down",
+    "limit": 0,
+    "icon_asset_id": "Damage_DOWN",
+    "description": "闇属性の敵に対して与ダメージが{0}減少する状態"
+  },
+  {
+    "id": 3020,
+    "name": "炎上状態の敵に対して与ダメージUP",
+    "nameEN": "Damage Up",
+    "limit": 0,
+    "icon_asset_id": "Damage_UP",
+    "description": "炎上状態の敵に対して与ダメージが{0}上昇する状態"
+  },
+  {
+    "id": 3021,
+    "name": "炎上状態の敵に対して与ダメージDOWN",
+    "nameEN": "Damage Down",
+    "limit": 0,
+    "icon_asset_id": "Damage_DOWN",
+    "description": "炎上状態の敵に対して与ダメージが{0}減少する状態"
+  },
+  {
+    "id": 3022,
+    "name": "凍結状態の敵に対して与ダメージUP",
+    "nameEN": "Damage Up",
+    "limit": 0,
+    "icon_asset_id": "Damage_UP",
+    "description": "凍結状態の敵に対して与ダメージが{0}上昇する状態"
+  },
+  {
+    "id": 3023,
+    "name": "凍結状態の敵に対して与ダメージDOWN",
+    "nameEN": "Damage Down",
+    "limit": 0,
+    "icon_asset_id": "Damage_DOWN",
+    "description": "凍結状態の敵に対して与ダメージが{0}減少する状態"
+  },
+  {
+    "id": 3024,
+    "name": "石化状態の敵に対して与ダメージUP",
+    "nameEN": "Damage Up",
+    "limit": 0,
+    "icon_asset_id": "Damage_UP",
+    "description": "石化状態の敵に対して与ダメージが{0}上昇する状態"
+  },
+  {
+    "id": 3025,
+    "name": "石化状態の敵に対して与ダメージDOWN",
+    "nameEN": "Damage Down",
+    "limit": 0,
+    "icon_asset_id": "Damage_DOWN",
+    "description": "石化状態の敵に対して与ダメージが{0}減少する状態"
+  },
+  {
+    "id": 3026,
+    "name": "麻痺状態の敵に対して与ダメージUP",
+    "nameEN": "Damage Up",
+    "limit": 0,
+    "icon_asset_id": "Damage_UP",
+    "description": "麻痺状態の敵に対して与ダメージが{0}上昇する状態"
+  },
+  {
+    "id": 3027,
+    "name": "麻痺状態の敵に対して与ダメージDOWN",
+    "nameEN": "Damage Down",
+    "limit": 0,
+    "icon_asset_id": "Damage_DOWN",
+    "description": "麻痺状態の敵に対して与ダメージが{0}減少する状態"
+  },
+  {
+    "id": 3028,
+    "name": "魅了状態の敵に対して与ダメージUP",
+    "nameEN": "Damage Up",
+    "limit": 0,
+    "icon_asset_id": "Damage_UP",
+    "description": "魅了状態の敵に対して与ダメージが{0}上昇する状態"
+  },
+  {
+    "id": 3029,
+    "name": "魅了状態の敵に対して与ダメージDOWN",
+    "nameEN": "Damage Down",
+    "limit": 0,
+    "icon_asset_id": "Damage_DOWN",
+    "description": "魅了状態の敵に対して与ダメージが{0}減少する状態"
+  },
+  {
+    "id": 3030,
+    "name": "喪失状態の敵に対して与ダメージUP",
+    "nameEN": "Damage Up",
+    "limit": 0,
+    "icon_asset_id": "Damage_UP",
+    "description": "喪失状態の敵に対して与ダメージが{0}上昇する状態"
+  },
+  {
+    "id": 3031,
+    "name": "喪失状態の敵に対して与ダメージDOWN",
+    "nameEN": "Damage Down",
+    "limit": 0,
+    "icon_asset_id": "Damage_DOWN",
+    "description": "喪失状態の敵に対して与ダメージが{0}減少する状態"
+  },
+  {
+    "id": 4001,
+    "name": "攻撃範囲増加",
+    "nameEN": "Attack Range Boost",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "攻撃範囲が{0}%増加した状態"
+  },
+  {
+    "id": 10001,
+    "name": "氷獄",
+    "nameEN": "IcePrison",
+    "limit": 0,
+    "icon_asset_id": "IcePrison",
+    "description": "行動ができない状態"
+  },
+  {
+    "id": 10002,
+    "name": "氷鎧",
+    "nameEN": "IceArmor",
+    "limit": 0,
+    "icon_asset_id": "IceArmor",
+    "description": "Lvに応じて攻撃力と防御力が上昇する状態\n（一定値以上のダメージを受けると減少）"
+  },
+  {
+    "id": 10003,
+    "name": "ハイバネーション",
+    "nameEN": "Hibernation",
+    "limit": 0,
+    "icon_asset_id": "Hibernation",
+    "description": "{0}秒ごとにHPを{1}回復 / 氷鎧Lvが{2}上昇する状態"
+  },
+  {
+    "id": 10004,
+    "name": "氷牙",
+    "nameEN": "IceFang",
+    "limit": 0,
+    "icon_asset_id": "IceFang",
+    "description": "Lvに応じて与ダメージが上昇する状態"
+  },
+  {
+    "id": 20001,
+    "name": "飢餓",
+    "nameEN": "Hunger",
+    "limit": 0,
+    "icon_asset_id": "Hunger",
+    "description": "{0}秒ごとに1Lvにつき最大HP{1}%分のダメージを受ける状態\n（回復を受けるとLvが減少する）"
+  },
+  {
+    "id": 20002,
+    "name": "飽食",
+    "nameEN": "Satisfaction",
+    "limit": 0,
+    "icon_asset_id": "Satisfaction",
+    "description": "Lvに応じてパラメータが上昇する状態\n（時間経過で減少）"
+  },
+  {
+    "id": 30001,
+    "name": "信仰",
+    "nameEN": "Faith",
+    "limit": 0,
+    "icon_asset_id": "Faith",
+    "description": "Lvに応じて強化された状態\n（魅了状態の間Lvが減少する）"
+  },
+  {
+    "id": 30002,
+    "name": "神聖",
+    "nameEN": "Holy",
+    "limit": 0,
+    "icon_asset_id": "Holy",
+    "description": "Lvに応じて時間経過でHPが回復する状態\n（会心ダメージを受けるとLvが減少）"
+  },
+  {
+    "id": 10000001,
+    "name": "情熱",
+    "nameEN": "Zeal",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "会心率が{0}、スキルチャージ効率が{1}上昇した状態"
+  },
+  {
+    "id": 10000002,
+    "name": "衝撃",
+    "nameEN": "Impact",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "攻撃力が{0}、スキルチャージ効率が{1}上昇した状態"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 101,
+    "name": "第１階層",
+    "asset_id": "1000",
+    "m_idle_exploration_map_id": 1,
+    "is_outland": 0,
+    "enemy_asset_ids": "2001001,2002001,2010001"
+  },
+  {
+    "id": 102,
+    "name": "第２階層",
+    "asset_id": "2000",
+    "m_idle_exploration_map_id": 1,
+    "is_outland": 0,
+    "enemy_asset_ids": "2001001,2002001,2010001"
+  },
+  {
+    "id": 103,
+    "name": "第３階層",
+    "asset_id": "3000",
+    "m_idle_exploration_map_id": 1,
+    "is_outland": 0,
+    "enemy_asset_ids": "2001201"
+  },
+  {
+    "id": 104,
+    "name": "第４階層",
+    "asset_id": "4000",
+    "m_idle_exploration_map_id": 1,
+    "is_outland": 0,
+    "enemy_asset_ids": "2001301"
+  },
+  {
+    "id": 105,
+    "name": "第５階層",
+    "asset_id": "6000",
+    "m_idle_exploration_map_id": 1,
+    "is_outland": 0,
+    "enemy_asset_ids": "2002301"
+  },
+  {
+    "id": 106,
+    "name": "第６階層",
+    "asset_id": "5000",
+    "m_idle_exploration_map_id": 1,
+    "is_outland": 0,
+    "enemy_asset_ids": "2001401"
+  }
+]

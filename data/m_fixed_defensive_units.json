@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "group_no": 1,
+    "m_defensive_unit_id": 4003,
+    "level": 4,
+    "placement_line": 1,
+    "placement_index": 1
+  },
+  {
+    "id": 2,
+    "group_no": 1,
+    "m_defensive_unit_id": 5003,
+    "level": 2,
+    "placement_line": 2,
+    "placement_index": 1
+  },
+  {
+    "id": 3,
+    "group_no": 1,
+    "m_defensive_unit_id": 4003,
+    "level": 4,
+    "placement_line": 3,
+    "placement_index": 1
+  },
+  {
+    "id": 4,
+    "group_no": 1,
+    "m_defensive_unit_id": 3001,
+    "level": 1,
+    "placement_line": 2,
+    "placement_index": 0
+  }
+]

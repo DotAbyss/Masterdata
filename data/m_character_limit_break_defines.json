@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "rarity": 1,
+    "max_limit_break_count": 9,
+    "limit_break_core_point": 1,
+    "require_amount": 1
+  },
+  {
+    "id": 2,
+    "rarity": 2,
+    "max_limit_break_count": 9,
+    "limit_break_core_point": 2,
+    "require_amount": 1
+  },
+  {
+    "id": 3,
+    "rarity": 3,
+    "max_limit_break_count": 9,
+    "limit_break_core_point": 10,
+    "require_amount": 1
+  }
+]

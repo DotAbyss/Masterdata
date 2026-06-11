@@ -1,0 +1,1290 @@
+[
+  {
+    "id": 1,
+    "m_nether_map_floor_id": 1,
+    "type": 1,
+    "m_nether_battle_stage_id": 1,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 2,
+    "m_nether_map_floor_id": 2,
+    "type": 1,
+    "m_nether_battle_stage_id": 2,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 3,
+    "m_nether_map_floor_id": 3,
+    "type": 1,
+    "m_nether_battle_stage_id": 3,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 4,
+    "m_nether_map_floor_id": 4,
+    "type": 1,
+    "m_nether_battle_stage_id": 4,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 5,
+    "m_nether_map_floor_id": 5,
+    "type": 1,
+    "m_nether_battle_stage_id": 5,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 6,
+    "m_nether_map_floor_id": 6,
+    "type": 3,
+    "m_nether_battle_stage_id": 6,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 7,
+    "m_nether_map_floor_id": 7,
+    "type": 3,
+    "m_nether_battle_stage_id": 7,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 8,
+    "m_nether_map_floor_id": 8,
+    "type": 3,
+    "m_nether_battle_stage_id": 8,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 9,
+    "m_nether_map_floor_id": 22,
+    "type": 1,
+    "m_nether_battle_stage_id": 1,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 10,
+    "m_nether_map_floor_id": 23,
+    "type": 1,
+    "m_nether_battle_stage_id": 2,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 11,
+    "m_nether_map_floor_id": 24,
+    "type": 1,
+    "m_nether_battle_stage_id": 3,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 12,
+    "m_nether_map_floor_id": 25,
+    "type": 1,
+    "m_nether_battle_stage_id": 4,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 13,
+    "m_nether_map_floor_id": 26,
+    "type": 1,
+    "m_nether_battle_stage_id": 5,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 14,
+    "m_nether_map_floor_id": 27,
+    "type": 3,
+    "m_nether_battle_stage_id": 6,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 15,
+    "m_nether_map_floor_id": 28,
+    "type": 3,
+    "m_nether_battle_stage_id": 7,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 16,
+    "m_nether_map_floor_id": 29,
+    "type": 3,
+    "m_nether_battle_stage_id": 8,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 17,
+    "m_nether_map_floor_id": 47,
+    "type": 2,
+    "m_nether_battle_stage_id": 9,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 18,
+    "m_nether_map_floor_id": 48,
+    "type": 2,
+    "m_nether_battle_stage_id": 10,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 19,
+    "m_nether_map_floor_id": 49,
+    "type": 2,
+    "m_nether_battle_stage_id": 11,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 20,
+    "m_nether_map_floor_id": 50,
+    "type": 1,
+    "m_nether_battle_stage_id": 12,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 21,
+    "m_nether_map_floor_id": 51,
+    "type": 1,
+    "m_nether_battle_stage_id": 13,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 22,
+    "m_nether_map_floor_id": 52,
+    "type": 1,
+    "m_nether_battle_stage_id": 14,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 23,
+    "m_nether_map_floor_id": 53,
+    "type": 1,
+    "m_nether_battle_stage_id": 15,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 24,
+    "m_nether_map_floor_id": 54,
+    "type": 1,
+    "m_nether_battle_stage_id": 16,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 25,
+    "m_nether_map_floor_id": 55,
+    "type": 3,
+    "m_nether_battle_stage_id": 17,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 26,
+    "m_nether_map_floor_id": 56,
+    "type": 3,
+    "m_nether_battle_stage_id": 18,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 27,
+    "m_nether_map_floor_id": 57,
+    "type": 3,
+    "m_nether_battle_stage_id": 19,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 28,
+    "m_nether_map_floor_id": 71,
+    "type": 1,
+    "m_nether_battle_stage_id": 12,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 29,
+    "m_nether_map_floor_id": 72,
+    "type": 1,
+    "m_nether_battle_stage_id": 13,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 30,
+    "m_nether_map_floor_id": 73,
+    "type": 1,
+    "m_nether_battle_stage_id": 14,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 31,
+    "m_nether_map_floor_id": 74,
+    "type": 1,
+    "m_nether_battle_stage_id": 15,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 32,
+    "m_nether_map_floor_id": 75,
+    "type": 1,
+    "m_nether_battle_stage_id": 16,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 33,
+    "m_nether_map_floor_id": 76,
+    "type": 3,
+    "m_nether_battle_stage_id": 17,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 34,
+    "m_nether_map_floor_id": 77,
+    "type": 3,
+    "m_nether_battle_stage_id": 18,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 35,
+    "m_nether_map_floor_id": 78,
+    "type": 3,
+    "m_nether_battle_stage_id": 19,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 36,
+    "m_nether_map_floor_id": 95,
+    "type": 2,
+    "m_nether_battle_stage_id": 20,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 37,
+    "m_nether_map_floor_id": 96,
+    "type": 2,
+    "m_nether_battle_stage_id": 21,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 38,
+    "m_nether_map_floor_id": 97,
+    "type": 2,
+    "m_nether_battle_stage_id": 22,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 39,
+    "m_nether_map_floor_id": 98,
+    "type": 1,
+    "m_nether_battle_stage_id": 23,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 40,
+    "m_nether_map_floor_id": 99,
+    "type": 1,
+    "m_nether_battle_stage_id": 24,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 41,
+    "m_nether_map_floor_id": 100,
+    "type": 1,
+    "m_nether_battle_stage_id": 25,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 42,
+    "m_nether_map_floor_id": 101,
+    "type": 1,
+    "m_nether_battle_stage_id": 26,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 43,
+    "m_nether_map_floor_id": 102,
+    "type": 1,
+    "m_nether_battle_stage_id": 27,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 44,
+    "m_nether_map_floor_id": 103,
+    "type": 3,
+    "m_nether_battle_stage_id": 28,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 45,
+    "m_nether_map_floor_id": 104,
+    "type": 3,
+    "m_nether_battle_stage_id": 29,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 46,
+    "m_nether_map_floor_id": 105,
+    "type": 3,
+    "m_nether_battle_stage_id": 30,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 47,
+    "m_nether_map_floor_id": 119,
+    "type": 1,
+    "m_nether_battle_stage_id": 23,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 48,
+    "m_nether_map_floor_id": 120,
+    "type": 1,
+    "m_nether_battle_stage_id": 24,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 49,
+    "m_nether_map_floor_id": 121,
+    "type": 1,
+    "m_nether_battle_stage_id": 25,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 50,
+    "m_nether_map_floor_id": 122,
+    "type": 1,
+    "m_nether_battle_stage_id": 26,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 51,
+    "m_nether_map_floor_id": 123,
+    "type": 1,
+    "m_nether_battle_stage_id": 27,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 52,
+    "m_nether_map_floor_id": 124,
+    "type": 3,
+    "m_nether_battle_stage_id": 28,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 53,
+    "m_nether_map_floor_id": 125,
+    "type": 3,
+    "m_nether_battle_stage_id": 29,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 54,
+    "m_nether_map_floor_id": 126,
+    "type": 3,
+    "m_nether_battle_stage_id": 30,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 55,
+    "m_nether_map_floor_id": 143,
+    "type": 2,
+    "m_nether_battle_stage_id": 31,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 56,
+    "m_nether_map_floor_id": 144,
+    "type": 2,
+    "m_nether_battle_stage_id": 32,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 57,
+    "m_nether_map_floor_id": 145,
+    "type": 1,
+    "m_nether_battle_stage_id": 33,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 58,
+    "m_nether_map_floor_id": 146,
+    "type": 1,
+    "m_nether_battle_stage_id": 34,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 59,
+    "m_nether_map_floor_id": 147,
+    "type": 1,
+    "m_nether_battle_stage_id": 35,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 60,
+    "m_nether_map_floor_id": 148,
+    "type": 1,
+    "m_nether_battle_stage_id": 36,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 61,
+    "m_nether_map_floor_id": 149,
+    "type": 1,
+    "m_nether_battle_stage_id": 37,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 62,
+    "m_nether_map_floor_id": 150,
+    "type": 3,
+    "m_nether_battle_stage_id": 38,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 63,
+    "m_nether_map_floor_id": 151,
+    "type": 3,
+    "m_nether_battle_stage_id": 39,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 64,
+    "m_nether_map_floor_id": 152,
+    "type": 3,
+    "m_nether_battle_stage_id": 40,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 65,
+    "m_nether_map_floor_id": 166,
+    "type": 1,
+    "m_nether_battle_stage_id": 33,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 66,
+    "m_nether_map_floor_id": 167,
+    "type": 1,
+    "m_nether_battle_stage_id": 34,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 67,
+    "m_nether_map_floor_id": 168,
+    "type": 1,
+    "m_nether_battle_stage_id": 35,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 68,
+    "m_nether_map_floor_id": 169,
+    "type": 1,
+    "m_nether_battle_stage_id": 36,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 69,
+    "m_nether_map_floor_id": 170,
+    "type": 1,
+    "m_nether_battle_stage_id": 37,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 70,
+    "m_nether_map_floor_id": 171,
+    "type": 3,
+    "m_nether_battle_stage_id": 38,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 71,
+    "m_nether_map_floor_id": 172,
+    "type": 3,
+    "m_nether_battle_stage_id": 39,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 72,
+    "m_nether_map_floor_id": 173,
+    "type": 3,
+    "m_nether_battle_stage_id": 40,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 73,
+    "m_nether_map_floor_id": 190,
+    "type": 2,
+    "m_nether_battle_stage_id": 41,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 74,
+    "m_nether_map_floor_id": 191,
+    "type": 2,
+    "m_nether_battle_stage_id": 42,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 75,
+    "m_nether_map_floor_id": 192,
+    "type": 1,
+    "m_nether_battle_stage_id": 43,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 76,
+    "m_nether_map_floor_id": 193,
+    "type": 1,
+    "m_nether_battle_stage_id": 44,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 77,
+    "m_nether_map_floor_id": 194,
+    "type": 1,
+    "m_nether_battle_stage_id": 45,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 78,
+    "m_nether_map_floor_id": 195,
+    "type": 1,
+    "m_nether_battle_stage_id": 46,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 79,
+    "m_nether_map_floor_id": 196,
+    "type": 1,
+    "m_nether_battle_stage_id": 47,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 80,
+    "m_nether_map_floor_id": 197,
+    "type": 3,
+    "m_nether_battle_stage_id": 48,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 81,
+    "m_nether_map_floor_id": 198,
+    "type": 3,
+    "m_nether_battle_stage_id": 49,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 82,
+    "m_nether_map_floor_id": 199,
+    "type": 3,
+    "m_nether_battle_stage_id": 50,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 83,
+    "m_nether_map_floor_id": 213,
+    "type": 1,
+    "m_nether_battle_stage_id": 43,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 84,
+    "m_nether_map_floor_id": 214,
+    "type": 1,
+    "m_nether_battle_stage_id": 44,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 85,
+    "m_nether_map_floor_id": 215,
+    "type": 1,
+    "m_nether_battle_stage_id": 45,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 86,
+    "m_nether_map_floor_id": 216,
+    "type": 1,
+    "m_nether_battle_stage_id": 46,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 87,
+    "m_nether_map_floor_id": 217,
+    "type": 1,
+    "m_nether_battle_stage_id": 47,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 88,
+    "m_nether_map_floor_id": 218,
+    "type": 3,
+    "m_nether_battle_stage_id": 48,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 89,
+    "m_nether_map_floor_id": 219,
+    "type": 3,
+    "m_nether_battle_stage_id": 49,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 90,
+    "m_nether_map_floor_id": 220,
+    "type": 3,
+    "m_nether_battle_stage_id": 50,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 91,
+    "m_nether_map_floor_id": 237,
+    "type": 2,
+    "m_nether_battle_stage_id": 51,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 92,
+    "m_nether_map_floor_id": 238,
+    "type": 2,
+    "m_nether_battle_stage_id": 52,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 93,
+    "m_nether_map_floor_id": 239,
+    "type": 1,
+    "m_nether_battle_stage_id": 53,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 94,
+    "m_nether_map_floor_id": 240,
+    "type": 1,
+    "m_nether_battle_stage_id": 54,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 95,
+    "m_nether_map_floor_id": 241,
+    "type": 1,
+    "m_nether_battle_stage_id": 55,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 96,
+    "m_nether_map_floor_id": 242,
+    "type": 1,
+    "m_nether_battle_stage_id": 56,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 97,
+    "m_nether_map_floor_id": 243,
+    "type": 1,
+    "m_nether_battle_stage_id": 57,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 98,
+    "m_nether_map_floor_id": 244,
+    "type": 3,
+    "m_nether_battle_stage_id": 58,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 99,
+    "m_nether_map_floor_id": 245,
+    "type": 3,
+    "m_nether_battle_stage_id": 59,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 100,
+    "m_nether_map_floor_id": 246,
+    "type": 3,
+    "m_nether_battle_stage_id": 60,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 101,
+    "m_nether_map_floor_id": 260,
+    "type": 1,
+    "m_nether_battle_stage_id": 53,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 102,
+    "m_nether_map_floor_id": 261,
+    "type": 1,
+    "m_nether_battle_stage_id": 54,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 103,
+    "m_nether_map_floor_id": 262,
+    "type": 1,
+    "m_nether_battle_stage_id": 55,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 104,
+    "m_nether_map_floor_id": 263,
+    "type": 1,
+    "m_nether_battle_stage_id": 56,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 105,
+    "m_nether_map_floor_id": 264,
+    "type": 1,
+    "m_nether_battle_stage_id": 57,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 106,
+    "m_nether_map_floor_id": 265,
+    "type": 3,
+    "m_nether_battle_stage_id": 58,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 107,
+    "m_nether_map_floor_id": 266,
+    "type": 3,
+    "m_nether_battle_stage_id": 59,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 108,
+    "m_nether_map_floor_id": 267,
+    "type": 3,
+    "m_nether_battle_stage_id": 60,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 109,
+    "m_nether_map_floor_id": 284,
+    "type": 2,
+    "m_nether_battle_stage_id": 61,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 110,
+    "m_nether_map_floor_id": 285,
+    "type": 2,
+    "m_nether_battle_stage_id": 62,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 111,
+    "m_nether_map_floor_id": 286,
+    "type": 1,
+    "m_nether_battle_stage_id": 63,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 112,
+    "m_nether_map_floor_id": 287,
+    "type": 1,
+    "m_nether_battle_stage_id": 64,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 113,
+    "m_nether_map_floor_id": 288,
+    "type": 1,
+    "m_nether_battle_stage_id": 65,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 114,
+    "m_nether_map_floor_id": 289,
+    "type": 1,
+    "m_nether_battle_stage_id": 66,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 115,
+    "m_nether_map_floor_id": 290,
+    "type": 1,
+    "m_nether_battle_stage_id": 67,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 116,
+    "m_nether_map_floor_id": 291,
+    "type": 3,
+    "m_nether_battle_stage_id": 68,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 117,
+    "m_nether_map_floor_id": 292,
+    "type": 3,
+    "m_nether_battle_stage_id": 69,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 118,
+    "m_nether_map_floor_id": 293,
+    "type": 3,
+    "m_nether_battle_stage_id": 70,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 119,
+    "m_nether_map_floor_id": 307,
+    "type": 1,
+    "m_nether_battle_stage_id": 63,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 120,
+    "m_nether_map_floor_id": 308,
+    "type": 1,
+    "m_nether_battle_stage_id": 64,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 121,
+    "m_nether_map_floor_id": 309,
+    "type": 1,
+    "m_nether_battle_stage_id": 65,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 122,
+    "m_nether_map_floor_id": 310,
+    "type": 1,
+    "m_nether_battle_stage_id": 66,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 123,
+    "m_nether_map_floor_id": 311,
+    "type": 1,
+    "m_nether_battle_stage_id": 67,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 124,
+    "m_nether_map_floor_id": 312,
+    "type": 3,
+    "m_nether_battle_stage_id": 68,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 125,
+    "m_nether_map_floor_id": 313,
+    "type": 3,
+    "m_nether_battle_stage_id": 69,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 126,
+    "m_nether_map_floor_id": 314,
+    "type": 3,
+    "m_nether_battle_stage_id": 70,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 127,
+    "m_nether_map_floor_id": 331,
+    "type": 2,
+    "m_nether_battle_stage_id": 71,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 128,
+    "m_nether_map_floor_id": 332,
+    "type": 2,
+    "m_nether_battle_stage_id": 72,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 129,
+    "m_nether_map_floor_id": 333,
+    "type": 1,
+    "m_nether_battle_stage_id": 73,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 130,
+    "m_nether_map_floor_id": 334,
+    "type": 1,
+    "m_nether_battle_stage_id": 74,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 131,
+    "m_nether_map_floor_id": 335,
+    "type": 1,
+    "m_nether_battle_stage_id": 75,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 132,
+    "m_nether_map_floor_id": 336,
+    "type": 1,
+    "m_nether_battle_stage_id": 76,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 133,
+    "m_nether_map_floor_id": 337,
+    "type": 1,
+    "m_nether_battle_stage_id": 77,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 134,
+    "m_nether_map_floor_id": 338,
+    "type": 3,
+    "m_nether_battle_stage_id": 78,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 135,
+    "m_nether_map_floor_id": 339,
+    "type": 3,
+    "m_nether_battle_stage_id": 79,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 136,
+    "m_nether_map_floor_id": 340,
+    "type": 3,
+    "m_nether_battle_stage_id": 80,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 137,
+    "m_nether_map_floor_id": 354,
+    "type": 1,
+    "m_nether_battle_stage_id": 73,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 138,
+    "m_nether_map_floor_id": 355,
+    "type": 1,
+    "m_nether_battle_stage_id": 74,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 139,
+    "m_nether_map_floor_id": 356,
+    "type": 1,
+    "m_nether_battle_stage_id": 75,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 140,
+    "m_nether_map_floor_id": 357,
+    "type": 1,
+    "m_nether_battle_stage_id": 76,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 141,
+    "m_nether_map_floor_id": 358,
+    "type": 1,
+    "m_nether_battle_stage_id": 77,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 142,
+    "m_nether_map_floor_id": 359,
+    "type": 3,
+    "m_nether_battle_stage_id": 78,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 143,
+    "m_nether_map_floor_id": 360,
+    "type": 3,
+    "m_nether_battle_stage_id": 79,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 144,
+    "m_nether_map_floor_id": 361,
+    "type": 3,
+    "m_nether_battle_stage_id": 80,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 145,
+    "m_nether_map_floor_id": 378,
+    "type": 2,
+    "m_nether_battle_stage_id": 81,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 146,
+    "m_nether_map_floor_id": 379,
+    "type": 2,
+    "m_nether_battle_stage_id": 82,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 147,
+    "m_nether_map_floor_id": 380,
+    "type": 1,
+    "m_nether_battle_stage_id": 83,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 148,
+    "m_nether_map_floor_id": 381,
+    "type": 1,
+    "m_nether_battle_stage_id": 84,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 149,
+    "m_nether_map_floor_id": 382,
+    "type": 1,
+    "m_nether_battle_stage_id": 85,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 150,
+    "m_nether_map_floor_id": 383,
+    "type": 1,
+    "m_nether_battle_stage_id": 86,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 151,
+    "m_nether_map_floor_id": 384,
+    "type": 1,
+    "m_nether_battle_stage_id": 87,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 152,
+    "m_nether_map_floor_id": 385,
+    "type": 3,
+    "m_nether_battle_stage_id": 88,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 153,
+    "m_nether_map_floor_id": 386,
+    "type": 3,
+    "m_nether_battle_stage_id": 89,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 154,
+    "m_nether_map_floor_id": 387,
+    "type": 3,
+    "m_nether_battle_stage_id": 90,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 155,
+    "m_nether_map_floor_id": 401,
+    "type": 1,
+    "m_nether_battle_stage_id": 83,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 156,
+    "m_nether_map_floor_id": 402,
+    "type": 1,
+    "m_nether_battle_stage_id": 84,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 157,
+    "m_nether_map_floor_id": 403,
+    "type": 1,
+    "m_nether_battle_stage_id": 85,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 158,
+    "m_nether_map_floor_id": 404,
+    "type": 1,
+    "m_nether_battle_stage_id": 86,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 159,
+    "m_nether_map_floor_id": 405,
+    "type": 1,
+    "m_nether_battle_stage_id": 87,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 160,
+    "m_nether_map_floor_id": 406,
+    "type": 3,
+    "m_nether_battle_stage_id": 88,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 161,
+    "m_nether_map_floor_id": 407,
+    "type": 3,
+    "m_nether_battle_stage_id": 89,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 162,
+    "m_nether_map_floor_id": 408,
+    "type": 3,
+    "m_nether_battle_stage_id": 90,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 163,
+    "m_nether_map_floor_id": 425,
+    "type": 2,
+    "m_nether_battle_stage_id": 91,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 164,
+    "m_nether_map_floor_id": 426,
+    "type": 2,
+    "m_nether_battle_stage_id": 92,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 165,
+    "m_nether_map_floor_id": 427,
+    "type": 2,
+    "m_nether_battle_stage_id": 93,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 166,
+    "m_nether_map_floor_id": 428,
+    "type": 1,
+    "m_nether_battle_stage_id": 94,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 167,
+    "m_nether_map_floor_id": 429,
+    "type": 1,
+    "m_nether_battle_stage_id": 95,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 168,
+    "m_nether_map_floor_id": 430,
+    "type": 1,
+    "m_nether_battle_stage_id": 96,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 169,
+    "m_nether_map_floor_id": 431,
+    "type": 1,
+    "m_nether_battle_stage_id": 97,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 170,
+    "m_nether_map_floor_id": 432,
+    "type": 1,
+    "m_nether_battle_stage_id": 98,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 171,
+    "m_nether_map_floor_id": 433,
+    "type": 3,
+    "m_nether_battle_stage_id": 99,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 172,
+    "m_nether_map_floor_id": 434,
+    "type": 3,
+    "m_nether_battle_stage_id": 100,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 173,
+    "m_nether_map_floor_id": 435,
+    "type": 3,
+    "m_nether_battle_stage_id": 101,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 174,
+    "m_nether_map_floor_id": 449,
+    "type": 1,
+    "m_nether_battle_stage_id": 94,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 175,
+    "m_nether_map_floor_id": 450,
+    "type": 1,
+    "m_nether_battle_stage_id": 95,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 176,
+    "m_nether_map_floor_id": 451,
+    "type": 1,
+    "m_nether_battle_stage_id": 96,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 177,
+    "m_nether_map_floor_id": 452,
+    "type": 1,
+    "m_nether_battle_stage_id": 97,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 178,
+    "m_nether_map_floor_id": 453,
+    "type": 1,
+    "m_nether_battle_stage_id": 98,
+    "code_drop_ratio": 300
+  },
+  {
+    "id": 179,
+    "m_nether_map_floor_id": 454,
+    "type": 3,
+    "m_nether_battle_stage_id": 99,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 180,
+    "m_nether_map_floor_id": 455,
+    "type": 3,
+    "m_nether_battle_stage_id": 100,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 181,
+    "m_nether_map_floor_id": 456,
+    "type": 3,
+    "m_nether_battle_stage_id": 101,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 182,
+    "m_nether_map_floor_id": 473,
+    "type": 2,
+    "m_nether_battle_stage_id": 102,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 183,
+    "m_nether_map_floor_id": 474,
+    "type": 2,
+    "m_nether_battle_stage_id": 103,
+    "code_drop_ratio": 1000
+  },
+  {
+    "id": 184,
+    "m_nether_map_floor_id": 475,
+    "type": 2,
+    "m_nether_battle_stage_id": 104,
+    "code_drop_ratio": 1000
+  }
+]

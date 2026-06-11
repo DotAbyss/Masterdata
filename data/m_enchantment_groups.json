@@ -1,0 +1,3873 @@
+[
+  {
+    "id": 1,
+    "enchantment_group_no": 10101,
+    "enchantment_no": 122,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 2,
+    "enchantment_group_no": 10201,
+    "enchantment_no": 102,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 3,
+    "enchantment_group_no": 10301,
+    "enchantment_no": 122,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 4,
+    "enchantment_group_no": 20101,
+    "enchantment_no": 132,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 5,
+    "enchantment_group_no": 20201,
+    "enchantment_no": 112,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 6,
+    "enchantment_group_no": 20301,
+    "enchantment_no": 132,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 7,
+    "enchantment_group_no": 30101,
+    "enchantment_no": 142,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 8,
+    "enchantment_group_no": 30201,
+    "enchantment_no": 112,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 9,
+    "enchantment_group_no": 30301,
+    "enchantment_no": 102,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 10,
+    "enchantment_group_no": 40101,
+    "enchantment_no": 112,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 11,
+    "enchantment_group_no": 40201,
+    "enchantment_no": 142,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 12,
+    "enchantment_group_no": 40301,
+    "enchantment_no": 132,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 13,
+    "enchantment_group_no": 50101,
+    "enchantment_no": 132,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 14,
+    "enchantment_group_no": 50201,
+    "enchantment_no": 142,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 15,
+    "enchantment_group_no": 50301,
+    "enchantment_no": 112,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 16,
+    "enchantment_group_no": 60101,
+    "enchantment_no": 112,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 17,
+    "enchantment_group_no": 60201,
+    "enchantment_no": 102,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 18,
+    "enchantment_group_no": 60301,
+    "enchantment_no": 132,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 19,
+    "enchantment_group_no": 70101,
+    "enchantment_no": 102,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 20,
+    "enchantment_group_no": 70201,
+    "enchantment_no": 122,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 21,
+    "enchantment_group_no": 80101,
+    "enchantment_no": 102,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 22,
+    "enchantment_group_no": 80201,
+    "enchantment_no": 122,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 23,
+    "enchantment_group_no": 10102,
+    "enchantment_no": 123,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 24,
+    "enchantment_group_no": 10202,
+    "enchantment_no": 103,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 25,
+    "enchantment_group_no": 10302,
+    "enchantment_no": 123,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 26,
+    "enchantment_group_no": 20102,
+    "enchantment_no": 133,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 27,
+    "enchantment_group_no": 20202,
+    "enchantment_no": 113,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 28,
+    "enchantment_group_no": 20302,
+    "enchantment_no": 133,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 29,
+    "enchantment_group_no": 30102,
+    "enchantment_no": 143,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 30,
+    "enchantment_group_no": 30202,
+    "enchantment_no": 113,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 31,
+    "enchantment_group_no": 30302,
+    "enchantment_no": 103,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 32,
+    "enchantment_group_no": 40102,
+    "enchantment_no": 113,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 33,
+    "enchantment_group_no": 40202,
+    "enchantment_no": 143,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 34,
+    "enchantment_group_no": 40302,
+    "enchantment_no": 133,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 35,
+    "enchantment_group_no": 50102,
+    "enchantment_no": 133,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 36,
+    "enchantment_group_no": 50202,
+    "enchantment_no": 143,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 37,
+    "enchantment_group_no": 50302,
+    "enchantment_no": 113,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 38,
+    "enchantment_group_no": 60102,
+    "enchantment_no": 113,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 39,
+    "enchantment_group_no": 60202,
+    "enchantment_no": 103,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 40,
+    "enchantment_group_no": 60302,
+    "enchantment_no": 133,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 41,
+    "enchantment_group_no": 70102,
+    "enchantment_no": 103,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 42,
+    "enchantment_group_no": 70202,
+    "enchantment_no": 123,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 43,
+    "enchantment_group_no": 80102,
+    "enchantment_no": 103,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 44,
+    "enchantment_group_no": 80202,
+    "enchantment_no": 123,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 45,
+    "enchantment_group_no": 10103,
+    "enchantment_no": 103,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 46,
+    "enchantment_group_no": 10203,
+    "enchantment_no": 1622,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 47,
+    "enchantment_group_no": 10303,
+    "enchantment_no": 1328,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 48,
+    "enchantment_group_no": 20103,
+    "enchantment_no": 1624,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 49,
+    "enchantment_group_no": 20203,
+    "enchantment_no": 1327,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 50,
+    "enchantment_group_no": 20303,
+    "enchantment_no": 113,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 51,
+    "enchantment_group_no": 30103,
+    "enchantment_no": 1621,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 52,
+    "enchantment_group_no": 30203,
+    "enchantment_no": 1326,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 53,
+    "enchantment_group_no": 30303,
+    "enchantment_no": 113,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 54,
+    "enchantment_group_no": 40103,
+    "enchantment_no": 1328,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 55,
+    "enchantment_group_no": 40203,
+    "enchantment_no": 103,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 56,
+    "enchantment_group_no": 40303,
+    "enchantment_no": 1623,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 57,
+    "enchantment_group_no": 50103,
+    "enchantment_no": 1623,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 58,
+    "enchantment_group_no": 50203,
+    "enchantment_no": 123,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 59,
+    "enchantment_group_no": 50303,
+    "enchantment_no": 1328,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 60,
+    "enchantment_group_no": 60103,
+    "enchantment_no": 1325,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 61,
+    "enchantment_group_no": 60203,
+    "enchantment_no": 113,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 62,
+    "enchantment_group_no": 60303,
+    "enchantment_no": 1625,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 63,
+    "enchantment_group_no": 70103,
+    "enchantment_no": 1330,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 64,
+    "enchantment_group_no": 70203,
+    "enchantment_no": 1625,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 65,
+    "enchantment_group_no": 80103,
+    "enchantment_no": 1335,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 66,
+    "enchantment_group_no": 80203,
+    "enchantment_no": 1630,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 67,
+    "enchantment_group_no": 101011,
+    "enchantment_no": 121,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 68,
+    "enchantment_group_no": 101012,
+    "enchantment_no": 101,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 69,
+    "enchantment_group_no": 101013,
+    "enchantment_no": 101,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 70,
+    "enchantment_group_no": 101013,
+    "enchantment_no": 111,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 71,
+    "enchantment_group_no": 101013,
+    "enchantment_no": 121,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 72,
+    "enchantment_group_no": 101013,
+    "enchantment_no": 151,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 73,
+    "enchantment_group_no": 101013,
+    "enchantment_no": 191,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 74,
+    "enchantment_group_no": 101013,
+    "enchantment_no": 201,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 75,
+    "enchantment_group_no": 102011,
+    "enchantment_no": 101,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 76,
+    "enchantment_group_no": 102012,
+    "enchantment_no": 1602,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 77,
+    "enchantment_group_no": 102013,
+    "enchantment_no": 101,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 78,
+    "enchantment_group_no": 102013,
+    "enchantment_no": 111,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 79,
+    "enchantment_group_no": 102013,
+    "enchantment_no": 121,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 80,
+    "enchantment_group_no": 102013,
+    "enchantment_no": 151,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 81,
+    "enchantment_group_no": 102013,
+    "enchantment_no": 191,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 82,
+    "enchantment_group_no": 102013,
+    "enchantment_no": 201,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 83,
+    "enchantment_group_no": 103011,
+    "enchantment_no": 121,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 84,
+    "enchantment_group_no": 103012,
+    "enchantment_no": 1304,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 85,
+    "enchantment_group_no": 103013,
+    "enchantment_no": 101,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 86,
+    "enchantment_group_no": 103013,
+    "enchantment_no": 111,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 87,
+    "enchantment_group_no": 103013,
+    "enchantment_no": 121,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 88,
+    "enchantment_group_no": 103013,
+    "enchantment_no": 151,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 89,
+    "enchantment_group_no": 103013,
+    "enchantment_no": 191,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 90,
+    "enchantment_group_no": 103013,
+    "enchantment_no": 201,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 91,
+    "enchantment_group_no": 201011,
+    "enchantment_no": 131,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 92,
+    "enchantment_group_no": 201012,
+    "enchantment_no": 1604,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 93,
+    "enchantment_group_no": 201013,
+    "enchantment_no": 101,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 94,
+    "enchantment_group_no": 201013,
+    "enchantment_no": 111,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 95,
+    "enchantment_group_no": 201013,
+    "enchantment_no": 121,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 96,
+    "enchantment_group_no": 201013,
+    "enchantment_no": 131,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 97,
+    "enchantment_group_no": 201013,
+    "enchantment_no": 141,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 98,
+    "enchantment_group_no": 201013,
+    "enchantment_no": 161,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 99,
+    "enchantment_group_no": 201013,
+    "enchantment_no": 171,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 100,
+    "enchantment_group_no": 201013,
+    "enchantment_no": 181,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 101,
+    "enchantment_group_no": 202011,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 102,
+    "enchantment_group_no": 202012,
+    "enchantment_no": 1303,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 103,
+    "enchantment_group_no": 202013,
+    "enchantment_no": 101,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 104,
+    "enchantment_group_no": 202013,
+    "enchantment_no": 111,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 105,
+    "enchantment_group_no": 202013,
+    "enchantment_no": 121,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 106,
+    "enchantment_group_no": 202013,
+    "enchantment_no": 131,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 107,
+    "enchantment_group_no": 202013,
+    "enchantment_no": 141,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 108,
+    "enchantment_group_no": 202013,
+    "enchantment_no": 161,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 109,
+    "enchantment_group_no": 202013,
+    "enchantment_no": 171,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 110,
+    "enchantment_group_no": 202013,
+    "enchantment_no": 181,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 111,
+    "enchantment_group_no": 203011,
+    "enchantment_no": 131,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 112,
+    "enchantment_group_no": 203012,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 113,
+    "enchantment_group_no": 203013,
+    "enchantment_no": 101,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 114,
+    "enchantment_group_no": 203013,
+    "enchantment_no": 111,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 115,
+    "enchantment_group_no": 203013,
+    "enchantment_no": 121,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 116,
+    "enchantment_group_no": 203013,
+    "enchantment_no": 131,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 117,
+    "enchantment_group_no": 203013,
+    "enchantment_no": 141,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 118,
+    "enchantment_group_no": 203013,
+    "enchantment_no": 161,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 119,
+    "enchantment_group_no": 203013,
+    "enchantment_no": 171,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 120,
+    "enchantment_group_no": 203013,
+    "enchantment_no": 181,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 121,
+    "enchantment_group_no": 301011,
+    "enchantment_no": 141,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 122,
+    "enchantment_group_no": 301012,
+    "enchantment_no": 1601,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 123,
+    "enchantment_group_no": 301013,
+    "enchantment_no": 101,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 124,
+    "enchantment_group_no": 301013,
+    "enchantment_no": 111,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 125,
+    "enchantment_group_no": 301013,
+    "enchantment_no": 121,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 126,
+    "enchantment_group_no": 301013,
+    "enchantment_no": 131,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 127,
+    "enchantment_group_no": 301013,
+    "enchantment_no": 141,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 128,
+    "enchantment_group_no": 301013,
+    "enchantment_no": 161,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 129,
+    "enchantment_group_no": 301013,
+    "enchantment_no": 171,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 130,
+    "enchantment_group_no": 301013,
+    "enchantment_no": 181,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 131,
+    "enchantment_group_no": 302011,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 132,
+    "enchantment_group_no": 302012,
+    "enchantment_no": 1302,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 133,
+    "enchantment_group_no": 302013,
+    "enchantment_no": 101,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 134,
+    "enchantment_group_no": 302013,
+    "enchantment_no": 111,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 135,
+    "enchantment_group_no": 302013,
+    "enchantment_no": 121,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 136,
+    "enchantment_group_no": 302013,
+    "enchantment_no": 151,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 137,
+    "enchantment_group_no": 302013,
+    "enchantment_no": 191,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 138,
+    "enchantment_group_no": 302013,
+    "enchantment_no": 201,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 139,
+    "enchantment_group_no": 303011,
+    "enchantment_no": 101,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 140,
+    "enchantment_group_no": 303012,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 141,
+    "enchantment_group_no": 303013,
+    "enchantment_no": 101,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 142,
+    "enchantment_group_no": 303013,
+    "enchantment_no": 111,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 143,
+    "enchantment_group_no": 303013,
+    "enchantment_no": 121,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 144,
+    "enchantment_group_no": 303013,
+    "enchantment_no": 131,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 145,
+    "enchantment_group_no": 303013,
+    "enchantment_no": 141,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 146,
+    "enchantment_group_no": 303013,
+    "enchantment_no": 161,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 147,
+    "enchantment_group_no": 303013,
+    "enchantment_no": 171,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 148,
+    "enchantment_group_no": 303013,
+    "enchantment_no": 181,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 149,
+    "enchantment_group_no": 401011,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 150,
+    "enchantment_group_no": 401012,
+    "enchantment_no": 1304,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 151,
+    "enchantment_group_no": 401013,
+    "enchantment_no": 101,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 152,
+    "enchantment_group_no": 401013,
+    "enchantment_no": 111,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 153,
+    "enchantment_group_no": 401013,
+    "enchantment_no": 121,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 154,
+    "enchantment_group_no": 401013,
+    "enchantment_no": 131,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 155,
+    "enchantment_group_no": 401013,
+    "enchantment_no": 141,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 156,
+    "enchantment_group_no": 401013,
+    "enchantment_no": 161,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 157,
+    "enchantment_group_no": 401013,
+    "enchantment_no": 171,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 158,
+    "enchantment_group_no": 401013,
+    "enchantment_no": 181,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 159,
+    "enchantment_group_no": 402011,
+    "enchantment_no": 141,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 160,
+    "enchantment_group_no": 402012,
+    "enchantment_no": 101,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 161,
+    "enchantment_group_no": 402013,
+    "enchantment_no": 141,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 162,
+    "enchantment_group_no": 402013,
+    "enchantment_no": 151,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 163,
+    "enchantment_group_no": 402013,
+    "enchantment_no": 231,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 164,
+    "enchantment_group_no": 402013,
+    "enchantment_no": 291,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 165,
+    "enchantment_group_no": 402013,
+    "enchantment_no": 241,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 166,
+    "enchantment_group_no": 402013,
+    "enchantment_no": 251,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 167,
+    "enchantment_group_no": 403011,
+    "enchantment_no": 131,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 168,
+    "enchantment_group_no": 403012,
+    "enchantment_no": 1603,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 169,
+    "enchantment_group_no": 403013,
+    "enchantment_no": 101,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 170,
+    "enchantment_group_no": 403013,
+    "enchantment_no": 111,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 171,
+    "enchantment_group_no": 403013,
+    "enchantment_no": 121,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 172,
+    "enchantment_group_no": 403013,
+    "enchantment_no": 131,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 173,
+    "enchantment_group_no": 403013,
+    "enchantment_no": 141,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 174,
+    "enchantment_group_no": 403013,
+    "enchantment_no": 161,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 175,
+    "enchantment_group_no": 403013,
+    "enchantment_no": 171,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 176,
+    "enchantment_group_no": 403013,
+    "enchantment_no": 181,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 177,
+    "enchantment_group_no": 501011,
+    "enchantment_no": 131,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 178,
+    "enchantment_group_no": 501012,
+    "enchantment_no": 1603,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 179,
+    "enchantment_group_no": 501013,
+    "enchantment_no": 101,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 180,
+    "enchantment_group_no": 501013,
+    "enchantment_no": 111,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 181,
+    "enchantment_group_no": 501013,
+    "enchantment_no": 121,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 182,
+    "enchantment_group_no": 501013,
+    "enchantment_no": 131,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 183,
+    "enchantment_group_no": 501013,
+    "enchantment_no": 141,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 184,
+    "enchantment_group_no": 501013,
+    "enchantment_no": 161,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 185,
+    "enchantment_group_no": 501013,
+    "enchantment_no": 171,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 186,
+    "enchantment_group_no": 501013,
+    "enchantment_no": 181,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 187,
+    "enchantment_group_no": 502011,
+    "enchantment_no": 141,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 188,
+    "enchantment_group_no": 502012,
+    "enchantment_no": 121,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 189,
+    "enchantment_group_no": 502013,
+    "enchantment_no": 101,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 190,
+    "enchantment_group_no": 502013,
+    "enchantment_no": 111,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 191,
+    "enchantment_group_no": 502013,
+    "enchantment_no": 121,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 192,
+    "enchantment_group_no": 502013,
+    "enchantment_no": 131,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 193,
+    "enchantment_group_no": 502013,
+    "enchantment_no": 141,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 194,
+    "enchantment_group_no": 502013,
+    "enchantment_no": 161,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 195,
+    "enchantment_group_no": 502013,
+    "enchantment_no": 171,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 196,
+    "enchantment_group_no": 502013,
+    "enchantment_no": 181,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 197,
+    "enchantment_group_no": 503011,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 198,
+    "enchantment_group_no": 503012,
+    "enchantment_no": 1304,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 199,
+    "enchantment_group_no": 503013,
+    "enchantment_no": 141,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 200,
+    "enchantment_group_no": 503013,
+    "enchantment_no": 151,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 201,
+    "enchantment_group_no": 503013,
+    "enchantment_no": 231,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 202,
+    "enchantment_group_no": 503013,
+    "enchantment_no": 291,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 203,
+    "enchantment_group_no": 503013,
+    "enchantment_no": 241,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 204,
+    "enchantment_group_no": 503013,
+    "enchantment_no": 251,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 205,
+    "enchantment_group_no": 601011,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 206,
+    "enchantment_group_no": 601012,
+    "enchantment_no": 1301,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 207,
+    "enchantment_group_no": 601013,
+    "enchantment_no": 101,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 208,
+    "enchantment_group_no": 601013,
+    "enchantment_no": 111,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 209,
+    "enchantment_group_no": 601013,
+    "enchantment_no": 121,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 210,
+    "enchantment_group_no": 601013,
+    "enchantment_no": 131,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 211,
+    "enchantment_group_no": 601013,
+    "enchantment_no": 141,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 212,
+    "enchantment_group_no": 601013,
+    "enchantment_no": 161,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 213,
+    "enchantment_group_no": 601013,
+    "enchantment_no": 171,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 214,
+    "enchantment_group_no": 601013,
+    "enchantment_no": 181,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 215,
+    "enchantment_group_no": 602011,
+    "enchantment_no": 101,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 216,
+    "enchantment_group_no": 602012,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 217,
+    "enchantment_group_no": 602013,
+    "enchantment_no": 141,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 218,
+    "enchantment_group_no": 602013,
+    "enchantment_no": 151,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 219,
+    "enchantment_group_no": 602013,
+    "enchantment_no": 231,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 220,
+    "enchantment_group_no": 602013,
+    "enchantment_no": 291,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 221,
+    "enchantment_group_no": 602013,
+    "enchantment_no": 241,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 222,
+    "enchantment_group_no": 602013,
+    "enchantment_no": 251,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 223,
+    "enchantment_group_no": 603011,
+    "enchantment_no": 131,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 224,
+    "enchantment_group_no": 603012,
+    "enchantment_no": 1605,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 225,
+    "enchantment_group_no": 603013,
+    "enchantment_no": 101,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 226,
+    "enchantment_group_no": 603013,
+    "enchantment_no": 111,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 227,
+    "enchantment_group_no": 603013,
+    "enchantment_no": 121,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 228,
+    "enchantment_group_no": 603013,
+    "enchantment_no": 131,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 229,
+    "enchantment_group_no": 603013,
+    "enchantment_no": 141,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 230,
+    "enchantment_group_no": 603013,
+    "enchantment_no": 161,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 231,
+    "enchantment_group_no": 603013,
+    "enchantment_no": 171,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 232,
+    "enchantment_group_no": 603013,
+    "enchantment_no": 181,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 233,
+    "enchantment_group_no": 701011,
+    "enchantment_no": 101,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 234,
+    "enchantment_group_no": 701012,
+    "enchantment_no": 1306,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 235,
+    "enchantment_group_no": 701013,
+    "enchantment_no": 101,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 236,
+    "enchantment_group_no": 701013,
+    "enchantment_no": 111,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 237,
+    "enchantment_group_no": 701013,
+    "enchantment_no": 121,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 238,
+    "enchantment_group_no": 701013,
+    "enchantment_no": 151,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 239,
+    "enchantment_group_no": 701013,
+    "enchantment_no": 211,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 240,
+    "enchantment_group_no": 701013,
+    "enchantment_no": 221,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 241,
+    "enchantment_group_no": 702011,
+    "enchantment_no": 121,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 242,
+    "enchantment_group_no": 702012,
+    "enchantment_no": 1605,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 243,
+    "enchantment_group_no": 702013,
+    "enchantment_no": 101,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 244,
+    "enchantment_group_no": 702013,
+    "enchantment_no": 111,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 245,
+    "enchantment_group_no": 702013,
+    "enchantment_no": 121,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 246,
+    "enchantment_group_no": 702013,
+    "enchantment_no": 151,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 247,
+    "enchantment_group_no": 702013,
+    "enchantment_no": 211,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 248,
+    "enchantment_group_no": 702013,
+    "enchantment_no": 221,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 249,
+    "enchantment_group_no": 801011,
+    "enchantment_no": 101,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 250,
+    "enchantment_group_no": 801012,
+    "enchantment_no": 1311,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 251,
+    "enchantment_group_no": 801013,
+    "enchantment_no": 141,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 252,
+    "enchantment_group_no": 801013,
+    "enchantment_no": 151,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 253,
+    "enchantment_group_no": 801013,
+    "enchantment_no": 231,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 254,
+    "enchantment_group_no": 801013,
+    "enchantment_no": 291,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 255,
+    "enchantment_group_no": 801013,
+    "enchantment_no": 241,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 256,
+    "enchantment_group_no": 801013,
+    "enchantment_no": 251,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 257,
+    "enchantment_group_no": 802011,
+    "enchantment_no": 121,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 258,
+    "enchantment_group_no": 802012,
+    "enchantment_no": 1610,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 259,
+    "enchantment_group_no": 802013,
+    "enchantment_no": 141,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 260,
+    "enchantment_group_no": 802013,
+    "enchantment_no": 151,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 261,
+    "enchantment_group_no": 802013,
+    "enchantment_no": 231,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 262,
+    "enchantment_group_no": 802013,
+    "enchantment_no": 291,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 263,
+    "enchantment_group_no": 802013,
+    "enchantment_no": 241,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 264,
+    "enchantment_group_no": 802013,
+    "enchantment_no": 251,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 265,
+    "enchantment_group_no": 104041,
+    "enchantment_no": 1001,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 266,
+    "enchantment_group_no": 104042,
+    "enchantment_no": 1602,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 267,
+    "enchantment_group_no": 104043,
+    "enchantment_no": 101,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 268,
+    "enchantment_group_no": 104043,
+    "enchantment_no": 111,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 269,
+    "enchantment_group_no": 104043,
+    "enchantment_no": 121,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 270,
+    "enchantment_group_no": 104043,
+    "enchantment_no": 151,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 271,
+    "enchantment_group_no": 104043,
+    "enchantment_no": 191,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 272,
+    "enchantment_group_no": 104043,
+    "enchantment_no": 201,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 273,
+    "enchantment_group_no": 105041,
+    "enchantment_no": 1002,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 274,
+    "enchantment_group_no": 105042,
+    "enchantment_no": 1309,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 275,
+    "enchantment_group_no": 105043,
+    "enchantment_no": 101,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 276,
+    "enchantment_group_no": 105043,
+    "enchantment_no": 111,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 277,
+    "enchantment_group_no": 105043,
+    "enchantment_no": 121,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 278,
+    "enchantment_group_no": 105043,
+    "enchantment_no": 131,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 279,
+    "enchantment_group_no": 105043,
+    "enchantment_no": 141,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 280,
+    "enchantment_group_no": 105043,
+    "enchantment_no": 161,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 281,
+    "enchantment_group_no": 105043,
+    "enchantment_no": 171,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 282,
+    "enchantment_group_no": 105043,
+    "enchantment_no": 181,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 283,
+    "enchantment_group_no": 106041,
+    "enchantment_no": 1003,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 284,
+    "enchantment_group_no": 106042,
+    "enchantment_no": 131,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 285,
+    "enchantment_group_no": 106043,
+    "enchantment_no": 101,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 286,
+    "enchantment_group_no": 106043,
+    "enchantment_no": 111,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 287,
+    "enchantment_group_no": 106043,
+    "enchantment_no": 121,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 288,
+    "enchantment_group_no": 106043,
+    "enchantment_no": 131,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 289,
+    "enchantment_group_no": 106043,
+    "enchantment_no": 141,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 290,
+    "enchantment_group_no": 106043,
+    "enchantment_no": 161,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 291,
+    "enchantment_group_no": 106043,
+    "enchantment_no": 171,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 292,
+    "enchantment_group_no": 106043,
+    "enchantment_no": 181,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 293,
+    "enchantment_group_no": 204041,
+    "enchantment_no": 1004,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 294,
+    "enchantment_group_no": 204042,
+    "enchantment_no": 1601,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 295,
+    "enchantment_group_no": 204043,
+    "enchantment_no": 101,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 296,
+    "enchantment_group_no": 204043,
+    "enchantment_no": 111,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 297,
+    "enchantment_group_no": 204043,
+    "enchantment_no": 121,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 298,
+    "enchantment_group_no": 204043,
+    "enchantment_no": 131,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 299,
+    "enchantment_group_no": 204043,
+    "enchantment_no": 141,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 300,
+    "enchantment_group_no": 204043,
+    "enchantment_no": 161,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 301,
+    "enchantment_group_no": 204043,
+    "enchantment_no": 171,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 302,
+    "enchantment_group_no": 204043,
+    "enchantment_no": 181,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 303,
+    "enchantment_group_no": 205041,
+    "enchantment_no": 1005,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 304,
+    "enchantment_group_no": 205042,
+    "enchantment_no": 121,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 305,
+    "enchantment_group_no": 205043,
+    "enchantment_no": 101,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 306,
+    "enchantment_group_no": 205043,
+    "enchantment_no": 111,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 307,
+    "enchantment_group_no": 205043,
+    "enchantment_no": 121,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 308,
+    "enchantment_group_no": 205043,
+    "enchantment_no": 151,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 309,
+    "enchantment_group_no": 205043,
+    "enchantment_no": 191,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 310,
+    "enchantment_group_no": 205043,
+    "enchantment_no": 201,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 311,
+    "enchantment_group_no": 206041,
+    "enchantment_no": 1006,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 312,
+    "enchantment_group_no": 206042,
+    "enchantment_no": 101,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 313,
+    "enchantment_group_no": 206043,
+    "enchantment_no": 101,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 314,
+    "enchantment_group_no": 206043,
+    "enchantment_no": 111,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 315,
+    "enchantment_group_no": 206043,
+    "enchantment_no": 121,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 316,
+    "enchantment_group_no": 206043,
+    "enchantment_no": 131,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 317,
+    "enchantment_group_no": 206043,
+    "enchantment_no": 141,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 318,
+    "enchantment_group_no": 206043,
+    "enchantment_no": 161,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 319,
+    "enchantment_group_no": 206043,
+    "enchantment_no": 171,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 320,
+    "enchantment_group_no": 206043,
+    "enchantment_no": 181,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 321,
+    "enchantment_group_no": 304041,
+    "enchantment_no": 1007,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 322,
+    "enchantment_group_no": 304042,
+    "enchantment_no": 101,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 323,
+    "enchantment_group_no": 304043,
+    "enchantment_no": 101,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 324,
+    "enchantment_group_no": 304043,
+    "enchantment_no": 111,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 325,
+    "enchantment_group_no": 304043,
+    "enchantment_no": 121,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 326,
+    "enchantment_group_no": 304043,
+    "enchantment_no": 131,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 327,
+    "enchantment_group_no": 304043,
+    "enchantment_no": 141,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 328,
+    "enchantment_group_no": 304043,
+    "enchantment_no": 161,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 329,
+    "enchantment_group_no": 304043,
+    "enchantment_no": 171,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 330,
+    "enchantment_group_no": 304043,
+    "enchantment_no": 181,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 331,
+    "enchantment_group_no": 305041,
+    "enchantment_no": 1008,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 332,
+    "enchantment_group_no": 305042,
+    "enchantment_no": 1304,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 333,
+    "enchantment_group_no": 305043,
+    "enchantment_no": 101,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 334,
+    "enchantment_group_no": 305043,
+    "enchantment_no": 111,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 335,
+    "enchantment_group_no": 305043,
+    "enchantment_no": 121,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 336,
+    "enchantment_group_no": 305043,
+    "enchantment_no": 131,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 337,
+    "enchantment_group_no": 305043,
+    "enchantment_no": 141,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 338,
+    "enchantment_group_no": 305043,
+    "enchantment_no": 161,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 339,
+    "enchantment_group_no": 305043,
+    "enchantment_no": 171,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 340,
+    "enchantment_group_no": 305043,
+    "enchantment_no": 181,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 341,
+    "enchantment_group_no": 306041,
+    "enchantment_no": 1009,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 342,
+    "enchantment_group_no": 306042,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 343,
+    "enchantment_group_no": 306043,
+    "enchantment_no": 101,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 344,
+    "enchantment_group_no": 306043,
+    "enchantment_no": 111,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 345,
+    "enchantment_group_no": 306043,
+    "enchantment_no": 121,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 346,
+    "enchantment_group_no": 306043,
+    "enchantment_no": 131,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 347,
+    "enchantment_group_no": 306043,
+    "enchantment_no": 141,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 348,
+    "enchantment_group_no": 306043,
+    "enchantment_no": 161,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 349,
+    "enchantment_group_no": 306043,
+    "enchantment_no": 171,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 350,
+    "enchantment_group_no": 306043,
+    "enchantment_no": 181,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 351,
+    "enchantment_group_no": 404041,
+    "enchantment_no": 1010,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 352,
+    "enchantment_group_no": 404042,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 353,
+    "enchantment_group_no": 404043,
+    "enchantment_no": 141,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 354,
+    "enchantment_group_no": 404043,
+    "enchantment_no": 151,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 355,
+    "enchantment_group_no": 404043,
+    "enchantment_no": 231,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 356,
+    "enchantment_group_no": 404043,
+    "enchantment_no": 291,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 357,
+    "enchantment_group_no": 404043,
+    "enchantment_no": 241,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 358,
+    "enchantment_group_no": 404043,
+    "enchantment_no": 251,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 359,
+    "enchantment_group_no": 405041,
+    "enchantment_no": 1011,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 360,
+    "enchantment_group_no": 405042,
+    "enchantment_no": 1310,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 361,
+    "enchantment_group_no": 405043,
+    "enchantment_no": 101,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 362,
+    "enchantment_group_no": 405043,
+    "enchantment_no": 111,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 363,
+    "enchantment_group_no": 405043,
+    "enchantment_no": 121,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 364,
+    "enchantment_group_no": 405043,
+    "enchantment_no": 131,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 365,
+    "enchantment_group_no": 405043,
+    "enchantment_no": 141,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 366,
+    "enchantment_group_no": 405043,
+    "enchantment_no": 161,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 367,
+    "enchantment_group_no": 405043,
+    "enchantment_no": 171,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 368,
+    "enchantment_group_no": 405043,
+    "enchantment_no": 181,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 369,
+    "enchantment_group_no": 406041,
+    "enchantment_no": 1012,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 370,
+    "enchantment_group_no": 406042,
+    "enchantment_no": 131,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 371,
+    "enchantment_group_no": 406043,
+    "enchantment_no": 101,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 372,
+    "enchantment_group_no": 406043,
+    "enchantment_no": 111,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 373,
+    "enchantment_group_no": 406043,
+    "enchantment_no": 121,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 374,
+    "enchantment_group_no": 406043,
+    "enchantment_no": 131,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 375,
+    "enchantment_group_no": 406043,
+    "enchantment_no": 141,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 376,
+    "enchantment_group_no": 406043,
+    "enchantment_no": 161,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 377,
+    "enchantment_group_no": 406043,
+    "enchantment_no": 171,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 378,
+    "enchantment_group_no": 406043,
+    "enchantment_no": 181,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 379,
+    "enchantment_group_no": 504041,
+    "enchantment_no": 1013,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 380,
+    "enchantment_group_no": 504042,
+    "enchantment_no": 1301,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 381,
+    "enchantment_group_no": 504043,
+    "enchantment_no": 101,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 382,
+    "enchantment_group_no": 504043,
+    "enchantment_no": 111,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 383,
+    "enchantment_group_no": 504043,
+    "enchantment_no": 121,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 384,
+    "enchantment_group_no": 504043,
+    "enchantment_no": 131,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 385,
+    "enchantment_group_no": 504043,
+    "enchantment_no": 141,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 386,
+    "enchantment_group_no": 504043,
+    "enchantment_no": 161,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 387,
+    "enchantment_group_no": 504043,
+    "enchantment_no": 171,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 388,
+    "enchantment_group_no": 504043,
+    "enchantment_no": 181,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 389,
+    "enchantment_group_no": 505041,
+    "enchantment_no": 1014,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 390,
+    "enchantment_group_no": 505042,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 391,
+    "enchantment_group_no": 505043,
+    "enchantment_no": 101,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 392,
+    "enchantment_group_no": 505043,
+    "enchantment_no": 111,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 393,
+    "enchantment_group_no": 505043,
+    "enchantment_no": 121,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 394,
+    "enchantment_group_no": 505043,
+    "enchantment_no": 131,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 395,
+    "enchantment_group_no": 505043,
+    "enchantment_no": 141,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 396,
+    "enchantment_group_no": 505043,
+    "enchantment_no": 161,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 397,
+    "enchantment_group_no": 505043,
+    "enchantment_no": 171,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 398,
+    "enchantment_group_no": 505043,
+    "enchantment_no": 181,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 399,
+    "enchantment_group_no": 506041,
+    "enchantment_no": 1015,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 400,
+    "enchantment_group_no": 506042,
+    "enchantment_no": 141,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 401,
+    "enchantment_group_no": 506043,
+    "enchantment_no": 101,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 402,
+    "enchantment_group_no": 506043,
+    "enchantment_no": 111,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 403,
+    "enchantment_group_no": 506043,
+    "enchantment_no": 121,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 404,
+    "enchantment_group_no": 506043,
+    "enchantment_no": 131,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 405,
+    "enchantment_group_no": 506043,
+    "enchantment_no": 141,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 406,
+    "enchantment_group_no": 506043,
+    "enchantment_no": 161,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 407,
+    "enchantment_group_no": 506043,
+    "enchantment_no": 171,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 408,
+    "enchantment_group_no": 506043,
+    "enchantment_no": 181,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 409,
+    "enchantment_group_no": 604041,
+    "enchantment_no": 1016,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 410,
+    "enchantment_group_no": 604042,
+    "enchantment_no": 1609,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 411,
+    "enchantment_group_no": 604043,
+    "enchantment_no": 101,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 412,
+    "enchantment_group_no": 604043,
+    "enchantment_no": 111,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 413,
+    "enchantment_group_no": 604043,
+    "enchantment_no": 121,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 414,
+    "enchantment_group_no": 604043,
+    "enchantment_no": 131,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 415,
+    "enchantment_group_no": 604043,
+    "enchantment_no": 141,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 416,
+    "enchantment_group_no": 604043,
+    "enchantment_no": 161,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 417,
+    "enchantment_group_no": 604043,
+    "enchantment_no": 171,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 418,
+    "enchantment_group_no": 604043,
+    "enchantment_no": 181,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 419,
+    "enchantment_group_no": 605041,
+    "enchantment_no": 1017,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 420,
+    "enchantment_group_no": 605042,
+    "enchantment_no": 1304,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 421,
+    "enchantment_group_no": 605043,
+    "enchantment_no": 141,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 422,
+    "enchantment_group_no": 605043,
+    "enchantment_no": 151,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 423,
+    "enchantment_group_no": 605043,
+    "enchantment_no": 231,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 424,
+    "enchantment_group_no": 605043,
+    "enchantment_no": 291,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 425,
+    "enchantment_group_no": 605043,
+    "enchantment_no": 241,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 426,
+    "enchantment_group_no": 605043,
+    "enchantment_no": 251,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 427,
+    "enchantment_group_no": 606041,
+    "enchantment_no": 1018,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 428,
+    "enchantment_group_no": 606042,
+    "enchantment_no": 131,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 429,
+    "enchantment_group_no": 606043,
+    "enchantment_no": 101,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 430,
+    "enchantment_group_no": 606043,
+    "enchantment_no": 111,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 431,
+    "enchantment_group_no": 606043,
+    "enchantment_no": 121,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 432,
+    "enchantment_group_no": 606043,
+    "enchantment_no": 131,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 433,
+    "enchantment_group_no": 606043,
+    "enchantment_no": 141,
+    "weight": 24,
+    "can_duplication": 0
+  },
+  {
+    "id": 434,
+    "enchantment_group_no": 606043,
+    "enchantment_no": 161,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 435,
+    "enchantment_group_no": 606043,
+    "enchantment_no": 171,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 436,
+    "enchantment_group_no": 606043,
+    "enchantment_no": 181,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 437,
+    "enchantment_group_no": 704041,
+    "enchantment_no": 1019,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 438,
+    "enchantment_group_no": 704042,
+    "enchantment_no": 101,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 439,
+    "enchantment_group_no": 704043,
+    "enchantment_no": 141,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 440,
+    "enchantment_group_no": 704043,
+    "enchantment_no": 151,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 441,
+    "enchantment_group_no": 704043,
+    "enchantment_no": 231,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 442,
+    "enchantment_group_no": 704043,
+    "enchantment_no": 291,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 443,
+    "enchantment_group_no": 704043,
+    "enchantment_no": 241,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 444,
+    "enchantment_group_no": 704043,
+    "enchantment_no": 251,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 445,
+    "enchantment_group_no": 705041,
+    "enchantment_no": 1020,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 446,
+    "enchantment_group_no": 705042,
+    "enchantment_no": 121,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 447,
+    "enchantment_group_no": 705043,
+    "enchantment_no": 141,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 448,
+    "enchantment_group_no": 705043,
+    "enchantment_no": 151,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 449,
+    "enchantment_group_no": 705043,
+    "enchantment_no": 231,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 450,
+    "enchantment_group_no": 705043,
+    "enchantment_no": 291,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 451,
+    "enchantment_group_no": 705043,
+    "enchantment_no": 241,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 452,
+    "enchantment_group_no": 705043,
+    "enchantment_no": 251,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 453,
+    "enchantment_group_no": 706041,
+    "enchantment_no": 1021,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 454,
+    "enchantment_group_no": 706042,
+    "enchantment_no": 141,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 455,
+    "enchantment_group_no": 706043,
+    "enchantment_no": 101,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 456,
+    "enchantment_group_no": 706043,
+    "enchantment_no": 111,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 457,
+    "enchantment_group_no": 706043,
+    "enchantment_no": 121,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 458,
+    "enchantment_group_no": 706043,
+    "enchantment_no": 151,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 459,
+    "enchantment_group_no": 706043,
+    "enchantment_no": 211,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 460,
+    "enchantment_group_no": 706043,
+    "enchantment_no": 221,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 461,
+    "enchantment_group_no": 804041,
+    "enchantment_no": 1022,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 462,
+    "enchantment_group_no": 804042,
+    "enchantment_no": 291,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 463,
+    "enchantment_group_no": 804043,
+    "enchantment_no": 141,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 464,
+    "enchantment_group_no": 804043,
+    "enchantment_no": 151,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 465,
+    "enchantment_group_no": 804043,
+    "enchantment_no": 231,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 466,
+    "enchantment_group_no": 804043,
+    "enchantment_no": 291,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 467,
+    "enchantment_group_no": 804043,
+    "enchantment_no": 241,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 468,
+    "enchantment_group_no": 804043,
+    "enchantment_no": 251,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 469,
+    "enchantment_group_no": 805041,
+    "enchantment_no": 1023,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 470,
+    "enchantment_group_no": 805042,
+    "enchantment_no": 1311,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 471,
+    "enchantment_group_no": 805043,
+    "enchantment_no": 141,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 472,
+    "enchantment_group_no": 805043,
+    "enchantment_no": 151,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 473,
+    "enchantment_group_no": 805043,
+    "enchantment_no": 231,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 474,
+    "enchantment_group_no": 805043,
+    "enchantment_no": 291,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 475,
+    "enchantment_group_no": 805043,
+    "enchantment_no": 241,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 476,
+    "enchantment_group_no": 805043,
+    "enchantment_no": 251,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 485,
+    "enchantment_group_no": 807041,
+    "enchantment_no": 1024,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 486,
+    "enchantment_group_no": 807042,
+    "enchantment_no": 151,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 487,
+    "enchantment_group_no": 807043,
+    "enchantment_no": 141,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 488,
+    "enchantment_group_no": 807043,
+    "enchantment_no": 151,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 489,
+    "enchantment_group_no": 807043,
+    "enchantment_no": 231,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 490,
+    "enchantment_group_no": 807043,
+    "enchantment_no": 291,
+    "weight": 20,
+    "can_duplication": 0
+  },
+  {
+    "id": 491,
+    "enchantment_group_no": 807043,
+    "enchantment_no": 241,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 492,
+    "enchantment_group_no": 807043,
+    "enchantment_no": 251,
+    "weight": 10,
+    "can_duplication": 0
+  },
+  {
+    "id": 500,
+    "enchantment_group_no": 1001011,
+    "enchantment_no": 1302,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 501,
+    "enchantment_group_no": 1002011,
+    "enchantment_no": 1602,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 502,
+    "enchantment_group_no": 1003011,
+    "enchantment_no": 101,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 503,
+    "enchantment_group_no": 2001011,
+    "enchantment_no": 1303,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 504,
+    "enchantment_group_no": 2002011,
+    "enchantment_no": 1602,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 505,
+    "enchantment_group_no": 3001011,
+    "enchantment_no": 1302,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 506,
+    "enchantment_group_no": 3002011,
+    "enchantment_no": 101,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 507,
+    "enchantment_group_no": 3003011,
+    "enchantment_no": 1604,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 508,
+    "enchantment_group_no": 4001011,
+    "enchantment_no": 1305,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 509,
+    "enchantment_group_no": 4002011,
+    "enchantment_no": 1605,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 510,
+    "enchantment_group_no": 1004041,
+    "enchantment_no": 1025,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 511,
+    "enchantment_group_no": 1004042,
+    "enchantment_no": 101,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 512,
+    "enchantment_group_no": 1005041,
+    "enchantment_no": 1026,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 513,
+    "enchantment_group_no": 1005042,
+    "enchantment_no": 121,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 514,
+    "enchantment_group_no": 2004041,
+    "enchantment_no": 1027,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 515,
+    "enchantment_group_no": 2004042,
+    "enchantment_no": 101,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 516,
+    "enchantment_group_no": 3004041,
+    "enchantment_no": 1028,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 517,
+    "enchantment_group_no": 3004042,
+    "enchantment_no": 121,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 518,
+    "enchantment_group_no": 3005041,
+    "enchantment_no": 1029,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 519,
+    "enchantment_group_no": 3005042,
+    "enchantment_no": 101,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 520,
+    "enchantment_group_no": 4004041,
+    "enchantment_no": 1030,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 521,
+    "enchantment_group_no": 4004042,
+    "enchantment_no": 101,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 522,
+    "enchantment_group_no": 4005041,
+    "enchantment_no": 1031,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 523,
+    "enchantment_group_no": 4005042,
+    "enchantment_no": 121,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 526,
+    "enchantment_group_no": 70004041,
+    "enchantment_no": 1032,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 527,
+    "enchantment_group_no": 80004041,
+    "enchantment_no": 1033,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 528,
+    "enchantment_group_no": 90004041,
+    "enchantment_no": 1034,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 529,
+    "enchantment_group_no": 70004042,
+    "enchantment_no": 1035,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 530,
+    "enchantment_group_no": 80004042,
+    "enchantment_no": 1036,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 531,
+    "enchantment_group_no": 90004042,
+    "enchantment_no": 1037,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 540,
+    "enchantment_group_no": 104031,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 541,
+    "enchantment_group_no": 104032,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 542,
+    "enchantment_group_no": 104033,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 543,
+    "enchantment_group_no": 204031,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 544,
+    "enchantment_group_no": 204032,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 545,
+    "enchantment_group_no": 204033,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 546,
+    "enchantment_group_no": 304031,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 547,
+    "enchantment_group_no": 304032,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 548,
+    "enchantment_group_no": 304033,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 549,
+    "enchantment_group_no": 404031,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 550,
+    "enchantment_group_no": 404032,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 551,
+    "enchantment_group_no": 404033,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 552,
+    "enchantment_group_no": 504031,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 553,
+    "enchantment_group_no": 504032,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 554,
+    "enchantment_group_no": 504033,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 555,
+    "enchantment_group_no": 604031,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 556,
+    "enchantment_group_no": 604032,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 557,
+    "enchantment_group_no": 604033,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 558,
+    "enchantment_group_no": 704031,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 559,
+    "enchantment_group_no": 704032,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 560,
+    "enchantment_group_no": 704033,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 561,
+    "enchantment_group_no": 804031,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 562,
+    "enchantment_group_no": 804032,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 563,
+    "enchantment_group_no": 804033,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 564,
+    "enchantment_group_no": 1004031,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 565,
+    "enchantment_group_no": 1004032,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 566,
+    "enchantment_group_no": 1004033,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 567,
+    "enchantment_group_no": 2004031,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 568,
+    "enchantment_group_no": 2004032,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 569,
+    "enchantment_group_no": 2004033,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 570,
+    "enchantment_group_no": 3004031,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 571,
+    "enchantment_group_no": 3004032,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 572,
+    "enchantment_group_no": 3004033,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 573,
+    "enchantment_group_no": 4004031,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 574,
+    "enchantment_group_no": 4004032,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 575,
+    "enchantment_group_no": 4004033,
+    "enchantment_no": 111,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 578,
+    "enchantment_group_no": 1,
+    "enchantment_no": 1,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 579,
+    "enchantment_group_no": 2,
+    "enchantment_no": 2,
+    "weight": 100,
+    "can_duplication": 0
+  },
+  {
+    "id": 580,
+    "enchantment_group_no": 3,
+    "enchantment_no": 3,
+    "weight": 100,
+    "can_duplication": 0
+  }
+]

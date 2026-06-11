@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "m_character_skin_id": 120001601,
+    "part_scene": 1,
+    "voice_cue_name": "part_voice_partytop_05",
+    "is_notice": 0,
+    "play_type": 1,
+    "face_trigger": "FaceAnger",
+    "text": "編成こそ部隊運用の要よ！\nあなたの腕前、見せてみなさい！"
+  },
+  {
+    "id": 2,
+    "m_character_skin_id": 120001601,
+    "part_scene": 1,
+    "voice_cue_name": "part_voice_partytop_06",
+    "is_notice": 0,
+    "play_type": 2,
+    "face_trigger": "FaceNormal",
+    "text": "わからないことでもあるの？\nそうね……まずは各スタンスに\n探索者を配置してみたら？"
+  },
+  {
+    "id": 3,
+    "m_character_skin_id": 120001601,
+    "part_scene": 1,
+    "voice_cue_name": "part_voice_partytop_07",
+    "is_notice": 0,
+    "play_type": 2,
+    "face_trigger": "FaceUnique01",
+    "text": "まじめにやりなさい！\nあなたが司令官なんだから！"
+  },
+  {
+    "id": 4,
+    "m_character_skin_id": 120001601,
+    "part_scene": 1,
+    "voice_cue_name": "part_voice_partytop_08",
+    "is_notice": 0,
+    "play_type": 2,
+    "face_trigger": "FaceShy",
+    "text": "わかったわよ……休憩ね、休憩。\nちょっとだけだからね？"
+  },
+  {
+    "id": 5,
+    "m_character_skin_id": 120000201,
+    "part_scene": 1,
+    "voice_cue_name": "part_voice_partytop_01",
+    "is_notice": 0,
+    "play_type": 1,
+    "face_trigger": "FaceFun",
+    "text": "ここで部隊の編成ができちゃうよ～\nおにーさんは、誰を連れてくのかな～？"
+  },
+  {
+    "id": 6,
+    "m_character_skin_id": 120000201,
+    "part_scene": 1,
+    "voice_cue_name": "part_voice_partytop_02",
+    "is_notice": 0,
+    "play_type": 2,
+    "face_trigger": "FaceUnique02",
+    "text": "もしかして編成の仕方わかんないの～？\nザコザコおにーさんはっけ～ん♡"
+  },
+  {
+    "id": 7,
+    "m_character_skin_id": 120000201,
+    "part_scene": 1,
+    "voice_cue_name": "part_voice_partytop_03",
+    "is_notice": 0,
+    "play_type": 2,
+    "face_trigger": "EyeClose",
+    "text": "えっとね～探索者にはそれぞれ\nスタンス？　があるんだって。"
+  },
+  {
+    "id": 8,
+    "m_character_skin_id": 120000201,
+    "part_scene": 1,
+    "voice_cue_name": "part_voice_partytop_04",
+    "is_notice": 0,
+    "play_type": 2,
+    "face_trigger": "FaceHappy",
+    "text": "もしかしてあたしと遊びたいのぉ？\nじゃあ、一緒にサボっちゃう？"
+  },
+  {
+    "id": 9,
+    "m_character_skin_id": 0,
+    "part_scene": 2,
+    "voice_cue_name": "part_voice_questselect_01",
+    "is_notice": 0,
+    "play_type": 1,
+    "face_trigger": "FaceFun",
+    "text": "各種クエストへはこちらから\n向かうことができますよ！"
+  },
+  {
+    "id": 10,
+    "m_character_skin_id": 0,
+    "part_scene": 2,
+    "voice_cue_name": "part_voice_questselect_02",
+    "is_notice": 1,
+    "play_type": 1,
+    "face_trigger": "FaceFun",
+    "text": "イベントクエストが開催中です。\n参加して、特別な報酬を\nもらっちゃいましょう！"
+  },
+  {
+    "id": 11,
+    "m_character_skin_id": 0,
+    "part_scene": 2,
+    "voice_cue_name": "part_voice_questselect_03",
+    "is_notice": 0,
+    "play_type": 2,
+    "face_trigger": "FaceNormal",
+    "text": "大穴の探索が進むと、新たなクエストが\n解放されることもあるみたいです！"
+  },
+  {
+    "id": 12,
+    "m_character_skin_id": 0,
+    "part_scene": 2,
+    "voice_cue_name": "part_voice_questselect_04",
+    "is_notice": 0,
+    "play_type": 2,
+    "face_trigger": "FaceUnique01",
+    "text": "どのクエストに向かいますか？\n皆さんの無事を祈っています！"
+  },
+  {
+    "id": 13,
+    "m_character_skin_id": 0,
+    "part_scene": 2,
+    "voice_cue_name": "part_voice_questselect_05",
+    "is_notice": 0,
+    "play_type": 2,
+    "face_trigger": "FaceShy",
+    "text": "し、司令官……ダメですよぉ……\nもぉ～、イタズラばっかり……"
+  },
+  {
+    "id": 14,
+    "m_character_skin_id": 1,
+    "part_scene": 3,
+    "voice_cue_name": "part_voice_research_01",
+    "is_notice": 1,
+    "play_type": 1,
+    "face_trigger": "FaceHappy",
+    "text": "建設・拡張が可能な施設があります。\n今すぐやってしまいましょう。さあ！"
+  },
+  {
+    "id": 15,
+    "m_character_skin_id": 1,
+    "part_scene": 3,
+    "voice_cue_name": "part_voice_research_02",
+    "is_notice": 0,
+    "play_type": 1,
+    "face_trigger": "FaceNormal",
+    "text": "天才兼変態科学者の知能で\nこの前線基地に特別な施設を\n建ててあげましょう！"
+  },
+  {
+    "id": 16,
+    "m_character_skin_id": 1,
+    "part_scene": 3,
+    "voice_cue_name": "part_voice_research_03",
+    "is_notice": 0,
+    "play_type": 2,
+    "face_trigger": "FaceFun",
+    "text": "どうやって一瞬で建てているのか？\nふふ、それはルクスノヴァの\n企業秘密ということで。"
+  },
+  {
+    "id": 17,
+    "m_character_skin_id": 1,
+    "part_scene": 3,
+    "voice_cue_name": "part_voice_research_04",
+    "is_notice": 0,
+    "play_type": 2,
+    "face_trigger": "FaceAnger",
+    "text": "何度も言いますが……\n私は天才兼変態科学者ですので。\nいえ、変態兼天才科学者ではなく。"
+  },
+  {
+    "id": 18,
+    "m_character_skin_id": 1,
+    "part_scene": 3,
+    "voice_cue_name": "part_voice_research_05",
+    "is_notice": 0,
+    "play_type": 2,
+    "face_trigger": "FaceUnique02",
+    "text": "私のことも気になるようですね。\nふふっ、それはまた後程……"
+  },
+  {
+    "id": 19,
+    "m_character_skin_id": 120000301,
+    "part_scene": 4,
+    "voice_cue_name": "part_voice_shop_01",
+    "is_notice": 1,
+    "play_type": 1,
+    "face_trigger": "FaceFun",
+    "text": "旦那さま、 耳寄り情報ですぅ♪\nなんと、とっておきの掘り出し物が！\n今買わなきゃ損ですよぉ～？"
+  },
+  {
+    "id": 20,
+    "m_character_skin_id": 120000301,
+    "part_scene": 4,
+    "voice_cue_name": "part_voice_shop_02",
+    "is_notice": 0,
+    "play_type": 1,
+    "face_trigger": "FaceNormal",
+    "text": "ここでは色んな商品を扱ってますぅ～。\n買えば買うほど、前線基地は発展♪\nお互いウィンウィンって訳ですねぇ～。"
+  },
+  {
+    "id": 21,
+    "m_character_skin_id": 120000301,
+    "part_scene": 4,
+    "voice_cue_name": "part_voice_shop_03",
+    "is_notice": 0,
+    "play_type": 2,
+    "face_trigger": "FaceHappy",
+    "text": "気になる商品はありましたかぁ？\n毎日覗いて行ってくださいねぇ～♪"
+  },
+  {
+    "id": 22,
+    "m_character_skin_id": 120000301,
+    "part_scene": 4,
+    "voice_cue_name": "part_voice_shop_04",
+    "is_notice": 0,
+    "play_type": 2,
+    "face_trigger": "FaceShy",
+    "text": "うふふ♡　そんなに褒めても、\n値引きは無理ですよ～。"
+  },
+  {
+    "id": 23,
+    "m_character_skin_id": 120000301,
+    "part_scene": 4,
+    "voice_cue_name": "part_voice_shop_05",
+    "is_notice": 0,
+    "play_type": 2,
+    "face_trigger": "FaceUnique02",
+    "text": "もぉぉ～、いくら旦那さまでも、\nこれ以上は追加料金もらいますよぉ～？"
+  },
+  {
+    "id": 24,
+    "m_character_skin_id": 1,
+    "part_scene": 5,
+    "voice_cue_name": "part_voice_nethertop_01",
+    "is_notice": 0,
+    "play_type": 1,
+    "face_trigger": "FaceUnique01",
+    "text": "この先は未知の領域……\nこちらからもサポートはいたしますが\nしっかりと準備してから挑みましょう。"
+  },
+  {
+    "id": 25,
+    "m_character_skin_id": 1,
+    "part_scene": 5,
+    "voice_cue_name": "part_voice_nethertop_02",
+    "is_notice": 0,
+    "play_type": 2,
+    "face_trigger": "FaceNormal",
+    "text": "大穴の中ではモンスターだけでなく\n環境すらも皆さんの敵になるかも\nしれません。"
+  },
+  {
+    "id": 26,
+    "m_character_skin_id": 1,
+    "part_scene": 5,
+    "voice_cue_name": "part_voice_nethertop_03",
+    "is_notice": 0,
+    "play_type": 2,
+    "face_trigger": "FaceFun",
+    "text": "ホログラムで失礼。\nこちらの姿が見えていたほうが\n話しやすいでしょう？"
+  },
+  {
+    "id": 27,
+    "m_character_skin_id": 1,
+    "part_scene": 5,
+    "voice_cue_name": "part_voice_nethertop_04",
+    "is_notice": 0,
+    "play_type": 2,
+    "face_trigger": "FaceShy",
+    "text": "司令官、今どこを触ろうとしました？\n直接触れたい時は研究室へどうぞ。\nふふっ、いつでもお待ちしてますよ？"
+  },
+  {
+    "id": 28,
+    "m_character_skin_id": 1,
+    "part_scene": 6,
+    "voice_cue_name": "part_voice_nethershop_01",
+    "is_notice": 0,
+    "play_type": 1,
+    "face_trigger": "FaceNormal",
+    "text": "こちらの品をご用意しました。\nなに、貴重な探索データを\nいただいたお礼ですよ。"
+  },
+  {
+    "id": 29,
+    "m_character_skin_id": 0,
+    "part_scene": 7,
+    "voice_cue_name": "part_voice_mission_01",
+    "is_notice": 0,
+    "play_type": 1,
+    "face_trigger": "FaceFun",
+    "text": "ミッションをこなすと報酬が貰えます。\nどんどん達成して、\n前線基地を発展させましょう！"
+  },
+  {
+    "id": 30,
+    "m_character_skin_id": 0,
+    "part_scene": 7,
+    "voice_cue_name": "part_voice_mission_02",
+    "is_notice": 1,
+    "play_type": 1,
+    "face_trigger": "FaceUnique01",
+    "text": "達成したミッションがあるようです。\nさすがです、司令官♪\n報酬を受け取りましょう。"
+  },
+  {
+    "id": 31,
+    "m_character_skin_id": 0,
+    "part_scene": 7,
+    "voice_cue_name": "part_voice_mission_03",
+    "is_notice": 0,
+    "play_type": 2,
+    "face_trigger": "FaceSurprise",
+    "text": "いろいろなミッションをこなして\n報酬をもらうのが、前線基地の\n発展の近道、らしいですよ？"
+  },
+  {
+    "id": 32,
+    "m_character_skin_id": 0,
+    "part_scene": 7,
+    "voice_cue_name": "part_voice_mission_04",
+    "is_notice": 0,
+    "play_type": 2,
+    "face_trigger": "FaceNormal",
+    "text": "ミッションには期限がある場合も\nありますので、注意してくださいね。"
+  },
+  {
+    "id": 33,
+    "m_character_skin_id": 0,
+    "part_scene": 7,
+    "voice_cue_name": "part_voice_mission_05",
+    "is_notice": 0,
+    "play_type": 2,
+    "face_trigger": "EyeClose",
+    "text": "メガネ、似合ってます……？\nえへへ、照れちゃいますね……"
+  }
+]

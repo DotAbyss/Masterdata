@@ -1,0 +1,416 @@
+[
+  {
+    "id": 30000101,
+    "category": 2,
+    "category_group": 300001,
+    "title": "",
+    "start_at": "2026-06-13 10:00:00",
+    "end_at": "2026-06-27 04:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 30000102,
+    "category": 2,
+    "category_group": 300001,
+    "title": "",
+    "start_at": "2026-06-16 10:00:00",
+    "end_at": "2026-06-27 04:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 100000000,
+    "category": 3,
+    "category_group": 1,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "1"
+  },
+  {
+    "id": 100000001,
+    "category": 3,
+    "category_group": 2,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2026-07-01 04:59:59",
+    "asset_id": "1700001"
+  },
+  {
+    "id": 1,
+    "category": 1,
+    "category_group": 0,
+    "title": "リリース記念ミッション",
+    "start_at": "2026-06-11 00:00:00",
+    "end_at": "2026-06-25 04:59:59",
+    "asset_id": "1300001"
+  },
+  {
+    "id": 300000000,
+    "category": 5,
+    "category_group": 0,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300000001,
+    "category": 5,
+    "category_group": 1,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300000002,
+    "category": 5,
+    "category_group": 2,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300000003,
+    "category": 5,
+    "category_group": 3,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300000004,
+    "category": 5,
+    "category_group": 4,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300000005,
+    "category": 5,
+    "category_group": 5,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300000006,
+    "category": 5,
+    "category_group": 6,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300000007,
+    "category": 5,
+    "category_group": 7,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300000008,
+    "category": 5,
+    "category_group": 8,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300000009,
+    "category": 5,
+    "category_group": 9,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300000010,
+    "category": 5,
+    "category_group": 10,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300000011,
+    "category": 5,
+    "category_group": 11,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300000012,
+    "category": 5,
+    "category_group": 12,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300000013,
+    "category": 5,
+    "category_group": 13,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300000014,
+    "category": 5,
+    "category_group": 14,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300000015,
+    "category": 5,
+    "category_group": 15,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300000016,
+    "category": 5,
+    "category_group": 16,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300000017,
+    "category": 5,
+    "category_group": 17,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300000018,
+    "category": 5,
+    "category_group": 18,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300000019,
+    "category": 5,
+    "category_group": 19,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300000020,
+    "category": 5,
+    "category_group": 20,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300000021,
+    "category": 5,
+    "category_group": 21,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300000022,
+    "category": 5,
+    "category_group": 22,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300010000,
+    "category": 5,
+    "category_group": 23,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300010001,
+    "category": 5,
+    "category_group": 24,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300010002,
+    "category": 5,
+    "category_group": 25,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300010003,
+    "category": 5,
+    "category_group": 26,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300010004,
+    "category": 5,
+    "category_group": 27,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300010005,
+    "category": 5,
+    "category_group": 28,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300010006,
+    "category": 5,
+    "category_group": 29,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300010007,
+    "category": 5,
+    "category_group": 30,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300010008,
+    "category": 5,
+    "category_group": 31,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300010009,
+    "category": 5,
+    "category_group": 32,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300010010,
+    "category": 5,
+    "category_group": 33,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300010011,
+    "category": 5,
+    "category_group": 34,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300010012,
+    "category": 5,
+    "category_group": 35,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300010013,
+    "category": 5,
+    "category_group": 36,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300010014,
+    "category": 5,
+    "category_group": 37,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300010015,
+    "category": 5,
+    "category_group": 38,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300010016,
+    "category": 5,
+    "category_group": 39,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 300010017,
+    "category": 5,
+    "category_group": 40,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  }
+]

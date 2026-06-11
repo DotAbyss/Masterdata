@@ -1,0 +1,891 @@
+[
+  {
+    "id": 10010100001,
+    "script_id": "men_10010100001",
+    "title": "ローザの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10010100002,
+    "script_id": "men_10010100002",
+    "title": "ローザの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10020100001,
+    "script_id": "men_10020100001",
+    "title": "ベリサの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10020100002,
+    "script_id": "men_10020100002",
+    "title": "ベリサの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10020100003,
+    "script_id": "men_10020100003",
+    "title": "ベリサの日常その③",
+    "description": "",
+    "display_order": 3
+  },
+  {
+    "id": 10030100001,
+    "script_id": "men_10030100001",
+    "title": "マリナの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10030100002,
+    "script_id": "men_10030100002",
+    "title": "マリナの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10030100003,
+    "script_id": "men_10030100003",
+    "title": "マリナの日常その③",
+    "description": "",
+    "display_order": 3
+  },
+  {
+    "id": 10040100001,
+    "script_id": "men_10040100001",
+    "title": "シャオレイの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10040100002,
+    "script_id": "men_10040100002",
+    "title": "シャオレイの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10050100001,
+    "script_id": "men_10050100001",
+    "title": "エレクトラの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10050100002,
+    "script_id": "men_10050100002",
+    "title": "エレクトラの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10050100003,
+    "script_id": "men_10050100003",
+    "title": "エレクトラの日常その③",
+    "description": "",
+    "display_order": 3
+  },
+  {
+    "id": 10060100001,
+    "script_id": "men_10060100001",
+    "title": "ノエミの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10060100002,
+    "script_id": "men_10060100002",
+    "title": "ノエミの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10070100001,
+    "script_id": "men_10070100001",
+    "title": "フィルムの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10070100002,
+    "script_id": "men_10070100002",
+    "title": "フィルムの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10070100003,
+    "script_id": "men_10070100003",
+    "title": "フィルムの日常その③",
+    "description": "",
+    "display_order": 3
+  },
+  {
+    "id": 10080100001,
+    "script_id": "men_10080100001",
+    "title": "ヴィーラの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10080100002,
+    "script_id": "men_10080100002",
+    "title": "ヴィーラの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10080100003,
+    "script_id": "men_10080100003",
+    "title": "ヴィーラの日常その③",
+    "description": "",
+    "display_order": 3
+  },
+  {
+    "id": 10120100001,
+    "script_id": "men_10120100001",
+    "title": "エティアの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10120100002,
+    "script_id": "men_10120100002",
+    "title": "エティアの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10120100003,
+    "script_id": "men_10120100003",
+    "title": "エティアの日常その③",
+    "description": "",
+    "display_order": 3
+  },
+  {
+    "id": 10130100001,
+    "script_id": "men_10130100001",
+    "title": "フレデリカの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10130100002,
+    "script_id": "men_10130100002",
+    "title": "フレデリカの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10130100003,
+    "script_id": "men_10130100003",
+    "title": "フレデリカの日常その③",
+    "description": "",
+    "display_order": 3
+  },
+  {
+    "id": 10140100001,
+    "script_id": "men_10140100001",
+    "title": "ピコの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10140100002,
+    "script_id": "men_10140100002",
+    "title": "ピコの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10140100003,
+    "script_id": "men_10140100003",
+    "title": "ピコの日常その③",
+    "description": "",
+    "display_order": 3
+  },
+  {
+    "id": 10160100001,
+    "script_id": "men_10160100001",
+    "title": "ウィステリアの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10160100002,
+    "script_id": "men_10160100002",
+    "title": "ウィステリアの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10160100003,
+    "script_id": "men_10160100003",
+    "title": "ウィステリアの日常その③",
+    "description": "",
+    "display_order": 3
+  },
+  {
+    "id": 10200100001,
+    "script_id": "men_10200100001",
+    "title": "ラヴェリアの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10200100002,
+    "script_id": "men_10200100002",
+    "title": "ラヴェリアの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10200100003,
+    "script_id": "men_10200100003",
+    "title": "ラヴェリアの日常その③",
+    "description": "",
+    "display_order": 3
+  },
+  {
+    "id": 10210100001,
+    "script_id": "men_10210100001",
+    "title": "ヒュメナの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10210100002,
+    "script_id": "men_10210100002",
+    "title": "ヒュメナの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10210100003,
+    "script_id": "men_10210100003",
+    "title": "ヒュメナの日常その③",
+    "description": "",
+    "display_order": 3
+  },
+  {
+    "id": 10240100001,
+    "script_id": "men_10240100001",
+    "title": "マニョリアの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10240100002,
+    "script_id": "men_10240100002",
+    "title": "マニョリアの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10240100003,
+    "script_id": "men_10240100003",
+    "title": "マニョリアの日常その③",
+    "description": "",
+    "display_order": 3
+  },
+  {
+    "id": 10250100001,
+    "script_id": "men_10250100001",
+    "title": "ウェンディの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10250100002,
+    "script_id": "men_10250100002",
+    "title": "ウェンディの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10250100003,
+    "script_id": "men_10250100003",
+    "title": "ウェンディの日常その③",
+    "description": "",
+    "display_order": 3
+  },
+  {
+    "id": 10260100001,
+    "script_id": "men_10260100001",
+    "title": "シルヴィアの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10260100002,
+    "script_id": "men_10260100002",
+    "title": "シルヴィアの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10260100003,
+    "script_id": "men_10260100003",
+    "title": "シルヴィアの日常その③",
+    "description": "",
+    "display_order": 3
+  },
+  {
+    "id": 10280100001,
+    "script_id": "men_10280100001",
+    "title": "エミリーの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10280100002,
+    "script_id": "men_10280100002",
+    "title": "エミリーの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10280100003,
+    "script_id": "men_10280100003",
+    "title": "エミリーの日常その③",
+    "description": "",
+    "display_order": 3
+  },
+  {
+    "id": 10290100001,
+    "script_id": "men_10290100001",
+    "title": "ミルティーユの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10290100002,
+    "script_id": "men_10290100002",
+    "title": "ミルティーユの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10290100003,
+    "script_id": "men_10290100003",
+    "title": "ミルティーユの日常その③",
+    "description": "",
+    "display_order": 3
+  },
+  {
+    "id": 10310100001,
+    "script_id": "men_10310100001",
+    "title": "ハツネの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10310100002,
+    "script_id": "men_10310100002",
+    "title": "ハツネの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10310100003,
+    "script_id": "men_10310100003",
+    "title": "ハツネの日常その③",
+    "description": "",
+    "display_order": 3
+  },
+  {
+    "id": 10320100001,
+    "script_id": "men_10320100001",
+    "title": "ダリアの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10320100002,
+    "script_id": "men_10320100002",
+    "title": "ダリアの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10330100001,
+    "script_id": "men_10330100001",
+    "title": "エメルダの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10330100002,
+    "script_id": "men_10330100002",
+    "title": "エメルダの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10340100001,
+    "script_id": "men_10340100001",
+    "title": "カーラの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10340100002,
+    "script_id": "men_10340100002",
+    "title": "カーラの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10360100001,
+    "script_id": "men_10360100001",
+    "title": "ライムの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10360100002,
+    "script_id": "men_10360100002",
+    "title": "ライムの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10390100001,
+    "script_id": "men_10390100001",
+    "title": "マーガレットの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10390100002,
+    "script_id": "men_10390100002",
+    "title": "マーガレットの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10400100001,
+    "script_id": "men_10400100001",
+    "title": "ルカの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10400100002,
+    "script_id": "men_10400100002",
+    "title": "ルカの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10410100001,
+    "script_id": "men_10410100001",
+    "title": "アヤメの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10410100002,
+    "script_id": "men_10410100002",
+    "title": "アヤメの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10420100001,
+    "script_id": "men_10420100001",
+    "title": "ヘイリーの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10420100002,
+    "script_id": "men_10420100002",
+    "title": "ヘイリーの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10430100001,
+    "script_id": "men_10430100001",
+    "title": "ジェンマの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10430100002,
+    "script_id": "men_10430100002",
+    "title": "ジェンマの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10440100001,
+    "script_id": "men_10440100001",
+    "title": "ヤチヨの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10440100002,
+    "script_id": "men_10440100002",
+    "title": "ヤチヨの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10450100001,
+    "script_id": "men_10450100001",
+    "title": "イオラの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10450100002,
+    "script_id": "men_10450100002",
+    "title": "イオラの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10460100001,
+    "script_id": "men_10460100001",
+    "title": "エルミアの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10460100002,
+    "script_id": "men_10460100002",
+    "title": "エルミアの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10470100001,
+    "script_id": "men_10470100001",
+    "title": "メレムの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10470100002,
+    "script_id": "men_10470100002",
+    "title": "メレムの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10480100001,
+    "script_id": "men_10480100001",
+    "title": "セレストの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10480100002,
+    "script_id": "men_10480100002",
+    "title": "セレストの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10490100001,
+    "script_id": "men_10490100001",
+    "title": "クロエの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10490100002,
+    "script_id": "men_10490100002",
+    "title": "クロエの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10500100001,
+    "script_id": "men_10500100001",
+    "title": "ベティの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10500100002,
+    "script_id": "men_10500100002",
+    "title": "ベティの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10510100001,
+    "script_id": "men_10510100001",
+    "title": "フェイリンの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10510100002,
+    "script_id": "men_10510100002",
+    "title": "フェイリンの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10520100001,
+    "script_id": "men_10520100001",
+    "title": "シェリルの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10520100002,
+    "script_id": "men_10520100002",
+    "title": "シェリルの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10530100001,
+    "script_id": "men_10530100001",
+    "title": "シャノンの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10530100002,
+    "script_id": "men_10530100002",
+    "title": "シャノンの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10540100001,
+    "script_id": "men_10540100001",
+    "title": "フレイヤの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10540100002,
+    "script_id": "men_10540100002",
+    "title": "フレイヤの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10550100001,
+    "script_id": "men_10550100001",
+    "title": "リタの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10550100002,
+    "script_id": "men_10550100002",
+    "title": "リタの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10590100001,
+    "script_id": "men_10590100001",
+    "title": "スティーラの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10590100002,
+    "script_id": "men_10590100002",
+    "title": "スティーラの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10600100001,
+    "script_id": "men_10600100001",
+    "title": "テルーの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10600100002,
+    "script_id": "men_10600100002",
+    "title": "テルーの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10610100001,
+    "script_id": "men_10610100001",
+    "title": "ニナの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10610100002,
+    "script_id": "men_10610100002",
+    "title": "ニナの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10610100003,
+    "script_id": "men_10610100003",
+    "title": "ニナの日常その③",
+    "description": "",
+    "display_order": 3
+  },
+  {
+    "id": 10620100001,
+    "script_id": "men_10620100001",
+    "title": "ヒナギの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10620100002,
+    "script_id": "men_10620100002",
+    "title": "ヒナギの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10620100003,
+    "script_id": "men_10620100003",
+    "title": "ヒナギの日常その③",
+    "description": "",
+    "display_order": 3
+  },
+  {
+    "id": 10630100001,
+    "script_id": "men_10630100001",
+    "title": "ホノカの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10630100002,
+    "script_id": "men_10630100002",
+    "title": "ホノカの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10630100003,
+    "script_id": "men_10630100003",
+    "title": "ホノカの日常その③",
+    "description": "",
+    "display_order": 3
+  },
+  {
+    "id": 10640100001,
+    "script_id": "men_10640100001",
+    "title": "ラモーナの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10640100002,
+    "script_id": "men_10640100002",
+    "title": "ラモーナの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10640100003,
+    "script_id": "men_10640100003",
+    "title": "ラモーナの日常その③",
+    "description": "",
+    "display_order": 3
+  },
+  {
+    "id": 10650100001,
+    "script_id": "men_10650100001",
+    "title": "ソフィアの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10650100002,
+    "script_id": "men_10650100002",
+    "title": "ソフィアの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10650100003,
+    "script_id": "men_10650100003",
+    "title": "ソフィアの日常その③",
+    "description": "",
+    "display_order": 3
+  },
+  {
+    "id": 10660100001,
+    "script_id": "men_10660100001",
+    "title": "ヒマリの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10660100002,
+    "script_id": "men_10660100002",
+    "title": "ヒマリの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10660100003,
+    "script_id": "men_10660100003",
+    "title": "ヒマリの日常その③",
+    "description": "",
+    "display_order": 3
+  },
+  {
+    "id": 10670100001,
+    "script_id": "men_10670100001",
+    "title": "クルルの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10670100002,
+    "script_id": "men_10670100002",
+    "title": "クルルの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10670100003,
+    "script_id": "men_10670100003",
+    "title": "クルルの日常その③",
+    "description": "",
+    "display_order": 3
+  },
+  {
+    "id": 10770100001,
+    "script_id": "men_10770100001",
+    "title": "メリッサの日常その①",
+    "description": "",
+    "display_order": 1
+  },
+  {
+    "id": 10770100002,
+    "script_id": "men_10770100002",
+    "title": "メリッサの日常その②",
+    "description": "",
+    "display_order": 2
+  },
+  {
+    "id": 10770100003,
+    "script_id": "men_10770100003",
+    "title": "メリッサの日常その③",
+    "description": "",
+    "display_order": 3
+  }
+]

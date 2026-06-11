@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "category_name": "プレミアムガチャ",
+    "cost_content_type": 170,
+    "cost_content_id": 1,
+    "start_at": "2000-01-01 00:00:00",
+    "end_at": "2038-01-01 00:00:00",
+    "display_order": 103,
+    "asset_id": "5000202"
+  },
+  {
+    "id": 11,
+    "category_name": "ピックアップガチャ",
+    "cost_content_type": 170,
+    "cost_content_id": 2,
+    "start_at": "2026-06-11 00:00:00",
+    "end_at": "2038-01-01 00:00:00",
+    "display_order": 101,
+    "asset_id": "5000201"
+  },
+  {
+    "id": 101,
+    "category_name": "サブスクポイント交換所",
+    "cost_content_type": 30,
+    "cost_content_id": 80004,
+    "start_at": "2024-01-01 00:00:00",
+    "end_at": "2038-01-01 00:00:00",
+    "display_order": 400,
+    "asset_id": "5000212"
+  },
+  {
+    "id": 102,
+    "category_name": "厄災交換所",
+    "cost_content_type": 52,
+    "cost_content_id": 0,
+    "start_at": "2024-01-01 00:00:00",
+    "end_at": "2038-01-01 00:00:00",
+    "display_order": 700,
+    "asset_id": "5000207"
+  },
+  {
+    "id": 103,
+    "category_name": "娼館交換所",
+    "cost_content_type": 51,
+    "cost_content_id": 0,
+    "start_at": "2024-01-01 00:00:00",
+    "end_at": "2038-01-01 00:00:00",
+    "display_order": 600,
+    "asset_id": "5000208"
+  },
+  {
+    "id": 104,
+    "category_name": "【凸】純真結晶引換券(ルクスノヴァ除く)交換所",
+    "cost_content_type": 30,
+    "cost_content_id": 80002,
+    "start_at": "2026-06-11 05:00:00",
+    "end_at": "2038-01-01 00:00:00",
+    "display_order": 200,
+    "asset_id": "5000219"
+  },
+  {
+    "id": 105,
+    "category_name": "【凸】純真結晶引換券(ルクスノヴァ)交換所",
+    "cost_content_type": 30,
+    "cost_content_id": 80003,
+    "start_at": "2026-06-11 05:00:00",
+    "end_at": "2038-01-01 00:00:00",
+    "display_order": 201,
+    "asset_id": "5000220"
+  },
+  {
+    "id": 106,
+    "category_name": "フレンドポイント交換所",
+    "cost_content_type": 53,
+    "cost_content_id": 510000002,
+    "start_at": "2024-01-01 00:00:00",
+    "end_at": "2038-01-01 00:00:00",
+    "display_order": 800,
+    "asset_id": "5000213"
+  },
+  {
+    "id": 107,
+    "category_name": "アビスシール交換所",
+    "cost_content_type": 30,
+    "cost_content_id": 220001,
+    "start_at": "2024-01-01 00:00:00",
+    "end_at": "2038-01-01 00:00:00",
+    "display_order": 900,
+    "asset_id": "5000215"
+  },
+  {
+    "id": 108,
+    "category_name": "金のマテリアル交換所",
+    "cost_content_type": 30,
+    "cost_content_id": 230003,
+    "start_at": "2024-01-01 00:00:00",
+    "end_at": "2038-01-01 00:00:00",
+    "display_order": 500,
+    "asset_id": "5000216"
+  },
+  {
+    "id": 109,
+    "category_name": "紫銀のマテリアル交換所",
+    "cost_content_type": 30,
+    "cost_content_id": 230002,
+    "start_at": "2024-01-01 00:00:00",
+    "end_at": "2038-01-01 00:00:00",
+    "display_order": 501,
+    "asset_id": "5000217"
+  },
+  {
+    "id": 110,
+    "category_name": "銀のマテリアル交換所",
+    "cost_content_type": 30,
+    "cost_content_id": 230001,
+    "start_at": "2024-01-01 00:00:00",
+    "end_at": "2038-01-01 00:00:00",
+    "display_order": 502,
+    "asset_id": "5000218"
+  },
+  {
+    "id": 111,
+    "category_name": "選べるSSRキャラボックス交換券",
+    "cost_content_type": 30,
+    "cost_content_id": 80007,
+    "start_at": "2024-01-01 00:00:00",
+    "end_at": "2038-01-01 00:00:00",
+    "display_order": 300,
+    "asset_id": "5000221"
+  },
+  {
+    "id": 300001,
+    "category_name": "オートマタと魔術師姉妹のサプライズ",
+    "cost_content_type": 54,
+    "cost_content_id": 3000,
+    "start_at": "2026-06-13 10:00:00",
+    "end_at": "2026-06-27 04:59:59",
+    "display_order": 1,
+    "asset_id": ""
+  }
+]

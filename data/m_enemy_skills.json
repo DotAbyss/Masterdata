@@ -1,0 +1,3116 @@
+[
+  {
+    "id": 20010010001,
+    "asset_id": "2001001",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【3HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20011010001,
+    "asset_id": "2001101",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【3HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20012010001,
+    "asset_id": "2001201",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【3HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20013010001,
+    "asset_id": "2001301",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【3HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20014010001,
+    "asset_id": "2001401",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【3HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20015010001,
+    "asset_id": "2001501",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【3HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20020010001,
+    "asset_id": "2002001",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20021010001,
+    "asset_id": "2002101",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20022010001,
+    "asset_id": "2002201",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20023010001,
+    "asset_id": "2002301",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20024010001,
+    "asset_id": "2002401",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20025010001,
+    "asset_id": "2002501",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20030010001,
+    "asset_id": "2003001",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Recovery",
+    "name": "",
+    "description": "味方1体を対象に【1HIT / 合計100%】の回復"
+  },
+  {
+    "id": 20031010001,
+    "asset_id": "2003101",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Recovery",
+    "name": "",
+    "description": "味方1体を対象に【1HIT / 合計100%】の回復"
+  },
+  {
+    "id": 20032010001,
+    "asset_id": "2003201",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Recovery",
+    "name": "",
+    "description": "味方1体を対象に【1HIT / 合計100%】の回復"
+  },
+  {
+    "id": 20033010001,
+    "asset_id": "2003301",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Recovery",
+    "name": "",
+    "description": "味方1体を対象に【1HIT / 合計100%】の回復"
+  },
+  {
+    "id": 20034010001,
+    "asset_id": "2003401",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Recovery",
+    "name": "",
+    "description": "味方1体を対象に【1HIT / 合計100%】の回復"
+  },
+  {
+    "id": 20035010001,
+    "asset_id": "2003501",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Recovery",
+    "name": "",
+    "description": "味方1体を対象に【1HIT / 合計100%】の回復"
+  },
+  {
+    "id": 20040010001,
+    "asset_id": "2004001",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20041010001,
+    "asset_id": "2004101",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20042010001,
+    "asset_id": "2004201",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20043010001,
+    "asset_id": "2004301",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20044010001,
+    "asset_id": "2004401",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20045010001,
+    "asset_id": "2004501",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20050010001,
+    "asset_id": "2005001",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20051010001,
+    "asset_id": "2005101",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20052010001,
+    "asset_id": "2005201",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20053010001,
+    "asset_id": "2005301",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20054010001,
+    "asset_id": "2005401",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20055010001,
+    "asset_id": "2005501",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20060010001,
+    "asset_id": "2006001",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20061010001,
+    "asset_id": "2006101",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20062010001,
+    "asset_id": "2006201",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20063010001,
+    "asset_id": "2006301",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20064010001,
+    "asset_id": "2006401",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20065010001,
+    "asset_id": "2006501",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20070010001,
+    "asset_id": "2007001",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象とした範囲内の敵全体に【1HIT / 合計{[PRJCTL.THROW.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 対象に喪失【{[PRJCTL.THROW.ABNORMAL.DURATION]}秒/成功率:{[PRJCTL.THROW.ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20071010001,
+    "asset_id": "2007101",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象とした範囲内の敵全体に【1HIT / 合計{[PRJCTL.THROW.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 対象に炎上【{[PRJCTL.THROW.ABNORMAL.DURATION]}秒/成功率:{[PRJCTL.THROW.ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20072010001,
+    "asset_id": "2007201",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象とした範囲内の敵全体に【1HIT / 合計{[PRJCTL.THROW.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 対象に凍結【{[PRJCTL.THROW.ABNORMAL.DURATION]}秒/成功率:{[PRJCTL.THROW.ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20073010001,
+    "asset_id": "2007301",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象とした範囲内の敵全体に【1HIT / 合計{[PRJCTL.THROW.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 対象に石化【{[PRJCTL.THROW.ABNORMAL.DURATION]}秒/成功率:{[PRJCTL.THROW.ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20074010001,
+    "asset_id": "2007401",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象とした範囲内の敵全体に【1HIT / 合計{[PRJCTL.THROW.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 対象に麻痺【{[PRJCTL.THROW.ABNORMAL.DURATION]}秒/成功率:{[PRJCTL.THROW.ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20075010001,
+    "asset_id": "2007501",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象とした範囲内の敵全体に【1HIT / 合計{[PRJCTL.THROW.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 対象に魅了【{[PRJCTL.THROW.ABNORMAL.DURATION]}秒/成功率:{[PRJCTL.THROW.ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20080010001,
+    "asset_id": "2008001",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【1HIT / 合計100%】ダメージ / 遠くの敵を狙いやすい"
+  },
+  {
+    "id": 20081010001,
+    "asset_id": "2008101",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【1HIT / 合計100%】ダメージ / 遠くの敵を狙いやすい"
+  },
+  {
+    "id": 20082010001,
+    "asset_id": "2008201",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【1HIT / 合計100%】ダメージ / 遠くの敵を狙いやすい"
+  },
+  {
+    "id": 20083010001,
+    "asset_id": "2008301",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【1HIT / 合計100%】ダメージ / 遠くの敵を狙いやすい"
+  },
+  {
+    "id": 20084010001,
+    "asset_id": "2008401",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【1HIT / 合計100%】ダメージ / 遠くの敵を狙いやすい"
+  },
+  {
+    "id": 20085010001,
+    "asset_id": "2008501",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【1HIT / 合計100%】ダメージ / 遠くの敵を狙いやすい"
+  },
+  {
+    "id": 20090010001,
+    "asset_id": "2009001",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20091010001,
+    "asset_id": "2009101",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20092010001,
+    "asset_id": "2009201",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20093010001,
+    "asset_id": "2009301",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20094010001,
+    "asset_id": "2009401",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20095010001,
+    "asset_id": "2009501",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20100010001,
+    "asset_id": "2010001",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【3HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20101010001,
+    "asset_id": "2010101",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【3HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20102010001,
+    "asset_id": "2010201",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【3HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20103010001,
+    "asset_id": "2010301",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【3HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20104010001,
+    "asset_id": "2010401",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【3HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20105010001,
+    "asset_id": "2010501",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【3HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20110010001,
+    "asset_id": "2011001",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20111010001,
+    "asset_id": "2011101",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20112010001,
+    "asset_id": "2011201",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20113010001,
+    "asset_id": "2011301",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20114010001,
+    "asset_id": "2011401",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20115010001,
+    "asset_id": "2011501",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20120010001,
+    "asset_id": "2012001",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【3HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20121010001,
+    "asset_id": "2012101",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【3HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20122010001,
+    "asset_id": "2012201",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【3HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20123010001,
+    "asset_id": "2012301",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【3HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20124010001,
+    "asset_id": "2012401",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【3HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20125010001,
+    "asset_id": "2012501",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【3HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20130010001,
+    "asset_id": "2013001",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Recovery",
+    "name": "",
+    "description": "味方1体を対象に【1HIT / 合計100%】の回復"
+  },
+  {
+    "id": 20131010001,
+    "asset_id": "2013101",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Recovery",
+    "name": "",
+    "description": "味方1体を対象に【1HIT / 合計100%】の回復"
+  },
+  {
+    "id": 20132010001,
+    "asset_id": "2013201",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Recovery",
+    "name": "",
+    "description": "味方1体を対象に【1HIT / 合計100%】の回復"
+  },
+  {
+    "id": 20133010001,
+    "asset_id": "2013301",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Recovery",
+    "name": "",
+    "description": "味方1体を対象に【1HIT / 合計100%】の回復"
+  },
+  {
+    "id": 20134010001,
+    "asset_id": "2013401",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Recovery",
+    "name": "",
+    "description": "味方1体を対象に【1HIT / 合計100%】の回復"
+  },
+  {
+    "id": 20135010001,
+    "asset_id": "2013501",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Recovery",
+    "name": "",
+    "description": "味方1体を対象に【1HIT / 合計100%】の回復"
+  },
+  {
+    "id": 20140010001,
+    "asset_id": "2014001",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20140010002,
+    "asset_id": "2014001",
+    "ai_id": "0",
+    "skill_type": 20,
+    "timeline": "Skill01",
+    "name": "シードボム",
+    "description": "敵1体を対象とした範囲内の敵全体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 対象に喪失【{[PRJCTL.LAND.ABNORMAL.DURATION]}秒/成功率:{[PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20141010001,
+    "asset_id": "2014101",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20141010002,
+    "asset_id": "2014101",
+    "ai_id": "0",
+    "skill_type": 20,
+    "timeline": "Skill01",
+    "name": "シードボム",
+    "description": "敵1体を対象とした範囲内の敵全体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 対象に炎上【{[PRJCTL.LAND.ABNORMAL.DURATION]}秒/成功率:{[PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20142010001,
+    "asset_id": "2014201",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20142010002,
+    "asset_id": "2014201",
+    "ai_id": "0",
+    "skill_type": 20,
+    "timeline": "Skill01",
+    "name": "シードボム",
+    "description": "敵1体を対象とした範囲内の敵全体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 対象に凍結【{[PRJCTL.LAND.ABNORMAL.DURATION]}秒/成功率:{[PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20143010001,
+    "asset_id": "2014301",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20143010002,
+    "asset_id": "2014301",
+    "ai_id": "0",
+    "skill_type": 20,
+    "timeline": "Skill01",
+    "name": "シードボム",
+    "description": "敵1体を対象とした範囲内の敵全体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 対象に石化【{[PRJCTL.LAND.ABNORMAL.DURATION]}秒/成功率:{[PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20144010001,
+    "asset_id": "2014401",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20144010002,
+    "asset_id": "2014401",
+    "ai_id": "0",
+    "skill_type": 20,
+    "timeline": "Skill01",
+    "name": "シードボム",
+    "description": "敵1体を対象とした範囲内の敵全体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 対象に麻痺【{[PRJCTL.LAND.ABNORMAL.DURATION]}秒/成功率:{[PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20145010001,
+    "asset_id": "2014501",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20145010002,
+    "asset_id": "2014501",
+    "ai_id": "0",
+    "skill_type": 20,
+    "timeline": "Skill01",
+    "name": "シードボム",
+    "description": "敵1体を対象とした範囲内の敵全体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 対象に魅了【{[PRJCTL.LAND.ABNORMAL.DURATION]}秒/成功率:{[PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20150010001,
+    "asset_id": "2015001",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20150010002,
+    "asset_id": "2015001",
+    "ai_id": "0",
+    "skill_type": 20,
+    "timeline": "Skill01",
+    "name": "シールドバッシュ",
+    "description": "敵1体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20151010001,
+    "asset_id": "2015101",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20151010002,
+    "asset_id": "2015101",
+    "ai_id": "0",
+    "skill_type": 20,
+    "timeline": "Skill01",
+    "name": "シールドバッシュ",
+    "description": "敵1体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20152010001,
+    "asset_id": "2015201",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20152010002,
+    "asset_id": "2015201",
+    "ai_id": "0",
+    "skill_type": 20,
+    "timeline": "Skill01",
+    "name": "シールドバッシュ",
+    "description": "敵1体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20153010001,
+    "asset_id": "2015301",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20153010002,
+    "asset_id": "2015301",
+    "ai_id": "0",
+    "skill_type": 20,
+    "timeline": "Skill01",
+    "name": "シールドバッシュ",
+    "description": "敵1体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20154010001,
+    "asset_id": "2015401",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20154010002,
+    "asset_id": "2015401",
+    "ai_id": "0",
+    "skill_type": 20,
+    "timeline": "Skill01",
+    "name": "シールドバッシュ",
+    "description": "敵1体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20155010001,
+    "asset_id": "2015501",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20155010002,
+    "asset_id": "2015501",
+    "ai_id": "0",
+    "skill_type": 20,
+    "timeline": "Skill01",
+    "name": "シールドバッシュ",
+    "description": "敵1体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20160010001,
+    "asset_id": "2016001",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【1HIT / 合計{[PRJCTL.THROW.DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20160010002,
+    "asset_id": "2016001",
+    "ai_id": "0",
+    "skill_type": 20,
+    "timeline": "Skill01",
+    "name": "ベノムショット",
+    "description": "ランダムな敵1体を対象とした範囲内の敵全体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT:1]}】ダメージを与え、被ダメージした対象に確率で毒を付与する攻撃を6回行う"
+  },
+  {
+    "id": 20161010001,
+    "asset_id": "2016101",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【1HIT / 合計{[PRJCTL.THROW.DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20161010002,
+    "asset_id": "2016101",
+    "ai_id": "0",
+    "skill_type": 20,
+    "timeline": "Skill01",
+    "name": "ベノムショット",
+    "description": "ランダムな敵1体を対象とした範囲内の敵全体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT:1]}】ダメージを与え、被ダメージした対象に確率で毒を付与する攻撃を6回行う"
+  },
+  {
+    "id": 20162010001,
+    "asset_id": "2016201",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【1HIT / 合計{[PRJCTL.THROW.DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20162010002,
+    "asset_id": "2016201",
+    "ai_id": "0",
+    "skill_type": 20,
+    "timeline": "Skill01",
+    "name": "ベノムショット",
+    "description": "ランダムな敵1体を対象とした範囲内の敵全体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT:1]}】ダメージを与え、被ダメージした対象に確率で毒を付与する攻撃を6回行う"
+  },
+  {
+    "id": 20163010001,
+    "asset_id": "2016301",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【1HIT / 合計{[PRJCTL.THROW.DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20163010002,
+    "asset_id": "2016301",
+    "ai_id": "0",
+    "skill_type": 20,
+    "timeline": "Skill01",
+    "name": "ベノムショット",
+    "description": "ランダムな敵1体を対象とした範囲内の敵全体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT:1]}】ダメージを与え、被ダメージした対象に確率で毒を付与する攻撃を6回行う"
+  },
+  {
+    "id": 20164010001,
+    "asset_id": "2016401",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【1HIT / 合計{[PRJCTL.THROW.DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20164010002,
+    "asset_id": "2016401",
+    "ai_id": "0",
+    "skill_type": 20,
+    "timeline": "Skill01",
+    "name": "ベノムショット",
+    "description": "ランダムな敵1体を対象とした範囲内の敵全体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT:1]}】ダメージを与え、被ダメージした対象に確率で毒を付与する攻撃を6回行う"
+  },
+  {
+    "id": 20165010001,
+    "asset_id": "2016501",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【1HIT / 合計{[PRJCTL.THROW.DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20165010002,
+    "asset_id": "2016501",
+    "ai_id": "0",
+    "skill_type": 20,
+    "timeline": "Skill01",
+    "name": "ベノムショット",
+    "description": "ランダムな敵1体を対象とした範囲内の敵全体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT:1]}】ダメージを与え、被ダメージした対象に確率で毒を付与する攻撃を6回行う"
+  },
+  {
+    "id": 20174010101,
+    "asset_id": "2017401",
+    "ai_id": "1",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "前方範囲内の敵最大{[TARGET_COUNT]}体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20174010102,
+    "asset_id": "2017401",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001",
+    "name": "輝煌剣",
+    "description": "ランダムな敵{[TARGET_COUNT]}体を対象に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（小）"
+  },
+  {
+    "id": 20174010103,
+    "asset_id": "2017401",
+    "ai_id": "1",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "次元断絶",
+    "description": "敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（大）"
+  },
+  {
+    "id": 20175010101,
+    "asset_id": "2017501",
+    "ai_id": "1",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "前方範囲内の敵最大{[TARGET_COUNT]}体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20175010102,
+    "asset_id": "2017501",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001",
+    "name": "暗黒剣",
+    "description": "ランダムな敵{[TARGET_COUNT]}体を対象に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（小）"
+  },
+  {
+    "id": 20175010103,
+    "asset_id": "2017501",
+    "ai_id": "1",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "次元断絶",
+    "description": "敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（大）"
+  },
+  {
+    "id": 20181010101,
+    "asset_id": "2018101",
+    "ai_id": "1",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20181010102,
+    "asset_id": "2018101",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001",
+    "name": "ブレス",
+    "description": "前方範囲内のランダムな敵3体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT:1]}】ダメージを与える攻撃を5回行う / 前方範囲内のランダムな敵3体に炎上【{[ABNORMAL.DURATION]}秒/成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20181010103,
+    "asset_id": "2018101",
+    "ai_id": "1",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "フレイムバーン",
+    "description": "敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（大）"
+  },
+  {
+    "id": 20182010101,
+    "asset_id": "2018201",
+    "ai_id": "1",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20182010102,
+    "asset_id": "2018201",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001",
+    "name": "ブレス",
+    "description": "前方範囲内のランダムな敵3体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT:1]}】ダメージを与える攻撃を5回行う / 前方範囲内のランダムな敵3体に凍結【{[ABNORMAL.DURATION]}秒/成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20182010103,
+    "asset_id": "2018201",
+    "ai_id": "1",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "アイスストーム",
+    "description": "敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（大）"
+  },
+  {
+    "id": 20193010101,
+    "asset_id": "2019301",
+    "ai_id": "1",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "前方範囲内の敵最大{[TARGET_COUNT]}体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20193010102,
+    "asset_id": "2019301",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001",
+    "name": "グランホーン",
+    "description": "前方範囲内の敵全体に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（小）"
+  },
+  {
+    "id": 20193010103,
+    "asset_id": "2019301",
+    "ai_id": "1",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "ワイルドドライヴ",
+    "description": "敵全体に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20190010101,
+    "asset_id": "2019001",
+    "ai_id": "1",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "前方範囲内の敵最大{[TARGET_COUNT]}体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20190010102,
+    "asset_id": "2019001",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001",
+    "name": "メタルホーン",
+    "description": "前方範囲内の敵全体に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（小）"
+  },
+  {
+    "id": 20190010103,
+    "asset_id": "2019001",
+    "ai_id": "1",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "オーバードライヴ",
+    "description": "敵全体に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（大）"
+  },
+  {
+    "id": 20222010101,
+    "asset_id": "2022201",
+    "ai_id": "1",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "一定時間ごとに範囲内の敵全体に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 被ダメージした対象に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20222010102,
+    "asset_id": "2022201",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "フリーズブレス",
+    "description": "自身の氷鎧Lvが1上昇 / 前方範囲内の敵全体に【5HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 凍結状態の敵に対してダメージが上昇 / ヒットした防衛設備に行動間隔増加【{[ACTIONCOOLTIMEUP.RATE_PERCENT]} / {[ACTIONCOOLTIMEUP.DURATION]}秒】を付与\n\n氷鎧：Lvに応じて攻撃力と防御力が上昇する状態。一撃で一定以上のダメージを受けるとLvが減少する"
+  },
+  {
+    "id": 20222010103,
+    "asset_id": "2022201",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "アイシクルスラスト",
+    "description": "ランダムなフロント3体を対象に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT:1]}】ダメージ"
+  },
+  {
+    "id": 20222010104,
+    "asset_id": "2022201",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill003A",
+    "name": "アイスエイジ",
+    "description": "敵キャラクター全体に【1HIT / {[BUFF_STACK_LINKED_DAMAGE.BASE_PERMILLE]}】ダメージ / 自身の氷鎧Lvに応じてダメージが上昇 / 被ダメージした対象に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20222010105,
+    "asset_id": "2022201",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill003B",
+    "name": "ブリザード",
+    "description": "フィールドにブリザードを発生させる\n\nブリザード：凍結耐性が25%減少 / 行動時に最大HP3%分のダメージを受ける / 防衛設備の行動間隔が30%増加"
+  },
+  {
+    "id": 20222010106,
+    "asset_id": "2022201",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Appeal002",
+    "name": "ホワイトアウト",
+    "description": "自身の氷鎧Lvが5上昇"
+  },
+  {
+    "id": 20222010201,
+    "asset_id": "2022201",
+    "ai_id": "2",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "一定時間ごとに範囲内の敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 被ダメージした対象に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20222010202,
+    "asset_id": "2022201",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "フリーズブレス",
+    "description": "自身の氷鎧Lvが1上昇 / 前方範囲内の敵全体に【5HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 凍結状態の敵に対してダメージが上昇 / ヒットした防衛設備に行動間隔増加【{[ACTIONCOOLTIMEUP.RATE_PERCENT]} / {[ACTIONCOOLTIMEUP.DURATION]}秒】を付与\n\n氷鎧：Lvに応じて攻撃力と防御力が上昇する状態。一撃で一定以上のダメージを受けるとLvが減少する"
+  },
+  {
+    "id": 20222010203,
+    "asset_id": "2022201",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "アイシクルスラスト",
+    "description": "ランダムなフロント3体を対象に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT:1]}】ダメージ"
+  },
+  {
+    "id": 20222010204,
+    "asset_id": "2022201",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Skill003A",
+    "name": "アイスエイジ",
+    "description": "敵キャラクター全体に【1HIT / 合計{[BUFF_STACK_LINKED_DAMAGE.BASE_PERMILLE]}】ダメージ / 自身の氷鎧Lvに応じてダメージが上昇 / 被ダメージした対象に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20222010205,
+    "asset_id": "2022201",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Skill003B",
+    "name": "ブリザード",
+    "description": "フィールドにブリザードを発生させる\n\nブリザード：凍結耐性が25%減少 / 行動時に最大HP3%分のダメージを受ける / 防衛設備の行動間隔が30%増加"
+  },
+  {
+    "id": 20222010206,
+    "asset_id": "2022201",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Skill003C",
+    "name": "パーマフロスト",
+    "description": "敵キャラクター全体に【7HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 対象に凍結が付与されている場合、その残り時間分の氷獄を付与\n\n氷獄：行動ができない状態"
+  },
+  {
+    "id": 20222010207,
+    "asset_id": "2022201",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Appeal002",
+    "name": "ホワイトアウト",
+    "description": "自身の氷鎧Lvが5上昇"
+  },
+  {
+    "id": 20222010208,
+    "asset_id": "2022201",
+    "ai_id": "2",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "アイスフォール",
+    "description": "範囲内の敵全体に【10HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 被ダメージした対象に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20222010301,
+    "asset_id": "2022201",
+    "ai_id": "3",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "一定時間ごとに範囲内の敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 被ダメージした対象に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20222010302,
+    "asset_id": "2022201",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "フリーズブレス",
+    "description": "自身の氷鎧Lvが2上昇 / 前方範囲内の敵全体に【5HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 凍結状態の敵に対してダメージが上昇 / ヒットした防衛設備に行動間隔増加【{[ACTIONCOOLTIMEUP.RATE_PERCENT]} / {[ACTIONCOOLTIMEUP.DURATION]}秒】を付与\n\n氷鎧：Lvに応じて攻撃力と防御力が上昇する状態。一撃で一定以上のダメージを受けるとLvが減少する"
+  },
+  {
+    "id": 20222010303,
+    "asset_id": "2022201",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "アイシクルスラスト",
+    "description": "ランダムなフロント3体を対象に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT:1]}】ダメージ"
+  },
+  {
+    "id": 20222010304,
+    "asset_id": "2022201",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Skill003A",
+    "name": "アイスエイジ",
+    "description": "敵キャラクター全体に【1HIT / 合計{[BUFF_STACK_LINKED_DAMAGE.BASE_PERMILLE]}】ダメージ / 自身の氷鎧Lvに応じてダメージが上昇 / 被ダメージした対象に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20222010305,
+    "asset_id": "2022201",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Skill003B",
+    "name": "ブリザード",
+    "description": "フィールドにブリザードを発生させる\n\nブリザード：凍結耐性が25%減少 / 行動時に最大HP3%分のダメージを受ける / 防衛設備の行動間隔が30%増加"
+  },
+  {
+    "id": 20222010306,
+    "asset_id": "2022201",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Skill003C",
+    "name": "パーマフロスト",
+    "description": "敵キャラクター全体に【7HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 対象に凍結が付与されている場合、その残り時間分の氷獄を付与\n\n氷獄：行動ができない状態"
+  },
+  {
+    "id": 20222010307,
+    "asset_id": "2022201",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Appeal002",
+    "name": "ホワイトアウト",
+    "description": "自身の氷鎧Lvが5上昇"
+  },
+  {
+    "id": 20222010308,
+    "asset_id": "2022201",
+    "ai_id": "3",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "アイスフォール",
+    "description": "範囲内の敵全体に【10HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 被ダメージした対象に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20222010401,
+    "asset_id": "2022201",
+    "ai_id": "4",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "一定時間ごとに範囲内の敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 被ダメージした対象に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20222010402,
+    "asset_id": "2022201",
+    "ai_id": "4",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "フリーズブレス",
+    "description": "自身の氷鎧Lvが3上昇 / 前方範囲内の敵全体に【5HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 凍結状態の敵に対してダメージが上昇 / ヒットした防衛設備に行動間隔増加【{[ACTIONCOOLTIMEUP.RATE_PERCENT]} / {[ACTIONCOOLTIMEUP.DURATION]}秒】を付与\n\n氷鎧：Lvに応じて攻撃力と防御力が上昇する状態。一撃で一定以上のダメージを受けるとLvが減少する"
+  },
+  {
+    "id": 20222010403,
+    "asset_id": "2022201",
+    "ai_id": "4",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "アイシクルスラスト",
+    "description": "ランダムなフロント3体を対象に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT:1]}】ダメージ"
+  },
+  {
+    "id": 20222010404,
+    "asset_id": "2022201",
+    "ai_id": "4",
+    "skill_type": 20,
+    "timeline": "Skill003A",
+    "name": "アイスエイジ",
+    "description": "敵キャラクター全体に【1HIT / 合計{[BUFF_STACK_LINKED_DAMAGE.BASE_PERMILLE]}】ダメージ / 自身の氷鎧Lvに応じてダメージが上昇 / 被ダメージした対象に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20222010405,
+    "asset_id": "2022201",
+    "ai_id": "4",
+    "skill_type": 20,
+    "timeline": "Skill003B",
+    "name": "ブリザード",
+    "description": "フィールドにブリザードを発生させる\n\nブリザード：凍結耐性が25%減少 / 行動時に最大HP3%分のダメージを受ける / 防衛設備の行動間隔が30%増加"
+  },
+  {
+    "id": 20222010406,
+    "asset_id": "2022201",
+    "ai_id": "4",
+    "skill_type": 20,
+    "timeline": "Skill003C",
+    "name": "パーマフロスト",
+    "description": "敵キャラクター全体に【7HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 対象に凍結が付与されている場合、その残り時間分の氷獄を付与\n\n氷獄：行動ができない状態"
+  },
+  {
+    "id": 20222010407,
+    "asset_id": "2022201",
+    "ai_id": "4",
+    "skill_type": 20,
+    "timeline": "Appeal002",
+    "name": "ホワイトアウト",
+    "description": "自身の氷鎧Lvが5上昇 / 自身に通常攻撃被ダメージ減少【50% / 20秒】を付与"
+  },
+  {
+    "id": 20222010408,
+    "asset_id": "2022201",
+    "ai_id": "4",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "アイスフォール",
+    "description": "範囲内の敵全体に【10HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 被ダメージした対象に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20244010101,
+    "asset_id": "2024401",
+    "ai_id": "1",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "一定時間ごとに範囲内にいる味方全体に最大HP【{[RECOVER.HEAL_PERCENT]}】分の回復"
+  },
+  {
+    "id": 20244010102,
+    "asset_id": "2024401",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "聖剣",
+    "description": "自身の信仰Lvに応じてランダムな敵2～7体に【1HIT / 合計80～150%】ダメージ / ノックバック（小）"
+  },
+  {
+    "id": 20244010103,
+    "asset_id": "2024401",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "戦慄",
+    "description": "自身の信仰Lvに応じてランダムな敵キャラクター2～7体に麻痺【5～10秒 / 成功率:30～100%】を付与"
+  },
+  {
+    "id": 20244010104,
+    "asset_id": "2024401",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill003A",
+    "name": "咎人",
+    "description": "自身の信仰Lvに応じてランダムな敵キャラクター1～6体に攻撃力DOWN【10～30% / 5～10秒】を付与"
+  },
+  {
+    "id": 20244010105,
+    "asset_id": "2024401",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill003C",
+    "name": "恩寵",
+    "description": "自身の信仰Lvに応じて自身に攻撃力UP【10～30% / 10～30秒】を付与 / 防御力UP【10～30% / 10～30秒】を付与"
+  },
+  {
+    "id": 20244010106,
+    "asset_id": "2024401",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Appeal001A",
+    "name": "祝福",
+    "description": "自身の信仰Lvに応じて残りHP割合の低い味方1～6体に最大HP【5～40%】分の回復"
+  },
+  {
+    "id": 20244010107,
+    "asset_id": "2024401",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Check",
+    "name": "信仰",
+    "description": "フィールド上の自身を信仰している味方の数に応じて、自身の信仰Lvが変化する\n\n信仰：Lvに応じて一部の技が強化される状態。最大5。魅了状態の間はLvが2減少する"
+  },
+  {
+    "id": 20244010108,
+    "asset_id": "2024401",
+    "ai_id": "1",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "審判",
+    "description": "敵全体に【4HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（小） / 麻痺【15秒 / 成功率:100%}】を付与 / 自身の信仰Lvに応じて味方全体に最大HP【5～40%】分の回復 / 自身の信仰Lvが最大になる"
+  },
+  {
+    "id": 20244010201,
+    "asset_id": "2024401",
+    "ai_id": "2",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "一定時間ごとに範囲内にいる味方全体に最大HP【{[RECOVER.HEAL_PERCENT]}】分の回復"
+  },
+  {
+    "id": 20244010202,
+    "asset_id": "2024401",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "聖剣",
+    "description": "自身の信仰Lvに応じてランダムな敵2～7体に【1HIT / 合計100～200%】ダメージ / ノックバック（小）"
+  },
+  {
+    "id": 20244010203,
+    "asset_id": "2024401",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "戦慄",
+    "description": "自身の信仰Lvに応じてランダムな敵キャラクター2～7体に麻痺【5～10秒 / 成功率:30～100%】を付与"
+  },
+  {
+    "id": 20244010204,
+    "asset_id": "2024401",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Skill003A",
+    "name": "咎人",
+    "description": "自身の信仰Lvに応じてランダムな敵キャラクター1～6体に攻撃力DOWN【10～30% / 5～10秒】を付与"
+  },
+  {
+    "id": 20244010205,
+    "asset_id": "2024401",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Skill003C",
+    "name": "恩寵",
+    "description": "自身の信仰Lvに応じて自身に攻撃力UP【10～30% / 10～30秒】を付与 / 防御力UP【10～30% / 10～30秒】を付与"
+  },
+  {
+    "id": 20244010206,
+    "asset_id": "2024401",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Appeal001A",
+    "name": "祝福",
+    "description": "自身の信仰Lvに応じて残りHP割合の低い味方1～6体に最大HP【5～40%】分の回復"
+  },
+  {
+    "id": 20244010207,
+    "asset_id": "2024401",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Check",
+    "name": "信仰",
+    "description": "フィールド上の自身を信仰している味方の数に応じて、自身の信仰Lvが変化する\n\n信仰：Lvに応じて一部の技が強化される状態。最大5。魅了状態の間はLvが2減少する"
+  },
+  {
+    "id": 20244010208,
+    "asset_id": "2024401",
+    "ai_id": "2",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "審判",
+    "description": "敵全体に【4HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（小） / 麻痺【15秒 / 成功率:100%}】を付与 / 自身の信仰Lvに応じて味方全体に最大HP【5～40%】分の回復 / 自身の信仰Lvが最大になる"
+  },
+  {
+    "id": 20244010301,
+    "asset_id": "2024401",
+    "ai_id": "3",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "一定時間ごとに範囲内にいる味方全体に最大HP【{[RECOVER.HEAL_PERCENT]}】分の回復"
+  },
+  {
+    "id": 20244010302,
+    "asset_id": "2024401",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "聖剣",
+    "description": "自身の信仰Lvに応じてランダムな敵2～7体に【1HIT / 合計100～200%】ダメージ / ノックバック（小）"
+  },
+  {
+    "id": 20244010303,
+    "asset_id": "2024401",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "戦慄",
+    "description": "自身の信仰Lvに応じてランダムな敵キャラクター2～7体に麻痺【5～10秒 / 成功率:30～100%】を付与"
+  },
+  {
+    "id": 20244010304,
+    "asset_id": "2024401",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Skill003A",
+    "name": "咎人",
+    "description": "自身の信仰Lvに応じてランダムな敵キャラクター1～6体に攻撃力DOWN【10～30% / 5～10秒】を付与"
+  },
+  {
+    "id": 20244010305,
+    "asset_id": "2024401",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Skill003B",
+    "name": "盲信",
+    "description": "自身の信仰Lvに応じてランダムな敵キャラクター1～6体に麻痺【5～10秒 / 成功率:25～50%】を付与 / 対象の最大HP【5～25%】分のHPを吸収"
+  },
+  {
+    "id": 20244010306,
+    "asset_id": "2024401",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Skill003C",
+    "name": "恩寵",
+    "description": "自身の信仰Lvに応じて自身に攻撃力UP【20～50% / 10～30秒】を付与 / 防御力UP【10～30% / 10～30秒】を付与"
+  },
+  {
+    "id": 20244010307,
+    "asset_id": "2024401",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Appeal001A",
+    "name": "祝福",
+    "description": "自身の信仰Lvに応じて残りHP割合の低い味方1～6体に最大HP【5～40%】分の回復 / 対象に攻撃力UP【20～50% / 10～30秒】を付与 / 防御力UP【10～30% / 10～30秒】を付与"
+  },
+  {
+    "id": 20244010308,
+    "asset_id": "2024401",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Appeal001B",
+    "name": "聖杯",
+    "description": "味方全体に対象の最大HP【5～40%】分の回復"
+  },
+  {
+    "id": 20244010309,
+    "asset_id": "2024401",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Check",
+    "name": "信仰",
+    "description": "フィールド上の自身を信仰している味方の数に応じて、自身の信仰Lvが変化する\n\n信仰：Lvに応じて一部の技が強化される状態。最大5。魅了状態の間はLvが2減少する"
+  },
+  {
+    "id": 20244010310,
+    "asset_id": "2024401",
+    "ai_id": "3",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "審判",
+    "description": "敵全体に【4HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（小） / 麻痺【15秒 / 成功率:100%}】を付与 / 自身の信仰Lvに応じて味方全体に最大HP【5～40%】分の回復 / 自身の信仰Lvが最大になる"
+  },
+  {
+    "id": 20244010401,
+    "asset_id": "2024401",
+    "ai_id": "4",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "一定時間ごとに範囲内にいる味方全体に最大HP【{[RECOVER.HEAL_PERCENT]}】分の回復"
+  },
+  {
+    "id": 20244010402,
+    "asset_id": "2024401",
+    "ai_id": "4",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "聖剣",
+    "description": "自身の信仰Lvに応じてランダムな敵2～7体に【1HIT / 合計100～200%】ダメージ / ノックバック（小）"
+  },
+  {
+    "id": 20244010403,
+    "asset_id": "2024401",
+    "ai_id": "4",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "戦慄",
+    "description": "自身の信仰Lvに応じてランダムな敵キャラクター2～7体に麻痺【5～10秒 / 成功率:50～120%】を付与 / 対象のスキルチャージを【50%】減少"
+  },
+  {
+    "id": 20244010404,
+    "asset_id": "2024401",
+    "ai_id": "4",
+    "skill_type": 20,
+    "timeline": "Skill003A",
+    "name": "咎人",
+    "description": "自身の信仰Lvに応じてランダムな敵キャラクター1～6体に攻撃力DOWN【10～30% / 5～10秒】を付与 / 防御力DOWN【10～30% / 5～10秒】を付与"
+  },
+  {
+    "id": 20244010405,
+    "asset_id": "2024401",
+    "ai_id": "4",
+    "skill_type": 20,
+    "timeline": "Skill003B",
+    "name": "盲信",
+    "description": "自身の信仰Lvに応じてランダムな敵キャラクター1～6体に麻痺【5～10秒 / 成功率:25～50%】を付与 / 対象の最大HP【5～25%】分のHPを吸収"
+  },
+  {
+    "id": 20244010406,
+    "asset_id": "2024401",
+    "ai_id": "4",
+    "skill_type": 20,
+    "timeline": "Skill003C",
+    "name": "恩寵",
+    "description": "自身の信仰Lvに応じて自身に攻撃力UP【20～50% / 10～30秒】を付与 / 防御力UP【10～30% / 10～30秒】を付与"
+  },
+  {
+    "id": 20244010407,
+    "asset_id": "2024401",
+    "ai_id": "4",
+    "skill_type": 20,
+    "timeline": "Appeal001A",
+    "name": "祝福",
+    "description": "自身の信仰Lvに応じて残りHP割合の低い味方1～6体に最大HP【5～40%】分の回復 / 対象に攻撃力UP【20～50% / 10～30秒】を付与 / 防御力UP【10～30% / 10～30秒】を付与"
+  },
+  {
+    "id": 20244010408,
+    "asset_id": "2024401",
+    "ai_id": "4",
+    "skill_type": 20,
+    "timeline": "Appeal001B",
+    "name": "聖杯",
+    "description": "味方全体に対象の最大HP【5～40%】分の回復"
+  },
+  {
+    "id": 20244010409,
+    "asset_id": "2024401",
+    "ai_id": "4",
+    "skill_type": 20,
+    "timeline": "Check",
+    "name": "信仰",
+    "description": "フィールド上の自身を信仰している味方の数に応じて、自身の信仰Lvが変化する\n\n信仰：Lvに応じて一部の技が強化される状態。最大5。魅了状態の間はLvが2減少する"
+  },
+  {
+    "id": 20244010410,
+    "asset_id": "2024401",
+    "ai_id": "4",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "審判",
+    "description": "敵全体に【4HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（小） / 麻痺【15秒 / 成功率:100%}】を付与 / 自身の信仰Lvに応じて味方全体に最大HP【5～40%】分の回復 / 自身の信仰Lvが最大になる"
+  },
+  {
+    "id": 20265010101,
+    "asset_id": "2026501",
+    "ai_id": "1",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "一定時間ごとに範囲内にいる敵全体に飢餓【2スタック】を付与\n\n飢餓：スタック数に応じて時間経過でHPが減少する状態。HP回復を受けるとスタック数が減少する"
+  },
+  {
+    "id": 20265010102,
+    "asset_id": "2026501",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "プリデーションα",
+    "description": "味方全体を対象に最大HP【{[FORCE_DAMAGE.MAX_HP_PERMILLE]}】分のダメージ / 自身にこの攻撃で戦闘不能にした味方の数に応じた数の飽食を付与\n\n飽食：スタック数に応じて攻撃力・防御力・攻撃間隔が上昇する状態。時間経過、または強化効果の無効化を受けることでスタック数が減少する"
+  },
+  {
+    "id": 20265010103,
+    "asset_id": "2026501",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "プリデーションβ",
+    "description": "敵キャラクター1体を対象に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 自身に与えたダメージに応じた数の飽食を付与"
+  },
+  {
+    "id": 20265010104,
+    "asset_id": "2026501",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill003A",
+    "name": "スターヴウェーブ",
+    "description": "範囲内の敵キャラクター全体に【1HIT / {[BUFF_STACK_LINKED_DAMAGE.BASE_PERMILLE]}】ダメージ / 対象に付与されている飢餓のスタック数に応じてダメージが上昇 / ノックバック（小）"
+  },
+  {
+    "id": 20265010105,
+    "asset_id": "2026501",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill003B",
+    "name": "コラプション",
+    "description": "範囲内の敵全体に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 飢餓【2スタック】を付与"
+  },
+  {
+    "id": 20265010106,
+    "asset_id": "2026501",
+    "ai_id": "1",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "ヴォイド・ゼロ",
+    "description": "敵全体に9999999ダメージ"
+  },
+  {
+    "id": 20265010201,
+    "asset_id": "2026501",
+    "ai_id": "2",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "一定時間ごとに範囲内にいる敵全体に飢餓【2スタック】を付与\n\n飢餓：スタック数に応じて時間経過でHPが減少する状態。HP回復を受けるとスタック数が減少する"
+  },
+  {
+    "id": 20265010202,
+    "asset_id": "2026501",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "プリデーションα",
+    "description": "味方全体を対象に最大HP【{[FORCE_DAMAGE.MAX_HP_PERMILLE]}】分のダメージ / 自身にこの攻撃で戦闘不能にした味方の数に応じた数の飽食を付与\n\n飽食：スタック数に応じて攻撃力・防御力が上昇し。攻撃間隔が減少した状態。時間経過、または強化効果の無効化を受けることでスタック数が減少する"
+  },
+  {
+    "id": 20265010203,
+    "asset_id": "2026501",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "プリデーションβ",
+    "description": "敵キャラクター1体を対象に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 自身に与えたダメージに応じた数の飽食を付与"
+  },
+  {
+    "id": 20265010204,
+    "asset_id": "2026501",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Skill003A",
+    "name": "スターヴウェーブ",
+    "description": "範囲内の敵キャラクター全体に【1HIT / {[BUFF_STACK_LINKED_DAMAGE.BASE_PERMILLE]}】ダメージ / 対象に付与されている飢餓のスタック数に応じてダメージが上昇 / ノックバック（小）"
+  },
+  {
+    "id": 20265010205,
+    "asset_id": "2026501",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Skill003B",
+    "name": "コラプション",
+    "description": "範囲内の敵全体に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 飢餓【2スタック】を付与"
+  },
+  {
+    "id": 20265010206,
+    "asset_id": "2026501",
+    "ai_id": "2",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "ヴォイド・ゼロ",
+    "description": "敵全体に9999999ダメージ"
+  },
+  {
+    "id": 20265010301,
+    "asset_id": "2026501",
+    "ai_id": "3",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "一定時間ごとに範囲内にいる敵全体に飢餓【3スタック】を付与\n\n飢餓：スタック数に応じて時間経過でHPが減少する状態。HP回復を受けるとスタック数が減少する"
+  },
+  {
+    "id": 20265010302,
+    "asset_id": "2026501",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "プリデーションα",
+    "description": "自身に飽食【3スタック】を付与 / 味方全体を対象に最大HP【{[FORCE_DAMAGE.MAX_HP_PERMILLE]}】分のダメージ / 自身にこの攻撃で戦闘不能にした味方の数に応じた数の飽食を付与\n\n飽食：スタック数に応じて攻撃力・防御力・会心率が上昇し。攻撃間隔が減少した状態。時間経過、または強化効果の無効化を受けることでスタック数が減少する"
+  },
+  {
+    "id": 20265010303,
+    "asset_id": "2026501",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "プリデーションβ",
+    "description": "自身に飽食【3スタック】を付与 / 敵キャラクター1体を対象に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 自身に与えたダメージに応じた数の飽食を付与"
+  },
+  {
+    "id": 20265010304,
+    "asset_id": "2026501",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Skill003A",
+    "name": "スターヴウェーブ",
+    "description": "範囲内の敵キャラクター全体に【1HIT / {[BUFF_STACK_LINKED_DAMAGE.BASE_PERMILLE]}】ダメージ / 対象に付与されている飢餓のスタック数に応じてダメージが上昇 / ノックバック（小）"
+  },
+  {
+    "id": 20265010305,
+    "asset_id": "2026501",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Skill003B",
+    "name": "コラプション",
+    "description": "範囲内の敵全体に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 飢餓【3スタック】を付与"
+  },
+  {
+    "id": 20265010306,
+    "asset_id": "2026501",
+    "ai_id": "3",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "ヴォイド・ゼロ",
+    "description": "敵全体に9999999ダメージ"
+  },
+  {
+    "id": 20265010401,
+    "asset_id": "2026501",
+    "ai_id": "4",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "一定時間ごとに範囲内にいる敵全体に飢餓【3スタック】を付与\n\n飢餓：スタック数に応じて時間経過でHPが減少する状態。HP回復を受けるとスタック数が減少する"
+  },
+  {
+    "id": 20265010402,
+    "asset_id": "2026501",
+    "ai_id": "4",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "プリデーションα",
+    "description": "自身に飽食【3スタック】を付与 / 味方全体を対象に最大HP【{[FORCE_DAMAGE.MAX_HP_PERMILLE]}】分のダメージ / 自身にこの攻撃で戦闘不能にした味方の数に応じた数の飽食を付与\n\n飽食：スタック数に応じて攻撃力・防御力・会心率が上昇し。攻撃間隔が減少した状態。時間経過、または強化効果の無効化を受けることでスタック数が減少する"
+  },
+  {
+    "id": 20265010403,
+    "asset_id": "2026501",
+    "ai_id": "4",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "プリデーションβ",
+    "description": "自身に飽食【3スタック】を付与 / 敵キャラクター1体を対象に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 自身に与えたダメージに応じた数の飽食を付与"
+  },
+  {
+    "id": 20265010404,
+    "asset_id": "2026501",
+    "ai_id": "4",
+    "skill_type": 20,
+    "timeline": "Skill003A",
+    "name": "スターヴウェーブ",
+    "description": "範囲内の敵キャラクター全体に【1HIT / {[BUFF_STACK_LINKED_DAMAGE.BASE_PERMILLE]}】ダメージ / 対象に付与されている飢餓のスタック数に応じてダメージが上昇 / ノックバック（小）"
+  },
+  {
+    "id": 20265010405,
+    "asset_id": "2026501",
+    "ai_id": "4",
+    "skill_type": 20,
+    "timeline": "Skill003B",
+    "name": "コラプション",
+    "description": "範囲内の敵全体に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 飢餓【4スタック】を付与"
+  },
+  {
+    "id": 20265010406,
+    "asset_id": "2026501",
+    "ai_id": "4",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "ヴォイド・ゼロ",
+    "description": "敵全体に9999999ダメージ"
+  },
+  {
+    "id": 20270010101,
+    "asset_id": "2027001",
+    "ai_id": "1",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "前方範囲内の敵に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 喪失【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20270010102,
+    "asset_id": "2027001",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "エイルスラスト",
+    "description": "ランダムな敵3体に【1HIT / {[PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT]}】ダメージ / 喪失【{[PRJCTL.LAND.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY:1]}】を付与 / ノックバック（小）"
+  },
+  {
+    "id": 20270010103,
+    "asset_id": "2027001",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "エロージョン",
+    "description": "一定時間ごとに範囲内にいる敵全体に喪失【{[PRJCTL.THROW.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.THROW.ABNORMAL.APPLY_PROBABILITY:1]}】を付与するエリアを2つ生成"
+  },
+  {
+    "id": 20270010104,
+    "asset_id": "2027001",
+    "ai_id": "1",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "インフィニットバースト",
+    "description": "範囲内の敵全体に【7HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（中） / ランダムな敵キャラクター5体に喪失【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20270010201,
+    "asset_id": "2027001",
+    "ai_id": "2",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "前方範囲内の敵に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 喪失【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20270010202,
+    "asset_id": "2027001",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "エイルスラスト",
+    "description": "ランダムな敵3体に【1HIT / {[PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT]}】ダメージ / 喪失【{[PRJCTL.LAND.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY:1]}】を付与 / ノックバック（小）"
+  },
+  {
+    "id": 20270010203,
+    "asset_id": "2027001",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "エロージョン",
+    "description": "一定時間ごとに範囲内にいる敵全体に喪失【{[PRJCTL.THROW.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.THROW.ABNORMAL.APPLY_PROBABILITY:1]}】を付与するエリアを2つ生成"
+  },
+  {
+    "id": 20270010204,
+    "asset_id": "2027001",
+    "ai_id": "2",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "インフィニットバースト",
+    "description": "範囲内の敵全体に【7HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（中） / ランダムな敵キャラクター5体に喪失【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20270010301,
+    "asset_id": "2027001",
+    "ai_id": "3",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "前方範囲内の敵に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 喪失【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20270010302,
+    "asset_id": "2027001",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "エイルスラスト",
+    "description": "ランダムな敵3体に【1HIT / {[PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT]}】ダメージ / 喪失【{[PRJCTL.LAND.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY:1]}】を付与 / ノックバック（小）"
+  },
+  {
+    "id": 20270010303,
+    "asset_id": "2027001",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "エロージョン",
+    "description": "一定時間ごとに範囲内にいる敵全体に喪失【{[PRJCTL.THROW.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.THROW.ABNORMAL.APPLY_PROBABILITY:1]}】を付与するエリアを2つ生成"
+  },
+  {
+    "id": 20270010304,
+    "asset_id": "2027001",
+    "ai_id": "3",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "インフィニットバースト",
+    "description": "範囲内の敵全体に【7HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（大） / ランダムな敵キャラクター5体に喪失【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20271010101,
+    "asset_id": "2027101",
+    "ai_id": "1",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "前方範囲内の敵に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 炎上【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20271010102,
+    "asset_id": "2027101",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "エイルスラスト",
+    "description": "ランダムな敵3体に【1HIT / {[PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT]}】ダメージ / 炎上【{[PRJCTL.LAND.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY:1]}】を付与 / ノックバック（小）"
+  },
+  {
+    "id": 20271010103,
+    "asset_id": "2027101",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "エロージョン",
+    "description": "一定時間ごとに範囲内にいる敵全体に炎上【{[PRJCTL.THROW.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.THROW.ABNORMAL.APPLY_PROBABILITY:1]}】を付与するエリアを2つ生成"
+  },
+  {
+    "id": 20271010104,
+    "asset_id": "2027101",
+    "ai_id": "1",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "インフィニットバースト",
+    "description": "範囲内の敵全体に【7HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（中） / ランダムな敵キャラクター5体に炎上【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20271010201,
+    "asset_id": "2027101",
+    "ai_id": "2",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "前方範囲内の敵に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 炎上【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20271010202,
+    "asset_id": "2027101",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "エイルスラスト",
+    "description": "ランダムな敵3体に【1HIT / {[PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT]}】ダメージ / 炎上【{[PRJCTL.LAND.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY:1]}】を付与 / ノックバック（小）"
+  },
+  {
+    "id": 20271010203,
+    "asset_id": "2027101",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "エロージョン",
+    "description": "一定時間ごとに範囲内にいる敵全体に炎上【{[PRJCTL.THROW.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.THROW.ABNORMAL.APPLY_PROBABILITY:1]}】を付与するエリアを2つ生成"
+  },
+  {
+    "id": 20271010204,
+    "asset_id": "2027101",
+    "ai_id": "2",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "インフィニットバースト",
+    "description": "範囲内の敵全体に【7HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（中） / ランダムな敵キャラクター5体に炎上【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20271010301,
+    "asset_id": "2027101",
+    "ai_id": "3",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "前方範囲内の敵に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 炎上【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20271010302,
+    "asset_id": "2027101",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "エイルスラスト",
+    "description": "ランダムな敵3体に【1HIT / {[PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT]}】ダメージ / 炎上【{[PRJCTL.LAND.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY:1]}】を付与 / ノックバック（小）"
+  },
+  {
+    "id": 20271010303,
+    "asset_id": "2027101",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "エロージョン",
+    "description": "一定時間ごとに範囲内にいる敵全体に炎上【{[PRJCTL.THROW.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.THROW.ABNORMAL.APPLY_PROBABILITY:1]}】を付与するエリアを2つ生成"
+  },
+  {
+    "id": 20271010304,
+    "asset_id": "2027101",
+    "ai_id": "3",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "インフィニットバースト",
+    "description": "範囲内の敵全体に【7HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（大） / ランダムな敵キャラクター5体に炎上【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20272010101,
+    "asset_id": "2027201",
+    "ai_id": "1",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "前方範囲内の敵に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20272010102,
+    "asset_id": "2027201",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "エイルスラスト",
+    "description": "ランダムな敵3体に【1HIT / {[PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT]}】ダメージ / 凍結【{[PRJCTL.LAND.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY:1]}】を付与 / ノックバック（小）"
+  },
+  {
+    "id": 20272010103,
+    "asset_id": "2027201",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "エロージョン",
+    "description": "一定時間ごとに範囲内にいる敵全体に凍結【{[PRJCTL.THROW.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.THROW.ABNORMAL.APPLY_PROBABILITY:1]}】を付与するエリアを2つ生成"
+  },
+  {
+    "id": 20272010104,
+    "asset_id": "2027201",
+    "ai_id": "1",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "インフィニットバースト",
+    "description": "範囲内の敵全体に【7HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（中） / ランダムな敵キャラクター5体に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20272010201,
+    "asset_id": "2027201",
+    "ai_id": "2",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "前方範囲内の敵に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20272010202,
+    "asset_id": "2027201",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "エイルスラスト",
+    "description": "ランダムな敵3体に【1HIT / {[PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT]}】ダメージ / 凍結【{[PRJCTL.LAND.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY:1]}】を付与 / ノックバック（小）"
+  },
+  {
+    "id": 20272010203,
+    "asset_id": "2027201",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "エロージョン",
+    "description": "一定時間ごとに範囲内にいる敵全体に凍結【{[PRJCTL.THROW.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.THROW.ABNORMAL.APPLY_PROBABILITY:1]}】を付与するエリアを2つ生成"
+  },
+  {
+    "id": 20272010204,
+    "asset_id": "2027201",
+    "ai_id": "2",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "インフィニットバースト",
+    "description": "範囲内の敵全体に【7HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（中） / ランダムな敵キャラクター5体に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20272010301,
+    "asset_id": "2027201",
+    "ai_id": "3",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "前方範囲内の敵に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20272010302,
+    "asset_id": "2027201",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "エイルスラスト",
+    "description": "ランダムな敵3体に【1HIT / {[PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT]}】ダメージ / 凍結【{[PRJCTL.LAND.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY:1]}】を付与 / ノックバック（小）"
+  },
+  {
+    "id": 20272010303,
+    "asset_id": "2027201",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "エロージョン",
+    "description": "一定時間ごとに範囲内にいる敵全体に凍結【{[PRJCTL.THROW.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.THROW.ABNORMAL.APPLY_PROBABILITY:1]}】を付与するエリアを2つ生成"
+  },
+  {
+    "id": 20272010304,
+    "asset_id": "2027201",
+    "ai_id": "3",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "インフィニットバースト",
+    "description": "範囲内の敵全体に【7HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（大） / ランダムな敵キャラクター5体に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20273010101,
+    "asset_id": "2027301",
+    "ai_id": "1",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "前方範囲内の敵に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20273010102,
+    "asset_id": "2027301",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "エイルスラスト",
+    "description": "ランダムな敵3体に【1HIT / {[PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT]}】ダメージ / 石化【{[PRJCTL.LAND.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY:1]}】を付与 / ノックバック（小）"
+  },
+  {
+    "id": 20273010103,
+    "asset_id": "2027301",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "エロージョン",
+    "description": "一定時間ごとに範囲内にいる敵全体に石化【{[PRJCTL.THROW.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.THROW.ABNORMAL.APPLY_PROBABILITY:1]}】を付与するエリアを2つ生成"
+  },
+  {
+    "id": 20273010104,
+    "asset_id": "2027301",
+    "ai_id": "1",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "インフィニットバースト",
+    "description": "範囲内の敵全体に【7HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（中） / ランダムな敵キャラクター5体に石化【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20273010201,
+    "asset_id": "2027301",
+    "ai_id": "2",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "前方範囲内の敵に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 石化【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20273010202,
+    "asset_id": "2027301",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "エイルスラスト",
+    "description": "ランダムな敵3体に【1HIT / {[PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT]}】ダメージ / 石化【{[PRJCTL.LAND.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY:1]}】を付与 / ノックバック（小）"
+  },
+  {
+    "id": 20273010203,
+    "asset_id": "2027301",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "エロージョン",
+    "description": "一定時間ごとに範囲内にいる敵全体に石化【{[PRJCTL.THROW.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.THROW.ABNORMAL.APPLY_PROBABILITY:1]}】を付与するエリアを2つ生成"
+  },
+  {
+    "id": 20273010204,
+    "asset_id": "2027301",
+    "ai_id": "2",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "インフィニットバースト",
+    "description": "範囲内の敵全体に【7HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（中） / ランダムな敵キャラクター5体に石化【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20273010301,
+    "asset_id": "2027301",
+    "ai_id": "3",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "前方範囲内の敵に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 石化【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20273010302,
+    "asset_id": "2027301",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "エイルスラスト",
+    "description": "ランダムな敵3体に【1HIT / {[PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT]}】ダメージ / 石化【{[PRJCTL.LAND.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY:1]}】を付与 / ノックバック（小）"
+  },
+  {
+    "id": 20273010303,
+    "asset_id": "2027301",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "エロージョン",
+    "description": "一定時間ごとに範囲内にいる敵全体に石化【{[PRJCTL.THROW.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.THROW.ABNORMAL.APPLY_PROBABILITY:1]}】を付与するエリアを2つ生成"
+  },
+  {
+    "id": 20273010304,
+    "asset_id": "2027301",
+    "ai_id": "3",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "インフィニットバースト",
+    "description": "範囲内の敵全体に【7HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（中） / ランダムな敵キャラクター5体に石化【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20273010401,
+    "asset_id": "2027301",
+    "ai_id": "4",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "前方範囲内の敵に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 石化【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20273010402,
+    "asset_id": "2027301",
+    "ai_id": "4",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "エイルスラスト",
+    "description": "ランダムな敵3体に【1HIT / {[PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT]}】ダメージ / 石化【{[PRJCTL.LAND.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY:1]}】を付与 / ノックバック（小）"
+  },
+  {
+    "id": 20273010403,
+    "asset_id": "2027301",
+    "ai_id": "4",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "エロージョン",
+    "description": "一定時間ごとに範囲内にいる敵全体に石化【{[PRJCTL.THROW.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.THROW.ABNORMAL.APPLY_PROBABILITY:1]}】を付与するエリアを2つ生成"
+  },
+  {
+    "id": 20273010404,
+    "asset_id": "2027301",
+    "ai_id": "4",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "インフィニットバースト",
+    "description": "範囲内の敵全体に【7HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（大） / ランダムな敵キャラクター5体に石化【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20274010101,
+    "asset_id": "2027401",
+    "ai_id": "1",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "前方範囲内の敵に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 麻痺【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20274010102,
+    "asset_id": "2027401",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "エイルスラスト",
+    "description": "ランダムな敵3体に【1HIT / {[PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT]}】ダメージ / 麻痺【{[PRJCTL.LAND.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY:1]}】を付与 / ノックバック（小）"
+  },
+  {
+    "id": 20274010103,
+    "asset_id": "2027401",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "エロージョン",
+    "description": "一定時間ごとに範囲内にいる敵全体に麻痺【{[PRJCTL.THROW.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.THROW.ABNORMAL.APPLY_PROBABILITY:1]}】を付与するエリアを2つ生成"
+  },
+  {
+    "id": 20274010104,
+    "asset_id": "2027401",
+    "ai_id": "1",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "インフィニットバースト",
+    "description": "範囲内の敵全体に【7HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（中） / ランダムな敵キャラクター5体に麻痺【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20274010201,
+    "asset_id": "2027401",
+    "ai_id": "2",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "前方範囲内の敵に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 麻痺【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20274010202,
+    "asset_id": "2027401",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "エイルスラスト",
+    "description": "ランダムな敵3体に【1HIT / {[PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT]}】ダメージ / 麻痺【{[PRJCTL.LAND.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY:1]}】を付与 / ノックバック（小）"
+  },
+  {
+    "id": 20274010203,
+    "asset_id": "2027401",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "エロージョン",
+    "description": "一定時間ごとに範囲内にいる敵全体に麻痺【{[PRJCTL.THROW.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.THROW.ABNORMAL.APPLY_PROBABILITY:1]}】を付与するエリアを2つ生成"
+  },
+  {
+    "id": 20274010204,
+    "asset_id": "2027401",
+    "ai_id": "2",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "インフィニットバースト",
+    "description": "範囲内の敵全体に【7HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（中） / ランダムな敵キャラクター5体に麻痺【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20274010301,
+    "asset_id": "2027401",
+    "ai_id": "3",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "前方範囲内の敵に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 麻痺【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20274010302,
+    "asset_id": "2027401",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "エイルスラスト",
+    "description": "ランダムな敵3体に【1HIT / {[PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT]}】ダメージ / 麻痺【{[PRJCTL.LAND.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY:1]}】を付与 / ノックバック（小）"
+  },
+  {
+    "id": 20274010303,
+    "asset_id": "2027401",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "エロージョン",
+    "description": "一定時間ごとに範囲内にいる敵全体に麻痺【{[PRJCTL.THROW.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.THROW.ABNORMAL.APPLY_PROBABILITY:1]}】を付与するエリアを2つ生成"
+  },
+  {
+    "id": 20274010304,
+    "asset_id": "2027401",
+    "ai_id": "3",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "インフィニットバースト",
+    "description": "範囲内の敵全体に【7HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（大） / ランダムな敵キャラクター5体に麻痺【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20275010101,
+    "asset_id": "2027501",
+    "ai_id": "1",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "前方範囲内の敵に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 魅了【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20275010102,
+    "asset_id": "2027501",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "エイルスラスト",
+    "description": "ランダムな敵3体に【1HIT / {[PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT]}】ダメージ / 魅了【{[PRJCTL.LAND.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY:1]}】を付与 / ノックバック（小）"
+  },
+  {
+    "id": 20275010103,
+    "asset_id": "2027501",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "エロージョン",
+    "description": "一定時間ごとに範囲内にいる敵全体に魅了【{[PRJCTL.THROW.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.THROW.ABNORMAL.APPLY_PROBABILITY:1]}】を付与するエリアを2つ生成"
+  },
+  {
+    "id": 20275010104,
+    "asset_id": "2027501",
+    "ai_id": "1",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "インフィニットバースト",
+    "description": "範囲内の敵全体に【7HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（中） / ランダムな敵キャラクター5体に魅了【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20275010201,
+    "asset_id": "2027501",
+    "ai_id": "2",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "前方範囲内の敵に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 魅了【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20275010202,
+    "asset_id": "2027501",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "エイルスラスト",
+    "description": "ランダムな敵3体に【1HIT / {[PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT]}】ダメージ / 魅了【{[PRJCTL.LAND.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY:1]}】を付与 / ノックバック（小）"
+  },
+  {
+    "id": 20275010203,
+    "asset_id": "2027501",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "エロージョン",
+    "description": "一定時間ごとに範囲内にいる敵全体に魅了【{[PRJCTL.THROW.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.THROW.ABNORMAL.APPLY_PROBABILITY:1]}】を付与するエリアを2つ生成"
+  },
+  {
+    "id": 20275010204,
+    "asset_id": "2027501",
+    "ai_id": "2",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "インフィニットバースト",
+    "description": "範囲内の敵全体に【7HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（中） / ランダムな敵キャラクター5体に魅了【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20275010301,
+    "asset_id": "2027501",
+    "ai_id": "3",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "前方範囲内の敵に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 魅了【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20275010302,
+    "asset_id": "2027501",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "エイルスラスト",
+    "description": "ランダムな敵3体に【1HIT / {[PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT]}】ダメージ / 魅了【{[PRJCTL.LAND.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY:1]}】を付与 / ノックバック（小）"
+  },
+  {
+    "id": 20275010303,
+    "asset_id": "2027501",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "エロージョン",
+    "description": "一定時間ごとに範囲内にいる敵全体に魅了【{[PRJCTL.THROW.ABNORMAL.DURATION:1]}秒 / 成功率:{[PRJCTL.THROW.ABNORMAL.APPLY_PROBABILITY:1]}】を付与するエリアを2つ生成"
+  },
+  {
+    "id": 20275010304,
+    "asset_id": "2027501",
+    "ai_id": "3",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "インフィニットバースト",
+    "description": "範囲内の敵全体に【7HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（大） / ランダムな敵キャラクター5体に魅了【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20280010001,
+    "asset_id": "2028001",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20281010001,
+    "asset_id": "2028101",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20282010001,
+    "asset_id": "2028201",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20283010001,
+    "asset_id": "2028301",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20284010001,
+    "asset_id": "2028401",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20285010001,
+    "asset_id": "2028501",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20290010001,
+    "asset_id": "2029001",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20290010002,
+    "asset_id": "2029001",
+    "ai_id": "0",
+    "skill_type": 11,
+    "timeline": "SpecialSkill",
+    "name": "",
+    "description": "ランダムなバック1体に【1HIT / 合計100%】ダメージの攻撃を3回行う"
+  },
+  {
+    "id": 20290010003,
+    "asset_id": "2029001",
+    "ai_id": "0",
+    "skill_type": 20,
+    "timeline": "Skill01",
+    "name": "トリックスラッシュ",
+    "description": "ランダムな敵1体に【1HIT / 合計300%】ダメージの攻撃を5回行う"
+  },
+  {
+    "id": 20291010001,
+    "asset_id": "2029101",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20291010002,
+    "asset_id": "2029101",
+    "ai_id": "0",
+    "skill_type": 11,
+    "timeline": "SpecialSkill",
+    "name": "",
+    "description": "ランダムなバック1体に【1HIT / 合計100%】ダメージの攻撃を3回行う"
+  },
+  {
+    "id": 20291010003,
+    "asset_id": "2029101",
+    "ai_id": "0",
+    "skill_type": 20,
+    "timeline": "Skill01",
+    "name": "トリックスラッシュ",
+    "description": "ランダムな敵1体に【1HIT / 合計300%】ダメージの攻撃を5回行う"
+  },
+  {
+    "id": 20292010001,
+    "asset_id": "2029201",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20292010002,
+    "asset_id": "2029201",
+    "ai_id": "0",
+    "skill_type": 11,
+    "timeline": "SpecialSkill",
+    "name": "",
+    "description": "ランダムなバック1体に【1HIT / 合計100%】ダメージの攻撃を3回行う"
+  },
+  {
+    "id": 20292010003,
+    "asset_id": "2029201",
+    "ai_id": "0",
+    "skill_type": 20,
+    "timeline": "Skill01",
+    "name": "トリックスラッシュ",
+    "description": "ランダムな敵1体に【1HIT / 合計300%】ダメージの攻撃を5回行う"
+  },
+  {
+    "id": 20293010001,
+    "asset_id": "2029301",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20293010002,
+    "asset_id": "2029301",
+    "ai_id": "0",
+    "skill_type": 11,
+    "timeline": "SpecialSkill",
+    "name": "",
+    "description": "ランダムなバック1体に【1HIT / 合計100%】ダメージの攻撃を3回行う"
+  },
+  {
+    "id": 20293010003,
+    "asset_id": "2029301",
+    "ai_id": "0",
+    "skill_type": 20,
+    "timeline": "Skill01",
+    "name": "トリックスラッシュ",
+    "description": "ランダムな敵1体に【1HIT / 合計300%】ダメージの攻撃を5回行う"
+  },
+  {
+    "id": 20294010001,
+    "asset_id": "2029401",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20294010002,
+    "asset_id": "2029401",
+    "ai_id": "0",
+    "skill_type": 11,
+    "timeline": "SpecialSkill",
+    "name": "",
+    "description": "ランダムなバック1体に【1HIT / 合計100%】ダメージの攻撃を3回行う"
+  },
+  {
+    "id": 20294010003,
+    "asset_id": "2029401",
+    "ai_id": "0",
+    "skill_type": 20,
+    "timeline": "Skill01",
+    "name": "トリックスラッシュ",
+    "description": "ランダムな敵1体に【1HIT / 合計300%】ダメージの攻撃を5回行う"
+  },
+  {
+    "id": 20295010001,
+    "asset_id": "2029501",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【1HIT / 合計100%】ダメージ"
+  },
+  {
+    "id": 20295010002,
+    "asset_id": "2029501",
+    "ai_id": "0",
+    "skill_type": 11,
+    "timeline": "SpecialSkill",
+    "name": "",
+    "description": "ランダムなバック1体に【1HIT / 合計100%】ダメージの攻撃を3回行う"
+  },
+  {
+    "id": 20295010003,
+    "asset_id": "2029501",
+    "ai_id": "0",
+    "skill_type": 20,
+    "timeline": "Skill01",
+    "name": "トリックスラッシュ",
+    "description": "ランダムな敵1体に【1HIT / 合計300%】ダメージの攻撃を5回行う"
+  },
+  {
+    "id": 20300010101,
+    "asset_id": "2030001",
+    "ai_id": "1",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "前方範囲内の敵最大{[TARGET_COUNT]}体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20300010102,
+    "asset_id": "2030001",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001",
+    "name": "ホロウショック",
+    "description": "範囲内の敵全体に【{[DAMAGE.HIT_COUNT]}HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（中） / 対象に喪失【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20300010103,
+    "asset_id": "2030001",
+    "ai_id": "1",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "エレメンタルブラスト",
+    "description": "敵全体に【{[DAMAGE.HIT_COUNT]}HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（大） / 対象に喪失【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20301010101,
+    "asset_id": "2030101",
+    "ai_id": "1",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "前方範囲内の敵最大{[TARGET_COUNT]}体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20301010102,
+    "asset_id": "2030101",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001",
+    "name": "ブレイズショック",
+    "description": "範囲内の敵全体に【{[DAMAGE.HIT_COUNT]}HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（中） / 対象に炎上【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20301010103,
+    "asset_id": "2030101",
+    "ai_id": "1",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "エレメンタルブラスト",
+    "description": "敵全体に【{[DAMAGE.HIT_COUNT]}HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（大） / 対象に炎上【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20302010101,
+    "asset_id": "2030201",
+    "ai_id": "1",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "前方範囲内の敵最大{[TARGET_COUNT]}体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20302010102,
+    "asset_id": "2030201",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001",
+    "name": "アクアショック",
+    "description": "範囲内の敵全体に【{[DAMAGE.HIT_COUNT]}HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（中） / 対象に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20302010103,
+    "asset_id": "2030201",
+    "ai_id": "1",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "エレメンタルブラスト",
+    "description": "敵全体に【{[DAMAGE.HIT_COUNT]}HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（大） / 対象に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20303010101,
+    "asset_id": "2030301",
+    "ai_id": "1",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "前方範囲内の敵最大{[TARGET_COUNT]}体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20303010102,
+    "asset_id": "2030301",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001",
+    "name": "ガイアショック",
+    "description": "範囲内の敵全体に【{[DAMAGE.HIT_COUNT]}HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（中） / 対象に石化【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20303010103,
+    "asset_id": "2030301",
+    "ai_id": "1",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "エレメンタルブラスト",
+    "description": "敵全体に【{[DAMAGE.HIT_COUNT]}HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（大） / 対象に石化【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20304010101,
+    "asset_id": "2030401",
+    "ai_id": "1",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "前方範囲内の敵最大{[TARGET_COUNT]}体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20304010102,
+    "asset_id": "2030401",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001",
+    "name": "ブライトショック",
+    "description": "範囲内の敵全体に【{[DAMAGE.HIT_COUNT]}HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（中） / 対象に麻痺【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20304010103,
+    "asset_id": "2030401",
+    "ai_id": "1",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "エレメンタルブラスト",
+    "description": "敵全体に【{[DAMAGE.HIT_COUNT]}HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（大） / 対象に麻痺【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20305010101,
+    "asset_id": "2030501",
+    "ai_id": "1",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "前方範囲内の敵最大{[TARGET_COUNT]}体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20305010102,
+    "asset_id": "2030501",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001",
+    "name": "ダークショック",
+    "description": "範囲内の敵全体に【{[DAMAGE.HIT_COUNT]}HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（中） / 対象に魅了【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20305010103,
+    "asset_id": "2030501",
+    "ai_id": "1",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "エレメンタルブラスト",
+    "description": "敵全体に【{[DAMAGE.HIT_COUNT]}HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（大） / 対象に魅了【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20380010101,
+    "asset_id": "2038001",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001",
+    "name": "叫喚",
+    "description": "助けを呼ぶ"
+  },
+  {
+    "id": 20381010101,
+    "asset_id": "2038101",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001",
+    "name": "叫喚",
+    "description": "助けを呼ぶ"
+  },
+  {
+    "id": 20382010101,
+    "asset_id": "2038201",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001",
+    "name": "叫喚",
+    "description": "助けを呼ぶ"
+  },
+  {
+    "id": 20383010101,
+    "asset_id": "2038301",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001",
+    "name": "叫喚",
+    "description": "助けを呼ぶ"
+  },
+  {
+    "id": 20384010101,
+    "asset_id": "2038401",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001",
+    "name": "叫喚",
+    "description": "助けを呼ぶ"
+  },
+  {
+    "id": 20385010101,
+    "asset_id": "2038501",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001",
+    "name": "叫喚",
+    "description": "助けを呼ぶ"
+  }
+]

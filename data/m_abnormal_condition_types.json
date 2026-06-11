@@ -1,0 +1,44 @@
+[
+  {
+    "id": 0,
+    "name": "None",
+    "icon_asset_id": "",
+    "description": ""
+  },
+  {
+    "id": 1,
+    "name": "炎上",
+    "icon_asset_id": "Flame",
+    "description": "時間経過でダメージを受ける状態"
+  },
+  {
+    "id": 2,
+    "name": "凍結",
+    "icon_asset_id": "Frozen",
+    "description": "行動間隔が延長され、連撃率とスキルチャージ効率が低下した状態\n一定回数行動すると解除"
+  },
+  {
+    "id": 3,
+    "name": "石化",
+    "icon_asset_id": "Curing",
+    "description": "行動ができず、被ダメージが増加した状態\n（被ダメージ時に確率で解除）"
+  },
+  {
+    "id": 4,
+    "name": "麻痺",
+    "icon_asset_id": "Paralysis",
+    "description": "行動ができない状態"
+  },
+  {
+    "id": 5,
+    "name": "魅了",
+    "icon_asset_id": "Charm",
+    "description": "一部の行動が阻害された状態"
+  },
+  {
+    "id": 6,
+    "name": "喪失",
+    "icon_asset_id": "LostMotivation",
+    "description": "スキルがチャージがされず、スキルの使用やフォースチェイン参加が制限された状態"
+  }
+]

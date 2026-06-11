@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "tutorial_category": 2,
+    "tutorial_type": 5,
+    "status": 0,
+    "content_type": 30,
+    "content_id": 140001,
+    "amount": 1,
+    "is_direct": 1
+  },
+  {
+    "id": 2,
+    "tutorial_category": 2,
+    "tutorial_type": 5,
+    "status": 0,
+    "content_type": 30,
+    "content_id": 20000,
+    "amount": 3,
+    "is_direct": 1
+  },
+  {
+    "id": 3,
+    "tutorial_category": 2,
+    "tutorial_type": 11,
+    "status": 0,
+    "content_type": 30,
+    "content_id": 140001,
+    "amount": 20,
+    "is_direct": 0
+  }
+]

@@ -1,0 +1,4904 @@
+[
+  {
+    "id": 1,
+    "m_enemy_id": 1900011000,
+    "phase": 1,
+    "m_enemy_parameter_id": 1900011001
+  },
+  {
+    "id": 2,
+    "m_enemy_id": 1900011000,
+    "phase": 2,
+    "m_enemy_parameter_id": 1900011002
+  },
+  {
+    "id": 3,
+    "m_enemy_id": 1900011000,
+    "phase": 3,
+    "m_enemy_parameter_id": 1900011003
+  },
+  {
+    "id": 4,
+    "m_enemy_id": 1900012000,
+    "phase": 1,
+    "m_enemy_parameter_id": 1900012001
+  },
+  {
+    "id": 5,
+    "m_enemy_id": 1900012000,
+    "phase": 2,
+    "m_enemy_parameter_id": 1900012002
+  },
+  {
+    "id": 6,
+    "m_enemy_id": 1900012000,
+    "phase": 3,
+    "m_enemy_parameter_id": 1900012003
+  },
+  {
+    "id": 7,
+    "m_enemy_id": 1000014010,
+    "phase": 1,
+    "m_enemy_parameter_id": 1000014011
+  },
+  {
+    "id": 8,
+    "m_enemy_id": 1000014010,
+    "phase": 2,
+    "m_enemy_parameter_id": 1000014012
+  },
+  {
+    "id": 9,
+    "m_enemy_id": 1000014020,
+    "phase": 1,
+    "m_enemy_parameter_id": 1000014021
+  },
+  {
+    "id": 10,
+    "m_enemy_id": 1000014020,
+    "phase": 2,
+    "m_enemy_parameter_id": 1000014022
+  },
+  {
+    "id": 11,
+    "m_enemy_id": 1000014030,
+    "phase": 1,
+    "m_enemy_parameter_id": 1000014031
+  },
+  {
+    "id": 12,
+    "m_enemy_id": 1000014030,
+    "phase": 2,
+    "m_enemy_parameter_id": 1000014032
+  },
+  {
+    "id": 13,
+    "m_enemy_id": 1000014040,
+    "phase": 1,
+    "m_enemy_parameter_id": 1000014041
+  },
+  {
+    "id": 14,
+    "m_enemy_id": 1000014040,
+    "phase": 2,
+    "m_enemy_parameter_id": 1000014042
+  },
+  {
+    "id": 15,
+    "m_enemy_id": 1000014050,
+    "phase": 1,
+    "m_enemy_parameter_id": 1000014051
+  },
+  {
+    "id": 16,
+    "m_enemy_id": 1000014050,
+    "phase": 2,
+    "m_enemy_parameter_id": 1000014052
+  },
+  {
+    "id": 17,
+    "m_enemy_id": 1000018000,
+    "phase": 1,
+    "m_enemy_parameter_id": 1000018001
+  },
+  {
+    "id": 18,
+    "m_enemy_id": 1000018000,
+    "phase": 2,
+    "m_enemy_parameter_id": 1000018002
+  },
+  {
+    "id": 19,
+    "m_enemy_id": 1000018000,
+    "phase": 3,
+    "m_enemy_parameter_id": 1000018003
+  },
+  {
+    "id": 101,
+    "m_enemy_id": 1,
+    "phase": 1,
+    "m_enemy_parameter_id": 16
+  },
+  {
+    "id": 201,
+    "m_enemy_id": 2000101,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000101
+  },
+  {
+    "id": 202,
+    "m_enemy_id": 2000101,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000102
+  },
+  {
+    "id": 203,
+    "m_enemy_id": 2000201,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000201
+  },
+  {
+    "id": 204,
+    "m_enemy_id": 2000201,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000202
+  },
+  {
+    "id": 205,
+    "m_enemy_id": 2000301,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000301
+  },
+  {
+    "id": 206,
+    "m_enemy_id": 2000301,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000301
+  },
+  {
+    "id": 1001,
+    "m_enemy_id": 1200010100,
+    "phase": 1,
+    "m_enemy_parameter_id": 1200010101
+  },
+  {
+    "id": 1002,
+    "m_enemy_id": 1200010100,
+    "phase": 2,
+    "m_enemy_parameter_id": 1200010102
+  },
+  {
+    "id": 1003,
+    "m_enemy_id": 1200020100,
+    "phase": 1,
+    "m_enemy_parameter_id": 1200020101
+  },
+  {
+    "id": 1004,
+    "m_enemy_id": 1200020100,
+    "phase": 2,
+    "m_enemy_parameter_id": 1200020102
+  },
+  {
+    "id": 1005,
+    "m_enemy_id": 1200030100,
+    "phase": 1,
+    "m_enemy_parameter_id": 1200030101
+  },
+  {
+    "id": 1006,
+    "m_enemy_id": 1200030100,
+    "phase": 2,
+    "m_enemy_parameter_id": 1200030102
+  },
+  {
+    "id": 1007,
+    "m_enemy_id": 1200040100,
+    "phase": 1,
+    "m_enemy_parameter_id": 1200040101
+  },
+  {
+    "id": 1008,
+    "m_enemy_id": 1200040100,
+    "phase": 2,
+    "m_enemy_parameter_id": 1200040102
+  },
+  {
+    "id": 1009,
+    "m_enemy_id": 1200050100,
+    "phase": 1,
+    "m_enemy_parameter_id": 1200050101
+  },
+  {
+    "id": 1010,
+    "m_enemy_id": 1200050100,
+    "phase": 2,
+    "m_enemy_parameter_id": 1200050102
+  },
+  {
+    "id": 1011,
+    "m_enemy_id": 1200050100,
+    "phase": 3,
+    "m_enemy_parameter_id": 1200050103
+  },
+  {
+    "id": 1012,
+    "m_enemy_id": 1200060100,
+    "phase": 1,
+    "m_enemy_parameter_id": 1200060101
+  },
+  {
+    "id": 1013,
+    "m_enemy_id": 1200060100,
+    "phase": 2,
+    "m_enemy_parameter_id": 1200060102
+  },
+  {
+    "id": 1014,
+    "m_enemy_id": 1200060100,
+    "phase": 3,
+    "m_enemy_parameter_id": 1200060103
+  },
+  {
+    "id": 1015,
+    "m_enemy_id": 1200070100,
+    "phase": 1,
+    "m_enemy_parameter_id": 1200070101
+  },
+  {
+    "id": 1016,
+    "m_enemy_id": 1200070100,
+    "phase": 2,
+    "m_enemy_parameter_id": 1200070102
+  },
+  {
+    "id": 1017,
+    "m_enemy_id": 1200070100,
+    "phase": 3,
+    "m_enemy_parameter_id": 1200070103
+  },
+  {
+    "id": 1018,
+    "m_enemy_id": 1200080100,
+    "phase": 1,
+    "m_enemy_parameter_id": 1200080101
+  },
+  {
+    "id": 1019,
+    "m_enemy_id": 1200080100,
+    "phase": 2,
+    "m_enemy_parameter_id": 1200080102
+  },
+  {
+    "id": 1020,
+    "m_enemy_id": 1200080100,
+    "phase": 3,
+    "m_enemy_parameter_id": 1200080103
+  },
+  {
+    "id": 1021,
+    "m_enemy_id": 1200090100,
+    "phase": 1,
+    "m_enemy_parameter_id": 1200090101
+  },
+  {
+    "id": 1022,
+    "m_enemy_id": 1200090100,
+    "phase": 2,
+    "m_enemy_parameter_id": 1200090102
+  },
+  {
+    "id": 1023,
+    "m_enemy_id": 1200090100,
+    "phase": 3,
+    "m_enemy_parameter_id": 1200090103
+  },
+  {
+    "id": 1024,
+    "m_enemy_id": 1200100100,
+    "phase": 1,
+    "m_enemy_parameter_id": 1200100101
+  },
+  {
+    "id": 1025,
+    "m_enemy_id": 1200100100,
+    "phase": 2,
+    "m_enemy_parameter_id": 1200100102
+  },
+  {
+    "id": 1026,
+    "m_enemy_id": 1200100100,
+    "phase": 3,
+    "m_enemy_parameter_id": 1200100103
+  },
+  {
+    "id": 2001,
+    "m_enemy_id": 2000000101,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000000101
+  },
+  {
+    "id": 2002,
+    "m_enemy_id": 2000000101,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000000102
+  },
+  {
+    "id": 2003,
+    "m_enemy_id": 2000000101,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000000103
+  },
+  {
+    "id": 2004,
+    "m_enemy_id": 2000000201,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000000201
+  },
+  {
+    "id": 2005,
+    "m_enemy_id": 2000000201,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000000202
+  },
+  {
+    "id": 2006,
+    "m_enemy_id": 2000000201,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000000203
+  },
+  {
+    "id": 2007,
+    "m_enemy_id": 2000000301,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000000301
+  },
+  {
+    "id": 2008,
+    "m_enemy_id": 2000000301,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000000302
+  },
+  {
+    "id": 2009,
+    "m_enemy_id": 2000000301,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000000303
+  },
+  {
+    "id": 2010,
+    "m_enemy_id": 2000000401,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000000401
+  },
+  {
+    "id": 2011,
+    "m_enemy_id": 2000000401,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000000402
+  },
+  {
+    "id": 2012,
+    "m_enemy_id": 2000000401,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000000403
+  },
+  {
+    "id": 2013,
+    "m_enemy_id": 2000000501,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000000501
+  },
+  {
+    "id": 2014,
+    "m_enemy_id": 2000000501,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000000502
+  },
+  {
+    "id": 2015,
+    "m_enemy_id": 2000000501,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000000503
+  },
+  {
+    "id": 2016,
+    "m_enemy_id": 2000000601,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000000601
+  },
+  {
+    "id": 2017,
+    "m_enemy_id": 2000000601,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000000602
+  },
+  {
+    "id": 2018,
+    "m_enemy_id": 2000000601,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000000603
+  },
+  {
+    "id": 2019,
+    "m_enemy_id": 2000000701,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000000701
+  },
+  {
+    "id": 2020,
+    "m_enemy_id": 2000000701,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000000702
+  },
+  {
+    "id": 2021,
+    "m_enemy_id": 2000000701,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000000703
+  },
+  {
+    "id": 2022,
+    "m_enemy_id": 2000000801,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000000801
+  },
+  {
+    "id": 2023,
+    "m_enemy_id": 2000000801,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000000802
+  },
+  {
+    "id": 2024,
+    "m_enemy_id": 2000000801,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000000803
+  },
+  {
+    "id": 2025,
+    "m_enemy_id": 2000000901,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000000901
+  },
+  {
+    "id": 2026,
+    "m_enemy_id": 2000000901,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000000902
+  },
+  {
+    "id": 2027,
+    "m_enemy_id": 2000000901,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000000903
+  },
+  {
+    "id": 2028,
+    "m_enemy_id": 2000001001,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000001001
+  },
+  {
+    "id": 2029,
+    "m_enemy_id": 2000001001,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000001002
+  },
+  {
+    "id": 2030,
+    "m_enemy_id": 2000001001,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000001003
+  },
+  {
+    "id": 2031,
+    "m_enemy_id": 2000001101,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000001101
+  },
+  {
+    "id": 2032,
+    "m_enemy_id": 2000001101,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000001102
+  },
+  {
+    "id": 2033,
+    "m_enemy_id": 2000001101,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000001103
+  },
+  {
+    "id": 2034,
+    "m_enemy_id": 2000001201,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000001201
+  },
+  {
+    "id": 2035,
+    "m_enemy_id": 2000001201,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000001202
+  },
+  {
+    "id": 2036,
+    "m_enemy_id": 2000001201,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000001203
+  },
+  {
+    "id": 2037,
+    "m_enemy_id": 2000001301,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000001301
+  },
+  {
+    "id": 2038,
+    "m_enemy_id": 2000001301,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000001302
+  },
+  {
+    "id": 2039,
+    "m_enemy_id": 2000001301,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000001303
+  },
+  {
+    "id": 2040,
+    "m_enemy_id": 2000001401,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000001401
+  },
+  {
+    "id": 2041,
+    "m_enemy_id": 2000001401,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000001402
+  },
+  {
+    "id": 2042,
+    "m_enemy_id": 2000001401,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000001403
+  },
+  {
+    "id": 2043,
+    "m_enemy_id": 2000001501,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000001501
+  },
+  {
+    "id": 2044,
+    "m_enemy_id": 2000001501,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000001502
+  },
+  {
+    "id": 2045,
+    "m_enemy_id": 2000001501,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000001503
+  },
+  {
+    "id": 2046,
+    "m_enemy_id": 2000001601,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000001601
+  },
+  {
+    "id": 2047,
+    "m_enemy_id": 2000001601,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000001602
+  },
+  {
+    "id": 2048,
+    "m_enemy_id": 2000001601,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000001603
+  },
+  {
+    "id": 2049,
+    "m_enemy_id": 2000001701,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000001701
+  },
+  {
+    "id": 2050,
+    "m_enemy_id": 2000001701,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000001702
+  },
+  {
+    "id": 2051,
+    "m_enemy_id": 2000001701,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000001703
+  },
+  {
+    "id": 2052,
+    "m_enemy_id": 2000001801,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000001801
+  },
+  {
+    "id": 2053,
+    "m_enemy_id": 2000001801,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000001802
+  },
+  {
+    "id": 2054,
+    "m_enemy_id": 2000001801,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000001803
+  },
+  {
+    "id": 2055,
+    "m_enemy_id": 2000001901,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000001901
+  },
+  {
+    "id": 2056,
+    "m_enemy_id": 2000001901,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000001902
+  },
+  {
+    "id": 2057,
+    "m_enemy_id": 2000001901,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000001903
+  },
+  {
+    "id": 2058,
+    "m_enemy_id": 2000002001,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000002001
+  },
+  {
+    "id": 2059,
+    "m_enemy_id": 2000002001,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000002002
+  },
+  {
+    "id": 2060,
+    "m_enemy_id": 2000002001,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000002003
+  },
+  {
+    "id": 2061,
+    "m_enemy_id": 2000002101,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000002101
+  },
+  {
+    "id": 2062,
+    "m_enemy_id": 2000002101,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000002102
+  },
+  {
+    "id": 2063,
+    "m_enemy_id": 2000002101,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000002103
+  },
+  {
+    "id": 2064,
+    "m_enemy_id": 2000002201,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000002201
+  },
+  {
+    "id": 2065,
+    "m_enemy_id": 2000002201,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000002202
+  },
+  {
+    "id": 2066,
+    "m_enemy_id": 2000002201,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000002203
+  },
+  {
+    "id": 2067,
+    "m_enemy_id": 2000002301,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000002301
+  },
+  {
+    "id": 2068,
+    "m_enemy_id": 2000002301,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000002302
+  },
+  {
+    "id": 2069,
+    "m_enemy_id": 2000002301,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000002303
+  },
+  {
+    "id": 2070,
+    "m_enemy_id": 2000002401,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000002401
+  },
+  {
+    "id": 2071,
+    "m_enemy_id": 2000002401,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000002402
+  },
+  {
+    "id": 2072,
+    "m_enemy_id": 2000002401,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000002403
+  },
+  {
+    "id": 2073,
+    "m_enemy_id": 2000002501,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000002501
+  },
+  {
+    "id": 2074,
+    "m_enemy_id": 2000002501,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000002502
+  },
+  {
+    "id": 2075,
+    "m_enemy_id": 2000002501,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000002503
+  },
+  {
+    "id": 2076,
+    "m_enemy_id": 2000002601,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000002601
+  },
+  {
+    "id": 2077,
+    "m_enemy_id": 2000002601,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000002602
+  },
+  {
+    "id": 2078,
+    "m_enemy_id": 2000002601,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000002603
+  },
+  {
+    "id": 2079,
+    "m_enemy_id": 2000002701,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000002701
+  },
+  {
+    "id": 2080,
+    "m_enemy_id": 2000002701,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000002702
+  },
+  {
+    "id": 2081,
+    "m_enemy_id": 2000002701,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000002703
+  },
+  {
+    "id": 2082,
+    "m_enemy_id": 2000002801,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000002801
+  },
+  {
+    "id": 2083,
+    "m_enemy_id": 2000002801,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000002802
+  },
+  {
+    "id": 2084,
+    "m_enemy_id": 2000002801,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000002803
+  },
+  {
+    "id": 2085,
+    "m_enemy_id": 2000002901,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000002901
+  },
+  {
+    "id": 2086,
+    "m_enemy_id": 2000002901,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000002902
+  },
+  {
+    "id": 2087,
+    "m_enemy_id": 2000002901,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000002903
+  },
+  {
+    "id": 2088,
+    "m_enemy_id": 2000003001,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000003001
+  },
+  {
+    "id": 2089,
+    "m_enemy_id": 2000003001,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000003002
+  },
+  {
+    "id": 2090,
+    "m_enemy_id": 2000003001,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000003003
+  },
+  {
+    "id": 2091,
+    "m_enemy_id": 2000003101,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000003101
+  },
+  {
+    "id": 2092,
+    "m_enemy_id": 2000003101,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000003102
+  },
+  {
+    "id": 2093,
+    "m_enemy_id": 2000003101,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000003103
+  },
+  {
+    "id": 2094,
+    "m_enemy_id": 2000003201,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000003201
+  },
+  {
+    "id": 2095,
+    "m_enemy_id": 2000003201,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000003202
+  },
+  {
+    "id": 2096,
+    "m_enemy_id": 2000003201,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000003203
+  },
+  {
+    "id": 2097,
+    "m_enemy_id": 2000003301,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000003301
+  },
+  {
+    "id": 2098,
+    "m_enemy_id": 2000003301,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000003302
+  },
+  {
+    "id": 2099,
+    "m_enemy_id": 2000003301,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000003303
+  },
+  {
+    "id": 2100,
+    "m_enemy_id": 2000003401,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000003401
+  },
+  {
+    "id": 2101,
+    "m_enemy_id": 2000003401,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000003402
+  },
+  {
+    "id": 2102,
+    "m_enemy_id": 2000003401,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000003403
+  },
+  {
+    "id": 2103,
+    "m_enemy_id": 2000003501,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000003501
+  },
+  {
+    "id": 2104,
+    "m_enemy_id": 2000003501,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000003502
+  },
+  {
+    "id": 2105,
+    "m_enemy_id": 2000003501,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000003503
+  },
+  {
+    "id": 2106,
+    "m_enemy_id": 2000003601,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000003601
+  },
+  {
+    "id": 2107,
+    "m_enemy_id": 2000003601,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000003602
+  },
+  {
+    "id": 2108,
+    "m_enemy_id": 2000003601,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000003603
+  },
+  {
+    "id": 2109,
+    "m_enemy_id": 2000003701,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000003701
+  },
+  {
+    "id": 2110,
+    "m_enemy_id": 2000003701,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000003702
+  },
+  {
+    "id": 2111,
+    "m_enemy_id": 2000003701,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000003703
+  },
+  {
+    "id": 2112,
+    "m_enemy_id": 2000003801,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000003801
+  },
+  {
+    "id": 2113,
+    "m_enemy_id": 2000003801,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000003802
+  },
+  {
+    "id": 2114,
+    "m_enemy_id": 2000003801,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000003803
+  },
+  {
+    "id": 2115,
+    "m_enemy_id": 2000003901,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000003901
+  },
+  {
+    "id": 2116,
+    "m_enemy_id": 2000003901,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000003902
+  },
+  {
+    "id": 2117,
+    "m_enemy_id": 2000003901,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000003903
+  },
+  {
+    "id": 2118,
+    "m_enemy_id": 2000004001,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000004001
+  },
+  {
+    "id": 2119,
+    "m_enemy_id": 2000004001,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000004002
+  },
+  {
+    "id": 2120,
+    "m_enemy_id": 2000004001,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000004003
+  },
+  {
+    "id": 2121,
+    "m_enemy_id": 2000004101,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000004101
+  },
+  {
+    "id": 2122,
+    "m_enemy_id": 2000004101,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000004102
+  },
+  {
+    "id": 2123,
+    "m_enemy_id": 2000004101,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000004103
+  },
+  {
+    "id": 2124,
+    "m_enemy_id": 2000004201,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000004201
+  },
+  {
+    "id": 2125,
+    "m_enemy_id": 2000004201,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000004202
+  },
+  {
+    "id": 2126,
+    "m_enemy_id": 2000004201,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000004203
+  },
+  {
+    "id": 2127,
+    "m_enemy_id": 2000004301,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000004301
+  },
+  {
+    "id": 2128,
+    "m_enemy_id": 2000004301,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000004302
+  },
+  {
+    "id": 2129,
+    "m_enemy_id": 2000004301,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000004303
+  },
+  {
+    "id": 2130,
+    "m_enemy_id": 2000004401,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000004401
+  },
+  {
+    "id": 2131,
+    "m_enemy_id": 2000004401,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000004402
+  },
+  {
+    "id": 2132,
+    "m_enemy_id": 2000004401,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000004403
+  },
+  {
+    "id": 2133,
+    "m_enemy_id": 2000004501,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000004501
+  },
+  {
+    "id": 2134,
+    "m_enemy_id": 2000004501,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000004502
+  },
+  {
+    "id": 2135,
+    "m_enemy_id": 2000004501,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000004503
+  },
+  {
+    "id": 2136,
+    "m_enemy_id": 2000004601,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000004601
+  },
+  {
+    "id": 2137,
+    "m_enemy_id": 2000004601,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000004602
+  },
+  {
+    "id": 2138,
+    "m_enemy_id": 2000004601,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000004603
+  },
+  {
+    "id": 2139,
+    "m_enemy_id": 2000004701,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000004701
+  },
+  {
+    "id": 2140,
+    "m_enemy_id": 2000004701,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000004702
+  },
+  {
+    "id": 2141,
+    "m_enemy_id": 2000004701,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000004703
+  },
+  {
+    "id": 2142,
+    "m_enemy_id": 2000004801,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000004801
+  },
+  {
+    "id": 2143,
+    "m_enemy_id": 2000004801,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000004802
+  },
+  {
+    "id": 2144,
+    "m_enemy_id": 2000004801,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000004803
+  },
+  {
+    "id": 2145,
+    "m_enemy_id": 2000004901,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000004901
+  },
+  {
+    "id": 2146,
+    "m_enemy_id": 2000004901,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000004902
+  },
+  {
+    "id": 2147,
+    "m_enemy_id": 2000004901,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000004903
+  },
+  {
+    "id": 2148,
+    "m_enemy_id": 2000005001,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000005001
+  },
+  {
+    "id": 2149,
+    "m_enemy_id": 2000005001,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000005002
+  },
+  {
+    "id": 2150,
+    "m_enemy_id": 2000005001,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000005003
+  },
+  {
+    "id": 2151,
+    "m_enemy_id": 2000005101,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000005101
+  },
+  {
+    "id": 2152,
+    "m_enemy_id": 2000005101,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000005102
+  },
+  {
+    "id": 2153,
+    "m_enemy_id": 2000005101,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000005103
+  },
+  {
+    "id": 2154,
+    "m_enemy_id": 2000005201,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000005201
+  },
+  {
+    "id": 2155,
+    "m_enemy_id": 2000005201,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000005202
+  },
+  {
+    "id": 2156,
+    "m_enemy_id": 2000005201,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000005203
+  },
+  {
+    "id": 2157,
+    "m_enemy_id": 2000005301,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000005301
+  },
+  {
+    "id": 2158,
+    "m_enemy_id": 2000005301,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000005302
+  },
+  {
+    "id": 2159,
+    "m_enemy_id": 2000005301,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000005303
+  },
+  {
+    "id": 2160,
+    "m_enemy_id": 2000005401,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000005401
+  },
+  {
+    "id": 2161,
+    "m_enemy_id": 2000005401,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000005402
+  },
+  {
+    "id": 2162,
+    "m_enemy_id": 2000005401,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000005403
+  },
+  {
+    "id": 2163,
+    "m_enemy_id": 2000005501,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000005501
+  },
+  {
+    "id": 2164,
+    "m_enemy_id": 2000005501,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000005502
+  },
+  {
+    "id": 2165,
+    "m_enemy_id": 2000005501,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000005503
+  },
+  {
+    "id": 2166,
+    "m_enemy_id": 2000005601,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000005601
+  },
+  {
+    "id": 2167,
+    "m_enemy_id": 2000005601,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000005602
+  },
+  {
+    "id": 2168,
+    "m_enemy_id": 2000005601,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000005603
+  },
+  {
+    "id": 2169,
+    "m_enemy_id": 2000005701,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000005701
+  },
+  {
+    "id": 2170,
+    "m_enemy_id": 2000005701,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000005702
+  },
+  {
+    "id": 2171,
+    "m_enemy_id": 2000005701,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000005703
+  },
+  {
+    "id": 2172,
+    "m_enemy_id": 2000005801,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000005801
+  },
+  {
+    "id": 2173,
+    "m_enemy_id": 2000005801,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000005802
+  },
+  {
+    "id": 2174,
+    "m_enemy_id": 2000005801,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000005803
+  },
+  {
+    "id": 2175,
+    "m_enemy_id": 2000005901,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000005901
+  },
+  {
+    "id": 2176,
+    "m_enemy_id": 2000005901,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000005902
+  },
+  {
+    "id": 2177,
+    "m_enemy_id": 2000005901,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000005903
+  },
+  {
+    "id": 2178,
+    "m_enemy_id": 2000006001,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000006001
+  },
+  {
+    "id": 2179,
+    "m_enemy_id": 2000006001,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000006002
+  },
+  {
+    "id": 2180,
+    "m_enemy_id": 2000006001,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000006003
+  },
+  {
+    "id": 2181,
+    "m_enemy_id": 2000006101,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000006101
+  },
+  {
+    "id": 2182,
+    "m_enemy_id": 2000006101,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000006102
+  },
+  {
+    "id": 2183,
+    "m_enemy_id": 2000006101,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000006103
+  },
+  {
+    "id": 2184,
+    "m_enemy_id": 2000006201,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000006201
+  },
+  {
+    "id": 2185,
+    "m_enemy_id": 2000006201,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000006202
+  },
+  {
+    "id": 2186,
+    "m_enemy_id": 2000006201,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000006203
+  },
+  {
+    "id": 2187,
+    "m_enemy_id": 2000006301,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000006301
+  },
+  {
+    "id": 2188,
+    "m_enemy_id": 2000006301,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000006302
+  },
+  {
+    "id": 2189,
+    "m_enemy_id": 2000006301,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000006303
+  },
+  {
+    "id": 2190,
+    "m_enemy_id": 2000006401,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000006401
+  },
+  {
+    "id": 2191,
+    "m_enemy_id": 2000006401,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000006402
+  },
+  {
+    "id": 2192,
+    "m_enemy_id": 2000006401,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000006403
+  },
+  {
+    "id": 2193,
+    "m_enemy_id": 2000006501,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000006501
+  },
+  {
+    "id": 2194,
+    "m_enemy_id": 2000006501,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000006502
+  },
+  {
+    "id": 2195,
+    "m_enemy_id": 2000006501,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000006503
+  },
+  {
+    "id": 2196,
+    "m_enemy_id": 2000006601,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000006601
+  },
+  {
+    "id": 2197,
+    "m_enemy_id": 2000006601,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000006602
+  },
+  {
+    "id": 2198,
+    "m_enemy_id": 2000006601,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000006603
+  },
+  {
+    "id": 2199,
+    "m_enemy_id": 2000006701,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000006701
+  },
+  {
+    "id": 2200,
+    "m_enemy_id": 2000006701,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000006702
+  },
+  {
+    "id": 2201,
+    "m_enemy_id": 2000006701,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000006703
+  },
+  {
+    "id": 2202,
+    "m_enemy_id": 2000006801,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000006801
+  },
+  {
+    "id": 2203,
+    "m_enemy_id": 2000006801,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000006802
+  },
+  {
+    "id": 2204,
+    "m_enemy_id": 2000006801,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000006803
+  },
+  {
+    "id": 2205,
+    "m_enemy_id": 2000006901,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000006901
+  },
+  {
+    "id": 2206,
+    "m_enemy_id": 2000006901,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000006902
+  },
+  {
+    "id": 2207,
+    "m_enemy_id": 2000006901,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000006903
+  },
+  {
+    "id": 2208,
+    "m_enemy_id": 2000007001,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000007001
+  },
+  {
+    "id": 2209,
+    "m_enemy_id": 2000007001,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000007002
+  },
+  {
+    "id": 2210,
+    "m_enemy_id": 2000007001,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000007003
+  },
+  {
+    "id": 2211,
+    "m_enemy_id": 2000007101,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000007101
+  },
+  {
+    "id": 2212,
+    "m_enemy_id": 2000007101,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000007102
+  },
+  {
+    "id": 2213,
+    "m_enemy_id": 2000007101,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000007103
+  },
+  {
+    "id": 2214,
+    "m_enemy_id": 2000007201,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000007201
+  },
+  {
+    "id": 2215,
+    "m_enemy_id": 2000007201,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000007202
+  },
+  {
+    "id": 2216,
+    "m_enemy_id": 2000007201,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000007203
+  },
+  {
+    "id": 2217,
+    "m_enemy_id": 2000007301,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000007301
+  },
+  {
+    "id": 2218,
+    "m_enemy_id": 2000007301,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000007302
+  },
+  {
+    "id": 2219,
+    "m_enemy_id": 2000007301,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000007303
+  },
+  {
+    "id": 2220,
+    "m_enemy_id": 2000007401,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000007401
+  },
+  {
+    "id": 2221,
+    "m_enemy_id": 2000007401,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000007402
+  },
+  {
+    "id": 2222,
+    "m_enemy_id": 2000007401,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000007403
+  },
+  {
+    "id": 2223,
+    "m_enemy_id": 2000007501,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000007501
+  },
+  {
+    "id": 2224,
+    "m_enemy_id": 2000007501,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000007502
+  },
+  {
+    "id": 2225,
+    "m_enemy_id": 2000007501,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000007503
+  },
+  {
+    "id": 2226,
+    "m_enemy_id": 2000007601,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000007601
+  },
+  {
+    "id": 2227,
+    "m_enemy_id": 2000007601,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000007602
+  },
+  {
+    "id": 2228,
+    "m_enemy_id": 2000007601,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000007603
+  },
+  {
+    "id": 2229,
+    "m_enemy_id": 2000007701,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000007701
+  },
+  {
+    "id": 2230,
+    "m_enemy_id": 2000007701,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000007702
+  },
+  {
+    "id": 2231,
+    "m_enemy_id": 2000007701,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000007703
+  },
+  {
+    "id": 2232,
+    "m_enemy_id": 2000007801,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000007801
+  },
+  {
+    "id": 2233,
+    "m_enemy_id": 2000007801,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000007802
+  },
+  {
+    "id": 2234,
+    "m_enemy_id": 2000007801,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000007803
+  },
+  {
+    "id": 2235,
+    "m_enemy_id": 2000007901,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000007901
+  },
+  {
+    "id": 2236,
+    "m_enemy_id": 2000007901,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000007902
+  },
+  {
+    "id": 2237,
+    "m_enemy_id": 2000007901,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000007903
+  },
+  {
+    "id": 2238,
+    "m_enemy_id": 2000008001,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000008001
+  },
+  {
+    "id": 2239,
+    "m_enemy_id": 2000008001,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000008002
+  },
+  {
+    "id": 2240,
+    "m_enemy_id": 2000008001,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000008003
+  },
+  {
+    "id": 2241,
+    "m_enemy_id": 2000008101,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000008101
+  },
+  {
+    "id": 2242,
+    "m_enemy_id": 2000008101,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000008102
+  },
+  {
+    "id": 2243,
+    "m_enemy_id": 2000008101,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000008103
+  },
+  {
+    "id": 2244,
+    "m_enemy_id": 2000008201,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000008201
+  },
+  {
+    "id": 2245,
+    "m_enemy_id": 2000008201,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000008202
+  },
+  {
+    "id": 2246,
+    "m_enemy_id": 2000008201,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000008203
+  },
+  {
+    "id": 2247,
+    "m_enemy_id": 2000008301,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000008301
+  },
+  {
+    "id": 2248,
+    "m_enemy_id": 2000008301,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000008302
+  },
+  {
+    "id": 2249,
+    "m_enemy_id": 2000008301,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000008303
+  },
+  {
+    "id": 2250,
+    "m_enemy_id": 2000008401,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000008401
+  },
+  {
+    "id": 2251,
+    "m_enemy_id": 2000008401,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000008402
+  },
+  {
+    "id": 2252,
+    "m_enemy_id": 2000008401,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000008403
+  },
+  {
+    "id": 2253,
+    "m_enemy_id": 2000008501,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000008501
+  },
+  {
+    "id": 2254,
+    "m_enemy_id": 2000008501,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000008502
+  },
+  {
+    "id": 2255,
+    "m_enemy_id": 2000008501,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000008503
+  },
+  {
+    "id": 2256,
+    "m_enemy_id": 2000008601,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000008601
+  },
+  {
+    "id": 2257,
+    "m_enemy_id": 2000008601,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000008602
+  },
+  {
+    "id": 2258,
+    "m_enemy_id": 2000008601,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000008603
+  },
+  {
+    "id": 2259,
+    "m_enemy_id": 2000008701,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000008701
+  },
+  {
+    "id": 2260,
+    "m_enemy_id": 2000008701,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000008702
+  },
+  {
+    "id": 2261,
+    "m_enemy_id": 2000008701,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000008703
+  },
+  {
+    "id": 2262,
+    "m_enemy_id": 2000008801,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000008801
+  },
+  {
+    "id": 2263,
+    "m_enemy_id": 2000008801,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000008802
+  },
+  {
+    "id": 2264,
+    "m_enemy_id": 2000008801,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000008803
+  },
+  {
+    "id": 2265,
+    "m_enemy_id": 2000008901,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000008901
+  },
+  {
+    "id": 2266,
+    "m_enemy_id": 2000008901,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000008902
+  },
+  {
+    "id": 2267,
+    "m_enemy_id": 2000008901,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000008903
+  },
+  {
+    "id": 2268,
+    "m_enemy_id": 2000009001,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000009001
+  },
+  {
+    "id": 2269,
+    "m_enemy_id": 2000009001,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000009002
+  },
+  {
+    "id": 2270,
+    "m_enemy_id": 2000009001,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000009003
+  },
+  {
+    "id": 2271,
+    "m_enemy_id": 2000009101,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000009101
+  },
+  {
+    "id": 2272,
+    "m_enemy_id": 2000009101,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000009102
+  },
+  {
+    "id": 2273,
+    "m_enemy_id": 2000009101,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000009103
+  },
+  {
+    "id": 2274,
+    "m_enemy_id": 2000009201,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000009201
+  },
+  {
+    "id": 2275,
+    "m_enemy_id": 2000009201,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000009202
+  },
+  {
+    "id": 2276,
+    "m_enemy_id": 2000009201,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000009203
+  },
+  {
+    "id": 2277,
+    "m_enemy_id": 2000009301,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000009301
+  },
+  {
+    "id": 2278,
+    "m_enemy_id": 2000009301,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000009302
+  },
+  {
+    "id": 2279,
+    "m_enemy_id": 2000009301,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000009303
+  },
+  {
+    "id": 2280,
+    "m_enemy_id": 2000009401,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000009401
+  },
+  {
+    "id": 2281,
+    "m_enemy_id": 2000009401,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000009402
+  },
+  {
+    "id": 2282,
+    "m_enemy_id": 2000009401,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000009403
+  },
+  {
+    "id": 2283,
+    "m_enemy_id": 2000009501,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000009501
+  },
+  {
+    "id": 2284,
+    "m_enemy_id": 2000009501,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000009502
+  },
+  {
+    "id": 2285,
+    "m_enemy_id": 2000009501,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000009503
+  },
+  {
+    "id": 2286,
+    "m_enemy_id": 2000009601,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000009601
+  },
+  {
+    "id": 2287,
+    "m_enemy_id": 2000009601,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000009602
+  },
+  {
+    "id": 2288,
+    "m_enemy_id": 2000009601,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000009603
+  },
+  {
+    "id": 2289,
+    "m_enemy_id": 2000009701,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000009701
+  },
+  {
+    "id": 2290,
+    "m_enemy_id": 2000009701,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000009702
+  },
+  {
+    "id": 2291,
+    "m_enemy_id": 2000009701,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000009703
+  },
+  {
+    "id": 2292,
+    "m_enemy_id": 2000009801,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000009801
+  },
+  {
+    "id": 2293,
+    "m_enemy_id": 2000009801,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000009802
+  },
+  {
+    "id": 2294,
+    "m_enemy_id": 2000009801,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000009803
+  },
+  {
+    "id": 2295,
+    "m_enemy_id": 2000009901,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000009901
+  },
+  {
+    "id": 2296,
+    "m_enemy_id": 2000009901,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000009902
+  },
+  {
+    "id": 2297,
+    "m_enemy_id": 2000009901,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000009903
+  },
+  {
+    "id": 2298,
+    "m_enemy_id": 2000010001,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000010001
+  },
+  {
+    "id": 2299,
+    "m_enemy_id": 2000010001,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000010002
+  },
+  {
+    "id": 2300,
+    "m_enemy_id": 2000010001,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000010003
+  },
+  {
+    "id": 2301,
+    "m_enemy_id": 2000010101,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000010101
+  },
+  {
+    "id": 2302,
+    "m_enemy_id": 2000010101,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000010102
+  },
+  {
+    "id": 2303,
+    "m_enemy_id": 2000010101,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000010103
+  },
+  {
+    "id": 2304,
+    "m_enemy_id": 2000010201,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000010201
+  },
+  {
+    "id": 2305,
+    "m_enemy_id": 2000010201,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000010202
+  },
+  {
+    "id": 2306,
+    "m_enemy_id": 2000010201,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000010203
+  },
+  {
+    "id": 2307,
+    "m_enemy_id": 2000010301,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000010301
+  },
+  {
+    "id": 2308,
+    "m_enemy_id": 2000010301,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000010302
+  },
+  {
+    "id": 2309,
+    "m_enemy_id": 2000010301,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000010303
+  },
+  {
+    "id": 2310,
+    "m_enemy_id": 2000010401,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000010401
+  },
+  {
+    "id": 2311,
+    "m_enemy_id": 2000010401,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000010402
+  },
+  {
+    "id": 2312,
+    "m_enemy_id": 2000010401,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000010403
+  },
+  {
+    "id": 2313,
+    "m_enemy_id": 2000010501,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000010501
+  },
+  {
+    "id": 2314,
+    "m_enemy_id": 2000010501,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000010502
+  },
+  {
+    "id": 2315,
+    "m_enemy_id": 2000010501,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000010503
+  },
+  {
+    "id": 2316,
+    "m_enemy_id": 2000010601,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000010601
+  },
+  {
+    "id": 2317,
+    "m_enemy_id": 2000010601,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000010602
+  },
+  {
+    "id": 2318,
+    "m_enemy_id": 2000010601,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000010603
+  },
+  {
+    "id": 2319,
+    "m_enemy_id": 2000010701,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000010701
+  },
+  {
+    "id": 2320,
+    "m_enemy_id": 2000010701,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000010702
+  },
+  {
+    "id": 2321,
+    "m_enemy_id": 2000010701,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000010703
+  },
+  {
+    "id": 2322,
+    "m_enemy_id": 2000010801,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000010801
+  },
+  {
+    "id": 2323,
+    "m_enemy_id": 2000010801,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000010802
+  },
+  {
+    "id": 2324,
+    "m_enemy_id": 2000010801,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000010803
+  },
+  {
+    "id": 2325,
+    "m_enemy_id": 2000010901,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000010901
+  },
+  {
+    "id": 2326,
+    "m_enemy_id": 2000010901,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000010902
+  },
+  {
+    "id": 2327,
+    "m_enemy_id": 2000010901,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000010903
+  },
+  {
+    "id": 2328,
+    "m_enemy_id": 2000011001,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000011001
+  },
+  {
+    "id": 2329,
+    "m_enemy_id": 2000011001,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000011002
+  },
+  {
+    "id": 2330,
+    "m_enemy_id": 2000011001,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000011003
+  },
+  {
+    "id": 2331,
+    "m_enemy_id": 2000011101,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000011101
+  },
+  {
+    "id": 2332,
+    "m_enemy_id": 2000011101,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000011102
+  },
+  {
+    "id": 2333,
+    "m_enemy_id": 2000011101,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000011103
+  },
+  {
+    "id": 2334,
+    "m_enemy_id": 2000011201,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000011201
+  },
+  {
+    "id": 2335,
+    "m_enemy_id": 2000011201,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000011202
+  },
+  {
+    "id": 2336,
+    "m_enemy_id": 2000011201,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000011203
+  },
+  {
+    "id": 2337,
+    "m_enemy_id": 2000011301,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000011301
+  },
+  {
+    "id": 2338,
+    "m_enemy_id": 2000011301,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000011302
+  },
+  {
+    "id": 2339,
+    "m_enemy_id": 2000011301,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000011303
+  },
+  {
+    "id": 2340,
+    "m_enemy_id": 2000011401,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000011401
+  },
+  {
+    "id": 2341,
+    "m_enemy_id": 2000011401,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000011402
+  },
+  {
+    "id": 2342,
+    "m_enemy_id": 2000011401,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000011403
+  },
+  {
+    "id": 2343,
+    "m_enemy_id": 2000011501,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000011501
+  },
+  {
+    "id": 2344,
+    "m_enemy_id": 2000011501,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000011502
+  },
+  {
+    "id": 2345,
+    "m_enemy_id": 2000011501,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000011503
+  },
+  {
+    "id": 2346,
+    "m_enemy_id": 2000011601,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000011601
+  },
+  {
+    "id": 2347,
+    "m_enemy_id": 2000011601,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000011602
+  },
+  {
+    "id": 2348,
+    "m_enemy_id": 2000011601,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000011603
+  },
+  {
+    "id": 2349,
+    "m_enemy_id": 2000011701,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000011701
+  },
+  {
+    "id": 2350,
+    "m_enemy_id": 2000011701,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000011702
+  },
+  {
+    "id": 2351,
+    "m_enemy_id": 2000011701,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000011703
+  },
+  {
+    "id": 2352,
+    "m_enemy_id": 2000011801,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000011801
+  },
+  {
+    "id": 2353,
+    "m_enemy_id": 2000011801,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000011802
+  },
+  {
+    "id": 2354,
+    "m_enemy_id": 2000011801,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000011803
+  },
+  {
+    "id": 2355,
+    "m_enemy_id": 2000011901,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000011901
+  },
+  {
+    "id": 2356,
+    "m_enemy_id": 2000011901,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000011902
+  },
+  {
+    "id": 2357,
+    "m_enemy_id": 2000011901,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000011903
+  },
+  {
+    "id": 2358,
+    "m_enemy_id": 2000012001,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000012001
+  },
+  {
+    "id": 2359,
+    "m_enemy_id": 2000012001,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000012002
+  },
+  {
+    "id": 2360,
+    "m_enemy_id": 2000012001,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000012003
+  },
+  {
+    "id": 2361,
+    "m_enemy_id": 2000012101,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000012101
+  },
+  {
+    "id": 2362,
+    "m_enemy_id": 2000012101,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000012102
+  },
+  {
+    "id": 2363,
+    "m_enemy_id": 2000012101,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000012103
+  },
+  {
+    "id": 2364,
+    "m_enemy_id": 2000012201,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000012201
+  },
+  {
+    "id": 2365,
+    "m_enemy_id": 2000012201,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000012202
+  },
+  {
+    "id": 2366,
+    "m_enemy_id": 2000012201,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000012203
+  },
+  {
+    "id": 2367,
+    "m_enemy_id": 2000012301,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000012301
+  },
+  {
+    "id": 2368,
+    "m_enemy_id": 2000012301,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000012302
+  },
+  {
+    "id": 2369,
+    "m_enemy_id": 2000012301,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000012303
+  },
+  {
+    "id": 2370,
+    "m_enemy_id": 2000012401,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000012401
+  },
+  {
+    "id": 2371,
+    "m_enemy_id": 2000012401,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000012402
+  },
+  {
+    "id": 2372,
+    "m_enemy_id": 2000012401,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000012403
+  },
+  {
+    "id": 2373,
+    "m_enemy_id": 2000012501,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000012501
+  },
+  {
+    "id": 2374,
+    "m_enemy_id": 2000012501,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000012502
+  },
+  {
+    "id": 2375,
+    "m_enemy_id": 2000012501,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000012503
+  },
+  {
+    "id": 2376,
+    "m_enemy_id": 2000012601,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000012601
+  },
+  {
+    "id": 2377,
+    "m_enemy_id": 2000012601,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000012602
+  },
+  {
+    "id": 2378,
+    "m_enemy_id": 2000012601,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000012603
+  },
+  {
+    "id": 2379,
+    "m_enemy_id": 2000012701,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000012701
+  },
+  {
+    "id": 2380,
+    "m_enemy_id": 2000012701,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000012702
+  },
+  {
+    "id": 2381,
+    "m_enemy_id": 2000012701,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000012703
+  },
+  {
+    "id": 2382,
+    "m_enemy_id": 2000012801,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000012801
+  },
+  {
+    "id": 2383,
+    "m_enemy_id": 2000012801,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000012802
+  },
+  {
+    "id": 2384,
+    "m_enemy_id": 2000012801,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000012803
+  },
+  {
+    "id": 2385,
+    "m_enemy_id": 2000012901,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000012901
+  },
+  {
+    "id": 2386,
+    "m_enemy_id": 2000012901,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000012902
+  },
+  {
+    "id": 2387,
+    "m_enemy_id": 2000012901,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000012903
+  },
+  {
+    "id": 2388,
+    "m_enemy_id": 2000013001,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000013001
+  },
+  {
+    "id": 2389,
+    "m_enemy_id": 2000013001,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000013002
+  },
+  {
+    "id": 2390,
+    "m_enemy_id": 2000013001,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000013003
+  },
+  {
+    "id": 2391,
+    "m_enemy_id": 2000013101,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000013101
+  },
+  {
+    "id": 2392,
+    "m_enemy_id": 2000013101,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000013102
+  },
+  {
+    "id": 2393,
+    "m_enemy_id": 2000013101,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000013103
+  },
+  {
+    "id": 2394,
+    "m_enemy_id": 2000013201,
+    "phase": 1,
+    "m_enemy_parameter_id": 2000013201
+  },
+  {
+    "id": 2395,
+    "m_enemy_id": 2000013201,
+    "phase": 2,
+    "m_enemy_parameter_id": 2000013202
+  },
+  {
+    "id": 2396,
+    "m_enemy_id": 2000013201,
+    "phase": 3,
+    "m_enemy_parameter_id": 2000013203
+  },
+  {
+    "id": 10001,
+    "m_enemy_id": 4200101011,
+    "phase": 1,
+    "m_enemy_parameter_id": 4200101011
+  },
+  {
+    "id": 10002,
+    "m_enemy_id": 4200101011,
+    "phase": 2,
+    "m_enemy_parameter_id": 4200101012
+  },
+  {
+    "id": 10003,
+    "m_enemy_id": 4200101011,
+    "phase": 3,
+    "m_enemy_parameter_id": 4200101013
+  },
+  {
+    "id": 10004,
+    "m_enemy_id": 4200102011,
+    "phase": 1,
+    "m_enemy_parameter_id": 4200102011
+  },
+  {
+    "id": 10005,
+    "m_enemy_id": 4200102011,
+    "phase": 2,
+    "m_enemy_parameter_id": 4200102012
+  },
+  {
+    "id": 10006,
+    "m_enemy_id": 4200102013,
+    "phase": 3,
+    "m_enemy_parameter_id": 4200102013
+  },
+  {
+    "id": 10007,
+    "m_enemy_id": 4200103011,
+    "phase": 1,
+    "m_enemy_parameter_id": 4200103011
+  },
+  {
+    "id": 10008,
+    "m_enemy_id": 4200103011,
+    "phase": 2,
+    "m_enemy_parameter_id": 4200103012
+  },
+  {
+    "id": 10009,
+    "m_enemy_id": 4200103011,
+    "phase": 3,
+    "m_enemy_parameter_id": 4200103013
+  },
+  {
+    "id": 10010,
+    "m_enemy_id": 4200104011,
+    "phase": 1,
+    "m_enemy_parameter_id": 4200104011
+  },
+  {
+    "id": 10011,
+    "m_enemy_id": 4200104011,
+    "phase": 2,
+    "m_enemy_parameter_id": 4200104012
+  },
+  {
+    "id": 10012,
+    "m_enemy_id": 4200104011,
+    "phase": 3,
+    "m_enemy_parameter_id": 4200104013
+  },
+  {
+    "id": 10013,
+    "m_enemy_id": 4200104011,
+    "phase": 4,
+    "m_enemy_parameter_id": 4200104014
+  },
+  {
+    "id": 10014,
+    "m_enemy_id": 4200104011,
+    "phase": 5,
+    "m_enemy_parameter_id": 4200104015
+  },
+  {
+    "id": 10015,
+    "m_enemy_id": 4200105011,
+    "phase": 1,
+    "m_enemy_parameter_id": 4200105011
+  },
+  {
+    "id": 10016,
+    "m_enemy_id": 4200105011,
+    "phase": 2,
+    "m_enemy_parameter_id": 4200105012
+  },
+  {
+    "id": 10017,
+    "m_enemy_id": 4200105011,
+    "phase": 3,
+    "m_enemy_parameter_id": 4200105013
+  },
+  {
+    "id": 10018,
+    "m_enemy_id": 4200105011,
+    "phase": 4,
+    "m_enemy_parameter_id": 4200105014
+  },
+  {
+    "id": 10019,
+    "m_enemy_id": 4200105011,
+    "phase": 5,
+    "m_enemy_parameter_id": 4200105015
+  },
+  {
+    "id": 1101001011,
+    "m_enemy_id": 110100101,
+    "phase": 1,
+    "m_enemy_parameter_id": 1101001011
+  },
+  {
+    "id": 1101001012,
+    "m_enemy_id": 110100101,
+    "phase": 2,
+    "m_enemy_parameter_id": 1101001012
+  },
+  {
+    "id": 1102001011,
+    "m_enemy_id": 110200101,
+    "phase": 1,
+    "m_enemy_parameter_id": 1102001011
+  },
+  {
+    "id": 1102001012,
+    "m_enemy_id": 110200101,
+    "phase": 2,
+    "m_enemy_parameter_id": 1102001012
+  },
+  {
+    "id": 1104001011,
+    "m_enemy_id": 110400101,
+    "phase": 1,
+    "m_enemy_parameter_id": 1104001011
+  },
+  {
+    "id": 1104001012,
+    "m_enemy_id": 110400101,
+    "phase": 2,
+    "m_enemy_parameter_id": 1104001012
+  },
+  {
+    "id": 1106001011,
+    "m_enemy_id": 110600101,
+    "phase": 1,
+    "m_enemy_parameter_id": 1106001011
+  },
+  {
+    "id": 1106001012,
+    "m_enemy_id": 110600101,
+    "phase": 2,
+    "m_enemy_parameter_id": 1106001012
+  },
+  {
+    "id": 1202001011,
+    "m_enemy_id": 120200101,
+    "phase": 1,
+    "m_enemy_parameter_id": 1202001011
+  },
+  {
+    "id": 1202001012,
+    "m_enemy_id": 120200101,
+    "phase": 2,
+    "m_enemy_parameter_id": 1202001012
+  },
+  {
+    "id": 1202001013,
+    "m_enemy_id": 120200101,
+    "phase": 3,
+    "m_enemy_parameter_id": 1202001013
+  },
+  {
+    "id": 1204001011,
+    "m_enemy_id": 120400101,
+    "phase": 1,
+    "m_enemy_parameter_id": 1204001011
+  },
+  {
+    "id": 1204001012,
+    "m_enemy_id": 120400101,
+    "phase": 2,
+    "m_enemy_parameter_id": 1204001012
+  },
+  {
+    "id": 1204001013,
+    "m_enemy_id": 120400101,
+    "phase": 3,
+    "m_enemy_parameter_id": 1204001013
+  },
+  {
+    "id": 1206001011,
+    "m_enemy_id": 120600101,
+    "phase": 1,
+    "m_enemy_parameter_id": 1206001011
+  },
+  {
+    "id": 1206001012,
+    "m_enemy_id": 120600101,
+    "phase": 2,
+    "m_enemy_parameter_id": 1206001012
+  },
+  {
+    "id": 1206001013,
+    "m_enemy_id": 120600101,
+    "phase": 3,
+    "m_enemy_parameter_id": 1206001013
+  },
+  {
+    "id": 1302001011,
+    "m_enemy_id": 130200101,
+    "phase": 1,
+    "m_enemy_parameter_id": 1302001011
+  },
+  {
+    "id": 1302001012,
+    "m_enemy_id": 130200101,
+    "phase": 2,
+    "m_enemy_parameter_id": 1302001012
+  },
+  {
+    "id": 1302001013,
+    "m_enemy_id": 130200101,
+    "phase": 3,
+    "m_enemy_parameter_id": 1302001013
+  },
+  {
+    "id": 1304001011,
+    "m_enemy_id": 130400101,
+    "phase": 1,
+    "m_enemy_parameter_id": 1304001011
+  },
+  {
+    "id": 1304001012,
+    "m_enemy_id": 130400101,
+    "phase": 2,
+    "m_enemy_parameter_id": 1304001012
+  },
+  {
+    "id": 1304001013,
+    "m_enemy_id": 130400101,
+    "phase": 3,
+    "m_enemy_parameter_id": 1304001013
+  },
+  {
+    "id": 1306001011,
+    "m_enemy_id": 130600101,
+    "phase": 1,
+    "m_enemy_parameter_id": 1306001011
+  },
+  {
+    "id": 1306001012,
+    "m_enemy_id": 130600101,
+    "phase": 2,
+    "m_enemy_parameter_id": 1306001012
+  },
+  {
+    "id": 1306001013,
+    "m_enemy_id": 130600101,
+    "phase": 3,
+    "m_enemy_parameter_id": 1306001013
+  },
+  {
+    "id": 2200101011,
+    "m_enemy_id": 220010101,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200101011
+  },
+  {
+    "id": 2200101012,
+    "m_enemy_id": 220010101,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200101012
+  },
+  {
+    "id": 2200101013,
+    "m_enemy_id": 220010101,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200101013
+  },
+  {
+    "id": 2200102011,
+    "m_enemy_id": 220010201,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200102011
+  },
+  {
+    "id": 2200102012,
+    "m_enemy_id": 220010201,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200102012
+  },
+  {
+    "id": 2200102013,
+    "m_enemy_id": 220010201,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200102013
+  },
+  {
+    "id": 2200103011,
+    "m_enemy_id": 220010301,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200103011
+  },
+  {
+    "id": 2200103012,
+    "m_enemy_id": 220010301,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200103012
+  },
+  {
+    "id": 2200103013,
+    "m_enemy_id": 220010301,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200103013
+  },
+  {
+    "id": 2200104011,
+    "m_enemy_id": 220010401,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200104011
+  },
+  {
+    "id": 2200104012,
+    "m_enemy_id": 220010401,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200104012
+  },
+  {
+    "id": 2200104013,
+    "m_enemy_id": 220010401,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200104013
+  },
+  {
+    "id": 2200105011,
+    "m_enemy_id": 220010501,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200105011
+  },
+  {
+    "id": 2200105012,
+    "m_enemy_id": 220010501,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200105012
+  },
+  {
+    "id": 2200105013,
+    "m_enemy_id": 220010501,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200105013
+  },
+  {
+    "id": 2200106011,
+    "m_enemy_id": 220010601,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200106011
+  },
+  {
+    "id": 2200106012,
+    "m_enemy_id": 220010601,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200106012
+  },
+  {
+    "id": 2200106013,
+    "m_enemy_id": 220010601,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200106013
+  },
+  {
+    "id": 2200107011,
+    "m_enemy_id": 220010701,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200107011
+  },
+  {
+    "id": 2200107012,
+    "m_enemy_id": 220010701,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200107012
+  },
+  {
+    "id": 2200107013,
+    "m_enemy_id": 220010701,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200107013
+  },
+  {
+    "id": 2200201011,
+    "m_enemy_id": 220020101,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200201011
+  },
+  {
+    "id": 2200201012,
+    "m_enemy_id": 220020101,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200201012
+  },
+  {
+    "id": 2200201013,
+    "m_enemy_id": 220020101,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200201013
+  },
+  {
+    "id": 2200202011,
+    "m_enemy_id": 220020201,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200202011
+  },
+  {
+    "id": 2200202012,
+    "m_enemy_id": 220020201,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200202012
+  },
+  {
+    "id": 2200202013,
+    "m_enemy_id": 220020201,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200202013
+  },
+  {
+    "id": 2200203011,
+    "m_enemy_id": 220020301,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200203011
+  },
+  {
+    "id": 2200203012,
+    "m_enemy_id": 220020301,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200203012
+  },
+  {
+    "id": 2200203013,
+    "m_enemy_id": 220020301,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200203013
+  },
+  {
+    "id": 2200204011,
+    "m_enemy_id": 220020401,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200204011
+  },
+  {
+    "id": 2200204012,
+    "m_enemy_id": 220020401,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200204012
+  },
+  {
+    "id": 2200204013,
+    "m_enemy_id": 220020401,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200204013
+  },
+  {
+    "id": 2200205011,
+    "m_enemy_id": 220020501,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200205011
+  },
+  {
+    "id": 2200205012,
+    "m_enemy_id": 220020501,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200205012
+  },
+  {
+    "id": 2200205013,
+    "m_enemy_id": 220020501,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200205013
+  },
+  {
+    "id": 2200206011,
+    "m_enemy_id": 220020601,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200206011
+  },
+  {
+    "id": 2200206012,
+    "m_enemy_id": 220020601,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200206012
+  },
+  {
+    "id": 2200206013,
+    "m_enemy_id": 220020601,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200206013
+  },
+  {
+    "id": 2200207011,
+    "m_enemy_id": 220020701,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200207011
+  },
+  {
+    "id": 2200207012,
+    "m_enemy_id": 220020701,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200207012
+  },
+  {
+    "id": 2200207013,
+    "m_enemy_id": 220020701,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200207013
+  },
+  {
+    "id": 2200301011,
+    "m_enemy_id": 220030101,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200301011
+  },
+  {
+    "id": 2200301012,
+    "m_enemy_id": 220030101,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200301012
+  },
+  {
+    "id": 2200301013,
+    "m_enemy_id": 220030101,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200301013
+  },
+  {
+    "id": 2200302011,
+    "m_enemy_id": 220030201,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200302011
+  },
+  {
+    "id": 2200302012,
+    "m_enemy_id": 220030201,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200302012
+  },
+  {
+    "id": 2200302013,
+    "m_enemy_id": 220030201,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200302013
+  },
+  {
+    "id": 2200303011,
+    "m_enemy_id": 220030301,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200303011
+  },
+  {
+    "id": 2200303012,
+    "m_enemy_id": 220030301,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200303012
+  },
+  {
+    "id": 2200303013,
+    "m_enemy_id": 220030301,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200303013
+  },
+  {
+    "id": 2200304011,
+    "m_enemy_id": 220030401,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200304011
+  },
+  {
+    "id": 2200304012,
+    "m_enemy_id": 220030401,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200304012
+  },
+  {
+    "id": 2200304013,
+    "m_enemy_id": 220030401,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200304013
+  },
+  {
+    "id": 2200305011,
+    "m_enemy_id": 220030501,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200305011
+  },
+  {
+    "id": 2200305012,
+    "m_enemy_id": 220030501,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200305012
+  },
+  {
+    "id": 2200305013,
+    "m_enemy_id": 220030501,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200305013
+  },
+  {
+    "id": 2200306011,
+    "m_enemy_id": 220030601,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200306011
+  },
+  {
+    "id": 2200306012,
+    "m_enemy_id": 220030601,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200306012
+  },
+  {
+    "id": 2200306013,
+    "m_enemy_id": 220030601,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200306013
+  },
+  {
+    "id": 2200307011,
+    "m_enemy_id": 220030701,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200307011
+  },
+  {
+    "id": 2200307012,
+    "m_enemy_id": 220030701,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200307012
+  },
+  {
+    "id": 2200307013,
+    "m_enemy_id": 220030701,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200307013
+  },
+  {
+    "id": 2200401011,
+    "m_enemy_id": 220040101,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200401011
+  },
+  {
+    "id": 2200401012,
+    "m_enemy_id": 220040101,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200401012
+  },
+  {
+    "id": 2200401013,
+    "m_enemy_id": 220040101,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200401013
+  },
+  {
+    "id": 2200402011,
+    "m_enemy_id": 220040201,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200402011
+  },
+  {
+    "id": 2200402012,
+    "m_enemy_id": 220040201,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200402012
+  },
+  {
+    "id": 2200402013,
+    "m_enemy_id": 220040201,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200402013
+  },
+  {
+    "id": 2200403011,
+    "m_enemy_id": 220040301,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200403011
+  },
+  {
+    "id": 2200403012,
+    "m_enemy_id": 220040301,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200403012
+  },
+  {
+    "id": 2200403013,
+    "m_enemy_id": 220040301,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200403013
+  },
+  {
+    "id": 2200404011,
+    "m_enemy_id": 220040401,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200404011
+  },
+  {
+    "id": 2200404012,
+    "m_enemy_id": 220040401,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200404012
+  },
+  {
+    "id": 2200404013,
+    "m_enemy_id": 220040401,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200404013
+  },
+  {
+    "id": 2200405011,
+    "m_enemy_id": 220040501,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200405011
+  },
+  {
+    "id": 2200405012,
+    "m_enemy_id": 220040501,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200405012
+  },
+  {
+    "id": 2200405013,
+    "m_enemy_id": 220040501,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200405013
+  },
+  {
+    "id": 2200406011,
+    "m_enemy_id": 220040601,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200406011
+  },
+  {
+    "id": 2200406012,
+    "m_enemy_id": 220040601,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200406012
+  },
+  {
+    "id": 2200406013,
+    "m_enemy_id": 220040601,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200406013
+  },
+  {
+    "id": 2200407011,
+    "m_enemy_id": 220040701,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200407011
+  },
+  {
+    "id": 2200407012,
+    "m_enemy_id": 220040701,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200407012
+  },
+  {
+    "id": 2200407013,
+    "m_enemy_id": 220040701,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200407013
+  },
+  {
+    "id": 2200501011,
+    "m_enemy_id": 220050101,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200501011
+  },
+  {
+    "id": 2200501012,
+    "m_enemy_id": 220050101,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200501012
+  },
+  {
+    "id": 2200501013,
+    "m_enemy_id": 220050101,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200501013
+  },
+  {
+    "id": 2200502011,
+    "m_enemy_id": 220050201,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200502011
+  },
+  {
+    "id": 2200502012,
+    "m_enemy_id": 220050201,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200502012
+  },
+  {
+    "id": 2200502013,
+    "m_enemy_id": 220050201,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200502013
+  },
+  {
+    "id": 2200503011,
+    "m_enemy_id": 220050301,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200503011
+  },
+  {
+    "id": 2200503012,
+    "m_enemy_id": 220050301,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200503012
+  },
+  {
+    "id": 2200503013,
+    "m_enemy_id": 220050301,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200503013
+  },
+  {
+    "id": 2200504011,
+    "m_enemy_id": 220050401,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200504011
+  },
+  {
+    "id": 2200504012,
+    "m_enemy_id": 220050401,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200504012
+  },
+  {
+    "id": 2200504013,
+    "m_enemy_id": 220050401,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200504013
+  },
+  {
+    "id": 2200505011,
+    "m_enemy_id": 220050501,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200505011
+  },
+  {
+    "id": 2200505012,
+    "m_enemy_id": 220050501,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200505012
+  },
+  {
+    "id": 2200505013,
+    "m_enemy_id": 220050501,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200505013
+  },
+  {
+    "id": 2200506011,
+    "m_enemy_id": 220050601,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200506011
+  },
+  {
+    "id": 2200506012,
+    "m_enemy_id": 220050601,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200506012
+  },
+  {
+    "id": 2200506013,
+    "m_enemy_id": 220050601,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200506013
+  },
+  {
+    "id": 2200507011,
+    "m_enemy_id": 220050701,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200507011
+  },
+  {
+    "id": 2200507012,
+    "m_enemy_id": 220050701,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200507012
+  },
+  {
+    "id": 2200507013,
+    "m_enemy_id": 220050701,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200507013
+  },
+  {
+    "id": 2200601011,
+    "m_enemy_id": 220060101,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200601011
+  },
+  {
+    "id": 2200601012,
+    "m_enemy_id": 220060101,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200601012
+  },
+  {
+    "id": 2200601013,
+    "m_enemy_id": 220060101,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200601013
+  },
+  {
+    "id": 2200602011,
+    "m_enemy_id": 220060201,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200602011
+  },
+  {
+    "id": 2200602012,
+    "m_enemy_id": 220060201,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200602012
+  },
+  {
+    "id": 2200602013,
+    "m_enemy_id": 220060201,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200602013
+  },
+  {
+    "id": 2200603011,
+    "m_enemy_id": 220060301,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200603011
+  },
+  {
+    "id": 2200603012,
+    "m_enemy_id": 220060301,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200603012
+  },
+  {
+    "id": 2200603013,
+    "m_enemy_id": 220060301,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200603013
+  },
+  {
+    "id": 2200604011,
+    "m_enemy_id": 220060401,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200604011
+  },
+  {
+    "id": 2200604012,
+    "m_enemy_id": 220060401,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200604012
+  },
+  {
+    "id": 2200604013,
+    "m_enemy_id": 220060401,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200604013
+  },
+  {
+    "id": 2200605011,
+    "m_enemy_id": 220060501,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200605011
+  },
+  {
+    "id": 2200605012,
+    "m_enemy_id": 220060501,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200605012
+  },
+  {
+    "id": 2200605013,
+    "m_enemy_id": 220060501,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200605013
+  },
+  {
+    "id": 2200606011,
+    "m_enemy_id": 220060601,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200606011
+  },
+  {
+    "id": 2200606012,
+    "m_enemy_id": 220060601,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200606012
+  },
+  {
+    "id": 2200606013,
+    "m_enemy_id": 220060601,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200606013
+  },
+  {
+    "id": 2200607011,
+    "m_enemy_id": 220060701,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200607011
+  },
+  {
+    "id": 2200607012,
+    "m_enemy_id": 220060701,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200607012
+  },
+  {
+    "id": 2200607013,
+    "m_enemy_id": 220060701,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200607013
+  },
+  {
+    "id": 2200701011,
+    "m_enemy_id": 220070101,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200701011
+  },
+  {
+    "id": 2200701012,
+    "m_enemy_id": 220070101,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200701012
+  },
+  {
+    "id": 2200701013,
+    "m_enemy_id": 220070101,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200701013
+  },
+  {
+    "id": 2200702011,
+    "m_enemy_id": 220070201,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200702011
+  },
+  {
+    "id": 2200702012,
+    "m_enemy_id": 220070201,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200702012
+  },
+  {
+    "id": 2200702013,
+    "m_enemy_id": 220070201,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200702013
+  },
+  {
+    "id": 2200703011,
+    "m_enemy_id": 220070301,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200703011
+  },
+  {
+    "id": 2200703012,
+    "m_enemy_id": 220070301,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200703012
+  },
+  {
+    "id": 2200703013,
+    "m_enemy_id": 220070301,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200703013
+  },
+  {
+    "id": 2200704011,
+    "m_enemy_id": 220070401,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200704011
+  },
+  {
+    "id": 2200704012,
+    "m_enemy_id": 220070401,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200704012
+  },
+  {
+    "id": 2200704013,
+    "m_enemy_id": 220070401,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200704013
+  },
+  {
+    "id": 2200705011,
+    "m_enemy_id": 220070501,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200705011
+  },
+  {
+    "id": 2200705012,
+    "m_enemy_id": 220070501,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200705012
+  },
+  {
+    "id": 2200705013,
+    "m_enemy_id": 220070501,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200705013
+  },
+  {
+    "id": 2200706011,
+    "m_enemy_id": 220070601,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200706011
+  },
+  {
+    "id": 2200706012,
+    "m_enemy_id": 220070601,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200706012
+  },
+  {
+    "id": 2200706013,
+    "m_enemy_id": 220070601,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200706013
+  },
+  {
+    "id": 2200707011,
+    "m_enemy_id": 220070701,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200707011
+  },
+  {
+    "id": 2200707012,
+    "m_enemy_id": 220070701,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200707012
+  },
+  {
+    "id": 2200707013,
+    "m_enemy_id": 220070701,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200707013
+  },
+  {
+    "id": 2200708011,
+    "m_enemy_id": 220070801,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200708011
+  },
+  {
+    "id": 2200708012,
+    "m_enemy_id": 220070801,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200708012
+  },
+  {
+    "id": 2200708013,
+    "m_enemy_id": 220070801,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200708013
+  },
+  {
+    "id": 2200801011,
+    "m_enemy_id": 220080101,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200801011
+  },
+  {
+    "id": 2200801012,
+    "m_enemy_id": 220080101,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200801012
+  },
+  {
+    "id": 2200801013,
+    "m_enemy_id": 220080101,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200801013
+  },
+  {
+    "id": 2200802011,
+    "m_enemy_id": 220080201,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200802011
+  },
+  {
+    "id": 2200802012,
+    "m_enemy_id": 220080201,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200802012
+  },
+  {
+    "id": 2200802013,
+    "m_enemy_id": 220080201,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200802013
+  },
+  {
+    "id": 2200803011,
+    "m_enemy_id": 220080301,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200803011
+  },
+  {
+    "id": 2200803012,
+    "m_enemy_id": 220080301,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200803012
+  },
+  {
+    "id": 2200803013,
+    "m_enemy_id": 220080301,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200803013
+  },
+  {
+    "id": 2200804011,
+    "m_enemy_id": 220080401,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200804011
+  },
+  {
+    "id": 2200804012,
+    "m_enemy_id": 220080401,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200804012
+  },
+  {
+    "id": 2200804013,
+    "m_enemy_id": 220080401,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200804013
+  },
+  {
+    "id": 2200805011,
+    "m_enemy_id": 220080501,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200805011
+  },
+  {
+    "id": 2200805012,
+    "m_enemy_id": 220080501,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200805012
+  },
+  {
+    "id": 2200805013,
+    "m_enemy_id": 220080501,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200805013
+  },
+  {
+    "id": 2200806011,
+    "m_enemy_id": 220080601,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200806011
+  },
+  {
+    "id": 2200806012,
+    "m_enemy_id": 220080601,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200806012
+  },
+  {
+    "id": 2200806013,
+    "m_enemy_id": 220080601,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200806013
+  },
+  {
+    "id": 2200807011,
+    "m_enemy_id": 220080701,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200807011
+  },
+  {
+    "id": 2200807012,
+    "m_enemy_id": 220080701,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200807012
+  },
+  {
+    "id": 2200807013,
+    "m_enemy_id": 220080701,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200807013
+  },
+  {
+    "id": 2200901011,
+    "m_enemy_id": 220090101,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200901011
+  },
+  {
+    "id": 2200901012,
+    "m_enemy_id": 220090101,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200901012
+  },
+  {
+    "id": 2200901013,
+    "m_enemy_id": 220090101,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200901013
+  },
+  {
+    "id": 2200902011,
+    "m_enemy_id": 220090201,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200902011
+  },
+  {
+    "id": 2200902012,
+    "m_enemy_id": 220090201,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200902012
+  },
+  {
+    "id": 2200902013,
+    "m_enemy_id": 220090201,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200902013
+  },
+  {
+    "id": 2200903011,
+    "m_enemy_id": 220090301,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200903011
+  },
+  {
+    "id": 2200903012,
+    "m_enemy_id": 220090301,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200903012
+  },
+  {
+    "id": 2200903013,
+    "m_enemy_id": 220090301,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200903013
+  },
+  {
+    "id": 2200904011,
+    "m_enemy_id": 220090401,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200904011
+  },
+  {
+    "id": 2200904012,
+    "m_enemy_id": 220090401,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200904012
+  },
+  {
+    "id": 2200904013,
+    "m_enemy_id": 220090401,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200904013
+  },
+  {
+    "id": 2200905011,
+    "m_enemy_id": 220090501,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200905011
+  },
+  {
+    "id": 2200905012,
+    "m_enemy_id": 220090501,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200905012
+  },
+  {
+    "id": 2200905013,
+    "m_enemy_id": 220090501,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200905013
+  },
+  {
+    "id": 2200906011,
+    "m_enemy_id": 220090601,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200906011
+  },
+  {
+    "id": 2200906012,
+    "m_enemy_id": 220090601,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200906012
+  },
+  {
+    "id": 2200906013,
+    "m_enemy_id": 220090601,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200906013
+  },
+  {
+    "id": 2200907011,
+    "m_enemy_id": 220090701,
+    "phase": 1,
+    "m_enemy_parameter_id": 2200907011
+  },
+  {
+    "id": 2200907012,
+    "m_enemy_id": 220090701,
+    "phase": 2,
+    "m_enemy_parameter_id": 2200907012
+  },
+  {
+    "id": 2200907013,
+    "m_enemy_id": 220090701,
+    "phase": 3,
+    "m_enemy_parameter_id": 2200907013
+  },
+  {
+    "id": 2201001011,
+    "m_enemy_id": 220100101,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201001011
+  },
+  {
+    "id": 2201001012,
+    "m_enemy_id": 220100101,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201001012
+  },
+  {
+    "id": 2201001013,
+    "m_enemy_id": 220100101,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201001013
+  },
+  {
+    "id": 2201002011,
+    "m_enemy_id": 220100201,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201002011
+  },
+  {
+    "id": 2201002012,
+    "m_enemy_id": 220100201,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201002012
+  },
+  {
+    "id": 2201002013,
+    "m_enemy_id": 220100201,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201002013
+  },
+  {
+    "id": 2201003011,
+    "m_enemy_id": 220100301,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201003011
+  },
+  {
+    "id": 2201003012,
+    "m_enemy_id": 220100301,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201003012
+  },
+  {
+    "id": 2201003013,
+    "m_enemy_id": 220100301,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201003013
+  },
+  {
+    "id": 2201004011,
+    "m_enemy_id": 220100401,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201004011
+  },
+  {
+    "id": 2201004012,
+    "m_enemy_id": 220100401,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201004012
+  },
+  {
+    "id": 2201004013,
+    "m_enemy_id": 220100401,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201004013
+  },
+  {
+    "id": 2201005011,
+    "m_enemy_id": 220100501,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201005011
+  },
+  {
+    "id": 2201005012,
+    "m_enemy_id": 220100501,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201005012
+  },
+  {
+    "id": 2201005013,
+    "m_enemy_id": 220100501,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201005013
+  },
+  {
+    "id": 2201006011,
+    "m_enemy_id": 220100601,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201006011
+  },
+  {
+    "id": 2201006012,
+    "m_enemy_id": 220100601,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201006012
+  },
+  {
+    "id": 2201006013,
+    "m_enemy_id": 220100601,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201006013
+  },
+  {
+    "id": 2201007011,
+    "m_enemy_id": 220100701,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201007011
+  },
+  {
+    "id": 2201007012,
+    "m_enemy_id": 220100701,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201007012
+  },
+  {
+    "id": 2201007013,
+    "m_enemy_id": 220100701,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201007013
+  },
+  {
+    "id": 2201101011,
+    "m_enemy_id": 220110101,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201101011
+  },
+  {
+    "id": 2201101012,
+    "m_enemy_id": 220110101,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201101012
+  },
+  {
+    "id": 2201101013,
+    "m_enemy_id": 220110101,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201101013
+  },
+  {
+    "id": 2201102011,
+    "m_enemy_id": 220110201,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201102011
+  },
+  {
+    "id": 2201102012,
+    "m_enemy_id": 220110201,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201102012
+  },
+  {
+    "id": 2201102013,
+    "m_enemy_id": 220110201,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201102013
+  },
+  {
+    "id": 2201103011,
+    "m_enemy_id": 220110301,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201103011
+  },
+  {
+    "id": 2201103012,
+    "m_enemy_id": 220110301,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201103012
+  },
+  {
+    "id": 2201103013,
+    "m_enemy_id": 220110301,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201103013
+  },
+  {
+    "id": 2201104011,
+    "m_enemy_id": 220110401,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201104011
+  },
+  {
+    "id": 2201104012,
+    "m_enemy_id": 220110401,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201104012
+  },
+  {
+    "id": 2201104013,
+    "m_enemy_id": 220110401,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201104013
+  },
+  {
+    "id": 2201105011,
+    "m_enemy_id": 220110501,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201105011
+  },
+  {
+    "id": 2201105012,
+    "m_enemy_id": 220110501,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201105012
+  },
+  {
+    "id": 2201105013,
+    "m_enemy_id": 220110501,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201105013
+  },
+  {
+    "id": 2201106011,
+    "m_enemy_id": 220110601,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201106011
+  },
+  {
+    "id": 2201106012,
+    "m_enemy_id": 220110601,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201106012
+  },
+  {
+    "id": 2201106013,
+    "m_enemy_id": 220110601,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201106013
+  },
+  {
+    "id": 2201107011,
+    "m_enemy_id": 220110701,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201107011
+  },
+  {
+    "id": 2201107012,
+    "m_enemy_id": 220110701,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201107012
+  },
+  {
+    "id": 2201107013,
+    "m_enemy_id": 220110701,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201107013
+  },
+  {
+    "id": 2201201011,
+    "m_enemy_id": 220120101,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201201011
+  },
+  {
+    "id": 2201201012,
+    "m_enemy_id": 220120101,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201201012
+  },
+  {
+    "id": 2201201013,
+    "m_enemy_id": 220120101,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201201013
+  },
+  {
+    "id": 2201202011,
+    "m_enemy_id": 220120201,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201202011
+  },
+  {
+    "id": 2201202012,
+    "m_enemy_id": 220120201,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201202012
+  },
+  {
+    "id": 2201202013,
+    "m_enemy_id": 220120201,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201202013
+  },
+  {
+    "id": 2201203011,
+    "m_enemy_id": 220120301,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201203011
+  },
+  {
+    "id": 2201203012,
+    "m_enemy_id": 220120301,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201203012
+  },
+  {
+    "id": 2201203013,
+    "m_enemy_id": 220120301,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201203013
+  },
+  {
+    "id": 2201204011,
+    "m_enemy_id": 220120401,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201204011
+  },
+  {
+    "id": 2201204012,
+    "m_enemy_id": 220120401,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201204012
+  },
+  {
+    "id": 2201204013,
+    "m_enemy_id": 220120401,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201204013
+  },
+  {
+    "id": 2201205011,
+    "m_enemy_id": 220120501,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201205011
+  },
+  {
+    "id": 2201205012,
+    "m_enemy_id": 220120501,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201205012
+  },
+  {
+    "id": 2201205013,
+    "m_enemy_id": 220120501,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201205013
+  },
+  {
+    "id": 2201206011,
+    "m_enemy_id": 220120601,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201206011
+  },
+  {
+    "id": 2201206012,
+    "m_enemy_id": 220120601,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201206012
+  },
+  {
+    "id": 2201206013,
+    "m_enemy_id": 220120601,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201206013
+  },
+  {
+    "id": 2201207011,
+    "m_enemy_id": 220120701,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201207011
+  },
+  {
+    "id": 2201207012,
+    "m_enemy_id": 220120701,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201207012
+  },
+  {
+    "id": 2201207013,
+    "m_enemy_id": 220120701,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201207013
+  },
+  {
+    "id": 2201301011,
+    "m_enemy_id": 220130101,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201301011
+  },
+  {
+    "id": 2201301012,
+    "m_enemy_id": 220130101,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201301012
+  },
+  {
+    "id": 2201301013,
+    "m_enemy_id": 220130101,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201301013
+  },
+  {
+    "id": 2201302011,
+    "m_enemy_id": 220130201,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201302011
+  },
+  {
+    "id": 2201302012,
+    "m_enemy_id": 220130201,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201302012
+  },
+  {
+    "id": 2201302013,
+    "m_enemy_id": 220130201,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201302013
+  },
+  {
+    "id": 2201303011,
+    "m_enemy_id": 220130301,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201303011
+  },
+  {
+    "id": 2201303012,
+    "m_enemy_id": 220130301,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201303012
+  },
+  {
+    "id": 2201303013,
+    "m_enemy_id": 220130301,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201303013
+  },
+  {
+    "id": 2201304011,
+    "m_enemy_id": 220130401,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201304011
+  },
+  {
+    "id": 2201304012,
+    "m_enemy_id": 220130401,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201304012
+  },
+  {
+    "id": 2201304013,
+    "m_enemy_id": 220130401,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201304013
+  },
+  {
+    "id": 2201305011,
+    "m_enemy_id": 220130501,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201305011
+  },
+  {
+    "id": 2201305012,
+    "m_enemy_id": 220130501,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201305012
+  },
+  {
+    "id": 2201305013,
+    "m_enemy_id": 220130501,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201305013
+  },
+  {
+    "id": 2201306011,
+    "m_enemy_id": 220130601,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201306011
+  },
+  {
+    "id": 2201306012,
+    "m_enemy_id": 220130601,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201306012
+  },
+  {
+    "id": 2201306013,
+    "m_enemy_id": 220130601,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201306013
+  },
+  {
+    "id": 2201307011,
+    "m_enemy_id": 220130701,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201307011
+  },
+  {
+    "id": 2201307012,
+    "m_enemy_id": 220130701,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201307012
+  },
+  {
+    "id": 2201307013,
+    "m_enemy_id": 220130701,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201307013
+  },
+  {
+    "id": 2201401011,
+    "m_enemy_id": 220140101,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201401011
+  },
+  {
+    "id": 2201401012,
+    "m_enemy_id": 220140101,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201401012
+  },
+  {
+    "id": 2201401013,
+    "m_enemy_id": 220140101,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201401013
+  },
+  {
+    "id": 2201402011,
+    "m_enemy_id": 220140201,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201402011
+  },
+  {
+    "id": 2201402012,
+    "m_enemy_id": 220140201,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201402012
+  },
+  {
+    "id": 2201402013,
+    "m_enemy_id": 220140201,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201402013
+  },
+  {
+    "id": 2201403011,
+    "m_enemy_id": 220140301,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201403011
+  },
+  {
+    "id": 2201403012,
+    "m_enemy_id": 220140301,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201403012
+  },
+  {
+    "id": 2201403013,
+    "m_enemy_id": 220140301,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201403013
+  },
+  {
+    "id": 2201404011,
+    "m_enemy_id": 220140401,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201404011
+  },
+  {
+    "id": 2201404012,
+    "m_enemy_id": 220140401,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201404012
+  },
+  {
+    "id": 2201404013,
+    "m_enemy_id": 220140401,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201404013
+  },
+  {
+    "id": 2201405011,
+    "m_enemy_id": 220140501,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201405011
+  },
+  {
+    "id": 2201405012,
+    "m_enemy_id": 220140501,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201405012
+  },
+  {
+    "id": 2201405013,
+    "m_enemy_id": 220140501,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201405013
+  },
+  {
+    "id": 2201406011,
+    "m_enemy_id": 220140601,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201406011
+  },
+  {
+    "id": 2201406012,
+    "m_enemy_id": 220140601,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201406012
+  },
+  {
+    "id": 2201406013,
+    "m_enemy_id": 220140601,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201406013
+  },
+  {
+    "id": 2201407011,
+    "m_enemy_id": 220140701,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201407011
+  },
+  {
+    "id": 2201407012,
+    "m_enemy_id": 220140701,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201407012
+  },
+  {
+    "id": 2201407013,
+    "m_enemy_id": 220140701,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201407013
+  },
+  {
+    "id": 2201501011,
+    "m_enemy_id": 220150101,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201501011
+  },
+  {
+    "id": 2201501012,
+    "m_enemy_id": 220150101,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201501012
+  },
+  {
+    "id": 2201501013,
+    "m_enemy_id": 220150101,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201501013
+  },
+  {
+    "id": 2201502011,
+    "m_enemy_id": 220150201,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201502011
+  },
+  {
+    "id": 2201502012,
+    "m_enemy_id": 220150201,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201502012
+  },
+  {
+    "id": 2201502013,
+    "m_enemy_id": 220150201,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201502013
+  },
+  {
+    "id": 2201503011,
+    "m_enemy_id": 220150301,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201503011
+  },
+  {
+    "id": 2201503012,
+    "m_enemy_id": 220150301,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201503012
+  },
+  {
+    "id": 2201503013,
+    "m_enemy_id": 220150301,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201503013
+  },
+  {
+    "id": 2201504011,
+    "m_enemy_id": 220150401,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201504011
+  },
+  {
+    "id": 2201504012,
+    "m_enemy_id": 220150401,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201504012
+  },
+  {
+    "id": 2201504013,
+    "m_enemy_id": 220150401,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201504013
+  },
+  {
+    "id": 2201505011,
+    "m_enemy_id": 220150501,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201505011
+  },
+  {
+    "id": 2201505012,
+    "m_enemy_id": 220150501,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201505012
+  },
+  {
+    "id": 2201505013,
+    "m_enemy_id": 220150501,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201505013
+  },
+  {
+    "id": 2201506011,
+    "m_enemy_id": 220150601,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201506011
+  },
+  {
+    "id": 2201506012,
+    "m_enemy_id": 220150601,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201506012
+  },
+  {
+    "id": 2201506013,
+    "m_enemy_id": 220150601,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201506013
+  },
+  {
+    "id": 2201507011,
+    "m_enemy_id": 220150701,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201507011
+  },
+  {
+    "id": 2201507012,
+    "m_enemy_id": 220150701,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201507012
+  },
+  {
+    "id": 2201507013,
+    "m_enemy_id": 220150701,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201507013
+  },
+  {
+    "id": 2201508011,
+    "m_enemy_id": 220150801,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201508011
+  },
+  {
+    "id": 2201508012,
+    "m_enemy_id": 220150801,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201508012
+  },
+  {
+    "id": 2201508013,
+    "m_enemy_id": 220150801,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201508013
+  },
+  {
+    "id": 2201509011,
+    "m_enemy_id": 220150901,
+    "phase": 1,
+    "m_enemy_parameter_id": 2201509011
+  },
+  {
+    "id": 2201509012,
+    "m_enemy_id": 220150901,
+    "phase": 2,
+    "m_enemy_parameter_id": 2201509012
+  },
+  {
+    "id": 2201509013,
+    "m_enemy_id": 220150901,
+    "phase": 3,
+    "m_enemy_parameter_id": 2201509013
+  }
+]

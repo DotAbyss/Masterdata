@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "grade": 1,
+    "level_min": 30,
+    "level_max": 60,
+    "asset_id": ""
+  },
+  {
+    "id": 2,
+    "grade": 2,
+    "level_min": 60,
+    "level_max": 70,
+    "asset_id": ""
+  },
+  {
+    "id": 3,
+    "grade": 3,
+    "level_min": 70,
+    "level_max": 80,
+    "asset_id": ""
+  },
+  {
+    "id": 4,
+    "grade": 4,
+    "level_min": 80,
+    "level_max": 100,
+    "asset_id": ""
+  }
+]

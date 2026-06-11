@@ -1,0 +1,1381 @@
+[
+  {
+    "id": 1,
+    "m_nether_sphere_id": 10011,
+    "content_type": 161,
+    "content_id": 0,
+    "require_amount": 20
+  },
+  {
+    "id": 2,
+    "m_nether_sphere_id": 10012,
+    "content_type": 161,
+    "content_id": 0,
+    "require_amount": 30
+  },
+  {
+    "id": 3,
+    "m_nether_sphere_id": 10021,
+    "content_type": 162,
+    "content_id": 0,
+    "require_amount": 20
+  },
+  {
+    "id": 4,
+    "m_nether_sphere_id": 10022,
+    "content_type": 162,
+    "content_id": 0,
+    "require_amount": 30
+  },
+  {
+    "id": 5,
+    "m_nether_sphere_id": 10031,
+    "content_type": 163,
+    "content_id": 0,
+    "require_amount": 20
+  },
+  {
+    "id": 6,
+    "m_nether_sphere_id": 10032,
+    "content_type": 163,
+    "content_id": 0,
+    "require_amount": 30
+  },
+  {
+    "id": 7,
+    "m_nether_sphere_id": 10041,
+    "content_type": 164,
+    "content_id": 0,
+    "require_amount": 20
+  },
+  {
+    "id": 8,
+    "m_nether_sphere_id": 10042,
+    "content_type": 164,
+    "content_id": 0,
+    "require_amount": 30
+  },
+  {
+    "id": 9,
+    "m_nether_sphere_id": 20011,
+    "content_type": 161,
+    "content_id": 0,
+    "require_amount": 100
+  },
+  {
+    "id": 10,
+    "m_nether_sphere_id": 20021,
+    "content_type": 162,
+    "content_id": 0,
+    "require_amount": 100
+  },
+  {
+    "id": 11,
+    "m_nether_sphere_id": 20031,
+    "content_type": 163,
+    "content_id": 0,
+    "require_amount": 100
+  },
+  {
+    "id": 12,
+    "m_nether_sphere_id": 20041,
+    "content_type": 164,
+    "content_id": 0,
+    "require_amount": 100
+  },
+  {
+    "id": 13,
+    "m_nether_sphere_id": 30011,
+    "content_type": 161,
+    "content_id": 0,
+    "require_amount": 50
+  },
+  {
+    "id": 14,
+    "m_nether_sphere_id": 30012,
+    "content_type": 161,
+    "content_id": 0,
+    "require_amount": 100
+  },
+  {
+    "id": 15,
+    "m_nether_sphere_id": 30021,
+    "content_type": 162,
+    "content_id": 0,
+    "require_amount": 50
+  },
+  {
+    "id": 16,
+    "m_nether_sphere_id": 30022,
+    "content_type": 162,
+    "content_id": 0,
+    "require_amount": 100
+  },
+  {
+    "id": 17,
+    "m_nether_sphere_id": 30031,
+    "content_type": 163,
+    "content_id": 0,
+    "require_amount": 50
+  },
+  {
+    "id": 18,
+    "m_nether_sphere_id": 30032,
+    "content_type": 163,
+    "content_id": 0,
+    "require_amount": 100
+  },
+  {
+    "id": 19,
+    "m_nether_sphere_id": 30041,
+    "content_type": 164,
+    "content_id": 0,
+    "require_amount": 50
+  },
+  {
+    "id": 20,
+    "m_nether_sphere_id": 30042,
+    "content_type": 164,
+    "content_id": 0,
+    "require_amount": 100
+  },
+  {
+    "id": 21,
+    "m_nether_sphere_id": 40011,
+    "content_type": 161,
+    "content_id": 0,
+    "require_amount": 200
+  },
+  {
+    "id": 22,
+    "m_nether_sphere_id": 40012,
+    "content_type": 161,
+    "content_id": 0,
+    "require_amount": 300
+  },
+  {
+    "id": 23,
+    "m_nether_sphere_id": 40021,
+    "content_type": 162,
+    "content_id": 0,
+    "require_amount": 200
+  },
+  {
+    "id": 24,
+    "m_nether_sphere_id": 40022,
+    "content_type": 162,
+    "content_id": 0,
+    "require_amount": 300
+  },
+  {
+    "id": 25,
+    "m_nether_sphere_id": 40031,
+    "content_type": 163,
+    "content_id": 0,
+    "require_amount": 200
+  },
+  {
+    "id": 26,
+    "m_nether_sphere_id": 40032,
+    "content_type": 163,
+    "content_id": 0,
+    "require_amount": 300
+  },
+  {
+    "id": 27,
+    "m_nether_sphere_id": 40041,
+    "content_type": 164,
+    "content_id": 0,
+    "require_amount": 200
+  },
+  {
+    "id": 28,
+    "m_nether_sphere_id": 40042,
+    "content_type": 164,
+    "content_id": 0,
+    "require_amount": 300
+  },
+  {
+    "id": 29,
+    "m_nether_sphere_id": 50011,
+    "content_type": 161,
+    "content_id": 0,
+    "require_amount": 750
+  },
+  {
+    "id": 30,
+    "m_nether_sphere_id": 50021,
+    "content_type": 162,
+    "content_id": 0,
+    "require_amount": 750
+  },
+  {
+    "id": 31,
+    "m_nether_sphere_id": 50031,
+    "content_type": 163,
+    "content_id": 0,
+    "require_amount": 750
+  },
+  {
+    "id": 32,
+    "m_nether_sphere_id": 50041,
+    "content_type": 164,
+    "content_id": 0,
+    "require_amount": 750
+  },
+  {
+    "id": 33,
+    "m_nether_sphere_id": 60011,
+    "content_type": 161,
+    "content_id": 0,
+    "require_amount": 300
+  },
+  {
+    "id": 34,
+    "m_nether_sphere_id": 60012,
+    "content_type": 161,
+    "content_id": 0,
+    "require_amount": 700
+  },
+  {
+    "id": 35,
+    "m_nether_sphere_id": 60021,
+    "content_type": 162,
+    "content_id": 0,
+    "require_amount": 300
+  },
+  {
+    "id": 36,
+    "m_nether_sphere_id": 60022,
+    "content_type": 162,
+    "content_id": 0,
+    "require_amount": 700
+  },
+  {
+    "id": 37,
+    "m_nether_sphere_id": 60031,
+    "content_type": 163,
+    "content_id": 0,
+    "require_amount": 300
+  },
+  {
+    "id": 38,
+    "m_nether_sphere_id": 60032,
+    "content_type": 163,
+    "content_id": 0,
+    "require_amount": 700
+  },
+  {
+    "id": 39,
+    "m_nether_sphere_id": 60041,
+    "content_type": 164,
+    "content_id": 0,
+    "require_amount": 300
+  },
+  {
+    "id": 40,
+    "m_nether_sphere_id": 60042,
+    "content_type": 164,
+    "content_id": 0,
+    "require_amount": 700
+  },
+  {
+    "id": 41,
+    "m_nether_sphere_id": 70011,
+    "content_type": 161,
+    "content_id": 0,
+    "require_amount": 500
+  },
+  {
+    "id": 42,
+    "m_nether_sphere_id": 70012,
+    "content_type": 161,
+    "content_id": 0,
+    "require_amount": 1000
+  },
+  {
+    "id": 43,
+    "m_nether_sphere_id": 70021,
+    "content_type": 162,
+    "content_id": 0,
+    "require_amount": 500
+  },
+  {
+    "id": 44,
+    "m_nether_sphere_id": 70022,
+    "content_type": 162,
+    "content_id": 0,
+    "require_amount": 1000
+  },
+  {
+    "id": 45,
+    "m_nether_sphere_id": 70031,
+    "content_type": 163,
+    "content_id": 0,
+    "require_amount": 500
+  },
+  {
+    "id": 46,
+    "m_nether_sphere_id": 70032,
+    "content_type": 163,
+    "content_id": 0,
+    "require_amount": 1000
+  },
+  {
+    "id": 47,
+    "m_nether_sphere_id": 70041,
+    "content_type": 164,
+    "content_id": 0,
+    "require_amount": 500
+  },
+  {
+    "id": 48,
+    "m_nether_sphere_id": 70042,
+    "content_type": 164,
+    "content_id": 0,
+    "require_amount": 1000
+  },
+  {
+    "id": 49,
+    "m_nether_sphere_id": 80011,
+    "content_type": 161,
+    "content_id": 0,
+    "require_amount": 1750
+  },
+  {
+    "id": 50,
+    "m_nether_sphere_id": 80021,
+    "content_type": 162,
+    "content_id": 0,
+    "require_amount": 1750
+  },
+  {
+    "id": 51,
+    "m_nether_sphere_id": 80031,
+    "content_type": 163,
+    "content_id": 0,
+    "require_amount": 1750
+  },
+  {
+    "id": 52,
+    "m_nether_sphere_id": 80041,
+    "content_type": 164,
+    "content_id": 0,
+    "require_amount": 1750
+  },
+  {
+    "id": 53,
+    "m_nether_sphere_id": 90011,
+    "content_type": 161,
+    "content_id": 0,
+    "require_amount": 700
+  },
+  {
+    "id": 54,
+    "m_nether_sphere_id": 90012,
+    "content_type": 161,
+    "content_id": 0,
+    "require_amount": 1300
+  },
+  {
+    "id": 55,
+    "m_nether_sphere_id": 90021,
+    "content_type": 162,
+    "content_id": 0,
+    "require_amount": 700
+  },
+  {
+    "id": 56,
+    "m_nether_sphere_id": 90022,
+    "content_type": 162,
+    "content_id": 0,
+    "require_amount": 1300
+  },
+  {
+    "id": 57,
+    "m_nether_sphere_id": 90031,
+    "content_type": 163,
+    "content_id": 0,
+    "require_amount": 700
+  },
+  {
+    "id": 58,
+    "m_nether_sphere_id": 90032,
+    "content_type": 163,
+    "content_id": 0,
+    "require_amount": 1300
+  },
+  {
+    "id": 59,
+    "m_nether_sphere_id": 90041,
+    "content_type": 164,
+    "content_id": 0,
+    "require_amount": 700
+  },
+  {
+    "id": 60,
+    "m_nether_sphere_id": 90042,
+    "content_type": 164,
+    "content_id": 0,
+    "require_amount": 1300
+  },
+  {
+    "id": 61,
+    "m_nether_sphere_id": 100011,
+    "content_type": 161,
+    "content_id": 0,
+    "require_amount": 1000
+  },
+  {
+    "id": 62,
+    "m_nether_sphere_id": 100012,
+    "content_type": 161,
+    "content_id": 0,
+    "require_amount": 1500
+  },
+  {
+    "id": 63,
+    "m_nether_sphere_id": 100021,
+    "content_type": 162,
+    "content_id": 0,
+    "require_amount": 1000
+  },
+  {
+    "id": 64,
+    "m_nether_sphere_id": 100022,
+    "content_type": 162,
+    "content_id": 0,
+    "require_amount": 1500
+  },
+  {
+    "id": 65,
+    "m_nether_sphere_id": 100031,
+    "content_type": 163,
+    "content_id": 0,
+    "require_amount": 1000
+  },
+  {
+    "id": 66,
+    "m_nether_sphere_id": 100032,
+    "content_type": 163,
+    "content_id": 0,
+    "require_amount": 1500
+  },
+  {
+    "id": 67,
+    "m_nether_sphere_id": 100041,
+    "content_type": 164,
+    "content_id": 0,
+    "require_amount": 1000
+  },
+  {
+    "id": 68,
+    "m_nether_sphere_id": 100042,
+    "content_type": 164,
+    "content_id": 0,
+    "require_amount": 1500
+  },
+  {
+    "id": 69,
+    "m_nether_sphere_id": 110011,
+    "content_type": 161,
+    "content_id": 0,
+    "require_amount": 1000
+  },
+  {
+    "id": 70,
+    "m_nether_sphere_id": 110012,
+    "content_type": 161,
+    "content_id": 0,
+    "require_amount": 2000
+  },
+  {
+    "id": 71,
+    "m_nether_sphere_id": 110021,
+    "content_type": 162,
+    "content_id": 0,
+    "require_amount": 1000
+  },
+  {
+    "id": 72,
+    "m_nether_sphere_id": 110022,
+    "content_type": 162,
+    "content_id": 0,
+    "require_amount": 2000
+  },
+  {
+    "id": 73,
+    "m_nether_sphere_id": 110031,
+    "content_type": 163,
+    "content_id": 0,
+    "require_amount": 1000
+  },
+  {
+    "id": 74,
+    "m_nether_sphere_id": 110032,
+    "content_type": 163,
+    "content_id": 0,
+    "require_amount": 2000
+  },
+  {
+    "id": 75,
+    "m_nether_sphere_id": 110041,
+    "content_type": 164,
+    "content_id": 0,
+    "require_amount": 1000
+  },
+  {
+    "id": 76,
+    "m_nether_sphere_id": 110042,
+    "content_type": 164,
+    "content_id": 0,
+    "require_amount": 2000
+  },
+  {
+    "id": 77,
+    "m_nether_sphere_id": 120011,
+    "content_type": 161,
+    "content_id": 0,
+    "require_amount": 1500
+  },
+  {
+    "id": 78,
+    "m_nether_sphere_id": 120012,
+    "content_type": 161,
+    "content_id": 0,
+    "require_amount": 2000
+  },
+  {
+    "id": 79,
+    "m_nether_sphere_id": 120021,
+    "content_type": 162,
+    "content_id": 0,
+    "require_amount": 1500
+  },
+  {
+    "id": 80,
+    "m_nether_sphere_id": 120022,
+    "content_type": 162,
+    "content_id": 0,
+    "require_amount": 2000
+  },
+  {
+    "id": 81,
+    "m_nether_sphere_id": 120031,
+    "content_type": 163,
+    "content_id": 0,
+    "require_amount": 1500
+  },
+  {
+    "id": 82,
+    "m_nether_sphere_id": 120032,
+    "content_type": 163,
+    "content_id": 0,
+    "require_amount": 2000
+  },
+  {
+    "id": 83,
+    "m_nether_sphere_id": 120041,
+    "content_type": 164,
+    "content_id": 0,
+    "require_amount": 1500
+  },
+  {
+    "id": 84,
+    "m_nether_sphere_id": 120042,
+    "content_type": 164,
+    "content_id": 0,
+    "require_amount": 2000
+  },
+  {
+    "id": 85,
+    "m_nether_sphere_id": 130011,
+    "content_type": 161,
+    "content_id": 0,
+    "require_amount": 1500
+  },
+  {
+    "id": 86,
+    "m_nether_sphere_id": 130012,
+    "content_type": 161,
+    "content_id": 0,
+    "require_amount": 2500
+  },
+  {
+    "id": 87,
+    "m_nether_sphere_id": 130021,
+    "content_type": 162,
+    "content_id": 0,
+    "require_amount": 1500
+  },
+  {
+    "id": 88,
+    "m_nether_sphere_id": 130022,
+    "content_type": 162,
+    "content_id": 0,
+    "require_amount": 2500
+  },
+  {
+    "id": 89,
+    "m_nether_sphere_id": 130031,
+    "content_type": 163,
+    "content_id": 0,
+    "require_amount": 1500
+  },
+  {
+    "id": 90,
+    "m_nether_sphere_id": 130032,
+    "content_type": 163,
+    "content_id": 0,
+    "require_amount": 2500
+  },
+  {
+    "id": 91,
+    "m_nether_sphere_id": 130041,
+    "content_type": 164,
+    "content_id": 0,
+    "require_amount": 1500
+  },
+  {
+    "id": 92,
+    "m_nether_sphere_id": 130042,
+    "content_type": 164,
+    "content_id": 0,
+    "require_amount": 2500
+  },
+  {
+    "id": 93,
+    "m_nether_sphere_id": 10101,
+    "content_type": 30,
+    "content_id": 200003,
+    "require_amount": 2
+  },
+  {
+    "id": 94,
+    "m_nether_sphere_id": 10011,
+    "content_type": 30,
+    "content_id": 200003,
+    "require_amount": 1
+  },
+  {
+    "id": 95,
+    "m_nether_sphere_id": 10012,
+    "content_type": 30,
+    "content_id": 200003,
+    "require_amount": 1
+  },
+  {
+    "id": 96,
+    "m_nether_sphere_id": 10021,
+    "content_type": 30,
+    "content_id": 200004,
+    "require_amount": 1
+  },
+  {
+    "id": 97,
+    "m_nether_sphere_id": 10022,
+    "content_type": 30,
+    "content_id": 200004,
+    "require_amount": 1
+  },
+  {
+    "id": 98,
+    "m_nether_sphere_id": 10031,
+    "content_type": 30,
+    "content_id": 200005,
+    "require_amount": 1
+  },
+  {
+    "id": 99,
+    "m_nether_sphere_id": 10032,
+    "content_type": 30,
+    "content_id": 200005,
+    "require_amount": 1
+  },
+  {
+    "id": 100,
+    "m_nether_sphere_id": 10041,
+    "content_type": 30,
+    "content_id": 200006,
+    "require_amount": 1
+  },
+  {
+    "id": 101,
+    "m_nether_sphere_id": 10042,
+    "content_type": 30,
+    "content_id": 200006,
+    "require_amount": 1
+  },
+  {
+    "id": 102,
+    "m_nether_sphere_id": 20101,
+    "content_type": 30,
+    "content_id": 200006,
+    "require_amount": 2
+  },
+  {
+    "id": 103,
+    "m_nether_sphere_id": 20011,
+    "content_type": 30,
+    "content_id": 200003,
+    "require_amount": 1
+  },
+  {
+    "id": 104,
+    "m_nether_sphere_id": 20021,
+    "content_type": 30,
+    "content_id": 200004,
+    "require_amount": 1
+  },
+  {
+    "id": 105,
+    "m_nether_sphere_id": 20031,
+    "content_type": 30,
+    "content_id": 200005,
+    "require_amount": 1
+  },
+  {
+    "id": 106,
+    "m_nether_sphere_id": 20041,
+    "content_type": 30,
+    "content_id": 200006,
+    "require_amount": 1
+  },
+  {
+    "id": 107,
+    "m_nether_sphere_id": 30101,
+    "content_type": 30,
+    "content_id": 200005,
+    "require_amount": 2
+  },
+  {
+    "id": 108,
+    "m_nether_sphere_id": 30011,
+    "content_type": 30,
+    "content_id": 200003,
+    "require_amount": 1
+  },
+  {
+    "id": 109,
+    "m_nether_sphere_id": 30012,
+    "content_type": 30,
+    "content_id": 200003,
+    "require_amount": 1
+  },
+  {
+    "id": 110,
+    "m_nether_sphere_id": 30021,
+    "content_type": 30,
+    "content_id": 200004,
+    "require_amount": 1
+  },
+  {
+    "id": 111,
+    "m_nether_sphere_id": 30022,
+    "content_type": 30,
+    "content_id": 200004,
+    "require_amount": 1
+  },
+  {
+    "id": 112,
+    "m_nether_sphere_id": 30031,
+    "content_type": 30,
+    "content_id": 200005,
+    "require_amount": 1
+  },
+  {
+    "id": 113,
+    "m_nether_sphere_id": 30032,
+    "content_type": 30,
+    "content_id": 200005,
+    "require_amount": 1
+  },
+  {
+    "id": 114,
+    "m_nether_sphere_id": 30041,
+    "content_type": 30,
+    "content_id": 200006,
+    "require_amount": 1
+  },
+  {
+    "id": 115,
+    "m_nether_sphere_id": 30042,
+    "content_type": 30,
+    "content_id": 200006,
+    "require_amount": 1
+  },
+  {
+    "id": 116,
+    "m_nether_sphere_id": 40101,
+    "content_type": 30,
+    "content_id": 200004,
+    "require_amount": 2
+  },
+  {
+    "id": 117,
+    "m_nether_sphere_id": 40011,
+    "content_type": 30,
+    "content_id": 200003,
+    "require_amount": 1
+  },
+  {
+    "id": 118,
+    "m_nether_sphere_id": 40012,
+    "content_type": 30,
+    "content_id": 200003,
+    "require_amount": 1
+  },
+  {
+    "id": 119,
+    "m_nether_sphere_id": 40021,
+    "content_type": 30,
+    "content_id": 200004,
+    "require_amount": 1
+  },
+  {
+    "id": 120,
+    "m_nether_sphere_id": 40022,
+    "content_type": 30,
+    "content_id": 200004,
+    "require_amount": 1
+  },
+  {
+    "id": 121,
+    "m_nether_sphere_id": 40031,
+    "content_type": 30,
+    "content_id": 200005,
+    "require_amount": 1
+  },
+  {
+    "id": 122,
+    "m_nether_sphere_id": 40032,
+    "content_type": 30,
+    "content_id": 200005,
+    "require_amount": 1
+  },
+  {
+    "id": 123,
+    "m_nether_sphere_id": 40041,
+    "content_type": 30,
+    "content_id": 200006,
+    "require_amount": 1
+  },
+  {
+    "id": 124,
+    "m_nether_sphere_id": 40042,
+    "content_type": 30,
+    "content_id": 200006,
+    "require_amount": 1
+  },
+  {
+    "id": 125,
+    "m_nether_sphere_id": 50101,
+    "content_type": 30,
+    "content_id": 200006,
+    "require_amount": 2
+  },
+  {
+    "id": 126,
+    "m_nether_sphere_id": 50011,
+    "content_type": 30,
+    "content_id": 200003,
+    "require_amount": 1
+  },
+  {
+    "id": 127,
+    "m_nether_sphere_id": 50021,
+    "content_type": 30,
+    "content_id": 200004,
+    "require_amount": 1
+  },
+  {
+    "id": 128,
+    "m_nether_sphere_id": 50031,
+    "content_type": 30,
+    "content_id": 200005,
+    "require_amount": 1
+  },
+  {
+    "id": 129,
+    "m_nether_sphere_id": 50041,
+    "content_type": 30,
+    "content_id": 200006,
+    "require_amount": 1
+  },
+  {
+    "id": 130,
+    "m_nether_sphere_id": 60101,
+    "content_type": 30,
+    "content_id": 200003,
+    "require_amount": 2
+  },
+  {
+    "id": 131,
+    "m_nether_sphere_id": 60011,
+    "content_type": 30,
+    "content_id": 200003,
+    "require_amount": 1
+  },
+  {
+    "id": 132,
+    "m_nether_sphere_id": 60012,
+    "content_type": 30,
+    "content_id": 200003,
+    "require_amount": 1
+  },
+  {
+    "id": 133,
+    "m_nether_sphere_id": 60021,
+    "content_type": 30,
+    "content_id": 200004,
+    "require_amount": 1
+  },
+  {
+    "id": 134,
+    "m_nether_sphere_id": 60022,
+    "content_type": 30,
+    "content_id": 200004,
+    "require_amount": 1
+  },
+  {
+    "id": 135,
+    "m_nether_sphere_id": 60031,
+    "content_type": 30,
+    "content_id": 200005,
+    "require_amount": 1
+  },
+  {
+    "id": 136,
+    "m_nether_sphere_id": 60032,
+    "content_type": 30,
+    "content_id": 200005,
+    "require_amount": 1
+  },
+  {
+    "id": 137,
+    "m_nether_sphere_id": 60041,
+    "content_type": 30,
+    "content_id": 200006,
+    "require_amount": 1
+  },
+  {
+    "id": 138,
+    "m_nether_sphere_id": 60042,
+    "content_type": 30,
+    "content_id": 200006,
+    "require_amount": 1
+  },
+  {
+    "id": 139,
+    "m_nether_sphere_id": 70101,
+    "content_type": 30,
+    "content_id": 200004,
+    "require_amount": 2
+  },
+  {
+    "id": 140,
+    "m_nether_sphere_id": 70011,
+    "content_type": 30,
+    "content_id": 200003,
+    "require_amount": 1
+  },
+  {
+    "id": 141,
+    "m_nether_sphere_id": 70012,
+    "content_type": 30,
+    "content_id": 200003,
+    "require_amount": 1
+  },
+  {
+    "id": 142,
+    "m_nether_sphere_id": 70021,
+    "content_type": 30,
+    "content_id": 200004,
+    "require_amount": 1
+  },
+  {
+    "id": 143,
+    "m_nether_sphere_id": 70022,
+    "content_type": 30,
+    "content_id": 200004,
+    "require_amount": 1
+  },
+  {
+    "id": 144,
+    "m_nether_sphere_id": 70031,
+    "content_type": 30,
+    "content_id": 200005,
+    "require_amount": 1
+  },
+  {
+    "id": 145,
+    "m_nether_sphere_id": 70032,
+    "content_type": 30,
+    "content_id": 200005,
+    "require_amount": 1
+  },
+  {
+    "id": 146,
+    "m_nether_sphere_id": 70041,
+    "content_type": 30,
+    "content_id": 200006,
+    "require_amount": 1
+  },
+  {
+    "id": 147,
+    "m_nether_sphere_id": 70042,
+    "content_type": 30,
+    "content_id": 200006,
+    "require_amount": 1
+  },
+  {
+    "id": 148,
+    "m_nether_sphere_id": 80101,
+    "content_type": 30,
+    "content_id": 200005,
+    "require_amount": 2
+  },
+  {
+    "id": 149,
+    "m_nether_sphere_id": 80011,
+    "content_type": 30,
+    "content_id": 200003,
+    "require_amount": 1
+  },
+  {
+    "id": 150,
+    "m_nether_sphere_id": 80021,
+    "content_type": 30,
+    "content_id": 200004,
+    "require_amount": 1
+  },
+  {
+    "id": 151,
+    "m_nether_sphere_id": 80031,
+    "content_type": 30,
+    "content_id": 200005,
+    "require_amount": 1
+  },
+  {
+    "id": 152,
+    "m_nether_sphere_id": 80041,
+    "content_type": 30,
+    "content_id": 200006,
+    "require_amount": 1
+  },
+  {
+    "id": 153,
+    "m_nether_sphere_id": 90101,
+    "content_type": 30,
+    "content_id": 200003,
+    "require_amount": 2
+  },
+  {
+    "id": 154,
+    "m_nether_sphere_id": 90011,
+    "content_type": 30,
+    "content_id": 200003,
+    "require_amount": 1
+  },
+  {
+    "id": 155,
+    "m_nether_sphere_id": 90012,
+    "content_type": 30,
+    "content_id": 200003,
+    "require_amount": 1
+  },
+  {
+    "id": 156,
+    "m_nether_sphere_id": 90021,
+    "content_type": 30,
+    "content_id": 200004,
+    "require_amount": 1
+  },
+  {
+    "id": 157,
+    "m_nether_sphere_id": 90022,
+    "content_type": 30,
+    "content_id": 200004,
+    "require_amount": 1
+  },
+  {
+    "id": 158,
+    "m_nether_sphere_id": 90031,
+    "content_type": 30,
+    "content_id": 200005,
+    "require_amount": 1
+  },
+  {
+    "id": 159,
+    "m_nether_sphere_id": 90032,
+    "content_type": 30,
+    "content_id": 200005,
+    "require_amount": 1
+  },
+  {
+    "id": 160,
+    "m_nether_sphere_id": 90041,
+    "content_type": 30,
+    "content_id": 200006,
+    "require_amount": 1
+  },
+  {
+    "id": 161,
+    "m_nether_sphere_id": 90042,
+    "content_type": 30,
+    "content_id": 200006,
+    "require_amount": 1
+  },
+  {
+    "id": 162,
+    "m_nether_sphere_id": 100101,
+    "content_type": 30,
+    "content_id": 200004,
+    "require_amount": 2
+  },
+  {
+    "id": 163,
+    "m_nether_sphere_id": 100011,
+    "content_type": 30,
+    "content_id": 200003,
+    "require_amount": 1
+  },
+  {
+    "id": 164,
+    "m_nether_sphere_id": 100012,
+    "content_type": 30,
+    "content_id": 200003,
+    "require_amount": 1
+  },
+  {
+    "id": 165,
+    "m_nether_sphere_id": 100021,
+    "content_type": 30,
+    "content_id": 200004,
+    "require_amount": 1
+  },
+  {
+    "id": 166,
+    "m_nether_sphere_id": 100022,
+    "content_type": 30,
+    "content_id": 200004,
+    "require_amount": 1
+  },
+  {
+    "id": 167,
+    "m_nether_sphere_id": 100031,
+    "content_type": 30,
+    "content_id": 200005,
+    "require_amount": 1
+  },
+  {
+    "id": 168,
+    "m_nether_sphere_id": 100032,
+    "content_type": 30,
+    "content_id": 200005,
+    "require_amount": 1
+  },
+  {
+    "id": 169,
+    "m_nether_sphere_id": 100041,
+    "content_type": 30,
+    "content_id": 200006,
+    "require_amount": 1
+  },
+  {
+    "id": 170,
+    "m_nether_sphere_id": 100042,
+    "content_type": 30,
+    "content_id": 200006,
+    "require_amount": 1
+  },
+  {
+    "id": 171,
+    "m_nether_sphere_id": 110101,
+    "content_type": 30,
+    "content_id": 200006,
+    "require_amount": 2
+  },
+  {
+    "id": 172,
+    "m_nether_sphere_id": 110011,
+    "content_type": 30,
+    "content_id": 200003,
+    "require_amount": 1
+  },
+  {
+    "id": 173,
+    "m_nether_sphere_id": 110012,
+    "content_type": 30,
+    "content_id": 200003,
+    "require_amount": 1
+  },
+  {
+    "id": 174,
+    "m_nether_sphere_id": 110021,
+    "content_type": 30,
+    "content_id": 200004,
+    "require_amount": 1
+  },
+  {
+    "id": 175,
+    "m_nether_sphere_id": 110022,
+    "content_type": 30,
+    "content_id": 200004,
+    "require_amount": 1
+  },
+  {
+    "id": 176,
+    "m_nether_sphere_id": 110031,
+    "content_type": 30,
+    "content_id": 200005,
+    "require_amount": 1
+  },
+  {
+    "id": 177,
+    "m_nether_sphere_id": 110032,
+    "content_type": 30,
+    "content_id": 200005,
+    "require_amount": 1
+  },
+  {
+    "id": 178,
+    "m_nether_sphere_id": 110041,
+    "content_type": 30,
+    "content_id": 200006,
+    "require_amount": 1
+  },
+  {
+    "id": 179,
+    "m_nether_sphere_id": 110042,
+    "content_type": 30,
+    "content_id": 200006,
+    "require_amount": 1
+  },
+  {
+    "id": 180,
+    "m_nether_sphere_id": 120101,
+    "content_type": 30,
+    "content_id": 200005,
+    "require_amount": 2
+  },
+  {
+    "id": 181,
+    "m_nether_sphere_id": 120011,
+    "content_type": 30,
+    "content_id": 200003,
+    "require_amount": 1
+  },
+  {
+    "id": 182,
+    "m_nether_sphere_id": 120012,
+    "content_type": 30,
+    "content_id": 200003,
+    "require_amount": 1
+  },
+  {
+    "id": 183,
+    "m_nether_sphere_id": 120021,
+    "content_type": 30,
+    "content_id": 200004,
+    "require_amount": 1
+  },
+  {
+    "id": 184,
+    "m_nether_sphere_id": 120022,
+    "content_type": 30,
+    "content_id": 200004,
+    "require_amount": 1
+  },
+  {
+    "id": 185,
+    "m_nether_sphere_id": 120031,
+    "content_type": 30,
+    "content_id": 200005,
+    "require_amount": 1
+  },
+  {
+    "id": 186,
+    "m_nether_sphere_id": 120032,
+    "content_type": 30,
+    "content_id": 200005,
+    "require_amount": 1
+  },
+  {
+    "id": 187,
+    "m_nether_sphere_id": 120041,
+    "content_type": 30,
+    "content_id": 200006,
+    "require_amount": 1
+  },
+  {
+    "id": 188,
+    "m_nether_sphere_id": 120042,
+    "content_type": 30,
+    "content_id": 200006,
+    "require_amount": 1
+  },
+  {
+    "id": 189,
+    "m_nether_sphere_id": 130101,
+    "content_type": 30,
+    "content_id": 200003,
+    "require_amount": 2
+  },
+  {
+    "id": 190,
+    "m_nether_sphere_id": 130011,
+    "content_type": 30,
+    "content_id": 200003,
+    "require_amount": 1
+  },
+  {
+    "id": 191,
+    "m_nether_sphere_id": 130012,
+    "content_type": 30,
+    "content_id": 200003,
+    "require_amount": 1
+  },
+  {
+    "id": 192,
+    "m_nether_sphere_id": 130021,
+    "content_type": 30,
+    "content_id": 200004,
+    "require_amount": 1
+  },
+  {
+    "id": 193,
+    "m_nether_sphere_id": 130022,
+    "content_type": 30,
+    "content_id": 200004,
+    "require_amount": 1
+  },
+  {
+    "id": 194,
+    "m_nether_sphere_id": 130031,
+    "content_type": 30,
+    "content_id": 200005,
+    "require_amount": 1
+  },
+  {
+    "id": 195,
+    "m_nether_sphere_id": 130032,
+    "content_type": 30,
+    "content_id": 200005,
+    "require_amount": 1
+  },
+  {
+    "id": 196,
+    "m_nether_sphere_id": 130041,
+    "content_type": 30,
+    "content_id": 200006,
+    "require_amount": 1
+  },
+  {
+    "id": 197,
+    "m_nether_sphere_id": 130042,
+    "content_type": 30,
+    "content_id": 200006,
+    "require_amount": 1
+  }
+]

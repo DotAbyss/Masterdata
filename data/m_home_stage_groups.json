@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "target_scene": 4,
+    "param": 102,
+    "display_order": 99,
+    "start_at": "2026-06-25 15:00:00",
+    "end_at": "2026-07-10 12:59:59"
+  },
+  {
+    "id": 2,
+    "target_scene": 4,
+    "param": 103,
+    "display_order": 2,
+    "start_at": "2026-05-11 00:00:00",
+    "end_at": "2026-06-20 4:59:59"
+  }
+]

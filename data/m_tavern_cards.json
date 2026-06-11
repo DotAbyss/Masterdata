@@ -1,0 +1,920 @@
+[
+  {
+    "id": 10000,
+    "name": "Lv1-100-ド",
+    "description": "フロア1に「ドリンク」を付与し満足度+30%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 10001,
+    "m_tavern_card_effect_id_2": 11001,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 10001,
+    "name": "Lv1-101-ド",
+    "description": "フロア2に「ドリンク」を付与し満足度+30%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 10002,
+    "m_tavern_card_effect_id_2": 11002,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 10002,
+    "name": "Lv1-102-ド",
+    "description": "フロア3に「ドリンク」を付与し満足度+30%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 10003,
+    "m_tavern_card_effect_id_2": 11003,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 10003,
+    "name": "Lv1-100-接",
+    "description": "フロア1に「接客」を付与し満足度+30%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 10004,
+    "m_tavern_card_effect_id_2": 11004,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 10004,
+    "name": "Lv1-101-接",
+    "description": "フロア2に「接客」を付与し満足度+30%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 10005,
+    "m_tavern_card_effect_id_2": 11005,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 10005,
+    "name": "Lv1-102-接",
+    "description": "フロア3に「接客」を付与し満足度+30%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 10006,
+    "m_tavern_card_effect_id_2": 11006,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 10006,
+    "name": "Lv1-100-料",
+    "description": "フロア1に「料理」を付与し満足度+30%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 10007,
+    "m_tavern_card_effect_id_2": 11007,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 10007,
+    "name": "Lv1-101-料",
+    "description": "フロア2に「料理」を付与し満足度+30%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 10008,
+    "m_tavern_card_effect_id_2": 11008,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 10008,
+    "name": "Lv1-102-料",
+    "description": "フロア3に「料理」を付与し満足度+30%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 10009,
+    "m_tavern_card_effect_id_2": 11009,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 10009,
+    "name": "Lv1-1F-ド",
+    "description": "1Fのおしごとに「ドリンク」を付与し満足度+5%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 10010,
+    "m_tavern_card_effect_id_2": 11010,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 10010,
+    "name": "Lv1-1F-接",
+    "description": "1Fのおしごとに「接客」を付与し満足度+5%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 10011,
+    "m_tavern_card_effect_id_2": 11011,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 10011,
+    "name": "Lv1-1F-料",
+    "description": "1Fのおしごとに「料理」を付与し満足度+5%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 10012,
+    "m_tavern_card_effect_id_2": 11012,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20000,
+    "name": "Lv2-100-ド",
+    "description": "フロア1に「ドリンク」を付与し満足度+50%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 20001,
+    "m_tavern_card_effect_id_2": 21001,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20001,
+    "name": "Lv2-101-ド",
+    "description": "フロア2に「ドリンク」を付与し満足度+50%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 20002,
+    "m_tavern_card_effect_id_2": 21002,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20002,
+    "name": "Lv2-102-ド",
+    "description": "フロア3に「ドリンク」を付与し満足度+50%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 20003,
+    "m_tavern_card_effect_id_2": 21003,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20003,
+    "name": "Lv2-100-接",
+    "description": "フロア1に「接客」を付与し満足度+50%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 20004,
+    "m_tavern_card_effect_id_2": 21004,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20004,
+    "name": "Lv2-101-接",
+    "description": "フロア2に「接客」を付与し満足度+50%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 20005,
+    "m_tavern_card_effect_id_2": 21005,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20005,
+    "name": "Lv2-102-接",
+    "description": "フロア3に「接客」を付与し満足度+50%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 20006,
+    "m_tavern_card_effect_id_2": 21006,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20006,
+    "name": "Lv2-100-料",
+    "description": "フロア1に「料理」を付与し満足度+50%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 20007,
+    "m_tavern_card_effect_id_2": 21007,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20007,
+    "name": "Lv2-101-料",
+    "description": "フロア2に「料理」を付与し満足度+50%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 20008,
+    "m_tavern_card_effect_id_2": 21008,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20008,
+    "name": "Lv2-102-料",
+    "description": "フロア3に「料理」を付与し満足度+50%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 20009,
+    "m_tavern_card_effect_id_2": 21009,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20009,
+    "name": "Lv2-200-ド",
+    "description": "ラウンジ1に「ドリンク」を付与し満足度+50%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 20010,
+    "m_tavern_card_effect_id_2": 21010,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20010,
+    "name": "Lv2-201-ド",
+    "description": "ラウンジ2に「ドリンク」を付与し満足度+50%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 20011,
+    "m_tavern_card_effect_id_2": 21011,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20011,
+    "name": "Lv2-202-ド",
+    "description": "VIPに「ドリンク」を付与し満足度+50%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 20012,
+    "m_tavern_card_effect_id_2": 21012,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20012,
+    "name": "Lv2-200-接",
+    "description": "ラウンジ1に「接客」を付与し満足度+50%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 20013,
+    "m_tavern_card_effect_id_2": 21013,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20013,
+    "name": "Lv2-201-接",
+    "description": "ラウンジ2に「接客」を付与し満足度+50%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 20014,
+    "m_tavern_card_effect_id_2": 21014,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20014,
+    "name": "Lv2-202-接",
+    "description": "VIPに「接客」を付与し満足度+50%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 20015,
+    "m_tavern_card_effect_id_2": 21015,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20015,
+    "name": "Lv2-200-料",
+    "description": "ラウンジ1に「料理」を付与し満足度+50%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 20016,
+    "m_tavern_card_effect_id_2": 21016,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20016,
+    "name": "Lv2-201-料",
+    "description": "ラウンジ2に「料理」を付与し満足度+50%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 20017,
+    "m_tavern_card_effect_id_2": 21017,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20017,
+    "name": "Lv2-202-料",
+    "description": "VIPに「料理」を付与し満足度+50%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 20018,
+    "m_tavern_card_effect_id_2": 21018,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20018,
+    "name": "Lv2-1F-ド1",
+    "description": "1Fのおしごとに「ドリンク」を付与し満足度+10%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 20019,
+    "m_tavern_card_effect_id_2": 21019,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20019,
+    "name": "Lv2-1F-接1",
+    "description": "1Fのおしごとに「接客」を付与し満足度+10%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 20020,
+    "m_tavern_card_effect_id_2": 21020,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20020,
+    "name": "Lv2-1F-料1",
+    "description": "1Fのおしごとに「料理」を付与し満足度+10%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 20021,
+    "m_tavern_card_effect_id_2": 21021,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20021,
+    "name": "Lv2-2F-ド1",
+    "description": "2Fのおしごとに「ドリンク」を付与し満足度+10%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 20022,
+    "m_tavern_card_effect_id_2": 21022,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20022,
+    "name": "Lv2-2F-接1",
+    "description": "2Fのおしごとに「接客」を付与し満足度+10%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 20023,
+    "m_tavern_card_effect_id_2": 21023,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20023,
+    "name": "Lv2-2F-料1",
+    "description": "2Fのおしごとに「料理」を付与し満足度+10%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 20024,
+    "m_tavern_card_effect_id_2": 21024,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20024,
+    "name": "Lv2-1F-ド2",
+    "description": "1Fのおしごとに「ドリンク」を付与し満足度+10%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 20019,
+    "m_tavern_card_effect_id_2": 21019,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20025,
+    "name": "Lv2-1F-接2",
+    "description": "1Fのおしごとに「接客」を付与し満足度+10%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 20020,
+    "m_tavern_card_effect_id_2": 21020,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20026,
+    "name": "Lv2-1F-料2",
+    "description": "1Fのおしごとに「料理」を付与し満足度+10%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 20021,
+    "m_tavern_card_effect_id_2": 21021,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20027,
+    "name": "Lv2-2F-ド2",
+    "description": "2Fのおしごとに「ドリンク」を付与し満足度+10%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 20022,
+    "m_tavern_card_effect_id_2": 21022,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20028,
+    "name": "Lv2-2F-接2",
+    "description": "2Fのおしごとに「接客」を付与し満足度+10%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 20023,
+    "m_tavern_card_effect_id_2": 21023,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20029,
+    "name": "Lv2-2F-料2",
+    "description": "2Fのおしごとに「料理」を付与し満足度+10%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 20024,
+    "m_tavern_card_effect_id_2": 21024,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20030,
+    "name": "Lv2-1F-ド3",
+    "description": "1Fのおしごとに「ドリンク」を付与し満足度+10%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 20019,
+    "m_tavern_card_effect_id_2": 21019,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20031,
+    "name": "Lv2-1F-接3",
+    "description": "1Fのおしごとに「接客」を付与し満足度+10%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 20020,
+    "m_tavern_card_effect_id_2": 21020,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20032,
+    "name": "Lv2-1F-料3",
+    "description": "1Fのおしごとに「料理」を付与し満足度+10%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 20021,
+    "m_tavern_card_effect_id_2": 21021,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20033,
+    "name": "Lv2-2F-ド3",
+    "description": "2Fのおしごとに「ドリンク」を付与し満足度+10%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 20022,
+    "m_tavern_card_effect_id_2": 21022,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20034,
+    "name": "Lv2-2F-接3",
+    "description": "2Fのおしごとに「接客」を付与し満足度+10%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 20023,
+    "m_tavern_card_effect_id_2": 21023,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 20035,
+    "name": "Lv2-2F-料3",
+    "description": "2Fのおしごとに「料理」を付与し満足度+10%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 20024,
+    "m_tavern_card_effect_id_2": 21024,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30000,
+    "name": "Lv3-100-ド",
+    "description": "フロア1に「ドリンク」を付与し満足度+80%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 30001,
+    "m_tavern_card_effect_id_2": 31001,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30001,
+    "name": "Lv3-101-ド",
+    "description": "フロア2に「ドリンク」を付与し満足度+80%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 30002,
+    "m_tavern_card_effect_id_2": 31002,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30002,
+    "name": "Lv3-102-ド",
+    "description": "フロア3に「ドリンク」を付与し満足度+80%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 30003,
+    "m_tavern_card_effect_id_2": 31003,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30003,
+    "name": "Lv3-100-接",
+    "description": "フロア1に「接客」を付与し満足度+80%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 30004,
+    "m_tavern_card_effect_id_2": 31004,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30004,
+    "name": "Lv3-101-接",
+    "description": "フロア2に「接客」を付与し満足度+80%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 30005,
+    "m_tavern_card_effect_id_2": 31005,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30005,
+    "name": "Lv3-102-接",
+    "description": "フロア3に「接客」を付与し満足度+80%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 30006,
+    "m_tavern_card_effect_id_2": 31006,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30006,
+    "name": "Lv3-100-料",
+    "description": "フロア1に「料理」を付与し満足度+80%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 30007,
+    "m_tavern_card_effect_id_2": 31007,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30007,
+    "name": "Lv3-101-料",
+    "description": "フロア2に「料理」を付与し満足度+80%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 30008,
+    "m_tavern_card_effect_id_2": 31008,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30008,
+    "name": "Lv3-102-料",
+    "description": "フロア3に「料理」を付与し満足度+80%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 30009,
+    "m_tavern_card_effect_id_2": 31009,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30009,
+    "name": "Lv3-200-ド",
+    "description": "ラウンジ1に「ドリンク」を付与し満足度+80%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 30010,
+    "m_tavern_card_effect_id_2": 31010,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30010,
+    "name": "Lv3-201-ド",
+    "description": "ラウンジ2に「ドリンク」を付与し満足度+80%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 30011,
+    "m_tavern_card_effect_id_2": 31011,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30011,
+    "name": "Lv3-202-ド",
+    "description": "VIPに「ドリンク」を付与し満足度+80%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 30012,
+    "m_tavern_card_effect_id_2": 31012,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30012,
+    "name": "Lv3-200-接",
+    "description": "ラウンジ1に「接客」を付与し満足度+80%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 30013,
+    "m_tavern_card_effect_id_2": 31013,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30013,
+    "name": "Lv3-201-接",
+    "description": "ラウンジ2に「接客」を付与し満足度+80%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 30014,
+    "m_tavern_card_effect_id_2": 31014,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30014,
+    "name": "Lv3-202-接",
+    "description": "VIPに「接客」を付与し満足度+80%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 30015,
+    "m_tavern_card_effect_id_2": 31015,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30015,
+    "name": "Lv3-200-料",
+    "description": "ラウンジ1に「料理」を付与し満足度+80%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 30016,
+    "m_tavern_card_effect_id_2": 31016,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30016,
+    "name": "Lv3-201-料",
+    "description": "ラウンジ2に「料理」を付与し満足度+80%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 30017,
+    "m_tavern_card_effect_id_2": 31017,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30017,
+    "name": "Lv3-202-料",
+    "description": "VIPに「料理」を付与し満足度+80%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 30018,
+    "m_tavern_card_effect_id_2": 31018,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30018,
+    "name": "Lv3-300-ド",
+    "description": "個室1に「ドリンク」を付与し満足度+80%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 30019,
+    "m_tavern_card_effect_id_2": 31019,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30019,
+    "name": "Lv3-301-ド",
+    "description": "個室2に「ドリンク」を付与し満足度+80%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 30020,
+    "m_tavern_card_effect_id_2": 31020,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30020,
+    "name": "Lv3-302-ド",
+    "description": "個室3に「ドリンク」を付与し満足度+80%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 30021,
+    "m_tavern_card_effect_id_2": 31021,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30021,
+    "name": "Lv3-300-接",
+    "description": "個室1に「接客」を付与し満足度+80%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 30022,
+    "m_tavern_card_effect_id_2": 31022,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30022,
+    "name": "Lv3-301-接",
+    "description": "個室2に「接客」を付与し満足度+80%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 30023,
+    "m_tavern_card_effect_id_2": 31023,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30023,
+    "name": "Lv3-302-接",
+    "description": "個室3に「接客」を付与し満足度+80%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 30024,
+    "m_tavern_card_effect_id_2": 31024,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30024,
+    "name": "Lv3-300-料",
+    "description": "個室1に「料理」を付与し満足度+80%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 30025,
+    "m_tavern_card_effect_id_2": 31025,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30025,
+    "name": "Lv3-301-料",
+    "description": "個室2に「料理」を付与し満足度+80%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 30026,
+    "m_tavern_card_effect_id_2": 31026,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30026,
+    "name": "Lv3-302-料",
+    "description": "個室3に「料理」を付与し満足度+80%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 30027,
+    "m_tavern_card_effect_id_2": 31027,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30027,
+    "name": "Lv3-1F-ド1",
+    "description": "1Fのおしごとに「ドリンク」を付与し満足度+10%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 30028,
+    "m_tavern_card_effect_id_2": 31028,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30028,
+    "name": "Lv3-1F-接1",
+    "description": "1Fのおしごとに「接客」を付与し満足度+10%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 30029,
+    "m_tavern_card_effect_id_2": 31029,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30029,
+    "name": "Lv3-1F-料1",
+    "description": "1Fのおしごとに「料理」を付与し満足度+10%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 30030,
+    "m_tavern_card_effect_id_2": 31030,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30030,
+    "name": "Lv3-2F-ド1",
+    "description": "2Fのおしごとに「ドリンク」を付与し満足度+10%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 30031,
+    "m_tavern_card_effect_id_2": 31031,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30031,
+    "name": "Lv3-2F-接1",
+    "description": "2Fのおしごとに「接客」を付与し満足度+10%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 30032,
+    "m_tavern_card_effect_id_2": 31032,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30032,
+    "name": "Lv3-2F-料1",
+    "description": "2Fのおしごとに「料理」を付与し満足度+10%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 30033,
+    "m_tavern_card_effect_id_2": 31033,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30033,
+    "name": "Lv3-3F-ド1",
+    "description": "3Fのおしごとに「ドリンク」を付与し満足度+10%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 30034,
+    "m_tavern_card_effect_id_2": 31034,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30034,
+    "name": "Lv3-3F-接1",
+    "description": "3Fのおしごとに「接客」を付与し満足度+10%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 30035,
+    "m_tavern_card_effect_id_2": 31035,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30035,
+    "name": "Lv3-3F-料1",
+    "description": "3Fのおしごとに「料理」を付与し満足度+10%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 30036,
+    "m_tavern_card_effect_id_2": 31036,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30036,
+    "name": "Lv3-1F-ド2",
+    "description": "1Fのおしごとに「ドリンク」を付与し満足度+10%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 30028,
+    "m_tavern_card_effect_id_2": 31028,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30037,
+    "name": "Lv3-1F-接2",
+    "description": "1Fのおしごとに「接客」を付与し満足度+10%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 30029,
+    "m_tavern_card_effect_id_2": 31029,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30038,
+    "name": "Lv3-1F-料2",
+    "description": "1Fのおしごとに「料理」を付与し満足度+10%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 30030,
+    "m_tavern_card_effect_id_2": 31030,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30039,
+    "name": "Lv3-2F-ド2",
+    "description": "2Fのおしごとに「ドリンク」を付与し満足度+10%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 30031,
+    "m_tavern_card_effect_id_2": 31031,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30040,
+    "name": "Lv3-2F-接2",
+    "description": "2Fのおしごとに「接客」を付与し満足度+10%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 30032,
+    "m_tavern_card_effect_id_2": 31032,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30041,
+    "name": "Lv3-2F-料2",
+    "description": "2Fのおしごとに「料理」を付与し満足度+10%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 30033,
+    "m_tavern_card_effect_id_2": 31033,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30042,
+    "name": "Lv3-3F-ド2",
+    "description": "3Fのおしごとに「ドリンク」を付与し満足度+10%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 30034,
+    "m_tavern_card_effect_id_2": 31034,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30043,
+    "name": "Lv3-3F-接2",
+    "description": "3Fのおしごとに「接客」を付与し満足度+10%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 30035,
+    "m_tavern_card_effect_id_2": 31035,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30044,
+    "name": "Lv3-3F-料2",
+    "description": "3Fのおしごとに「料理」を付与し満足度+10%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 30036,
+    "m_tavern_card_effect_id_2": 31036,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30045,
+    "name": "Lv3-全-ド1",
+    "description": "すべてのおしごとに「ドリンク」を付与し満足度+5%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 30037,
+    "m_tavern_card_effect_id_2": 31037,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30046,
+    "name": "Lv3-全-接1",
+    "description": "すべてのおしごとに「接客」を付与し満足度+5%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 30038,
+    "m_tavern_card_effect_id_2": 31038,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30047,
+    "name": "Lv3-全-料1",
+    "description": "すべてのおしごとに「料理」を付与し満足度+5%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 30039,
+    "m_tavern_card_effect_id_2": 31039,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30048,
+    "name": "Lv3-全-ド2",
+    "description": "すべてのおしごとに「ドリンク」を付与し満足度+5%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 30037,
+    "m_tavern_card_effect_id_2": 31037,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30049,
+    "name": "Lv3-全-接2",
+    "description": "すべてのおしごとに「接客」を付与し満足度+5%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 30038,
+    "m_tavern_card_effect_id_2": 31038,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30050,
+    "name": "Lv3-全-料2",
+    "description": "すべてのおしごとに「料理」を付与し満足度+5%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 30039,
+    "m_tavern_card_effect_id_2": 31039,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30051,
+    "name": "Lv3-全-ド3",
+    "description": "すべてのおしごとに「ドリンク」を付与し満足度+5%",
+    "category": 3,
+    "m_tavern_card_effect_id_1": 30037,
+    "m_tavern_card_effect_id_2": 31037,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30052,
+    "name": "Lv3-全-接3",
+    "description": "すべてのおしごとに「接客」を付与し満足度+5%",
+    "category": 2,
+    "m_tavern_card_effect_id_1": 30038,
+    "m_tavern_card_effect_id_2": 31038,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 30053,
+    "name": "Lv3-全-料3",
+    "description": "すべてのおしごとに「料理」を付与し満足度+5%",
+    "category": 1,
+    "m_tavern_card_effect_id_1": 30039,
+    "m_tavern_card_effect_id_2": 31039,
+    "m_tavern_card_effect_id_3": 0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 10000,
+    "m_disaster_boss_id": 2022201,
+    "description": "ストーリー2章クリア",
+    "restrict_type": 3,
+    "restrict_param_1": 1020406,
+    "restrict_param_2": 0
+  },
+  {
+    "id": 10001,
+    "m_disaster_boss_id": 2026501,
+    "description": "ストーリー4章クリア",
+    "restrict_type": 3,
+    "restrict_param_1": 1040505,
+    "restrict_param_2": 0
+  },
+  {
+    "id": 10002,
+    "m_disaster_boss_id": 2024401,
+    "description": "ストーリー6章クリア",
+    "restrict_type": 3,
+    "restrict_param_1": 1060505,
+    "restrict_param_2": 0
+  }
+]

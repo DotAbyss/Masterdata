@@ -1,0 +1,2506 @@
+[
+  {
+    "id": 2,
+    "target_type": 2,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 3,
+    "target_type": 2,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 300
+  },
+  {
+    "id": 4,
+    "target_type": 2,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 500
+  },
+  {
+    "id": 5,
+    "target_type": 3,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 300
+  },
+  {
+    "id": 6,
+    "target_type": 3,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 300
+  },
+  {
+    "id": 7,
+    "target_type": 3,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 300
+  },
+  {
+    "id": 8,
+    "target_type": 3,
+    "target_param": 4,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 300
+  },
+  {
+    "id": 9,
+    "target_type": 3,
+    "target_param": 5,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 300
+  },
+  {
+    "id": 10,
+    "target_type": 3,
+    "target_param": 6,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 300
+  },
+  {
+    "id": 11,
+    "target_type": 3,
+    "target_param": 7,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 300
+  },
+  {
+    "id": 12,
+    "target_type": 3,
+    "target_param": 8,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 300
+  },
+  {
+    "id": 13,
+    "target_type": 3,
+    "target_param": 9,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 300
+  },
+  {
+    "id": 14,
+    "target_type": 100,
+    "target_param": 1,
+    "random_num": 2,
+    "effect_type": 10,
+    "effect_param": 50
+  },
+  {
+    "id": 15,
+    "target_type": 100,
+    "target_param": 2,
+    "random_num": 2,
+    "effect_type": 10,
+    "effect_param": 50
+  },
+  {
+    "id": 16,
+    "target_type": 100,
+    "target_param": 3,
+    "random_num": 2,
+    "effect_type": 10,
+    "effect_param": 50
+  },
+  {
+    "id": 17,
+    "target_type": 100,
+    "target_param": 4,
+    "random_num": 2,
+    "effect_type": 10,
+    "effect_param": 50
+  },
+  {
+    "id": 18,
+    "target_type": 100,
+    "target_param": 5,
+    "random_num": 2,
+    "effect_type": 10,
+    "effect_param": 50
+  },
+  {
+    "id": 19,
+    "target_type": 101,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 20,
+    "target_type": 101,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 21,
+    "target_type": 101,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 22,
+    "target_type": 102,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 23,
+    "target_type": 102,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 24,
+    "target_type": 102,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 25,
+    "target_type": 103,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 26,
+    "target_type": 103,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 27,
+    "target_type": 103,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 28,
+    "target_type": 103,
+    "target_param": 4,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 29,
+    "target_type": 103,
+    "target_param": 5,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 30,
+    "target_type": 103,
+    "target_param": 6,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 31,
+    "target_type": 1,
+    "target_param": 0,
+    "random_num": 3,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 32,
+    "target_type": 1,
+    "target_param": 0,
+    "random_num": 3,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 33,
+    "target_type": 1,
+    "target_param": 0,
+    "random_num": 3,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 34,
+    "target_type": 102,
+    "target_param": 1,
+    "random_num": 3,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 35,
+    "target_type": 102,
+    "target_param": 2,
+    "random_num": 3,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 36,
+    "target_type": 102,
+    "target_param": 3,
+    "random_num": 3,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 37,
+    "target_type": 102,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 38,
+    "target_type": 102,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 39,
+    "target_type": 102,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 40,
+    "target_type": 102,
+    "target_param": 1,
+    "random_num": 1,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 41,
+    "target_type": 102,
+    "target_param": 2,
+    "random_num": 1,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 42,
+    "target_type": 102,
+    "target_param": 3,
+    "random_num": 1,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 101,
+    "target_type": 1,
+    "target_param": 0,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 102,
+    "target_type": 2,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 103,
+    "target_type": 2,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 104,
+    "target_type": 2,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 105,
+    "target_type": 3,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 106,
+    "target_type": 3,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 107,
+    "target_type": 3,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 108,
+    "target_type": 3,
+    "target_param": 4,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 109,
+    "target_type": 3,
+    "target_param": 5,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 110,
+    "target_type": 3,
+    "target_param": 6,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 111,
+    "target_type": 3,
+    "target_param": 7,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 112,
+    "target_type": 3,
+    "target_param": 8,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 113,
+    "target_type": 3,
+    "target_param": 9,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 114,
+    "target_type": 100,
+    "target_param": 1,
+    "random_num": 2,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 115,
+    "target_type": 100,
+    "target_param": 2,
+    "random_num": 2,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 116,
+    "target_type": 100,
+    "target_param": 3,
+    "random_num": 2,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 117,
+    "target_type": 100,
+    "target_param": 4,
+    "random_num": 2,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 118,
+    "target_type": 100,
+    "target_param": 5,
+    "random_num": 2,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 119,
+    "target_type": 101,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 120,
+    "target_type": 101,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 121,
+    "target_type": 101,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 122,
+    "target_type": 102,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 123,
+    "target_type": 102,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 124,
+    "target_type": 102,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 125,
+    "target_type": 103,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 126,
+    "target_type": 103,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 127,
+    "target_type": 103,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 128,
+    "target_type": 103,
+    "target_param": 4,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 129,
+    "target_type": 103,
+    "target_param": 5,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 130,
+    "target_type": 103,
+    "target_param": 6,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 1001,
+    "target_type": 0,
+    "target_param": 0,
+    "random_num": 0,
+    "effect_type": 100,
+    "effect_param": 1
+  },
+  {
+    "id": 1002,
+    "target_type": 0,
+    "target_param": 0,
+    "random_num": 0,
+    "effect_type": 100,
+    "effect_param": 2
+  },
+  {
+    "id": 1003,
+    "target_type": 0,
+    "target_param": 0,
+    "random_num": 0,
+    "effect_type": 100,
+    "effect_param": 3
+  },
+  {
+    "id": 1004,
+    "target_type": 0,
+    "target_param": 0,
+    "random_num": 0,
+    "effect_type": 100,
+    "effect_param": 4
+  },
+  {
+    "id": 1005,
+    "target_type": 0,
+    "target_param": 0,
+    "random_num": 0,
+    "effect_type": 100,
+    "effect_param": 5
+  },
+  {
+    "id": 1011,
+    "target_type": 0,
+    "target_param": 0,
+    "random_num": 0,
+    "effect_type": 101,
+    "effect_param": 1
+  },
+  {
+    "id": 1012,
+    "target_type": 0,
+    "target_param": 0,
+    "random_num": 0,
+    "effect_type": 101,
+    "effect_param": 2
+  },
+  {
+    "id": 1013,
+    "target_type": 0,
+    "target_param": 0,
+    "random_num": 0,
+    "effect_type": 101,
+    "effect_param": 3
+  },
+  {
+    "id": 1021,
+    "target_type": 0,
+    "target_param": 0,
+    "random_num": 0,
+    "effect_type": 102,
+    "effect_param": 1
+  },
+  {
+    "id": 1022,
+    "target_type": 0,
+    "target_param": 0,
+    "random_num": 0,
+    "effect_type": 102,
+    "effect_param": 2
+  },
+  {
+    "id": 1023,
+    "target_type": 0,
+    "target_param": 0,
+    "random_num": 0,
+    "effect_type": 102,
+    "effect_param": 3
+  },
+  {
+    "id": 1031,
+    "target_type": 0,
+    "target_param": 0,
+    "random_num": 0,
+    "effect_type": 103,
+    "effect_param": 1
+  },
+  {
+    "id": 1032,
+    "target_type": 0,
+    "target_param": 0,
+    "random_num": 0,
+    "effect_type": 103,
+    "effect_param": 2
+  },
+  {
+    "id": 1033,
+    "target_type": 0,
+    "target_param": 0,
+    "random_num": 0,
+    "effect_type": 103,
+    "effect_param": 3
+  },
+  {
+    "id": 1034,
+    "target_type": 0,
+    "target_param": 0,
+    "random_num": 0,
+    "effect_type": 103,
+    "effect_param": 4
+  },
+  {
+    "id": 1035,
+    "target_type": 0,
+    "target_param": 0,
+    "random_num": 0,
+    "effect_type": 103,
+    "effect_param": 5
+  },
+  {
+    "id": 1036,
+    "target_type": 0,
+    "target_param": 0,
+    "random_num": 0,
+    "effect_type": 103,
+    "effect_param": 6
+  },
+  {
+    "id": 2000,
+    "target_type": 1,
+    "target_param": 0,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 10001,
+    "target_type": 3,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 10002,
+    "target_type": 3,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 10003,
+    "target_type": 3,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 10004,
+    "target_type": 3,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 10005,
+    "target_type": 3,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 10006,
+    "target_type": 3,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 10007,
+    "target_type": 3,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 10008,
+    "target_type": 3,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 10009,
+    "target_type": 3,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 10010,
+    "target_type": 102,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 10011,
+    "target_type": 102,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 10012,
+    "target_type": 102,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 11001,
+    "target_type": 3,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 300
+  },
+  {
+    "id": 11002,
+    "target_type": 3,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 300
+  },
+  {
+    "id": 11003,
+    "target_type": 3,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 300
+  },
+  {
+    "id": 11004,
+    "target_type": 3,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 300
+  },
+  {
+    "id": 11005,
+    "target_type": 3,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 300
+  },
+  {
+    "id": 11006,
+    "target_type": 3,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 300
+  },
+  {
+    "id": 11007,
+    "target_type": 3,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 300
+  },
+  {
+    "id": 11008,
+    "target_type": 3,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 300
+  },
+  {
+    "id": 11009,
+    "target_type": 3,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 300
+  },
+  {
+    "id": 11010,
+    "target_type": 102,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 50
+  },
+  {
+    "id": 11011,
+    "target_type": 102,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 50
+  },
+  {
+    "id": 11012,
+    "target_type": 102,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 50
+  },
+  {
+    "id": 20001,
+    "target_type": 3,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 20002,
+    "target_type": 3,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 20003,
+    "target_type": 3,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 20004,
+    "target_type": 3,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 20005,
+    "target_type": 3,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 20006,
+    "target_type": 3,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 20007,
+    "target_type": 3,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 20008,
+    "target_type": 3,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 20009,
+    "target_type": 3,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 20010,
+    "target_type": 3,
+    "target_param": 4,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 20011,
+    "target_type": 3,
+    "target_param": 5,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 20012,
+    "target_type": 3,
+    "target_param": 6,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 20013,
+    "target_type": 3,
+    "target_param": 4,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 20014,
+    "target_type": 3,
+    "target_param": 5,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 20015,
+    "target_type": 3,
+    "target_param": 6,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 20016,
+    "target_type": 3,
+    "target_param": 4,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 20017,
+    "target_type": 3,
+    "target_param": 5,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 20018,
+    "target_type": 3,
+    "target_param": 6,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 20019,
+    "target_type": 102,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 20020,
+    "target_type": 102,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 20021,
+    "target_type": 102,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 20022,
+    "target_type": 102,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 20023,
+    "target_type": 102,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 20024,
+    "target_type": 102,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 21001,
+    "target_type": 3,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 500
+  },
+  {
+    "id": 21002,
+    "target_type": 3,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 500
+  },
+  {
+    "id": 21003,
+    "target_type": 3,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 500
+  },
+  {
+    "id": 21004,
+    "target_type": 3,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 500
+  },
+  {
+    "id": 21005,
+    "target_type": 3,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 500
+  },
+  {
+    "id": 21006,
+    "target_type": 3,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 500
+  },
+  {
+    "id": 21007,
+    "target_type": 3,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 500
+  },
+  {
+    "id": 21008,
+    "target_type": 3,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 500
+  },
+  {
+    "id": 21009,
+    "target_type": 3,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 500
+  },
+  {
+    "id": 21010,
+    "target_type": 3,
+    "target_param": 4,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 500
+  },
+  {
+    "id": 21011,
+    "target_type": 3,
+    "target_param": 5,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 500
+  },
+  {
+    "id": 21012,
+    "target_type": 3,
+    "target_param": 6,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 500
+  },
+  {
+    "id": 21013,
+    "target_type": 3,
+    "target_param": 4,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 500
+  },
+  {
+    "id": 21014,
+    "target_type": 3,
+    "target_param": 5,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 500
+  },
+  {
+    "id": 21015,
+    "target_type": 3,
+    "target_param": 6,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 500
+  },
+  {
+    "id": 21016,
+    "target_type": 3,
+    "target_param": 4,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 500
+  },
+  {
+    "id": 21017,
+    "target_type": 3,
+    "target_param": 5,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 500
+  },
+  {
+    "id": 21018,
+    "target_type": 3,
+    "target_param": 6,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 500
+  },
+  {
+    "id": 21019,
+    "target_type": 102,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 21020,
+    "target_type": 102,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 21021,
+    "target_type": 102,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 21022,
+    "target_type": 102,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 21023,
+    "target_type": 102,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 21024,
+    "target_type": 102,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 30001,
+    "target_type": 3,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 30002,
+    "target_type": 3,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 30003,
+    "target_type": 3,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 30004,
+    "target_type": 3,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 30005,
+    "target_type": 3,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 30006,
+    "target_type": 3,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 30007,
+    "target_type": 3,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 30008,
+    "target_type": 3,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 30009,
+    "target_type": 3,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 30010,
+    "target_type": 3,
+    "target_param": 4,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 30011,
+    "target_type": 3,
+    "target_param": 5,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 30012,
+    "target_type": 3,
+    "target_param": 6,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 30013,
+    "target_type": 3,
+    "target_param": 4,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 30014,
+    "target_type": 3,
+    "target_param": 5,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 30015,
+    "target_type": 3,
+    "target_param": 6,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 30016,
+    "target_type": 3,
+    "target_param": 4,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 30017,
+    "target_type": 3,
+    "target_param": 5,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 30018,
+    "target_type": 3,
+    "target_param": 6,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 30019,
+    "target_type": 3,
+    "target_param": 7,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 30020,
+    "target_type": 3,
+    "target_param": 8,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 30021,
+    "target_type": 3,
+    "target_param": 9,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 30022,
+    "target_type": 3,
+    "target_param": 7,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 30023,
+    "target_type": 3,
+    "target_param": 8,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 30024,
+    "target_type": 3,
+    "target_param": 9,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 30025,
+    "target_type": 3,
+    "target_param": 7,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 30026,
+    "target_type": 3,
+    "target_param": 8,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 30027,
+    "target_type": 3,
+    "target_param": 9,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 30028,
+    "target_type": 102,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 30029,
+    "target_type": 102,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 30030,
+    "target_type": 102,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 30031,
+    "target_type": 102,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 30032,
+    "target_type": 102,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 30033,
+    "target_type": 102,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 30034,
+    "target_type": 102,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 30035,
+    "target_type": 102,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 30036,
+    "target_type": 102,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 30037,
+    "target_type": 1,
+    "target_param": 0,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 30038,
+    "target_type": 1,
+    "target_param": 0,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 30039,
+    "target_type": 1,
+    "target_param": 0,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 31001,
+    "target_type": 3,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 800
+  },
+  {
+    "id": 31002,
+    "target_type": 3,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 800
+  },
+  {
+    "id": 31003,
+    "target_type": 3,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 800
+  },
+  {
+    "id": 31004,
+    "target_type": 3,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 800
+  },
+  {
+    "id": 31005,
+    "target_type": 3,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 800
+  },
+  {
+    "id": 31006,
+    "target_type": 3,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 800
+  },
+  {
+    "id": 31007,
+    "target_type": 3,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 800
+  },
+  {
+    "id": 31008,
+    "target_type": 3,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 800
+  },
+  {
+    "id": 31009,
+    "target_type": 3,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 800
+  },
+  {
+    "id": 31010,
+    "target_type": 3,
+    "target_param": 4,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 800
+  },
+  {
+    "id": 31011,
+    "target_type": 3,
+    "target_param": 5,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 800
+  },
+  {
+    "id": 31012,
+    "target_type": 3,
+    "target_param": 6,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 800
+  },
+  {
+    "id": 31013,
+    "target_type": 3,
+    "target_param": 4,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 800
+  },
+  {
+    "id": 31014,
+    "target_type": 3,
+    "target_param": 5,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 800
+  },
+  {
+    "id": 31015,
+    "target_type": 3,
+    "target_param": 6,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 800
+  },
+  {
+    "id": 31016,
+    "target_type": 3,
+    "target_param": 4,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 800
+  },
+  {
+    "id": 31017,
+    "target_type": 3,
+    "target_param": 5,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 800
+  },
+  {
+    "id": 31018,
+    "target_type": 3,
+    "target_param": 6,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 800
+  },
+  {
+    "id": 31019,
+    "target_type": 3,
+    "target_param": 7,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 800
+  },
+  {
+    "id": 31020,
+    "target_type": 3,
+    "target_param": 8,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 800
+  },
+  {
+    "id": 31021,
+    "target_type": 3,
+    "target_param": 9,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 800
+  },
+  {
+    "id": 31022,
+    "target_type": 3,
+    "target_param": 7,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 800
+  },
+  {
+    "id": 31023,
+    "target_type": 3,
+    "target_param": 8,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 800
+  },
+  {
+    "id": 31024,
+    "target_type": 3,
+    "target_param": 9,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 800
+  },
+  {
+    "id": 31025,
+    "target_type": 3,
+    "target_param": 7,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 800
+  },
+  {
+    "id": 31026,
+    "target_type": 3,
+    "target_param": 8,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 800
+  },
+  {
+    "id": 31027,
+    "target_type": 3,
+    "target_param": 9,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 800
+  },
+  {
+    "id": 31028,
+    "target_type": 102,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 31029,
+    "target_type": 102,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 31030,
+    "target_type": 102,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 31031,
+    "target_type": 102,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 31032,
+    "target_type": 102,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 31033,
+    "target_type": 102,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 31034,
+    "target_type": 102,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 31035,
+    "target_type": 102,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 31036,
+    "target_type": 102,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 31037,
+    "target_type": 1,
+    "target_param": 0,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 50
+  },
+  {
+    "id": 31038,
+    "target_type": 1,
+    "target_param": 0,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 50
+  },
+  {
+    "id": 31039,
+    "target_type": 1,
+    "target_param": 0,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 50
+  },
+  {
+    "id": 100001,
+    "target_type": 100,
+    "target_param": 1,
+    "random_num": 1,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 100002,
+    "target_type": 100,
+    "target_param": 1,
+    "random_num": 1,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 100003,
+    "target_type": 100,
+    "target_param": 1,
+    "random_num": 1,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 100004,
+    "target_type": 100,
+    "target_param": 2,
+    "random_num": 1,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 100005,
+    "target_type": 100,
+    "target_param": 2,
+    "random_num": 1,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 100006,
+    "target_type": 100,
+    "target_param": 2,
+    "random_num": 1,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 100007,
+    "target_type": 100,
+    "target_param": 3,
+    "random_num": 1,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 100008,
+    "target_type": 100,
+    "target_param": 3,
+    "random_num": 1,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 100009,
+    "target_type": 100,
+    "target_param": 3,
+    "random_num": 1,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 100010,
+    "target_type": 100,
+    "target_param": 4,
+    "random_num": 1,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 100011,
+    "target_type": 100,
+    "target_param": 4,
+    "random_num": 1,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 100012,
+    "target_type": 100,
+    "target_param": 4,
+    "random_num": 1,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 100013,
+    "target_type": 100,
+    "target_param": 5,
+    "random_num": 1,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 100014,
+    "target_type": 100,
+    "target_param": 5,
+    "random_num": 1,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 100015,
+    "target_type": 100,
+    "target_param": 5,
+    "random_num": 1,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 101001,
+    "target_type": 100,
+    "target_param": 1,
+    "random_num": 2,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 101002,
+    "target_type": 100,
+    "target_param": 1,
+    "random_num": 2,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 101003,
+    "target_type": 100,
+    "target_param": 1,
+    "random_num": 2,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 101004,
+    "target_type": 100,
+    "target_param": 2,
+    "random_num": 2,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 101005,
+    "target_type": 100,
+    "target_param": 2,
+    "random_num": 2,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 101006,
+    "target_type": 100,
+    "target_param": 2,
+    "random_num": 2,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 101007,
+    "target_type": 100,
+    "target_param": 3,
+    "random_num": 2,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 101008,
+    "target_type": 100,
+    "target_param": 3,
+    "random_num": 2,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 101009,
+    "target_type": 100,
+    "target_param": 3,
+    "random_num": 2,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 101010,
+    "target_type": 100,
+    "target_param": 4,
+    "random_num": 2,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 101011,
+    "target_type": 100,
+    "target_param": 4,
+    "random_num": 2,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 101012,
+    "target_type": 100,
+    "target_param": 4,
+    "random_num": 2,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 101013,
+    "target_type": 100,
+    "target_param": 5,
+    "random_num": 2,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 101014,
+    "target_type": 100,
+    "target_param": 5,
+    "random_num": 2,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 101015,
+    "target_type": 100,
+    "target_param": 5,
+    "random_num": 2,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 102001,
+    "target_type": 100,
+    "target_param": 1,
+    "random_num": 3,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 102002,
+    "target_type": 100,
+    "target_param": 1,
+    "random_num": 3,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 102003,
+    "target_type": 100,
+    "target_param": 1,
+    "random_num": 3,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 102004,
+    "target_type": 100,
+    "target_param": 2,
+    "random_num": 3,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 102005,
+    "target_type": 100,
+    "target_param": 2,
+    "random_num": 3,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 102006,
+    "target_type": 100,
+    "target_param": 2,
+    "random_num": 3,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 102007,
+    "target_type": 100,
+    "target_param": 3,
+    "random_num": 3,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 102008,
+    "target_type": 100,
+    "target_param": 3,
+    "random_num": 3,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 102009,
+    "target_type": 100,
+    "target_param": 3,
+    "random_num": 3,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 102010,
+    "target_type": 100,
+    "target_param": 4,
+    "random_num": 3,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 102011,
+    "target_type": 100,
+    "target_param": 4,
+    "random_num": 3,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 102012,
+    "target_type": 100,
+    "target_param": 4,
+    "random_num": 3,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 102013,
+    "target_type": 100,
+    "target_param": 5,
+    "random_num": 3,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 102014,
+    "target_type": 100,
+    "target_param": 5,
+    "random_num": 3,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 102015,
+    "target_type": 100,
+    "target_param": 5,
+    "random_num": 3,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 200001,
+    "target_type": 2,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 200
+  },
+  {
+    "id": 200002,
+    "target_type": 2,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 500
+  },
+  {
+    "id": 200003,
+    "target_type": 2,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 300
+  },
+  {
+    "id": 300001,
+    "target_type": 101,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 300002,
+    "target_type": 101,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 300003,
+    "target_type": 101,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 300004,
+    "target_type": 101,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 1
+  },
+  {
+    "id": 300005,
+    "target_type": 101,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 3
+  },
+  {
+    "id": 300006,
+    "target_type": 101,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 20,
+    "effect_param": 2
+  },
+  {
+    "id": 400000,
+    "target_type": 1,
+    "target_param": 0,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 400001,
+    "target_type": 1,
+    "target_param": 0,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 200
+  },
+  {
+    "id": 400002,
+    "target_type": 1,
+    "target_param": 0,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 50
+  },
+  {
+    "id": 401000,
+    "target_type": 100,
+    "target_param": 1,
+    "random_num": 2,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 401001,
+    "target_type": 100,
+    "target_param": 2,
+    "random_num": 2,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 401002,
+    "target_type": 100,
+    "target_param": 3,
+    "random_num": 2,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 401003,
+    "target_type": 100,
+    "target_param": 4,
+    "random_num": 2,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 401004,
+    "target_type": 100,
+    "target_param": 1,
+    "random_num": 3,
+    "effect_type": 10,
+    "effect_param": 200
+  },
+  {
+    "id": 401005,
+    "target_type": 100,
+    "target_param": 2,
+    "random_num": 3,
+    "effect_type": 10,
+    "effect_param": 200
+  },
+  {
+    "id": 401006,
+    "target_type": 100,
+    "target_param": 3,
+    "random_num": 3,
+    "effect_type": 10,
+    "effect_param": 200
+  },
+  {
+    "id": 401007,
+    "target_type": 100,
+    "target_param": 4,
+    "random_num": 3,
+    "effect_type": 10,
+    "effect_param": 200
+  },
+  {
+    "id": 500000,
+    "target_type": 0,
+    "target_param": 0,
+    "random_num": 0,
+    "effect_type": 101,
+    "effect_param": 3
+  },
+  {
+    "id": 500001,
+    "target_type": 0,
+    "target_param": 0,
+    "random_num": 0,
+    "effect_type": 101,
+    "effect_param": 2
+  },
+  {
+    "id": 500002,
+    "target_type": 0,
+    "target_param": 0,
+    "random_num": 0,
+    "effect_type": 101,
+    "effect_param": 1
+  },
+  {
+    "id": 501000,
+    "target_type": 101,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 501001,
+    "target_type": 101,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 501002,
+    "target_type": 101,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 502000,
+    "target_type": 101,
+    "target_param": 3,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 502001,
+    "target_type": 101,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  },
+  {
+    "id": 502002,
+    "target_type": 101,
+    "target_param": 1,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 100
+  }
+]

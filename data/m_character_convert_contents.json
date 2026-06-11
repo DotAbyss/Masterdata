@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "rarity": 1,
+    "acquire_count": 2,
+    "convert_type": 1,
+    "amount": 1
+  },
+  {
+    "id": 2,
+    "rarity": 1,
+    "acquire_count": 11,
+    "convert_type": 2,
+    "amount": 1
+  },
+  {
+    "id": 3,
+    "rarity": 1,
+    "acquire_count": 51,
+    "convert_type": 3,
+    "amount": 1
+  },
+  {
+    "id": 4,
+    "rarity": 2,
+    "acquire_count": 2,
+    "convert_type": 1,
+    "amount": 1
+  },
+  {
+    "id": 5,
+    "rarity": 2,
+    "acquire_count": 11,
+    "convert_type": 2,
+    "amount": 2
+  },
+  {
+    "id": 6,
+    "rarity": 2,
+    "acquire_count": 51,
+    "convert_type": 3,
+    "amount": 2
+  },
+  {
+    "id": 7,
+    "rarity": 3,
+    "acquire_count": 2,
+    "convert_type": 1,
+    "amount": 1
+  },
+  {
+    "id": 8,
+    "rarity": 3,
+    "acquire_count": 11,
+    "convert_type": 2,
+    "amount": 10
+  },
+  {
+    "id": 9,
+    "rarity": 3,
+    "acquire_count": 61,
+    "convert_type": 3,
+    "amount": 100
+  }
+]

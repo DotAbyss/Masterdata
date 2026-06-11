@@ -1,0 +1,261 @@
+[
+  {
+    "id": 1010,
+    "name": "片手剣",
+    "job_group_type": 9000,
+    "species_type": 1,
+    "m_attribute_tag_group_group_id": 0
+  },
+  {
+    "id": 1020,
+    "name": "大剣",
+    "job_group_type": 9000,
+    "species_type": 1,
+    "m_attribute_tag_group_group_id": 0
+  },
+  {
+    "id": 1030,
+    "name": "拳",
+    "job_group_type": 9000,
+    "species_type": 1,
+    "m_attribute_tag_group_group_id": 0
+  },
+  {
+    "id": 1040,
+    "name": "弓",
+    "job_group_type": 9000,
+    "species_type": 1,
+    "m_attribute_tag_group_group_id": 0
+  },
+  {
+    "id": 1050,
+    "name": "銃",
+    "job_group_type": 9000,
+    "species_type": 1,
+    "m_attribute_tag_group_group_id": 0
+  },
+  {
+    "id": 1060,
+    "name": "杖",
+    "job_group_type": 9000,
+    "species_type": 1,
+    "m_attribute_tag_group_group_id": 0
+  },
+  {
+    "id": 1070,
+    "name": "魔導書",
+    "job_group_type": 9000,
+    "species_type": 1,
+    "m_attribute_tag_group_group_id": 0
+  },
+  {
+    "id": 1080,
+    "name": "ピッケル",
+    "job_group_type": 9000,
+    "species_type": 1,
+    "m_attribute_tag_group_group_id": 0
+  },
+  {
+    "id": 2001000,
+    "name": "ゴブリン",
+    "job_group_type": 2001,
+    "species_type": 1,
+    "m_attribute_tag_group_group_id": 1
+  },
+  {
+    "id": 2002000,
+    "name": "ドワーフ",
+    "job_group_type": 2002,
+    "species_type": 1,
+    "m_attribute_tag_group_group_id": 2
+  },
+  {
+    "id": 2003000,
+    "name": "魔導士",
+    "job_group_type": 2003,
+    "species_type": 1,
+    "m_attribute_tag_group_group_id": 3
+  },
+  {
+    "id": 2004000,
+    "name": "魔族の女魔法使い",
+    "job_group_type": 2004,
+    "species_type": 4,
+    "m_attribute_tag_group_group_id": 4
+  },
+  {
+    "id": 2005000,
+    "name": "ウルフ",
+    "job_group_type": 2005,
+    "species_type": 3,
+    "m_attribute_tag_group_group_id": 5
+  },
+  {
+    "id": 2006000,
+    "name": "ゴーレム",
+    "job_group_type": 2006,
+    "species_type": 5,
+    "m_attribute_tag_group_group_id": 6
+  },
+  {
+    "id": 2007000,
+    "name": "スライム",
+    "job_group_type": 2007,
+    "species_type": 2,
+    "m_attribute_tag_group_group_id": 7
+  },
+  {
+    "id": 2008000,
+    "name": "ハーピィ",
+    "job_group_type": 2008,
+    "species_type": 4,
+    "m_attribute_tag_group_group_id": 8
+  },
+  {
+    "id": 2009000,
+    "name": "野良冒険者（大剣）",
+    "job_group_type": 9001,
+    "species_type": 1,
+    "m_attribute_tag_group_group_id": 18
+  },
+  {
+    "id": 2010000,
+    "name": "野良冒険者（片手剣）",
+    "job_group_type": 9001,
+    "species_type": 1,
+    "m_attribute_tag_group_group_id": 18
+  },
+  {
+    "id": 2011000,
+    "name": "野良冒険者（魔法）",
+    "job_group_type": 9001,
+    "species_type": 1,
+    "m_attribute_tag_group_group_id": 18
+  },
+  {
+    "id": 2012000,
+    "name": "野良冒険者（弓）",
+    "job_group_type": 9001,
+    "species_type": 1,
+    "m_attribute_tag_group_group_id": 18
+  },
+  {
+    "id": 2013000,
+    "name": "野良冒険者（魔導書）",
+    "job_group_type": 9001,
+    "species_type": 1,
+    "m_attribute_tag_group_group_id": 18
+  },
+  {
+    "id": 2014000,
+    "name": "マンイーター",
+    "job_group_type": 2014,
+    "species_type": 3,
+    "m_attribute_tag_group_group_id": 9
+  },
+  {
+    "id": 2015000,
+    "name": "ミノタウロス",
+    "job_group_type": 2015,
+    "species_type": 1,
+    "m_attribute_tag_group_group_id": 10
+  },
+  {
+    "id": 2016000,
+    "name": "バジリスク",
+    "job_group_type": 2016,
+    "species_type": 3,
+    "m_attribute_tag_group_group_id": 11
+  },
+  {
+    "id": 2017000,
+    "name": "鎧巨人",
+    "job_group_type": 2017,
+    "species_type": 5,
+    "m_attribute_tag_group_group_id": 12
+  },
+  {
+    "id": 2018000,
+    "name": "ドラゴン",
+    "job_group_type": 2018,
+    "species_type": 4,
+    "m_attribute_tag_group_group_id": 13
+  },
+  {
+    "id": 2019000,
+    "name": "キマイラ",
+    "job_group_type": 2019,
+    "species_type": 4,
+    "m_attribute_tag_group_group_id": 14
+  },
+  {
+    "id": 2022000,
+    "name": "氷河の厄災",
+    "job_group_type": 9002,
+    "species_type": 3,
+    "m_attribute_tag_group_group_id": 19
+  },
+  {
+    "id": 2024000,
+    "name": "天使の厄災",
+    "job_group_type": 9002,
+    "species_type": 4,
+    "m_attribute_tag_group_group_id": 19
+  },
+  {
+    "id": 2026000,
+    "name": "飢餓の厄災",
+    "job_group_type": 9002,
+    "species_type": 3,
+    "m_attribute_tag_group_group_id": 19
+  },
+  {
+    "id": 2027000,
+    "name": "小規模厄災",
+    "job_group_type": 9002,
+    "species_type": 2,
+    "m_attribute_tag_group_group_id": 19
+  },
+  {
+    "id": 2028000,
+    "name": "盗賊",
+    "job_group_type": 2028,
+    "species_type": 1,
+    "m_attribute_tag_group_group_id": 15
+  },
+  {
+    "id": 2029000,
+    "name": "盗賊リーダー",
+    "job_group_type": 2028,
+    "species_type": 1,
+    "m_attribute_tag_group_group_id": 15
+  },
+  {
+    "id": 2030000,
+    "name": "エレメンタル",
+    "job_group_type": 2030,
+    "species_type": 5,
+    "m_attribute_tag_group_group_id": 16
+  },
+  {
+    "id": 2038000,
+    "name": "採掘目標",
+    "job_group_type": 2038,
+    "species_type": 3,
+    "m_attribute_tag_group_group_id": 17
+  },
+  {
+    "id": 2040000,
+    "name": "氷河の厄災【凶化】",
+    "job_group_type": 9002,
+    "species_type": 3,
+    "m_attribute_tag_group_group_id": 19
+  },
+  {
+    "id": 2045000,
+    "name": "トリッキーゴーレム",
+    "job_group_type": 2006,
+    "species_type": 5,
+    "m_attribute_tag_group_group_id": 6
+  }
+]

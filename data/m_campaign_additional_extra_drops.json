@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "m_campaign_id": 1,
+    "effective_target": 1,
+    "additional_probability": 100
+  },
+  {
+    "id": 2,
+    "m_campaign_id": 1,
+    "effective_target": 6,
+    "additional_probability": 100
+  },
+  {
+    "id": 3,
+    "m_campaign_id": 2,
+    "effective_target": 2,
+    "additional_probability": 1000
+  }
+]

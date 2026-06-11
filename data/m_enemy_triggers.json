@@ -1,0 +1,37 @@
+[
+  {
+    "id": 5,
+    "m_enemy_id": 1000001011,
+    "threshold": 750,
+    "trigger_type": 1,
+    "trigger_id": 2
+  },
+  {
+    "id": 6,
+    "m_enemy_id": 1000001011,
+    "threshold": 500,
+    "trigger_type": 2,
+    "trigger_id": 1
+  },
+  {
+    "id": 7,
+    "m_enemy_id": 1000001011,
+    "threshold": 500,
+    "trigger_type": 3,
+    "trigger_id": 3
+  },
+  {
+    "id": 8,
+    "m_enemy_id": 1000001011,
+    "threshold": 200,
+    "trigger_type": 1,
+    "trigger_id": 3
+  },
+  {
+    "id": 9,
+    "m_enemy_id": 1000001011,
+    "threshold": 100,
+    "trigger_type": 2,
+    "trigger_id": 1
+  }
+]

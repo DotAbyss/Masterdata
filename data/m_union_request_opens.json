@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "m_union_type_id": 1,
+    "weekday": 1
+  },
+  {
+    "id": 2,
+    "m_union_type_id": 1,
+    "weekday": 6
+  },
+  {
+    "id": 3,
+    "m_union_type_id": 2,
+    "weekday": 2
+  },
+  {
+    "id": 4,
+    "m_union_type_id": 2,
+    "weekday": 7
+  },
+  {
+    "id": 5,
+    "m_union_type_id": 3,
+    "weekday": 3
+  },
+  {
+    "id": 6,
+    "m_union_type_id": 3,
+    "weekday": 6
+  },
+  {
+    "id": 7,
+    "m_union_type_id": 4,
+    "weekday": 4
+  },
+  {
+    "id": 8,
+    "m_union_type_id": 4,
+    "weekday": 7
+  },
+  {
+    "id": 9,
+    "m_union_type_id": 5,
+    "weekday": 5
+  },
+  {
+    "id": 10,
+    "m_union_type_id": 5,
+    "weekday": 7
+  }
+]

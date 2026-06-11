@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1,
+    "cue_sheet_type": 0,
+    "voice_cue_name": "obtain",
+    "title": "自己紹介"
+  },
+  {
+    "id": 2,
+    "cue_sheet_type": 0,
+    "voice_cue_name": "gift_voice",
+    "title": "キャラからの贈り物"
+  },
+  {
+    "id": 3,
+    "cue_sheet_type": 0,
+    "voice_cue_name": "character_enhancement",
+    "title": "Lvアップ"
+  },
+  {
+    "id": 4,
+    "cue_sheet_type": 0,
+    "voice_cue_name": "limit_break",
+    "title": "限界突破"
+  },
+  {
+    "id": 5,
+    "cue_sheet_type": 0,
+    "voice_cue_name": "affection_up_01",
+    "title": "親愛度アップ①"
+  },
+  {
+    "id": 6,
+    "cue_sheet_type": 0,
+    "voice_cue_name": "affection_up_02",
+    "title": "親愛度アップ②"
+  },
+  {
+    "id": 7,
+    "cue_sheet_type": 0,
+    "voice_cue_name": "affection_up_03",
+    "title": "親愛度アップ③"
+  },
+  {
+    "id": 8,
+    "cue_sheet_type": 0,
+    "voice_cue_name": "display_voice_01",
+    "title": "キャラ詳細画面①"
+  },
+  {
+    "id": 9,
+    "cue_sheet_type": 0,
+    "voice_cue_name": "display_voice_02",
+    "title": "キャラ詳細画面②"
+  },
+  {
+    "id": 10,
+    "cue_sheet_type": 0,
+    "voice_cue_name": "brothel_placement",
+    "title": "おしごと配置"
+  },
+  {
+    "id": 11,
+    "cue_sheet_type": 0,
+    "voice_cue_name": "cast_registration",
+    "title": "スタッフ登録"
+  },
+  {
+    "id": 12,
+    "cue_sheet_type": 0,
+    "voice_cue_name": "work_levelup_01",
+    "title": "提案カード①"
+  },
+  {
+    "id": 13,
+    "cue_sheet_type": 0,
+    "voice_cue_name": "work_levelup_02",
+    "title": "提案カード②"
+  },
+  {
+    "id": 14,
+    "cue_sheet_type": 0,
+    "voice_cue_name": "cast_detail_01",
+    "title": "交流画面おしごとコス①"
+  },
+  {
+    "id": 15,
+    "cue_sheet_type": 0,
+    "voice_cue_name": "cast_detail_02",
+    "title": "交流画面おしごとコス②"
+  },
+  {
+    "id": 16,
+    "cue_sheet_type": 0,
+    "voice_cue_name": "cast_detail_03",
+    "title": "交流画面おしごとコス③"
+  },
+  {
+    "id": 17,
+    "cue_sheet_type": 0,
+    "voice_cue_name": "touch_voice_extra_01",
+    "title": "交流画面おしごとコスにタッチ①"
+  },
+  {
+    "id": 18,
+    "cue_sheet_type": 0,
+    "voice_cue_name": "touch_voice_extra_02",
+    "title": "交流画面おしごとコスにタッチ②"
+  },
+  {
+    "id": 19,
+    "cue_sheet_type": 0,
+    "voice_cue_name": "touch_voice_extra_03",
+    "title": "交流画面おしごとコスにタッチ③"
+  },
+  {
+    "id": 20,
+    "cue_sheet_type": 0,
+    "voice_cue_name": "quest_departure",
+    "title": "クエスト出撃"
+  },
+  {
+    "id": 21,
+    "cue_sheet_type": 0,
+    "voice_cue_name": "disaster_battle_start",
+    "title": "厄災戦開始"
+  },
+  {
+    "id": 22,
+    "cue_sheet_type": 0,
+    "voice_cue_name": "formation_selection",
+    "title": "キャラ編成時"
+  },
+  {
+    "id": 23,
+    "cue_sheet_type": 1,
+    "voice_cue_name": "co_normal_attack_01",
+    "title": "通常攻撃①"
+  },
+  {
+    "id": 24,
+    "cue_sheet_type": 1,
+    "voice_cue_name": "co_normal_attack_02",
+    "title": "通常攻撃②"
+  },
+  {
+    "id": 25,
+    "cue_sheet_type": 1,
+    "voice_cue_name": "co_normal_attack_03",
+    "title": "通常攻撃③"
+  },
+  {
+    "id": 26,
+    "cue_sheet_type": 1,
+    "voice_cue_name": "co_damage_small",
+    "title": "ダメージ(小)"
+  },
+  {
+    "id": 27,
+    "cue_sheet_type": 1,
+    "voice_cue_name": "co_damage_large",
+    "title": "ダメージ(大)"
+  },
+  {
+    "id": 28,
+    "cue_sheet_type": 1,
+    "voice_cue_name": "co_action_skill",
+    "title": "スキル"
+  },
+  {
+    "id": 29,
+    "cue_sheet_type": 1,
+    "voice_cue_name": "vo_force_chain_cut_in",
+    "title": "フォースチェインカットイン"
+  },
+  {
+    "id": 30,
+    "cue_sheet_type": 1,
+    "voice_cue_name": "vo_force_chain",
+    "title": "フォースチェイン"
+  },
+  {
+    "id": 31,
+    "cue_sheet_type": 1,
+    "voice_cue_name": "co_battle_defeat",
+    "title": "戦闘不能"
+  },
+  {
+    "id": 32,
+    "cue_sheet_type": 1,
+    "voice_cue_name": "vo_floor_part_move",
+    "title": "フロアパーツ移動時"
+  },
+  {
+    "id": 33,
+    "cue_sheet_type": 1,
+    "voice_cue_name": "vo_battle_room_move",
+    "title": "バトル部屋移動時"
+  },
+  {
+    "id": 34,
+    "cue_sheet_type": 1,
+    "voice_cue_name": "vo_battle_room_clear",
+    "title": "バトル部屋クリア時"
+  },
+  {
+    "id": 35,
+    "cue_sheet_type": 1,
+    "voice_cue_name": "vo_ingame_start",
+    "title": "バトル開始"
+  },
+  {
+    "id": 36,
+    "cue_sheet_type": 0,
+    "voice_cue_name": "battle_victory",
+    "title": "バトル勝利"
+  },
+  {
+    "id": 37,
+    "cue_sheet_type": 0,
+    "voice_cue_name": "battle_defeat",
+    "title": "バトル敗北"
+  },
+  {
+    "id": 38,
+    "cue_sheet_type": 0,
+    "voice_cue_name": "idle_reward_01",
+    "title": "探索報酬獲得①"
+  },
+  {
+    "id": 39,
+    "cue_sheet_type": 0,
+    "voice_cue_name": "idle_reward_02",
+    "title": "探索報酬獲得②"
+  },
+  {
+    "id": 40,
+    "cue_sheet_type": 0,
+    "voice_cue_name": "brothel_reward_01",
+    "title": "おしごと報酬獲得①"
+  },
+  {
+    "id": 41,
+    "cue_sheet_type": 0,
+    "voice_cue_name": "brothel_reward_02",
+    "title": "おしごと報酬獲得②"
+  },
+  {
+    "id": 42,
+    "cue_sheet_type": 0,
+    "voice_cue_name": "brothel_reward_03",
+    "title": "おしごと報酬獲得③"
+  },
+  {
+    "id": 43,
+    "cue_sheet_type": 0,
+    "voice_cue_name": "skin_change",
+    "title": "スキン着せ替え時"
+  },
+  {
+    "id": 44,
+    "cue_sheet_type": 0,
+    "voice_cue_name": "floor_cleared",
+    "title": "階層踏破時"
+  }
+]

@@ -1,0 +1,938 @@
+[
+  {
+    "id": 1,
+    "name": "焔の囁き",
+    "m_dungeon_id": 2300111,
+    "recommended_power": 31844,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 2,
+    "name": "滴る静寂",
+    "m_dungeon_id": 2300112,
+    "recommended_power": 31844,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 3,
+    "name": "砂の迷宮",
+    "m_dungeon_id": 2300113,
+    "recommended_power": 31844,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 4,
+    "name": "軋む巨壁",
+    "m_dungeon_id": 2300114,
+    "recommended_power": 31844,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 5,
+    "name": "鉄の息吹",
+    "m_dungeon_id": 2300115,
+    "recommended_power": 31844,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 6,
+    "name": "鉄槌の殿堂",
+    "m_dungeon_id": 2300121,
+    "recommended_power": 33381,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 7,
+    "name": "剛壁の間",
+    "m_dungeon_id": 2300122,
+    "recommended_power": 33381,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 8,
+    "name": "巨星の空間",
+    "m_dungeon_id": 2300123,
+    "recommended_power": 33381,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 9,
+    "name": "剛帝の玉座",
+    "m_dungeon_id": 2300131,
+    "recommended_power": 35219,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 10,
+    "name": "鋼鎧の王",
+    "m_dungeon_id": 2300132,
+    "recommended_power": 35219,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 11,
+    "name": "巨躯の調べ",
+    "m_dungeon_id": 2300133,
+    "recommended_power": 35219,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 12,
+    "name": "淡き輝き",
+    "m_dungeon_id": 2300211,
+    "recommended_power": 48735,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 13,
+    "name": "沈む黒霧",
+    "m_dungeon_id": 2300212,
+    "recommended_power": 48735,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 14,
+    "name": "崩れた礎",
+    "m_dungeon_id": 2300213,
+    "recommended_power": 48735,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 15,
+    "name": "囁く刃",
+    "m_dungeon_id": 2300214,
+    "recommended_power": 48735,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 16,
+    "name": "影の機構",
+    "m_dungeon_id": 2300215,
+    "recommended_power": 48735,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 17,
+    "name": "機巧の迷宮",
+    "m_dungeon_id": 2300221,
+    "recommended_power": 50354,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 18,
+    "name": "刃の舞踏場",
+    "m_dungeon_id": 2300222,
+    "recommended_power": 50354,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 19,
+    "name": "機刃の監獄",
+    "m_dungeon_id": 2300223,
+    "recommended_power": 50354,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 20,
+    "name": "機神の玉座",
+    "m_dungeon_id": 2300231,
+    "recommended_power": 53514,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 21,
+    "name": "影機の支配者",
+    "m_dungeon_id": 2300232,
+    "recommended_power": 53514,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 22,
+    "name": "鋼機皇",
+    "m_dungeon_id": 2300233,
+    "recommended_power": 53514,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 23,
+    "name": "黄土の回廊",
+    "m_dungeon_id": 2300311,
+    "recommended_power": 67127,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 24,
+    "name": "砕けた巨壁",
+    "m_dungeon_id": 2300312,
+    "recommended_power": 67127,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 25,
+    "name": "石屑の道",
+    "m_dungeon_id": 2300313,
+    "recommended_power": 67127,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 26,
+    "name": "岩影の回廊",
+    "m_dungeon_id": 2300314,
+    "recommended_power": 67127,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 27,
+    "name": "土煙の洞",
+    "m_dungeon_id": 2300315,
+    "recommended_power": 67127,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 28,
+    "name": "大地の咆哮",
+    "m_dungeon_id": 2300321,
+    "recommended_power": 69066,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 29,
+    "name": "岩壁の監獄",
+    "m_dungeon_id": 2300322,
+    "recommended_power": 69066,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 30,
+    "name": "地鎧の回廊",
+    "m_dungeon_id": 2300323,
+    "recommended_power": 69066,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 31,
+    "name": "地帝の玉座",
+    "m_dungeon_id": 2300331,
+    "recommended_power": 73743,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 32,
+    "name": "地神の祭壇",
+    "m_dungeon_id": 2300332,
+    "recommended_power": 73743,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 33,
+    "name": "蒼き吐息",
+    "m_dungeon_id": 2300411,
+    "recommended_power": 89509,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 34,
+    "name": "水影の小径",
+    "m_dungeon_id": 2300412,
+    "recommended_power": 89509,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 35,
+    "name": "淡水の回廊",
+    "m_dungeon_id": 2300413,
+    "recommended_power": 89509,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 36,
+    "name": "滲む涙",
+    "m_dungeon_id": 2300414,
+    "recommended_power": 89509,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 37,
+    "name": "波間の道",
+    "m_dungeon_id": 2300415,
+    "recommended_power": 89509,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 38,
+    "name": "水牙の監獄",
+    "m_dungeon_id": 2300421,
+    "recommended_power": 91828,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 39,
+    "name": "潮騒の檻",
+    "m_dungeon_id": 2300422,
+    "recommended_power": 91828,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 40,
+    "name": "氷流の迷宮",
+    "m_dungeon_id": 2300423,
+    "recommended_power": 91828,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 41,
+    "name": "海皇の座",
+    "m_dungeon_id": 2300431,
+    "recommended_power": 95911,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 42,
+    "name": "蒼海覇王",
+    "m_dungeon_id": 2300432,
+    "recommended_power": 95911,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 43,
+    "name": "月影の径",
+    "m_dungeon_id": 2300511,
+    "recommended_power": 119342,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 44,
+    "name": "闇のさざめき",
+    "m_dungeon_id": 2300512,
+    "recommended_power": 119342,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 45,
+    "name": "闇影の小径",
+    "m_dungeon_id": 2300513,
+    "recommended_power": 119342,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 46,
+    "name": "虚影の道",
+    "m_dungeon_id": 2300514,
+    "recommended_power": 119342,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 47,
+    "name": "翳る回廊",
+    "m_dungeon_id": 2300515,
+    "recommended_power": 119342,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 48,
+    "name": "闇哭の迷宮",
+    "m_dungeon_id": 2300521,
+    "recommended_power": 122172,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 49,
+    "name": "黒哭の谷",
+    "m_dungeon_id": 2300522,
+    "recommended_power": 122172,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 50,
+    "name": "影炎の監獄",
+    "m_dungeon_id": 2300523,
+    "recommended_power": 122172,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 51,
+    "name": "闇王の心臓",
+    "m_dungeon_id": 2300531,
+    "recommended_power": 131090,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 52,
+    "name": "虚無の支配者",
+    "m_dungeon_id": 2300532,
+    "recommended_power": 131090,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 53,
+    "name": "黎明の径",
+    "m_dungeon_id": 2300611,
+    "recommended_power": 149067,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 54,
+    "name": "明影の道",
+    "m_dungeon_id": 2300612,
+    "recommended_power": 149067,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 55,
+    "name": "銀色の囁き",
+    "m_dungeon_id": 2300613,
+    "recommended_power": 149067,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 56,
+    "name": "月光の回廊",
+    "m_dungeon_id": 2300614,
+    "recommended_power": 149067,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 57,
+    "name": "星影の回廊",
+    "m_dungeon_id": 2300615,
+    "recommended_power": 149067,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 58,
+    "name": "輝輪の牢",
+    "m_dungeon_id": 2300621,
+    "recommended_power": 152249,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 59,
+    "name": "光鎖の檻",
+    "m_dungeon_id": 2300622,
+    "recommended_power": 152249,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 60,
+    "name": "白光の谷",
+    "m_dungeon_id": 2300623,
+    "recommended_power": 152249,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 61,
+    "name": "聖輪の玉座",
+    "m_dungeon_id": 2300631,
+    "recommended_power": 158146,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 62,
+    "name": "白銀覇王",
+    "m_dungeon_id": 2300632,
+    "recommended_power": 158146,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 63,
+    "name": "火の粉の道",
+    "m_dungeon_id": 2300711,
+    "recommended_power": 191420,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 64,
+    "name": "残照の回廊",
+    "m_dungeon_id": 2300712,
+    "recommended_power": 191420,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 65,
+    "name": "朱の微光",
+    "m_dungeon_id": 2300713,
+    "recommended_power": 191420,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 66,
+    "name": "揺らめく火影",
+    "m_dungeon_id": 2300714,
+    "recommended_power": 191420,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 67,
+    "name": "燃え残る夢",
+    "m_dungeon_id": 2300715,
+    "recommended_power": 191420,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 68,
+    "name": "焔嵐の道",
+    "m_dungeon_id": 2300721,
+    "recommended_power": 194953,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 69,
+    "name": "炎獄の谷",
+    "m_dungeon_id": 2300722,
+    "recommended_power": 194953,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 70,
+    "name": "燃え狂う火柱",
+    "m_dungeon_id": 2300723,
+    "recommended_power": 194953,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 71,
+    "name": "炎帝の玉座",
+    "m_dungeon_id": 2300731,
+    "recommended_power": 205888,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 72,
+    "name": "火炎皇",
+    "m_dungeon_id": 2300732,
+    "recommended_power": 205888,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 73,
+    "name": "無の帝王",
+    "m_dungeon_id": 2300811,
+    "recommended_power": 228512,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 74,
+    "name": "虚無の洞窟",
+    "m_dungeon_id": 2300812,
+    "recommended_power": 228512,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 75,
+    "name": "皆無の彼方",
+    "m_dungeon_id": 2300813,
+    "recommended_power": 228395,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 76,
+    "name": "無間地獄",
+    "m_dungeon_id": 2300814,
+    "recommended_power": 228395,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 77,
+    "name": "無味乾燥",
+    "m_dungeon_id": 2300815,
+    "recommended_power": 228395,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 78,
+    "name": "無の空白",
+    "m_dungeon_id": 2300821,
+    "recommended_power": 232582,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 79,
+    "name": "無限館",
+    "m_dungeon_id": 2300822,
+    "recommended_power": 232582,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 80,
+    "name": "虚無の幻想",
+    "m_dungeon_id": 2300823,
+    "recommended_power": 232582,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 81,
+    "name": "現無の狭間",
+    "m_dungeon_id": 2300831,
+    "recommended_power": 242718,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 82,
+    "name": "無彩限世界",
+    "m_dungeon_id": 2300832,
+    "recommended_power": 242718,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 83,
+    "name": "剛の間",
+    "m_dungeon_id": 2300911,
+    "recommended_power": 267006,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 84,
+    "name": "剛力の献身",
+    "m_dungeon_id": 2300912,
+    "recommended_power": 267006,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 85,
+    "name": "獰猛な地面",
+    "m_dungeon_id": 2300913,
+    "recommended_power": 267006,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 86,
+    "name": "剛の館",
+    "m_dungeon_id": 2300914,
+    "recommended_power": 267006,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 87,
+    "name": "剛泥の細道",
+    "m_dungeon_id": 2300915,
+    "recommended_power": 267006,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 88,
+    "name": "剛躯の集いし監獄",
+    "m_dungeon_id": 2300921,
+    "recommended_power": 271449,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 89,
+    "name": "剛岩の鳴動回廊",
+    "m_dungeon_id": 2300922,
+    "recommended_power": 271449,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 90,
+    "name": "剛風吹き荒ぶ断崖",
+    "m_dungeon_id": 2300923,
+    "recommended_power": 271449,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 91,
+    "name": "金剛不壊の聖域",
+    "m_dungeon_id": 2300931,
+    "recommended_power": 280146,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 92,
+    "name": "剛腕王の凱旋門",
+    "m_dungeon_id": 2300932,
+    "recommended_power": 280146,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 93,
+    "name": "剛魂の煉獄塔",
+    "m_dungeon_id": 2300933,
+    "recommended_power": 280146,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 94,
+    "name": "技工の路地",
+    "m_dungeon_id": 2301011,
+    "recommended_power": 305946,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 95,
+    "name": "技の試練場",
+    "m_dungeon_id": 2301012,
+    "recommended_power": 305946,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 96,
+    "name": "技魂の廃村",
+    "m_dungeon_id": 2301013,
+    "recommended_power": 305946,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 97,
+    "name": "技を刻む石碑",
+    "m_dungeon_id": 2301014,
+    "recommended_power": 305946,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 98,
+    "name": "技解の古道",
+    "m_dungeon_id": 2301015,
+    "recommended_power": 305946,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 99,
+    "name": "技を喰らう獣の檻",
+    "m_dungeon_id": 2301021,
+    "recommended_power": 310850,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 100,
+    "name": "技錬の刃の間",
+    "m_dungeon_id": 2301022,
+    "recommended_power": 310850,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 101,
+    "name": "技極の処刑台",
+    "m_dungeon_id": 2301023,
+    "recommended_power": 310850,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 102,
+    "name": "千技万化の円舞曲",
+    "m_dungeon_id": 2301031,
+    "recommended_power": 321913,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 103,
+    "name": "神技の至高宮",
+    "m_dungeon_id": 2301032,
+    "recommended_power": 321913,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  },
+  {
+    "id": 104,
+    "name": "技絶の断罪塔",
+    "m_dungeon_id": 2301033,
+    "recommended_power": 321913,
+    "time_limit": 360,
+    "image_id": "30002",
+    "bgm_id": "30000"
+  }
+]

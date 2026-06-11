@@ -1,0 +1,20 @@
+[
+  {
+    "id": 20001,
+    "name": "探索隊獲得サポート",
+    "m_payment_subscription_effect_group_id": 1001,
+    "description": "",
+    "display_order": 1,
+    "m_present_message_id": 5,
+    "asset_id": "5010173"
+  },
+  {
+    "id": 20002,
+    "name": "キャラ獲得サポート",
+    "m_payment_subscription_effect_group_id": 2001,
+    "description": "",
+    "display_order": 2,
+    "m_present_message_id": 4,
+    "asset_id": "5010174"
+  }
+]

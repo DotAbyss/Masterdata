@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "お知らせ掲載用",
+    "display_priority": 10,
+    "display_order": 10,
+    "asset_id": "",
+    "begin_at": "2026-04-11 00:00:00",
+    "end_at": "2038-07-31 23:59:59",
+    "has_r18": 0
+  },
+  {
+    "id": 2,
+    "title": "リリース記念SSR確定ガチャ",
+    "display_priority": 100,
+    "display_order": 100,
+    "asset_id": "7030005",
+    "begin_at": "2026-06-25 15:00:00",
+    "end_at": "2026-07-10 12:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 3,
+    "title": "ウェンディ＆ヴィーラWピックアップガチャ",
+    "display_priority": 110,
+    "display_order": 110,
+    "asset_id": "7020001",
+    "begin_at": "2026-06-11 00:00:00",
+    "end_at": "2026-06-20 4:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 4,
+    "title": "DMMポイントバックキャンペーン",
+    "display_priority": 100,
+    "display_order": 100,
+    "asset_id": "1400004",
+    "begin_at": "2026-06-11 00:00:00",
+    "end_at": "2026-07-09 4:59:59",
+    "has_r18": 0
+  },
+  {
+    "id": 5,
+    "title": "リリース記念ミッションパス",
+    "display_priority": 80,
+    "display_order": 80,
+    "asset_id": "1600001",
+    "begin_at": "2026-06-11 00:00:00",
+    "end_at": "2026-06-13 14:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 6,
+    "title": "【予告】オートマタと魔術師姉妹のサプライズ",
+    "display_priority": 120,
+    "display_order": 120,
+    "asset_id": "1020001_0",
+    "begin_at": "2026-06-12 10:00:00",
+    "end_at": "2026-06-13 09:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 7,
+    "title": "【開催中】オートマタと魔術師姉妹のサプライズ",
+    "display_priority": 120,
+    "display_order": 120,
+    "asset_id": "1020001_1",
+    "begin_at": "2026-06-13 10:00:00",
+    "end_at": "2026-06-16 9:59:59",
+    "has_r18": 0
+  },
+  {
+    "id": 8,
+    "title": "【開催中】オートマタと魔術師姉妹のサプライズ",
+    "display_priority": 120,
+    "display_order": 120,
+    "asset_id": "1020001_2",
+    "begin_at": "2026-06-16 10:00:00",
+    "end_at": "2026-06-20 4:59:59",
+    "has_r18": 1
+  }
+]

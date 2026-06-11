@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "m_home_stage_group_id": 1,
+    "m_character_id": 1300026,
+    "m_character_skin_id": 130002601,
+    "serif": "あたしの名はハツネ！\n刀の扱いならあたしに任せて！",
+    "pos_x": 45,
+    "pos_z": -50,
+    "direction_type": 0
+  },
+  {
+    "id": 2,
+    "m_home_stage_group_id": 1,
+    "m_character_id": 1300030,
+    "m_character_skin_id": 130003001,
+    "serif": "ペルディオンメイド協会より参りました\nニナと申します",
+    "pos_x": -45,
+    "pos_z": 35,
+    "direction_type": 1
+  },
+  {
+    "id": 3,
+    "m_home_stage_group_id": 2,
+    "m_character_id": 1300020,
+    "m_character_skin_id": 130002001,
+    "serif": "オートマタのウェンディと申します\nあの、力仕事は得意です！",
+    "pos_x": 45,
+    "pos_z": -50,
+    "direction_type": 0
+  },
+  {
+    "id": 4,
+    "m_home_stage_group_id": 2,
+    "m_character_id": 1300009,
+    "m_character_skin_id": 130000901,
+    "serif": "ベリサお姉ちゃんはどこでしょうか？\nあ、わたし妹のヴィーラです。",
+    "pos_x": -45,
+    "pos_z": 35,
+    "direction_type": 1
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1001,
+    "m_idle_exploration_map_area_id": 101,
+    "difficulty": 1,
+    "m_idle_exploration_drop_rule_id": 100110,
+    "m_idle_exploration_encounter_rule_id": 1,
+    "m_idle_exploration_power_bonus_id": 1
+  },
+  {
+    "id": 2001,
+    "m_idle_exploration_map_area_id": 101,
+    "difficulty": 2,
+    "m_idle_exploration_drop_rule_id": 100110,
+    "m_idle_exploration_encounter_rule_id": 1,
+    "m_idle_exploration_power_bonus_id": 2
+  },
+  {
+    "id": 3001,
+    "m_idle_exploration_map_area_id": 101,
+    "difficulty": 3,
+    "m_idle_exploration_drop_rule_id": 100110,
+    "m_idle_exploration_encounter_rule_id": 1,
+    "m_idle_exploration_power_bonus_id": 3
+  },
+  {
+    "id": 1002,
+    "m_idle_exploration_map_area_id": 102,
+    "difficulty": 1,
+    "m_idle_exploration_drop_rule_id": 100210,
+    "m_idle_exploration_encounter_rule_id": 2,
+    "m_idle_exploration_power_bonus_id": 4
+  },
+  {
+    "id": 2002,
+    "m_idle_exploration_map_area_id": 102,
+    "difficulty": 2,
+    "m_idle_exploration_drop_rule_id": 100210,
+    "m_idle_exploration_encounter_rule_id": 2,
+    "m_idle_exploration_power_bonus_id": 5
+  },
+  {
+    "id": 3002,
+    "m_idle_exploration_map_area_id": 102,
+    "difficulty": 3,
+    "m_idle_exploration_drop_rule_id": 100210,
+    "m_idle_exploration_encounter_rule_id": 2,
+    "m_idle_exploration_power_bonus_id": 6
+  },
+  {
+    "id": 1003,
+    "m_idle_exploration_map_area_id": 103,
+    "difficulty": 1,
+    "m_idle_exploration_drop_rule_id": 100310,
+    "m_idle_exploration_encounter_rule_id": 3,
+    "m_idle_exploration_power_bonus_id": 7
+  },
+  {
+    "id": 2003,
+    "m_idle_exploration_map_area_id": 103,
+    "difficulty": 2,
+    "m_idle_exploration_drop_rule_id": 100310,
+    "m_idle_exploration_encounter_rule_id": 3,
+    "m_idle_exploration_power_bonus_id": 8
+  },
+  {
+    "id": 3003,
+    "m_idle_exploration_map_area_id": 103,
+    "difficulty": 3,
+    "m_idle_exploration_drop_rule_id": 100310,
+    "m_idle_exploration_encounter_rule_id": 3,
+    "m_idle_exploration_power_bonus_id": 9
+  },
+  {
+    "id": 1004,
+    "m_idle_exploration_map_area_id": 104,
+    "difficulty": 1,
+    "m_idle_exploration_drop_rule_id": 100410,
+    "m_idle_exploration_encounter_rule_id": 4,
+    "m_idle_exploration_power_bonus_id": 10
+  },
+  {
+    "id": 2004,
+    "m_idle_exploration_map_area_id": 104,
+    "difficulty": 2,
+    "m_idle_exploration_drop_rule_id": 100410,
+    "m_idle_exploration_encounter_rule_id": 4,
+    "m_idle_exploration_power_bonus_id": 11
+  },
+  {
+    "id": 3004,
+    "m_idle_exploration_map_area_id": 104,
+    "difficulty": 3,
+    "m_idle_exploration_drop_rule_id": 100410,
+    "m_idle_exploration_encounter_rule_id": 4,
+    "m_idle_exploration_power_bonus_id": 12
+  },
+  {
+    "id": 1005,
+    "m_idle_exploration_map_area_id": 105,
+    "difficulty": 1,
+    "m_idle_exploration_drop_rule_id": 100510,
+    "m_idle_exploration_encounter_rule_id": 5,
+    "m_idle_exploration_power_bonus_id": 13
+  },
+  {
+    "id": 2005,
+    "m_idle_exploration_map_area_id": 105,
+    "difficulty": 2,
+    "m_idle_exploration_drop_rule_id": 100510,
+    "m_idle_exploration_encounter_rule_id": 5,
+    "m_idle_exploration_power_bonus_id": 14
+  },
+  {
+    "id": 3005,
+    "m_idle_exploration_map_area_id": 105,
+    "difficulty": 3,
+    "m_idle_exploration_drop_rule_id": 100510,
+    "m_idle_exploration_encounter_rule_id": 5,
+    "m_idle_exploration_power_bonus_id": 15
+  },
+  {
+    "id": 1006,
+    "m_idle_exploration_map_area_id": 106,
+    "difficulty": 1,
+    "m_idle_exploration_drop_rule_id": 100610,
+    "m_idle_exploration_encounter_rule_id": 6,
+    "m_idle_exploration_power_bonus_id": 16
+  },
+  {
+    "id": 2006,
+    "m_idle_exploration_map_area_id": 106,
+    "difficulty": 2,
+    "m_idle_exploration_drop_rule_id": 100610,
+    "m_idle_exploration_encounter_rule_id": 6,
+    "m_idle_exploration_power_bonus_id": 17
+  },
+  {
+    "id": 3006,
+    "m_idle_exploration_map_area_id": 106,
+    "difficulty": 3,
+    "m_idle_exploration_drop_rule_id": 100610,
+    "m_idle_exploration_encounter_rule_id": 6,
+    "m_idle_exploration_power_bonus_id": 18
+  }
+]

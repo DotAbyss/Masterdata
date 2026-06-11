@@ -1,0 +1,394 @@
+[
+  {
+    "id": 1000,
+    "m_disaster_boss_id": 2027101,
+    "message_type": 1,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "熱波の厄災の討伐依頼が発行されています！"
+  },
+  {
+    "id": 1001,
+    "m_disaster_boss_id": 2027101,
+    "message_type": 2,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "致命的な暑さです……"
+  },
+  {
+    "id": 1002,
+    "m_disaster_boss_id": 2027101,
+    "message_type": 3,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "急ぎ迎撃の準備を！"
+  },
+  {
+    "id": 1003,
+    "m_disaster_boss_id": 2027101,
+    "message_type": 4,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "熱波の厄災、迎撃成功です！！"
+  },
+  {
+    "id": 1004,
+    "m_disaster_boss_id": 2027101,
+    "message_type": 5,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "熱波の厄災、消滅しました…"
+  },
+  {
+    "id": 1005,
+    "m_disaster_boss_id": 2027101,
+    "message_type": 6,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "特殊な個体が出現しています！"
+  },
+  {
+    "id": 1100,
+    "m_disaster_boss_id": 2027201,
+    "message_type": 1,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "砕氷の厄災の討伐依頼が発行されています！"
+  },
+  {
+    "id": 1101,
+    "m_disaster_boss_id": 2027201,
+    "message_type": 2,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "凄まじい冷気です……！"
+  },
+  {
+    "id": 1102,
+    "m_disaster_boss_id": 2027201,
+    "message_type": 3,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "急ぎ迎撃の準備を！"
+  },
+  {
+    "id": 1103,
+    "m_disaster_boss_id": 2027201,
+    "message_type": 4,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "砕氷の厄災、迎撃成功です！！"
+  },
+  {
+    "id": 1104,
+    "m_disaster_boss_id": 2027201,
+    "message_type": 5,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "砕氷の厄災、消滅しました…"
+  },
+  {
+    "id": 1105,
+    "m_disaster_boss_id": 2027201,
+    "message_type": 6,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "特殊な個体が出現しています！"
+  },
+  {
+    "id": 1200,
+    "m_disaster_boss_id": 2027301,
+    "message_type": 1,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "砂嵐の厄災の討伐依頼が発行されています！"
+  },
+  {
+    "id": 1201,
+    "m_disaster_boss_id": 2027301,
+    "message_type": 2,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "砂塵で視界が……！"
+  },
+  {
+    "id": 1202,
+    "m_disaster_boss_id": 2027301,
+    "message_type": 3,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "急ぎ迎撃の準備を！"
+  },
+  {
+    "id": 1203,
+    "m_disaster_boss_id": 2027301,
+    "message_type": 4,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "砂嵐の厄災、迎撃成功です！！"
+  },
+  {
+    "id": 1204,
+    "m_disaster_boss_id": 2027301,
+    "message_type": 5,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "砂嵐の厄災、消滅しました…"
+  },
+  {
+    "id": 1205,
+    "m_disaster_boss_id": 2027301,
+    "message_type": 6,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "特殊な個体が出現しています！"
+  },
+  {
+    "id": 1300,
+    "m_disaster_boss_id": 2027401,
+    "message_type": 1,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "渦雷の厄災の討伐依頼が発行されています！"
+  },
+  {
+    "id": 1301,
+    "m_disaster_boss_id": 2027401,
+    "message_type": 2,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "なんて禍々しい天候……！"
+  },
+  {
+    "id": 1302,
+    "m_disaster_boss_id": 2027401,
+    "message_type": 3,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "急ぎ迎撃の準備を！"
+  },
+  {
+    "id": 1303,
+    "m_disaster_boss_id": 2027401,
+    "message_type": 4,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "渦雷の厄災、迎撃成功です！！"
+  },
+  {
+    "id": 1304,
+    "m_disaster_boss_id": 2027401,
+    "message_type": 5,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "渦雷の厄災、消滅しました…"
+  },
+  {
+    "id": 1305,
+    "m_disaster_boss_id": 2027401,
+    "message_type": 6,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "特殊な個体が出現しています！"
+  },
+  {
+    "id": 1400,
+    "m_disaster_boss_id": 2027501,
+    "message_type": 1,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "情欲の厄災の討伐依頼が発行されています！"
+  },
+  {
+    "id": 1401,
+    "m_disaster_boss_id": 2027501,
+    "message_type": 2,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "人々の様子がおかしいです……！"
+  },
+  {
+    "id": 1403,
+    "m_disaster_boss_id": 2027501,
+    "message_type": 4,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "情欲の厄災、迎撃成功です！！"
+  },
+  {
+    "id": 1404,
+    "m_disaster_boss_id": 2027501,
+    "message_type": 5,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "情欲の厄災、消滅しました…"
+  },
+  {
+    "id": 1405,
+    "m_disaster_boss_id": 2027501,
+    "message_type": 6,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "特殊な個体が出現しています！"
+  },
+  {
+    "id": 1500,
+    "m_disaster_boss_id": 2027001,
+    "message_type": 1,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "無気力の厄災の討伐依頼が発行されています！"
+  },
+  {
+    "id": 1501,
+    "m_disaster_boss_id": 2027001,
+    "message_type": 2,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "皆さんのやる気が低下していきいます……！"
+  },
+  {
+    "id": 1503,
+    "m_disaster_boss_id": 2027001,
+    "message_type": 4,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "無気力の厄災、迎撃成功です！！"
+  },
+  {
+    "id": 1504,
+    "m_disaster_boss_id": 2027001,
+    "message_type": 5,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "無気力の厄災、消滅しました…"
+  },
+  {
+    "id": 1505,
+    "m_disaster_boss_id": 2027001,
+    "message_type": 6,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "特殊な個体が出現しています！"
+  },
+  {
+    "id": 2000,
+    "m_disaster_boss_id": 2022201,
+    "message_type": 1,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "氷河の厄災の討伐依頼が発行されています！"
+  },
+  {
+    "id": 2001,
+    "m_disaster_boss_id": 2022201,
+    "message_type": 2,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "周辺の気温が低下しています！"
+  },
+  {
+    "id": 2003,
+    "m_disaster_boss_id": 2022201,
+    "message_type": 4,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "氷河の厄災、迎撃されました！"
+  },
+  {
+    "id": 2004,
+    "m_disaster_boss_id": 2022201,
+    "message_type": 5,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "氷河の厄災、消滅しました…"
+  },
+  {
+    "id": 2005,
+    "m_disaster_boss_id": 2022201,
+    "message_type": 6,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "特殊な個体が出現しています！"
+  },
+  {
+    "id": 2100,
+    "m_disaster_boss_id": 2026501,
+    "message_type": 1,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "飢餓の厄災の討伐依頼が発行されています！"
+  },
+  {
+    "id": 2101,
+    "m_disaster_boss_id": 2026501,
+    "message_type": 2,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "植物が枯死している……"
+  },
+  {
+    "id": 2103,
+    "m_disaster_boss_id": 2026501,
+    "message_type": 4,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "飢餓の厄災、迎撃されました！"
+  },
+  {
+    "id": 2104,
+    "m_disaster_boss_id": 2026501,
+    "message_type": 5,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "飢餓の厄災、消滅しました…"
+  },
+  {
+    "id": 2105,
+    "m_disaster_boss_id": 2026501,
+    "message_type": 6,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "特殊な個体が出現しています！"
+  },
+  {
+    "id": 2200,
+    "m_disaster_boss_id": 2024401,
+    "message_type": 1,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "天使の厄災の討伐依頼が発行されています！"
+  },
+  {
+    "id": 2201,
+    "m_disaster_boss_id": 2024401,
+    "message_type": 2,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "この光は……"
+  },
+  {
+    "id": 2203,
+    "m_disaster_boss_id": 2024401,
+    "message_type": 4,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "天使の厄災、迎撃されました！"
+  },
+  {
+    "id": 2204,
+    "m_disaster_boss_id": 2024401,
+    "message_type": 5,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "天使の厄災、消滅しました…"
+  },
+  {
+    "id": 2205,
+    "m_disaster_boss_id": 2024401,
+    "message_type": 6,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "特殊な個体が出現しています！"
+  }
+]

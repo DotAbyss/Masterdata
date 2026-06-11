@@ -1,0 +1,380 @@
+[
+  {
+    "id": 1000,
+    "group_id": 1,
+    "content_type": 110,
+    "content_id": 0,
+    "amount": 208
+  },
+  {
+    "id": 1001,
+    "group_id": 1,
+    "content_type": 50,
+    "content_id": 0,
+    "amount": 166
+  },
+  {
+    "id": 1002,
+    "group_id": 1,
+    "content_type": 30,
+    "content_id": 180001,
+    "amount": 13
+  },
+  {
+    "id": 2000,
+    "group_id": 2,
+    "content_type": 110,
+    "content_id": 0,
+    "amount": 277
+  },
+  {
+    "id": 2001,
+    "group_id": 2,
+    "content_type": 50,
+    "content_id": 0,
+    "amount": 222
+  },
+  {
+    "id": 2002,
+    "group_id": 2,
+    "content_type": 30,
+    "content_id": 180001,
+    "amount": 15
+  },
+  {
+    "id": 3000,
+    "group_id": 3,
+    "content_type": 110,
+    "content_id": 0,
+    "amount": 347
+  },
+  {
+    "id": 3001,
+    "group_id": 3,
+    "content_type": 50,
+    "content_id": 0,
+    "amount": 277
+  },
+  {
+    "id": 3002,
+    "group_id": 3,
+    "content_type": 30,
+    "content_id": 180001,
+    "amount": 17
+  },
+  {
+    "id": 4000,
+    "group_id": 4,
+    "content_type": 110,
+    "content_id": 0,
+    "amount": 416
+  },
+  {
+    "id": 4001,
+    "group_id": 4,
+    "content_type": 50,
+    "content_id": 0,
+    "amount": 333
+  },
+  {
+    "id": 4002,
+    "group_id": 4,
+    "content_type": 30,
+    "content_id": 180001,
+    "amount": 19
+  },
+  {
+    "id": 5000,
+    "group_id": 5,
+    "content_type": 110,
+    "content_id": 0,
+    "amount": 486
+  },
+  {
+    "id": 5001,
+    "group_id": 5,
+    "content_type": 50,
+    "content_id": 0,
+    "amount": 388
+  },
+  {
+    "id": 5002,
+    "group_id": 5,
+    "content_type": 30,
+    "content_id": 180001,
+    "amount": 21
+  },
+  {
+    "id": 6000,
+    "group_id": 6,
+    "content_type": 110,
+    "content_id": 0,
+    "amount": 555
+  },
+  {
+    "id": 6001,
+    "group_id": 6,
+    "content_type": 50,
+    "content_id": 0,
+    "amount": 444
+  },
+  {
+    "id": 6002,
+    "group_id": 6,
+    "content_type": 30,
+    "content_id": 180001,
+    "amount": 23
+  },
+  {
+    "id": 7000,
+    "group_id": 7,
+    "content_type": 110,
+    "content_id": 0,
+    "amount": 625
+  },
+  {
+    "id": 7001,
+    "group_id": 7,
+    "content_type": 50,
+    "content_id": 0,
+    "amount": 500
+  },
+  {
+    "id": 7002,
+    "group_id": 7,
+    "content_type": 30,
+    "content_id": 180001,
+    "amount": 25
+  },
+  {
+    "id": 8000,
+    "group_id": 8,
+    "content_type": 110,
+    "content_id": 0,
+    "amount": 694
+  },
+  {
+    "id": 8001,
+    "group_id": 8,
+    "content_type": 50,
+    "content_id": 0,
+    "amount": 555
+  },
+  {
+    "id": 8002,
+    "group_id": 8,
+    "content_type": 30,
+    "content_id": 180001,
+    "amount": 27
+  },
+  {
+    "id": 9000,
+    "group_id": 9,
+    "content_type": 110,
+    "content_id": 0,
+    "amount": 729
+  },
+  {
+    "id": 9001,
+    "group_id": 9,
+    "content_type": 50,
+    "content_id": 0,
+    "amount": 583
+  },
+  {
+    "id": 9002,
+    "group_id": 9,
+    "content_type": 30,
+    "content_id": 180001,
+    "amount": 29
+  },
+  {
+    "id": 10000,
+    "group_id": 10,
+    "content_type": 110,
+    "content_id": 0,
+    "amount": 763
+  },
+  {
+    "id": 10001,
+    "group_id": 10,
+    "content_type": 50,
+    "content_id": 0,
+    "amount": 611
+  },
+  {
+    "id": 10002,
+    "group_id": 10,
+    "content_type": 30,
+    "content_id": 180001,
+    "amount": 31
+  },
+  {
+    "id": 11000,
+    "group_id": 11,
+    "content_type": 110,
+    "content_id": 0,
+    "amount": 798
+  },
+  {
+    "id": 11001,
+    "group_id": 11,
+    "content_type": 50,
+    "content_id": 0,
+    "amount": 638
+  },
+  {
+    "id": 11002,
+    "group_id": 11,
+    "content_type": 30,
+    "content_id": 180001,
+    "amount": 31
+  },
+  {
+    "id": 12000,
+    "group_id": 12,
+    "content_type": 110,
+    "content_id": 0,
+    "amount": 833
+  },
+  {
+    "id": 12001,
+    "group_id": 12,
+    "content_type": 50,
+    "content_id": 0,
+    "amount": 666
+  },
+  {
+    "id": 12002,
+    "group_id": 12,
+    "content_type": 30,
+    "content_id": 180001,
+    "amount": 31
+  },
+  {
+    "id": 13000,
+    "group_id": 13,
+    "content_type": 110,
+    "content_id": 0,
+    "amount": 868
+  },
+  {
+    "id": 13001,
+    "group_id": 13,
+    "content_type": 50,
+    "content_id": 0,
+    "amount": 694
+  },
+  {
+    "id": 13002,
+    "group_id": 13,
+    "content_type": 30,
+    "content_id": 180001,
+    "amount": 31
+  },
+  {
+    "id": 14000,
+    "group_id": 14,
+    "content_type": 110,
+    "content_id": 0,
+    "amount": 902
+  },
+  {
+    "id": 14001,
+    "group_id": 14,
+    "content_type": 50,
+    "content_id": 0,
+    "amount": 722
+  },
+  {
+    "id": 14002,
+    "group_id": 14,
+    "content_type": 30,
+    "content_id": 180001,
+    "amount": 31
+  },
+  {
+    "id": 15000,
+    "group_id": 15,
+    "content_type": 110,
+    "content_id": 0,
+    "amount": 937
+  },
+  {
+    "id": 15001,
+    "group_id": 15,
+    "content_type": 50,
+    "content_id": 0,
+    "amount": 750
+  },
+  {
+    "id": 15002,
+    "group_id": 15,
+    "content_type": 30,
+    "content_id": 180001,
+    "amount": 31
+  },
+  {
+    "id": 16000,
+    "group_id": 16,
+    "content_type": 110,
+    "content_id": 0,
+    "amount": 972
+  },
+  {
+    "id": 16001,
+    "group_id": 16,
+    "content_type": 50,
+    "content_id": 0,
+    "amount": 777
+  },
+  {
+    "id": 16002,
+    "group_id": 16,
+    "content_type": 30,
+    "content_id": 180001,
+    "amount": 31
+  },
+  {
+    "id": 17000,
+    "group_id": 17,
+    "content_type": 110,
+    "content_id": 0,
+    "amount": 1006
+  },
+  {
+    "id": 17001,
+    "group_id": 17,
+    "content_type": 50,
+    "content_id": 0,
+    "amount": 805
+  },
+  {
+    "id": 17002,
+    "group_id": 17,
+    "content_type": 30,
+    "content_id": 180001,
+    "amount": 31
+  },
+  {
+    "id": 18000,
+    "group_id": 18,
+    "content_type": 110,
+    "content_id": 0,
+    "amount": 1041
+  },
+  {
+    "id": 18001,
+    "group_id": 18,
+    "content_type": 50,
+    "content_id": 0,
+    "amount": 833
+  },
+  {
+    "id": 18002,
+    "group_id": 18,
+    "content_type": 30,
+    "content_id": 180001,
+    "amount": 31
+  }
+]

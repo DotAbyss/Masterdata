@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "display_order": 1,
+    "layer_no": 1,
+    "name": "砂嵐の階層",
+    "asset_id": "1000",
+    "explore_asset_id": "10000",
+    "sd_m_character_id": 0
+  },
+  {
+    "id": 2,
+    "display_order": 2,
+    "layer_no": 2,
+    "name": "氷河の階層",
+    "asset_id": "2000",
+    "explore_asset_id": "20000",
+    "sd_m_character_id": 0
+  },
+  {
+    "id": 3,
+    "display_order": 3,
+    "layer_no": 3,
+    "name": "火山の階層",
+    "asset_id": "3000",
+    "explore_asset_id": "30000",
+    "sd_m_character_id": 0
+  },
+  {
+    "id": 4,
+    "display_order": 4,
+    "layer_no": 4,
+    "name": "闇の階層",
+    "asset_id": "4000",
+    "explore_asset_id": "40000",
+    "sd_m_character_id": 0
+  },
+  {
+    "id": 5,
+    "display_order": 5,
+    "layer_no": 5,
+    "name": "廃墟の階層",
+    "asset_id": "6000",
+    "explore_asset_id": "50000",
+    "sd_m_character_id": 0
+  },
+  {
+    "id": 6,
+    "display_order": 6,
+    "layer_no": 6,
+    "name": "光の階層",
+    "asset_id": "5000",
+    "explore_asset_id": "60000",
+    "sd_m_character_id": 0
+  }
+]

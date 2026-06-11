@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "m_nether_map_id": 1,
+    "min_order": 1,
+    "max_order": 100,
+    "min_erosion_point": 0,
+    "max_erosion_point": 100,
+    "type": 1,
+    "parameter": 5
+  },
+  {
+    "id": 2,
+    "m_nether_map_id": 1,
+    "min_order": 0,
+    "max_order": 0,
+    "min_erosion_point": 0,
+    "max_erosion_point": 100,
+    "type": 1,
+    "parameter": 1
+  },
+  {
+    "id": 3,
+    "m_nether_map_id": 1,
+    "min_order": 1,
+    "max_order": 1,
+    "min_erosion_point": 0,
+    "max_erosion_point": 100,
+    "type": 1,
+    "parameter": 3
+  },
+  {
+    "id": 4,
+    "m_nether_map_id": 1,
+    "min_order": 10,
+    "max_order": 10,
+    "min_erosion_point": 0,
+    "max_erosion_point": 100,
+    "type": 1,
+    "parameter": 3
+  },
+  {
+    "id": 5,
+    "m_nether_map_id": 1,
+    "min_order": 20,
+    "max_order": 20,
+    "min_erosion_point": 0,
+    "max_erosion_point": 100,
+    "type": 1,
+    "parameter": 3
+  },
+  {
+    "id": 6,
+    "m_nether_map_id": 1,
+    "min_order": 30,
+    "max_order": 30,
+    "min_erosion_point": 0,
+    "max_erosion_point": 100,
+    "type": 1,
+    "parameter": 3
+  },
+  {
+    "id": 7,
+    "m_nether_map_id": 1,
+    "min_order": 40,
+    "max_order": 40,
+    "min_erosion_point": 0,
+    "max_erosion_point": 100,
+    "type": 1,
+    "parameter": 3
+  },
+  {
+    "id": 8,
+    "m_nether_map_id": 1,
+    "min_order": 50,
+    "max_order": 50,
+    "min_erosion_point": 0,
+    "max_erosion_point": 100,
+    "type": 1,
+    "parameter": 3
+  },
+  {
+    "id": 9,
+    "m_nether_map_id": 1,
+    "min_order": 60,
+    "max_order": 60,
+    "min_erosion_point": 0,
+    "max_erosion_point": 100,
+    "type": 1,
+    "parameter": 3
+  },
+  {
+    "id": 10,
+    "m_nether_map_id": 1,
+    "min_order": 70,
+    "max_order": 70,
+    "min_erosion_point": 0,
+    "max_erosion_point": 100,
+    "type": 1,
+    "parameter": 3
+  },
+  {
+    "id": 11,
+    "m_nether_map_id": 1,
+    "min_order": 80,
+    "max_order": 80,
+    "min_erosion_point": 0,
+    "max_erosion_point": 100,
+    "type": 1,
+    "parameter": 3
+  },
+  {
+    "id": 12,
+    "m_nether_map_id": 1,
+    "min_order": 90,
+    "max_order": 90,
+    "min_erosion_point": 0,
+    "max_erosion_point": 100,
+    "type": 1,
+    "parameter": 3
+  },
+  {
+    "id": 13,
+    "m_nether_map_id": 1,
+    "min_order": 100,
+    "max_order": 100,
+    "min_erosion_point": 0,
+    "max_erosion_point": 100,
+    "type": 1,
+    "parameter": 3
+  },
+  {
+    "id": 14,
+    "m_nether_map_id": 1,
+    "min_order": 1,
+    "max_order": 1,
+    "min_erosion_point": 0,
+    "max_erosion_point": 100,
+    "type": 2,
+    "parameter": 1
+  },
+  {
+    "id": 15,
+    "m_nether_map_id": 1,
+    "min_order": 1,
+    "max_order": 100,
+    "min_erosion_point": 0,
+    "max_erosion_point": 100,
+    "type": 3,
+    "parameter": 1
+  },
+  {
+    "id": 16,
+    "m_nether_map_id": 1,
+    "min_order": 10,
+    "max_order": 10,
+    "min_erosion_point": 0,
+    "max_erosion_point": 100,
+    "type": 3,
+    "parameter": 3
+  },
+  {
+    "id": 17,
+    "m_nether_map_id": 1,
+    "min_order": 20,
+    "max_order": 20,
+    "min_erosion_point": 0,
+    "max_erosion_point": 100,
+    "type": 3,
+    "parameter": 3
+  },
+  {
+    "id": 18,
+    "m_nether_map_id": 1,
+    "min_order": 30,
+    "max_order": 30,
+    "min_erosion_point": 0,
+    "max_erosion_point": 100,
+    "type": 3,
+    "parameter": 3
+  },
+  {
+    "id": 19,
+    "m_nether_map_id": 1,
+    "min_order": 40,
+    "max_order": 40,
+    "min_erosion_point": 0,
+    "max_erosion_point": 100,
+    "type": 3,
+    "parameter": 3
+  },
+  {
+    "id": 20,
+    "m_nether_map_id": 1,
+    "min_order": 50,
+    "max_order": 50,
+    "min_erosion_point": 0,
+    "max_erosion_point": 100,
+    "type": 3,
+    "parameter": 3
+  },
+  {
+    "id": 21,
+    "m_nether_map_id": 1,
+    "min_order": 60,
+    "max_order": 60,
+    "min_erosion_point": 0,
+    "max_erosion_point": 100,
+    "type": 3,
+    "parameter": 3
+  },
+  {
+    "id": 22,
+    "m_nether_map_id": 1,
+    "min_order": 70,
+    "max_order": 70,
+    "min_erosion_point": 0,
+    "max_erosion_point": 100,
+    "type": 3,
+    "parameter": 3
+  },
+  {
+    "id": 23,
+    "m_nether_map_id": 1,
+    "min_order": 80,
+    "max_order": 80,
+    "min_erosion_point": 0,
+    "max_erosion_point": 100,
+    "type": 3,
+    "parameter": 3
+  },
+  {
+    "id": 24,
+    "m_nether_map_id": 1,
+    "min_order": 90,
+    "max_order": 90,
+    "min_erosion_point": 0,
+    "max_erosion_point": 100,
+    "type": 3,
+    "parameter": 3
+  },
+  {
+    "id": 25,
+    "m_nether_map_id": 1,
+    "min_order": 100,
+    "max_order": 100,
+    "min_erosion_point": 0,
+    "max_erosion_point": 100,
+    "type": 3,
+    "parameter": 3
+  }
+]

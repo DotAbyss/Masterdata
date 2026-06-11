@@ -1,0 +1,2874 @@
+[
+  {
+    "id": 1100000,
+    "m_building_skill_level_id": 100000,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 51001,
+    "require_amount": 1
+  },
+  {
+    "id": 1100001,
+    "m_building_skill_level_id": 100000,
+    "display_order": 2,
+    "content_type": 132,
+    "content_id": 1001,
+    "require_amount": 1
+  },
+  {
+    "id": 1100002,
+    "m_building_skill_level_id": 100001,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 51000,
+    "require_amount": 1
+  },
+  {
+    "id": 1100003,
+    "m_building_skill_level_id": 100001,
+    "display_order": 2,
+    "content_type": 132,
+    "content_id": 1002,
+    "require_amount": 2
+  },
+  {
+    "id": 1100004,
+    "m_building_skill_level_id": 100002,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 51002,
+    "require_amount": 1
+  },
+  {
+    "id": 1100005,
+    "m_building_skill_level_id": 100002,
+    "display_order": 2,
+    "content_type": 132,
+    "content_id": 1003,
+    "require_amount": 3
+  },
+  {
+    "id": 1100006,
+    "m_building_skill_level_id": 100003,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50003,
+    "require_amount": 10
+  },
+  {
+    "id": 1100007,
+    "m_building_skill_level_id": 100003,
+    "display_order": 2,
+    "content_type": 30,
+    "content_id": 50006,
+    "require_amount": 10
+  },
+  {
+    "id": 1100008,
+    "m_building_skill_level_id": 100003,
+    "display_order": 3,
+    "content_type": 132,
+    "content_id": 1004,
+    "require_amount": 3
+  },
+  {
+    "id": 1004000,
+    "m_building_skill_level_id": 100400,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 5
+  },
+  {
+    "id": 1004001,
+    "m_building_skill_level_id": 100400,
+    "display_order": 2,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 5
+  },
+  {
+    "id": 1004002,
+    "m_building_skill_level_id": 100400,
+    "display_order": 3,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 5
+  },
+  {
+    "id": 1004010,
+    "m_building_skill_level_id": 100401,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 5
+  },
+  {
+    "id": 1004011,
+    "m_building_skill_level_id": 100401,
+    "display_order": 2,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 5
+  },
+  {
+    "id": 1004012,
+    "m_building_skill_level_id": 100401,
+    "display_order": 3,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 5
+  },
+  {
+    "id": 1004020,
+    "m_building_skill_level_id": 100402,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 10
+  },
+  {
+    "id": 1004021,
+    "m_building_skill_level_id": 100402,
+    "display_order": 2,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 10
+  },
+  {
+    "id": 1004022,
+    "m_building_skill_level_id": 100402,
+    "display_order": 3,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 10
+  },
+  {
+    "id": 1004030,
+    "m_building_skill_level_id": 100403,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 10
+  },
+  {
+    "id": 1004031,
+    "m_building_skill_level_id": 100403,
+    "display_order": 2,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 10
+  },
+  {
+    "id": 1004032,
+    "m_building_skill_level_id": 100403,
+    "display_order": 3,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 10
+  },
+  {
+    "id": 1004040,
+    "m_building_skill_level_id": 100404,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50002,
+    "require_amount": 5
+  },
+  {
+    "id": 1004041,
+    "m_building_skill_level_id": 100404,
+    "display_order": 2,
+    "content_type": 30,
+    "content_id": 50005,
+    "require_amount": 5
+  },
+  {
+    "id": 1004042,
+    "m_building_skill_level_id": 100404,
+    "display_order": 3,
+    "content_type": 30,
+    "content_id": 50008,
+    "require_amount": 5
+  },
+  {
+    "id": 1004050,
+    "m_building_skill_level_id": 100405,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50002,
+    "require_amount": 5
+  },
+  {
+    "id": 1004051,
+    "m_building_skill_level_id": 100405,
+    "display_order": 2,
+    "content_type": 30,
+    "content_id": 50005,
+    "require_amount": 5
+  },
+  {
+    "id": 1004052,
+    "m_building_skill_level_id": 100405,
+    "display_order": 3,
+    "content_type": 30,
+    "content_id": 50008,
+    "require_amount": 5
+  },
+  {
+    "id": 1004060,
+    "m_building_skill_level_id": 100406,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50011,
+    "require_amount": 1
+  },
+  {
+    "id": 1004061,
+    "m_building_skill_level_id": 100406,
+    "display_order": 2,
+    "content_type": 30,
+    "content_id": 50005,
+    "require_amount": 6
+  },
+  {
+    "id": 1004070,
+    "m_building_skill_level_id": 100407,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50012,
+    "require_amount": 1
+  },
+  {
+    "id": 1004071,
+    "m_building_skill_level_id": 100407,
+    "display_order": 2,
+    "content_type": 30,
+    "content_id": 50008,
+    "require_amount": 6
+  },
+  {
+    "id": 1004080,
+    "m_building_skill_level_id": 100408,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50013,
+    "require_amount": 1
+  },
+  {
+    "id": 1004081,
+    "m_building_skill_level_id": 100408,
+    "display_order": 2,
+    "content_type": 30,
+    "content_id": 50002,
+    "require_amount": 6
+  },
+  {
+    "id": 1004090,
+    "m_building_skill_level_id": 100409,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50011,
+    "require_amount": 2
+  },
+  {
+    "id": 1004091,
+    "m_building_skill_level_id": 100409,
+    "display_order": 2,
+    "content_type": 30,
+    "content_id": 50005,
+    "require_amount": 8
+  },
+  {
+    "id": 1004100,
+    "m_building_skill_level_id": 100410,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50012,
+    "require_amount": 2
+  },
+  {
+    "id": 1004101,
+    "m_building_skill_level_id": 100410,
+    "display_order": 2,
+    "content_type": 30,
+    "content_id": 50008,
+    "require_amount": 8
+  },
+  {
+    "id": 1004110,
+    "m_building_skill_level_id": 100411,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50013,
+    "require_amount": 2
+  },
+  {
+    "id": 1004111,
+    "m_building_skill_level_id": 100411,
+    "display_order": 2,
+    "content_type": 30,
+    "content_id": 50002,
+    "require_amount": 8
+  },
+  {
+    "id": 1004120,
+    "m_building_skill_level_id": 100412,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50011,
+    "require_amount": 3
+  },
+  {
+    "id": 1004122,
+    "m_building_skill_level_id": 100412,
+    "display_order": 3,
+    "content_type": 30,
+    "content_id": 50005,
+    "require_amount": 10
+  },
+  {
+    "id": 1004130,
+    "m_building_skill_level_id": 100413,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50012,
+    "require_amount": 3
+  },
+  {
+    "id": 1004132,
+    "m_building_skill_level_id": 100413,
+    "display_order": 3,
+    "content_type": 30,
+    "content_id": 50008,
+    "require_amount": 10
+  },
+  {
+    "id": 1004140,
+    "m_building_skill_level_id": 100414,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50013,
+    "require_amount": 3
+  },
+  {
+    "id": 1004142,
+    "m_building_skill_level_id": 100414,
+    "display_order": 3,
+    "content_type": 30,
+    "content_id": 50002,
+    "require_amount": 10
+  },
+  {
+    "id": 1004150,
+    "m_building_skill_level_id": 100415,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50011,
+    "require_amount": 4
+  },
+  {
+    "id": 1004152,
+    "m_building_skill_level_id": 100415,
+    "display_order": 3,
+    "content_type": 30,
+    "content_id": 50005,
+    "require_amount": 10
+  },
+  {
+    "id": 1004160,
+    "m_building_skill_level_id": 100416,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50012,
+    "require_amount": 4
+  },
+  {
+    "id": 1004162,
+    "m_building_skill_level_id": 100416,
+    "display_order": 3,
+    "content_type": 30,
+    "content_id": 50008,
+    "require_amount": 10
+  },
+  {
+    "id": 1004170,
+    "m_building_skill_level_id": 100417,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50013,
+    "require_amount": 4
+  },
+  {
+    "id": 1004172,
+    "m_building_skill_level_id": 100417,
+    "display_order": 3,
+    "content_type": 30,
+    "content_id": 50002,
+    "require_amount": 10
+  },
+  {
+    "id": 1004180,
+    "m_building_skill_level_id": 100418,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50011,
+    "require_amount": 5
+  },
+  {
+    "id": 1004182,
+    "m_building_skill_level_id": 100418,
+    "display_order": 3,
+    "content_type": 30,
+    "content_id": 50005,
+    "require_amount": 10
+  },
+  {
+    "id": 1004190,
+    "m_building_skill_level_id": 100419,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50012,
+    "require_amount": 5
+  },
+  {
+    "id": 1004192,
+    "m_building_skill_level_id": 100419,
+    "display_order": 3,
+    "content_type": 30,
+    "content_id": 50008,
+    "require_amount": 10
+  },
+  {
+    "id": 1005000,
+    "m_building_skill_level_id": 100500,
+    "display_order": 1,
+    "content_type": 132,
+    "content_id": 1100,
+    "require_amount": 2
+  },
+  {
+    "id": 1005001,
+    "m_building_skill_level_id": 100500,
+    "display_order": 2,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 5
+  },
+  {
+    "id": 1005010,
+    "m_building_skill_level_id": 100501,
+    "display_order": 1,
+    "content_type": 132,
+    "content_id": 1101,
+    "require_amount": 2
+  },
+  {
+    "id": 1005011,
+    "m_building_skill_level_id": 100501,
+    "display_order": 2,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 5
+  },
+  {
+    "id": 3000000,
+    "m_building_skill_level_id": 300000,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 5
+  },
+  {
+    "id": 3000010,
+    "m_building_skill_level_id": 300001,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 5
+  },
+  {
+    "id": 3000020,
+    "m_building_skill_level_id": 300002,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 5
+  },
+  {
+    "id": 3000030,
+    "m_building_skill_level_id": 300003,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 10
+  },
+  {
+    "id": 3000040,
+    "m_building_skill_level_id": 300004,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 10
+  },
+  {
+    "id": 3000050,
+    "m_building_skill_level_id": 300005,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 10
+  },
+  {
+    "id": 3000060,
+    "m_building_skill_level_id": 300006,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 15
+  },
+  {
+    "id": 3000070,
+    "m_building_skill_level_id": 300007,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 15
+  },
+  {
+    "id": 3000080,
+    "m_building_skill_level_id": 300008,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 15
+  },
+  {
+    "id": 3000090,
+    "m_building_skill_level_id": 300009,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 30
+  },
+  {
+    "id": 3000100,
+    "m_building_skill_level_id": 300010,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 30
+  },
+  {
+    "id": 3000110,
+    "m_building_skill_level_id": 300011,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 30
+  },
+  {
+    "id": 3000120,
+    "m_building_skill_level_id": 300012,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50008,
+    "require_amount": 4
+  },
+  {
+    "id": 3000121,
+    "m_building_skill_level_id": 300012,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 40
+  },
+  {
+    "id": 3000130,
+    "m_building_skill_level_id": 300013,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50008,
+    "require_amount": 4
+  },
+  {
+    "id": 3000131,
+    "m_building_skill_level_id": 300013,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 40
+  },
+  {
+    "id": 3000140,
+    "m_building_skill_level_id": 300014,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50008,
+    "require_amount": 3
+  },
+  {
+    "id": 3000141,
+    "m_building_skill_level_id": 300014,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 60
+  },
+  {
+    "id": 3000150,
+    "m_building_skill_level_id": 300015,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50008,
+    "require_amount": 3
+  },
+  {
+    "id": 3000151,
+    "m_building_skill_level_id": 300015,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 60
+  },
+  {
+    "id": 3000160,
+    "m_building_skill_level_id": 300016,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50008,
+    "require_amount": 3
+  },
+  {
+    "id": 3000161,
+    "m_building_skill_level_id": 300016,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 60
+  },
+  {
+    "id": 3000170,
+    "m_building_skill_level_id": 300017,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50008,
+    "require_amount": 3
+  },
+  {
+    "id": 3000171,
+    "m_building_skill_level_id": 300017,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 60
+  },
+  {
+    "id": 3000180,
+    "m_building_skill_level_id": 300018,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50008,
+    "require_amount": 3
+  },
+  {
+    "id": 3000181,
+    "m_building_skill_level_id": 300018,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 60
+  },
+  {
+    "id": 3000190,
+    "m_building_skill_level_id": 300019,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50008,
+    "require_amount": 2
+  },
+  {
+    "id": 3000191,
+    "m_building_skill_level_id": 300019,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 60
+  },
+  {
+    "id": 3000200,
+    "m_building_skill_level_id": 300020,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50009,
+    "require_amount": 3
+  },
+  {
+    "id": 3000201,
+    "m_building_skill_level_id": 300020,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 80
+  },
+  {
+    "id": 3000210,
+    "m_building_skill_level_id": 300021,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50009,
+    "require_amount": 5
+  },
+  {
+    "id": 3000211,
+    "m_building_skill_level_id": 300021,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 80
+  },
+  {
+    "id": 3000220,
+    "m_building_skill_level_id": 300022,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50009,
+    "require_amount": 3
+  },
+  {
+    "id": 3000221,
+    "m_building_skill_level_id": 300022,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 80
+  },
+  {
+    "id": 3000230,
+    "m_building_skill_level_id": 300023,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50009,
+    "require_amount": 5
+  },
+  {
+    "id": 3000231,
+    "m_building_skill_level_id": 300023,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 80
+  },
+  {
+    "id": 3000240,
+    "m_building_skill_level_id": 300024,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50012,
+    "require_amount": 3
+  },
+  {
+    "id": 3000241,
+    "m_building_skill_level_id": 300024,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 100
+  },
+  {
+    "id": 3001000,
+    "m_building_skill_level_id": 300100,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 5
+  },
+  {
+    "id": 3001010,
+    "m_building_skill_level_id": 300101,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 5
+  },
+  {
+    "id": 3001020,
+    "m_building_skill_level_id": 300102,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 5
+  },
+  {
+    "id": 3001030,
+    "m_building_skill_level_id": 300103,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 10
+  },
+  {
+    "id": 3001040,
+    "m_building_skill_level_id": 300104,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 10
+  },
+  {
+    "id": 3001050,
+    "m_building_skill_level_id": 300105,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 10
+  },
+  {
+    "id": 3001060,
+    "m_building_skill_level_id": 300106,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 15
+  },
+  {
+    "id": 3001070,
+    "m_building_skill_level_id": 300107,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 15
+  },
+  {
+    "id": 3001080,
+    "m_building_skill_level_id": 300108,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 15
+  },
+  {
+    "id": 3001090,
+    "m_building_skill_level_id": 300109,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 30
+  },
+  {
+    "id": 3001100,
+    "m_building_skill_level_id": 300110,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 30
+  },
+  {
+    "id": 3001110,
+    "m_building_skill_level_id": 300111,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 30
+  },
+  {
+    "id": 3001120,
+    "m_building_skill_level_id": 300112,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50005,
+    "require_amount": 4
+  },
+  {
+    "id": 3001121,
+    "m_building_skill_level_id": 300112,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 40
+  },
+  {
+    "id": 3001130,
+    "m_building_skill_level_id": 300113,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50005,
+    "require_amount": 4
+  },
+  {
+    "id": 3001131,
+    "m_building_skill_level_id": 300113,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 40
+  },
+  {
+    "id": 3001140,
+    "m_building_skill_level_id": 300114,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50005,
+    "require_amount": 3
+  },
+  {
+    "id": 3001141,
+    "m_building_skill_level_id": 300114,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 60
+  },
+  {
+    "id": 3001150,
+    "m_building_skill_level_id": 300115,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50005,
+    "require_amount": 3
+  },
+  {
+    "id": 3001151,
+    "m_building_skill_level_id": 300115,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 60
+  },
+  {
+    "id": 3001160,
+    "m_building_skill_level_id": 300116,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50005,
+    "require_amount": 3
+  },
+  {
+    "id": 3001161,
+    "m_building_skill_level_id": 300116,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 60
+  },
+  {
+    "id": 3001170,
+    "m_building_skill_level_id": 300117,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50005,
+    "require_amount": 3
+  },
+  {
+    "id": 3001171,
+    "m_building_skill_level_id": 300117,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 60
+  },
+  {
+    "id": 3001180,
+    "m_building_skill_level_id": 300118,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50005,
+    "require_amount": 3
+  },
+  {
+    "id": 3001181,
+    "m_building_skill_level_id": 300118,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 60
+  },
+  {
+    "id": 3001190,
+    "m_building_skill_level_id": 300119,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50005,
+    "require_amount": 2
+  },
+  {
+    "id": 3001191,
+    "m_building_skill_level_id": 300119,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 60
+  },
+  {
+    "id": 3001200,
+    "m_building_skill_level_id": 300120,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50006,
+    "require_amount": 3
+  },
+  {
+    "id": 3001201,
+    "m_building_skill_level_id": 300120,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 80
+  },
+  {
+    "id": 3001210,
+    "m_building_skill_level_id": 300121,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50006,
+    "require_amount": 5
+  },
+  {
+    "id": 3001211,
+    "m_building_skill_level_id": 300121,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 80
+  },
+  {
+    "id": 3001220,
+    "m_building_skill_level_id": 300122,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50006,
+    "require_amount": 3
+  },
+  {
+    "id": 3001221,
+    "m_building_skill_level_id": 300122,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 80
+  },
+  {
+    "id": 3001230,
+    "m_building_skill_level_id": 300123,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50006,
+    "require_amount": 5
+  },
+  {
+    "id": 3001231,
+    "m_building_skill_level_id": 300123,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 80
+  },
+  {
+    "id": 3001240,
+    "m_building_skill_level_id": 300124,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50011,
+    "require_amount": 3
+  },
+  {
+    "id": 3001241,
+    "m_building_skill_level_id": 300124,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 100
+  },
+  {
+    "id": 3002000,
+    "m_building_skill_level_id": 300200,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 5
+  },
+  {
+    "id": 3002010,
+    "m_building_skill_level_id": 300201,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 5
+  },
+  {
+    "id": 3002020,
+    "m_building_skill_level_id": 300202,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 5
+  },
+  {
+    "id": 3002030,
+    "m_building_skill_level_id": 300203,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 10
+  },
+  {
+    "id": 3002040,
+    "m_building_skill_level_id": 300204,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 10
+  },
+  {
+    "id": 3002050,
+    "m_building_skill_level_id": 300205,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 10
+  },
+  {
+    "id": 3002060,
+    "m_building_skill_level_id": 300206,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 15
+  },
+  {
+    "id": 3002070,
+    "m_building_skill_level_id": 300207,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 15
+  },
+  {
+    "id": 3002080,
+    "m_building_skill_level_id": 300208,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 15
+  },
+  {
+    "id": 3002090,
+    "m_building_skill_level_id": 300209,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 30
+  },
+  {
+    "id": 3002100,
+    "m_building_skill_level_id": 300210,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 30
+  },
+  {
+    "id": 3002110,
+    "m_building_skill_level_id": 300211,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 30
+  },
+  {
+    "id": 3002120,
+    "m_building_skill_level_id": 300212,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50002,
+    "require_amount": 4
+  },
+  {
+    "id": 3002121,
+    "m_building_skill_level_id": 300212,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 40
+  },
+  {
+    "id": 3002130,
+    "m_building_skill_level_id": 300213,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50002,
+    "require_amount": 4
+  },
+  {
+    "id": 3002131,
+    "m_building_skill_level_id": 300213,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 40
+  },
+  {
+    "id": 3002140,
+    "m_building_skill_level_id": 300214,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50002,
+    "require_amount": 3
+  },
+  {
+    "id": 3002141,
+    "m_building_skill_level_id": 300214,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 60
+  },
+  {
+    "id": 3002150,
+    "m_building_skill_level_id": 300215,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50002,
+    "require_amount": 3
+  },
+  {
+    "id": 3002151,
+    "m_building_skill_level_id": 300215,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 60
+  },
+  {
+    "id": 3002160,
+    "m_building_skill_level_id": 300216,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50002,
+    "require_amount": 3
+  },
+  {
+    "id": 3002161,
+    "m_building_skill_level_id": 300216,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 60
+  },
+  {
+    "id": 3002170,
+    "m_building_skill_level_id": 300217,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50002,
+    "require_amount": 3
+  },
+  {
+    "id": 3002171,
+    "m_building_skill_level_id": 300217,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 60
+  },
+  {
+    "id": 3002180,
+    "m_building_skill_level_id": 300218,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50002,
+    "require_amount": 3
+  },
+  {
+    "id": 3002181,
+    "m_building_skill_level_id": 300218,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 60
+  },
+  {
+    "id": 3002190,
+    "m_building_skill_level_id": 300219,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50002,
+    "require_amount": 2
+  },
+  {
+    "id": 3002191,
+    "m_building_skill_level_id": 300219,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 60
+  },
+  {
+    "id": 3002200,
+    "m_building_skill_level_id": 300220,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50003,
+    "require_amount": 3
+  },
+  {
+    "id": 3002201,
+    "m_building_skill_level_id": 300220,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 80
+  },
+  {
+    "id": 3002210,
+    "m_building_skill_level_id": 300221,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50003,
+    "require_amount": 5
+  },
+  {
+    "id": 3002211,
+    "m_building_skill_level_id": 300221,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 80
+  },
+  {
+    "id": 3002220,
+    "m_building_skill_level_id": 300222,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50003,
+    "require_amount": 3
+  },
+  {
+    "id": 3002221,
+    "m_building_skill_level_id": 300222,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 80
+  },
+  {
+    "id": 3002230,
+    "m_building_skill_level_id": 300223,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50003,
+    "require_amount": 5
+  },
+  {
+    "id": 3002231,
+    "m_building_skill_level_id": 300223,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 80
+  },
+  {
+    "id": 3002240,
+    "m_building_skill_level_id": 300224,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50013,
+    "require_amount": 3
+  },
+  {
+    "id": 3002241,
+    "m_building_skill_level_id": 300224,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 100
+  },
+  {
+    "id": 3003000,
+    "m_building_skill_level_id": 300300,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50008,
+    "require_amount": 4
+  },
+  {
+    "id": 3003001,
+    "m_building_skill_level_id": 300300,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 10
+  },
+  {
+    "id": 3003002,
+    "m_building_skill_level_id": 300300,
+    "display_order": 1,
+    "content_type": 132,
+    "content_id": 3001,
+    "require_amount": 2
+  },
+  {
+    "id": 3003010,
+    "m_building_skill_level_id": 300301,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50005,
+    "require_amount": 4
+  },
+  {
+    "id": 3003011,
+    "m_building_skill_level_id": 300301,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 10
+  },
+  {
+    "id": 3003020,
+    "m_building_skill_level_id": 300302,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50002,
+    "require_amount": 4
+  },
+  {
+    "id": 3003021,
+    "m_building_skill_level_id": 300302,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 10
+  },
+  {
+    "id": 3003030,
+    "m_building_skill_level_id": 300303,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50008,
+    "require_amount": 5
+  },
+  {
+    "id": 3003031,
+    "m_building_skill_level_id": 300303,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 12
+  },
+  {
+    "id": 3003040,
+    "m_building_skill_level_id": 300304,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50005,
+    "require_amount": 5
+  },
+  {
+    "id": 3003041,
+    "m_building_skill_level_id": 300304,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 12
+  },
+  {
+    "id": 3003050,
+    "m_building_skill_level_id": 300305,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50002,
+    "require_amount": 5
+  },
+  {
+    "id": 3003051,
+    "m_building_skill_level_id": 300305,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 12
+  },
+  {
+    "id": 3003060,
+    "m_building_skill_level_id": 300306,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50008,
+    "require_amount": 6
+  },
+  {
+    "id": 3003061,
+    "m_building_skill_level_id": 300306,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 15
+  },
+  {
+    "id": 3003070,
+    "m_building_skill_level_id": 300307,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50005,
+    "require_amount": 6
+  },
+  {
+    "id": 3003071,
+    "m_building_skill_level_id": 300307,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 15
+  },
+  {
+    "id": 3003080,
+    "m_building_skill_level_id": 300308,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50002,
+    "require_amount": 6
+  },
+  {
+    "id": 3003081,
+    "m_building_skill_level_id": 300308,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 16
+  },
+  {
+    "id": 3003090,
+    "m_building_skill_level_id": 300309,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50008,
+    "require_amount": 6
+  },
+  {
+    "id": 3003091,
+    "m_building_skill_level_id": 300309,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 15
+  },
+  {
+    "id": 3003100,
+    "m_building_skill_level_id": 300310,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50005,
+    "require_amount": 6
+  },
+  {
+    "id": 3003101,
+    "m_building_skill_level_id": 300310,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 15
+  },
+  {
+    "id": 3003110,
+    "m_building_skill_level_id": 300311,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50002,
+    "require_amount": 6
+  },
+  {
+    "id": 3003111,
+    "m_building_skill_level_id": 300311,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 16
+  },
+  {
+    "id": 3003112,
+    "m_building_skill_level_id": 300312,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50012,
+    "require_amount": 2
+  },
+  {
+    "id": 3003120,
+    "m_building_skill_level_id": 300312,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50009,
+    "require_amount": 6
+  },
+  {
+    "id": 3003121,
+    "m_building_skill_level_id": 300312,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50008,
+    "require_amount": 20
+  },
+  {
+    "id": 3003122,
+    "m_building_skill_level_id": 300313,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50011,
+    "require_amount": 2
+  },
+  {
+    "id": 3003130,
+    "m_building_skill_level_id": 300313,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50006,
+    "require_amount": 6
+  },
+  {
+    "id": 3003131,
+    "m_building_skill_level_id": 300313,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50005,
+    "require_amount": 20
+  },
+  {
+    "id": 3003132,
+    "m_building_skill_level_id": 300314,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50013,
+    "require_amount": 2
+  },
+  {
+    "id": 3003140,
+    "m_building_skill_level_id": 300314,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50003,
+    "require_amount": 6
+  },
+  {
+    "id": 3003141,
+    "m_building_skill_level_id": 300314,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50002,
+    "require_amount": 20
+  },
+  {
+    "id": 5000000,
+    "m_building_skill_level_id": 500000,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 5
+  },
+  {
+    "id": 5000010,
+    "m_building_skill_level_id": 500001,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 10
+  },
+  {
+    "id": 5000020,
+    "m_building_skill_level_id": 500002,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 10
+  },
+  {
+    "id": 5000030,
+    "m_building_skill_level_id": 500003,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 10
+  },
+  {
+    "id": 5000040,
+    "m_building_skill_level_id": 500004,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 15
+  },
+  {
+    "id": 5000050,
+    "m_building_skill_level_id": 500005,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 15
+  },
+  {
+    "id": 5000060,
+    "m_building_skill_level_id": 500006,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 15
+  },
+  {
+    "id": 5000070,
+    "m_building_skill_level_id": 500007,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50005,
+    "require_amount": 10
+  },
+  {
+    "id": 5000071,
+    "m_building_skill_level_id": 500007,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 15
+  },
+  {
+    "id": 5000080,
+    "m_building_skill_level_id": 500008,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50005,
+    "require_amount": 10
+  },
+  {
+    "id": 5000081,
+    "m_building_skill_level_id": 500008,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 15
+  },
+  {
+    "id": 5000090,
+    "m_building_skill_level_id": 500009,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50005,
+    "require_amount": 15
+  },
+  {
+    "id": 5000091,
+    "m_building_skill_level_id": 500009,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 15
+  },
+  {
+    "id": 5000100,
+    "m_building_skill_level_id": 500010,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50005,
+    "require_amount": 15
+  },
+  {
+    "id": 5000101,
+    "m_building_skill_level_id": 500010,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 15
+  },
+  {
+    "id": 5000110,
+    "m_building_skill_level_id": 500011,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50011,
+    "require_amount": 1
+  },
+  {
+    "id": 5000111,
+    "m_building_skill_level_id": 500011,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50005,
+    "require_amount": 15
+  },
+  {
+    "id": 5000120,
+    "m_building_skill_level_id": 500012,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50006,
+    "require_amount": 3
+  },
+  {
+    "id": 5000121,
+    "m_building_skill_level_id": 500012,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50005,
+    "require_amount": 20
+  },
+  {
+    "id": 5000130,
+    "m_building_skill_level_id": 500013,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50006,
+    "require_amount": 5
+  },
+  {
+    "id": 5000131,
+    "m_building_skill_level_id": 500013,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50005,
+    "require_amount": 20
+  },
+  {
+    "id": 5000140,
+    "m_building_skill_level_id": 500014,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50011,
+    "require_amount": 2
+  },
+  {
+    "id": 5000141,
+    "m_building_skill_level_id": 500014,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50006,
+    "require_amount": 5
+  },
+  {
+    "id": 5000142,
+    "m_building_skill_level_id": 500014,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50005,
+    "require_amount": 20
+  },
+  {
+    "id": 5001000,
+    "m_building_skill_level_id": 500100,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 5
+  },
+  {
+    "id": 5001010,
+    "m_building_skill_level_id": 500101,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 10
+  },
+  {
+    "id": 5001020,
+    "m_building_skill_level_id": 500102,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 10
+  },
+  {
+    "id": 5001030,
+    "m_building_skill_level_id": 500103,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 10
+  },
+  {
+    "id": 5001040,
+    "m_building_skill_level_id": 500104,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 15
+  },
+  {
+    "id": 5001050,
+    "m_building_skill_level_id": 500105,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 15
+  },
+  {
+    "id": 5001060,
+    "m_building_skill_level_id": 500106,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 15
+  },
+  {
+    "id": 5001070,
+    "m_building_skill_level_id": 500107,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50008,
+    "require_amount": 10
+  },
+  {
+    "id": 5001071,
+    "m_building_skill_level_id": 500107,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 15
+  },
+  {
+    "id": 5001080,
+    "m_building_skill_level_id": 500108,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50008,
+    "require_amount": 10
+  },
+  {
+    "id": 5001081,
+    "m_building_skill_level_id": 500108,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 15
+  },
+  {
+    "id": 5001090,
+    "m_building_skill_level_id": 500109,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50008,
+    "require_amount": 15
+  },
+  {
+    "id": 5001091,
+    "m_building_skill_level_id": 500109,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 15
+  },
+  {
+    "id": 5001100,
+    "m_building_skill_level_id": 500110,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50008,
+    "require_amount": 15
+  },
+  {
+    "id": 5001101,
+    "m_building_skill_level_id": 500110,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 15
+  },
+  {
+    "id": 5001110,
+    "m_building_skill_level_id": 500111,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50012,
+    "require_amount": 1
+  },
+  {
+    "id": 5001111,
+    "m_building_skill_level_id": 500111,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50008,
+    "require_amount": 15
+  },
+  {
+    "id": 5001120,
+    "m_building_skill_level_id": 500112,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50009,
+    "require_amount": 3
+  },
+  {
+    "id": 5001121,
+    "m_building_skill_level_id": 500112,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50008,
+    "require_amount": 20
+  },
+  {
+    "id": 5001130,
+    "m_building_skill_level_id": 500113,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50009,
+    "require_amount": 5
+  },
+  {
+    "id": 5001131,
+    "m_building_skill_level_id": 500013,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50008,
+    "require_amount": 20
+  },
+  {
+    "id": 5001140,
+    "m_building_skill_level_id": 500114,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50012,
+    "require_amount": 2
+  },
+  {
+    "id": 5001141,
+    "m_building_skill_level_id": 500114,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50009,
+    "require_amount": 5
+  },
+  {
+    "id": 5001142,
+    "m_building_skill_level_id": 500114,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50008,
+    "require_amount": 20
+  },
+  {
+    "id": 5002000,
+    "m_building_skill_level_id": 500200,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 5
+  },
+  {
+    "id": 5002010,
+    "m_building_skill_level_id": 500201,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 10
+  },
+  {
+    "id": 5002020,
+    "m_building_skill_level_id": 500202,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 10
+  },
+  {
+    "id": 5002030,
+    "m_building_skill_level_id": 500203,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 10
+  },
+  {
+    "id": 5002040,
+    "m_building_skill_level_id": 500204,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 15
+  },
+  {
+    "id": 5002050,
+    "m_building_skill_level_id": 500205,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 15
+  },
+  {
+    "id": 5002060,
+    "m_building_skill_level_id": 500206,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 15
+  },
+  {
+    "id": 5002070,
+    "m_building_skill_level_id": 500207,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50002,
+    "require_amount": 10
+  },
+  {
+    "id": 5002071,
+    "m_building_skill_level_id": 500207,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 15
+  },
+  {
+    "id": 5002080,
+    "m_building_skill_level_id": 500208,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50002,
+    "require_amount": 10
+  },
+  {
+    "id": 5002081,
+    "m_building_skill_level_id": 500208,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 15
+  },
+  {
+    "id": 5002090,
+    "m_building_skill_level_id": 500209,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50002,
+    "require_amount": 15
+  },
+  {
+    "id": 5002091,
+    "m_building_skill_level_id": 500209,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 15
+  },
+  {
+    "id": 5002100,
+    "m_building_skill_level_id": 500210,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50002,
+    "require_amount": 15
+  },
+  {
+    "id": 5002101,
+    "m_building_skill_level_id": 500210,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 15
+  },
+  {
+    "id": 5002110,
+    "m_building_skill_level_id": 500211,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50002,
+    "require_amount": 1
+  },
+  {
+    "id": 5002111,
+    "m_building_skill_level_id": 500211,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 15
+  },
+  {
+    "id": 5002120,
+    "m_building_skill_level_id": 500212,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50003,
+    "require_amount": 3
+  },
+  {
+    "id": 5002121,
+    "m_building_skill_level_id": 500212,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50002,
+    "require_amount": 20
+  },
+  {
+    "id": 5002130,
+    "m_building_skill_level_id": 500213,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50003,
+    "require_amount": 5
+  },
+  {
+    "id": 5002131,
+    "m_building_skill_level_id": 500213,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50002,
+    "require_amount": 20
+  },
+  {
+    "id": 5002140,
+    "m_building_skill_level_id": 500214,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50013,
+    "require_amount": 2
+  },
+  {
+    "id": 5002141,
+    "m_building_skill_level_id": 500214,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50003,
+    "require_amount": 5
+  },
+  {
+    "id": 5002142,
+    "m_building_skill_level_id": 500214,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50002,
+    "require_amount": 20
+  },
+  {
+    "id": 5003000,
+    "m_building_skill_level_id": 500300,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 2
+  },
+  {
+    "id": 5003001,
+    "m_building_skill_level_id": 500300,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 2
+  },
+  {
+    "id": 5003002,
+    "m_building_skill_level_id": 500300,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 2
+  },
+  {
+    "id": 5003010,
+    "m_building_skill_level_id": 500301,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 3
+  },
+  {
+    "id": 5003011,
+    "m_building_skill_level_id": 500301,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 3
+  },
+  {
+    "id": 5003012,
+    "m_building_skill_level_id": 500301,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 3
+  },
+  {
+    "id": 5003020,
+    "m_building_skill_level_id": 500302,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 4
+  },
+  {
+    "id": 5003021,
+    "m_building_skill_level_id": 500302,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 4
+  },
+  {
+    "id": 5003022,
+    "m_building_skill_level_id": 500302,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 4
+  },
+  {
+    "id": 5003030,
+    "m_building_skill_level_id": 500303,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 5
+  },
+  {
+    "id": 5003031,
+    "m_building_skill_level_id": 500303,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 5
+  },
+  {
+    "id": 5003032,
+    "m_building_skill_level_id": 500303,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 5
+  },
+  {
+    "id": 5003040,
+    "m_building_skill_level_id": 500304,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 5
+  },
+  {
+    "id": 5003041,
+    "m_building_skill_level_id": 500304,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 5
+  },
+  {
+    "id": 5003042,
+    "m_building_skill_level_id": 500304,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 5
+  },
+  {
+    "id": 5003043,
+    "m_building_skill_level_id": 500304,
+    "display_order": 1,
+    "content_type": 132,
+    "content_id": 10001,
+    "require_amount": 2
+  },
+  {
+    "id": 5003050,
+    "m_building_skill_level_id": 500305,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 6
+  },
+  {
+    "id": 5003051,
+    "m_building_skill_level_id": 500305,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 6
+  },
+  {
+    "id": 5003052,
+    "m_building_skill_level_id": 500305,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 6
+  },
+  {
+    "id": 5003060,
+    "m_building_skill_level_id": 500306,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 6
+  },
+  {
+    "id": 5003061,
+    "m_building_skill_level_id": 500306,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 6
+  },
+  {
+    "id": 5003062,
+    "m_building_skill_level_id": 500306,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 6
+  },
+  {
+    "id": 5003070,
+    "m_building_skill_level_id": 500307,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50002,
+    "require_amount": 2
+  },
+  {
+    "id": 5003071,
+    "m_building_skill_level_id": 500307,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50005,
+    "require_amount": 2
+  },
+  {
+    "id": 5003072,
+    "m_building_skill_level_id": 500307,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50008,
+    "require_amount": 2
+  },
+  {
+    "id": 5003080,
+    "m_building_skill_level_id": 500308,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50002,
+    "require_amount": 3
+  },
+  {
+    "id": 5003081,
+    "m_building_skill_level_id": 500308,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50005,
+    "require_amount": 3
+  },
+  {
+    "id": 5003082,
+    "m_building_skill_level_id": 500308,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50008,
+    "require_amount": 3
+  },
+  {
+    "id": 5003090,
+    "m_building_skill_level_id": 500309,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50002,
+    "require_amount": 4
+  },
+  {
+    "id": 5003091,
+    "m_building_skill_level_id": 500309,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50005,
+    "require_amount": 4
+  },
+  {
+    "id": 5003092,
+    "m_building_skill_level_id": 500309,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50008,
+    "require_amount": 4
+  },
+  {
+    "id": 5003093,
+    "m_building_skill_level_id": 500309,
+    "display_order": 1,
+    "content_type": 132,
+    "content_id": 10002,
+    "require_amount": 2
+  },
+  {
+    "id": 5003100,
+    "m_building_skill_level_id": 500310,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50003,
+    "require_amount": 2
+  },
+  {
+    "id": 5003101,
+    "m_building_skill_level_id": 500310,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50006,
+    "require_amount": 2
+  },
+  {
+    "id": 5003102,
+    "m_building_skill_level_id": 500310,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50009,
+    "require_amount": 2
+  },
+  {
+    "id": 5003110,
+    "m_building_skill_level_id": 500311,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50003,
+    "require_amount": 3
+  },
+  {
+    "id": 5003111,
+    "m_building_skill_level_id": 500311,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50006,
+    "require_amount": 3
+  },
+  {
+    "id": 5003112,
+    "m_building_skill_level_id": 500311,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50009,
+    "require_amount": 3
+  },
+  {
+    "id": 5003120,
+    "m_building_skill_level_id": 500312,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50003,
+    "require_amount": 3
+  },
+  {
+    "id": 5003121,
+    "m_building_skill_level_id": 500312,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50006,
+    "require_amount": 3
+  },
+  {
+    "id": 5003122,
+    "m_building_skill_level_id": 500312,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50009,
+    "require_amount": 3
+  },
+  {
+    "id": 5003130,
+    "m_building_skill_level_id": 500313,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50003,
+    "require_amount": 4
+  },
+  {
+    "id": 5003131,
+    "m_building_skill_level_id": 500313,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50006,
+    "require_amount": 4
+  },
+  {
+    "id": 5003132,
+    "m_building_skill_level_id": 500313,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50009,
+    "require_amount": 4
+  },
+  {
+    "id": 5003140,
+    "m_building_skill_level_id": 500314,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50003,
+    "require_amount": 5
+  },
+  {
+    "id": 5003141,
+    "m_building_skill_level_id": 500314,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50006,
+    "require_amount": 5
+  },
+  {
+    "id": 5003142,
+    "m_building_skill_level_id": 500314,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50009,
+    "require_amount": 5
+  },
+  {
+    "id": 1200000,
+    "m_building_skill_level_id": 200000,
+    "display_order": 1,
+    "content_type": 132,
+    "content_id": 2001,
+    "require_amount": 1
+  },
+  {
+    "id": 1200001,
+    "m_building_skill_level_id": 200000,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50003,
+    "require_amount": 1
+  },
+  {
+    "id": 1200010,
+    "m_building_skill_level_id": 200000,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50005,
+    "require_amount": 3
+  },
+  {
+    "id": 1200002,
+    "m_building_skill_level_id": 200001,
+    "display_order": 1,
+    "content_type": 132,
+    "content_id": 2002,
+    "require_amount": 3
+  },
+  {
+    "id": 1200003,
+    "m_building_skill_level_id": 200001,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50013,
+    "require_amount": 1
+  },
+  {
+    "id": 1200100,
+    "m_building_skill_level_id": 200100,
+    "display_order": 1,
+    "content_type": 132,
+    "content_id": 2100,
+    "require_amount": 1
+  },
+  {
+    "id": 1200101,
+    "m_building_skill_level_id": 200100,
+    "display_order": 2,
+    "content_type": 30,
+    "content_id": 50003,
+    "require_amount": 3
+  },
+  {
+    "id": 1200102,
+    "m_building_skill_level_id": 200101,
+    "display_order": 1,
+    "content_type": 132,
+    "content_id": 2101,
+    "require_amount": 1
+  },
+  {
+    "id": 1200103,
+    "m_building_skill_level_id": 200101,
+    "display_order": 2,
+    "content_type": 30,
+    "content_id": 50009,
+    "require_amount": 3
+  },
+  {
+    "id": 1200104,
+    "m_building_skill_level_id": 200102,
+    "display_order": 1,
+    "content_type": 132,
+    "content_id": 2102,
+    "require_amount": 1
+  },
+  {
+    "id": 1200105,
+    "m_building_skill_level_id": 200102,
+    "display_order": 2,
+    "content_type": 30,
+    "content_id": 50006,
+    "require_amount": 3
+  },
+  {
+    "id": 1200106,
+    "m_building_skill_level_id": 200103,
+    "display_order": 1,
+    "content_type": 132,
+    "content_id": 2103,
+    "require_amount": 1
+  },
+  {
+    "id": 1200107,
+    "m_building_skill_level_id": 200103,
+    "display_order": 2,
+    "content_type": 30,
+    "content_id": 50013,
+    "require_amount": 3
+  },
+  {
+    "id": 10000000,
+    "m_building_skill_level_id": 1000000,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50010,
+    "require_amount": 1
+  },
+  {
+    "id": 10000001,
+    "m_building_skill_level_id": 1000000,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50004,
+    "require_amount": 5
+  },
+  {
+    "id": 10000010,
+    "m_building_skill_level_id": 1000001,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50010,
+    "require_amount": 1
+  },
+  {
+    "id": 10000011,
+    "m_building_skill_level_id": 1000001,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50007,
+    "require_amount": 5
+  },
+  {
+    "id": 10000020,
+    "m_building_skill_level_id": 1000002,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50010,
+    "require_amount": 1
+  },
+  {
+    "id": 10000021,
+    "m_building_skill_level_id": 1000002,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50001,
+    "require_amount": 5
+  },
+  {
+    "id": 10000030,
+    "m_building_skill_level_id": 1000003,
+    "display_order": 1,
+    "content_type": 132,
+    "content_id": 5101,
+    "require_amount": 1
+  },
+  {
+    "id": 10000031,
+    "m_building_skill_level_id": 1000003,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50010,
+    "require_amount": 1
+  },
+  {
+    "id": 10000032,
+    "m_building_skill_level_id": 1000003,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50005,
+    "require_amount": 5
+  },
+  {
+    "id": 10000040,
+    "m_building_skill_level_id": 1000004,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50010,
+    "require_amount": 1
+  },
+  {
+    "id": 10000041,
+    "m_building_skill_level_id": 1000004,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50008,
+    "require_amount": 5
+  },
+  {
+    "id": 10000050,
+    "m_building_skill_level_id": 1000005,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50010,
+    "require_amount": 1
+  },
+  {
+    "id": 10000051,
+    "m_building_skill_level_id": 1000005,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50002,
+    "require_amount": 5
+  },
+  {
+    "id": 10000060,
+    "m_building_skill_level_id": 1000006,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50010,
+    "require_amount": 1
+  },
+  {
+    "id": 10000061,
+    "m_building_skill_level_id": 1000006,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50011,
+    "require_amount": 2
+  },
+  {
+    "id": 10000070,
+    "m_building_skill_level_id": 1000007,
+    "display_order": 1,
+    "content_type": 132,
+    "content_id": 5102,
+    "require_amount": 2
+  },
+  {
+    "id": 10000071,
+    "m_building_skill_level_id": 1000007,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50010,
+    "require_amount": 1
+  },
+  {
+    "id": 10000072,
+    "m_building_skill_level_id": 1000007,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 50012,
+    "require_amount": 2
+  },
+  {
+    "id": 11000100,
+    "m_building_skill_level_id": 1000100,
+    "display_order": 1,
+    "content_type": 132,
+    "content_id": 5001,
+    "require_amount": 1
+  },
+  {
+    "id": 11000101,
+    "m_building_skill_level_id": 1000100,
+    "display_order": 1,
+    "content_type": 30,
+    "content_id": 51003,
+    "require_amount": 1
+  }
+]

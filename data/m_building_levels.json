@@ -1,0 +1,137 @@
+[
+  {
+    "id": 10001,
+    "m_building_id": 100,
+    "level": 1,
+    "exp": 0,
+    "gold": 0,
+    "asset_id": "1001",
+    "upgrade_seconds": 0
+  },
+  {
+    "id": 10002,
+    "m_building_id": 100,
+    "level": 2,
+    "exp": 300,
+    "gold": 0,
+    "asset_id": "1002",
+    "upgrade_seconds": 0
+  },
+  {
+    "id": 10003,
+    "m_building_id": 100,
+    "level": 3,
+    "exp": 750,
+    "gold": 0,
+    "asset_id": "1003",
+    "upgrade_seconds": 0
+  },
+  {
+    "id": 20001,
+    "m_building_id": 200,
+    "level": 1,
+    "exp": 0,
+    "gold": 0,
+    "asset_id": "2001",
+    "upgrade_seconds": 0
+  },
+  {
+    "id": 20002,
+    "m_building_id": 200,
+    "level": 2,
+    "exp": 100,
+    "gold": 0,
+    "asset_id": "2002",
+    "upgrade_seconds": 0
+  },
+  {
+    "id": 20003,
+    "m_building_id": 200,
+    "level": 3,
+    "exp": 200,
+    "gold": 0,
+    "asset_id": "2003",
+    "upgrade_seconds": 0
+  },
+  {
+    "id": 30001,
+    "m_building_id": 300,
+    "level": 1,
+    "exp": 0,
+    "gold": 0,
+    "asset_id": "3001",
+    "upgrade_seconds": 0
+  },
+  {
+    "id": 30002,
+    "m_building_id": 300,
+    "level": 2,
+    "exp": 450,
+    "gold": 0,
+    "asset_id": "3001",
+    "upgrade_seconds": 0
+  },
+  {
+    "id": 30003,
+    "m_building_id": 300,
+    "level": 3,
+    "exp": 900,
+    "gold": 0,
+    "asset_id": "3001",
+    "upgrade_seconds": 0
+  },
+  {
+    "id": 50001,
+    "m_building_id": 500,
+    "level": 1,
+    "exp": 0,
+    "gold": 0,
+    "asset_id": "5001",
+    "upgrade_seconds": 0
+  },
+  {
+    "id": 50002,
+    "m_building_id": 500,
+    "level": 2,
+    "exp": 300,
+    "gold": 0,
+    "asset_id": "5001",
+    "upgrade_seconds": 0
+  },
+  {
+    "id": 50003,
+    "m_building_id": 500,
+    "level": 3,
+    "exp": 600,
+    "gold": 0,
+    "asset_id": "5002",
+    "upgrade_seconds": 0
+  },
+  {
+    "id": 100001,
+    "m_building_id": 1000,
+    "level": 1,
+    "exp": 0,
+    "gold": 0,
+    "asset_id": "10001",
+    "upgrade_seconds": 0
+  },
+  {
+    "id": 100002,
+    "m_building_id": 1000,
+    "level": 2,
+    "exp": 100,
+    "gold": 0,
+    "asset_id": "10002",
+    "upgrade_seconds": 0
+  },
+  {
+    "id": 100003,
+    "m_building_id": 1000,
+    "level": 3,
+    "exp": 150,
+    "gold": 0,
+    "asset_id": "10002",
+    "upgrade_seconds": 0
+  }
+]
