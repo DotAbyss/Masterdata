@@ -900,21 +900,6 @@
     "display_order": 1
   },
   {
-    "id": 120001702,
-    "m_character_id": 1200017,
-    "type": 1,
-    "rarity": 2,
-    "name": "メモリアル・ブレザー",
-    "description": "故郷の空の下、何度も着た制服。\nその温もりは今も心に残り続け、\nポケットには青春の思い出がぎゅっと詰まっている。",
-    "serif": "う～ん……やっぱりこっちの方が\n着慣れてて落ち着くなぁ～……",
-    "is_default": 0,
-    "bonus_bond_point": 0,
-    "released_at": "2024-01-01 00:00:00",
-    "asset_id": "106601001G",
-    "bg_asset_id": "abg10100a",
-    "display_order": 2
-  },
-  {
     "id": 120001703,
     "m_character_id": 1200017,
     "type": 2,
@@ -973,21 +958,6 @@
     "asset_id": "101201000G",
     "bg_asset_id": "abg10100a",
     "display_order": 1
-  },
-  {
-    "id": 130000302,
-    "m_character_id": 1300003,
-    "type": 1,
-    "rarity": 2,
-    "name": "ハートフル・ウェイトレス",
-    "description": "いらっしゃいませ！　と元気な声が響く。\nご注文は何でしょう？\nスマイルはもちろん無料です♪",
-    "serif": "ハンティングメガバーガーセット……\nお、お待たせしました……",
-    "is_default": 0,
-    "bonus_bond_point": 0,
-    "released_at": "2024-01-01 00:00:00",
-    "asset_id": "101201001G",
-    "bg_asset_id": "abg10100a",
-    "display_order": 2
   },
   {
     "id": 130000303,

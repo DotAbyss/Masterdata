@@ -498,5 +498,25 @@
     "m_gacha_mileage_reward_group_no": 0,
     "pickup_label": "",
     "payment_id": 0
+  },
+  {
+    "id": 161000,
+    "m_gacha_group_id": 161000,
+    "type": 1,
+    "display_order": 1,
+    "lottery_num": 1,
+    "content_type": 30,
+    "content_id": 161000,
+    "use_amount": 1,
+    "gacha_ticket_content_type": 0,
+    "gacha_ticket_content_id": 0,
+    "gacha_ticket_amount": 0,
+    "limit_num": 0,
+    "limit_reset_type": 0,
+    "m_gacha_token_id": 0,
+    "token_num": 0,
+    "m_gacha_mileage_reward_group_no": 0,
+    "pickup_label": "",
+    "payment_id": 0
   }
 ]

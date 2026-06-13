@@ -318,5 +318,21 @@
     "bg": "7500002",
     "exchange": "0",
     "m_gacha_caution_id": 1
+  },
+  {
+    "id": 161000,
+    "name": "【補填】チュートリアルガチャピース",
+    "display_order": 99,
+    "begin_at": "2026-05-01 10:00:00",
+    "end_at": "2040-01-01 00:00:00",
+    "wishlist_slot_num": 3,
+    "wishlist_enabled": 0,
+    "wishlist_weight": 0,
+    "description": "ガチャ説明は表示されません",
+    "banner": "7500002",
+    "logo": "7500002",
+    "bg": "7500002",
+    "exchange": "0",
+    "m_gacha_caution_id": 1
   }
 ]

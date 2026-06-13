@@ -641,7 +641,7 @@
     "m_character_id": 1300026,
     "trigger_type": 30,
     "name": "魂魄一閃",
-    "description": "さらに自身に与えたダメージの【{[DAMAGE_DRAIN.HEAL_RATIO:1]}】分の回復 / 紋章：衝撃を5消費し、対象に喪失【{[IMPACTSUCCEED.ABNORMAL.DURATION]秒}/ 成功率:100%】を付与"
+    "description": "さらに自身に与えたダメージの【{[DAMAGE_DRAIN.HEAL_RATIO:1]}】分の回復 / 紋章：衝撃を2消費し、対象に喪失【{[IMPACTSUCCEED.ABNORMAL.DURATION]秒}/ 成功率:100%】を付与"
   },
   {
     "id": 1300030000,
