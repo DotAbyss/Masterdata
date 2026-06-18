@@ -438,7 +438,7 @@
     "m_character_id": 1300001,
     "trigger_type": 20,
     "name": "バーニングロンド",
-    "description": "HPが最も高い敵1体に【8HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 自身に紋章：情熱を【1】付与"
+    "description": "HPが最も高い敵1体に【8HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 自身に紋章：情熱を【1】付与"
   },
   {
     "id": 1300001001,
