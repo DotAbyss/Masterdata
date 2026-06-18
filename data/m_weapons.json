@@ -9918,6 +9918,24 @@
     "mana_type": 2
   },
   {
+    "id": 18060340,
+    "asset_id": "41083003",
+    "name": "豊穣神のツルハシ",
+    "weapon_type": 1080,
+    "group_no": 806,
+    "rank": 3,
+    "rarity": 4,
+    "up_parameter_type": 2,
+    "basic_parameter": 368,
+    "min_parameter": 0,
+    "max_parameter": 157,
+    "lottery_interval": 1,
+    "base_power": 1000,
+    "mileage": 500,
+    "flavor_text": "クリスタルの力を宿すツルハシ\n紋章：情熱の力に反応して土属性の味方の攻撃力を高める。",
+    "mana_type": 2
+  },
+  {
     "id": 18070340,
     "asset_id": "41081003",
     "name": "漆黒のツルハシ",
@@ -10350,6 +10368,24 @@
     "mana_type": 2
   },
   {
+    "id": 18060440,
+    "asset_id": "41083003",
+    "name": "豊穣神のツルハシ",
+    "weapon_type": 1080,
+    "group_no": 806,
+    "rank": 4,
+    "rarity": 4,
+    "up_parameter_type": 2,
+    "basic_parameter": 525,
+    "min_parameter": 0,
+    "max_parameter": 225,
+    "lottery_interval": 1,
+    "base_power": 1000,
+    "mileage": 500,
+    "flavor_text": "クリスタルの力を宿すツルハシ\n紋章：情熱の力に反応して土属性の味方の攻撃力を高める。",
+    "mana_type": 2
+  },
+  {
     "id": 18070440,
     "asset_id": "41081003",
     "name": "漆黒のツルハシ",
@@ -10779,6 +10815,24 @@
     "base_power": 1000,
     "mileage": 500,
     "flavor_text": "深淵に浸され変質したツルハシ\n戦闘開始時に紋章：情熱の力を高める。",
+    "mana_type": 2
+  },
+  {
+    "id": 18060540,
+    "asset_id": "41083003",
+    "name": "豊穣神のツルハシ",
+    "weapon_type": 1080,
+    "group_no": 806,
+    "rank": 5,
+    "rarity": 4,
+    "up_parameter_type": 2,
+    "basic_parameter": 683,
+    "min_parameter": 0,
+    "max_parameter": 292,
+    "lottery_interval": 1,
+    "base_power": 1000,
+    "mileage": 500,
+    "flavor_text": "クリスタルの力を宿すツルハシ\n紋章：情熱の力に反応して土属性の味方の攻撃力を高める。",
     "mana_type": 2
   },
   {

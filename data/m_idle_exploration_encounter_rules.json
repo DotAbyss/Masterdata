@@ -28,5 +28,20 @@
     "id": 6,
     "encount_interval": 1800,
     "m_idle_exploration_encount_group_id": 601
+  },
+  {
+    "id": 70,
+    "encount_interval": 1800,
+    "m_idle_exploration_encount_group_id": 700
+  },
+  {
+    "id": 71,
+    "encount_interval": 1800,
+    "m_idle_exploration_encount_group_id": 701
+  },
+  {
+    "id": 72,
+    "encount_interval": 1800,
+    "m_idle_exploration_encount_group_id": 702
   }
 ]

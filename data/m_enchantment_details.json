@@ -658,6 +658,13 @@
     "description": "最大HP【{1}%】減少。30秒に1回、自身に紋章：衝撃を【{2}】付与"
   },
   {
+    "id": 95,
+    "enchantment_no": 1038,
+    "asset_id": "Unique",
+    "name": "豊穣神のツルハシ",
+    "description": "紋章：情熱が付与されたとき、15秒間土属性の味方全体の攻撃力【{1}%】UP（1編成につき1本分のみ効果発動）"
+  },
+  {
     "id": 96,
     "enchantment_no": 1301,
     "asset_id": "Attack",

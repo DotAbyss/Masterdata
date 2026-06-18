@@ -496,6 +496,30 @@
     "order": 2
   },
   {
+    "id": 130000101,
+    "m_character_id": 1300001,
+    "asset_id": "Ability_SpecialAttack_01",
+    "name": "ダンシング・フープ",
+    "ability_no": 10011,
+    "order": 1
+  },
+  {
+    "id": 130000102,
+    "m_character_id": 1300001,
+    "asset_id": "Ability_Attack_01",
+    "name": "盛り上がってきました！",
+    "ability_no": 10012,
+    "order": 2
+  },
+  {
+    "id": 130000103,
+    "m_character_id": 1300001,
+    "asset_id": "Ability_Defense_01",
+    "name": "みんなも踊って！",
+    "ability_no": 10013,
+    "order": 3
+  },
+  {
     "id": 130000301,
     "m_character_id": 1300003,
     "asset_id": "Ability_SpecialAttack_01",
@@ -640,6 +664,30 @@
     "order": 3
   },
   {
+    "id": 130001001,
+    "m_character_id": 1300010,
+    "asset_id": "Ability_SpecialAttack_01",
+    "name": "一矢一閃",
+    "ability_no": 10098,
+    "order": 1
+  },
+  {
+    "id": 130001002,
+    "m_character_id": 1300010,
+    "asset_id": "Ability_ConditionAttack_01",
+    "name": "猟人の罠",
+    "ability_no": 10099,
+    "order": 2
+  },
+  {
+    "id": 130001003,
+    "m_character_id": 1300010,
+    "asset_id": "Ability_Critical_01",
+    "name": "ムードメーカー",
+    "ability_no": 10100,
+    "order": 3
+  },
+  {
     "id": 130001101,
     "m_character_id": 1300011,
     "asset_id": "Ability_SpecialAssist_01",
@@ -661,6 +709,30 @@
     "asset_id": "Ability_Manatype_Grant",
     "name": "ぼくならできる！",
     "ability_no": 10034,
+    "order": 3
+  },
+  {
+    "id": 130001401,
+    "m_character_id": 1300014,
+    "asset_id": "Ability_SpecialAttack_01",
+    "name": "海賊流射撃術",
+    "ability_no": 10038,
+    "order": 1
+  },
+  {
+    "id": 130001402,
+    "m_character_id": 1300014,
+    "asset_id": "Ability_Attack_01",
+    "name": "砲撃術",
+    "ability_no": 10039,
+    "order": 2
+  },
+  {
+    "id": 130001403,
+    "m_character_id": 1300014,
+    "asset_id": "Ability_Attack_01",
+    "name": "部隊指揮",
+    "ability_no": 10040,
     "order": 3
   },
   {

@@ -10341,6 +10341,1446 @@
     "master_id": 43001340602
   },
   {
+    "id": 44001110101,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400111,
+    "enemy_id": 440011101,
+    "bt_command_id": 1,
+    "master_id": 44001111202
+  },
+  {
+    "id": 44001110102,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400111,
+    "enemy_id": 440011101,
+    "bt_command_id": 2,
+    "master_id": 44001111203
+  },
+  {
+    "id": 44001110103,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400111,
+    "enemy_id": 440011101,
+    "bt_command_id": 3,
+    "master_id": 44001111204
+  },
+  {
+    "id": 44001110104,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400111,
+    "enemy_id": 440011101,
+    "bt_command_id": 4,
+    "master_id": 44001111205
+  },
+  {
+    "id": 44001110901,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400111,
+    "enemy_id": 440011109,
+    "bt_command_id": 1,
+    "master_id": 44001111206
+  },
+  {
+    "id": 44001110902,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400111,
+    "enemy_id": 440011109,
+    "bt_command_id": 2,
+    "master_id": 44001111207
+  },
+  {
+    "id": 44001110903,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400111,
+    "enemy_id": 440011109,
+    "bt_command_id": 3,
+    "master_id": 44001111208
+  },
+  {
+    "id": 44001110904,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400111,
+    "enemy_id": 440011109,
+    "bt_command_id": 4,
+    "master_id": 44001111209
+  },
+  {
+    "id": 44001111701,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400111,
+    "enemy_id": 440011117,
+    "bt_command_id": 1,
+    "master_id": 44001111210
+  },
+  {
+    "id": 44001111702,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400111,
+    "enemy_id": 440011117,
+    "bt_command_id": 2,
+    "master_id": 44001111211
+  },
+  {
+    "id": 44001111703,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400111,
+    "enemy_id": 440011117,
+    "bt_command_id": 3,
+    "master_id": 44001111212
+  },
+  {
+    "id": 44001111704,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400111,
+    "enemy_id": 440011117,
+    "bt_command_id": 4,
+    "master_id": 44001111213
+  },
+  {
+    "id": 44001112501,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400111,
+    "enemy_id": 440011125,
+    "bt_command_id": 1,
+    "master_id": 44001111214
+  },
+  {
+    "id": 44001112502,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400111,
+    "enemy_id": 440011125,
+    "bt_command_id": 2,
+    "master_id": 44001111215
+  },
+  {
+    "id": 44001112503,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400111,
+    "enemy_id": 440011125,
+    "bt_command_id": 3,
+    "master_id": 44001111216
+  },
+  {
+    "id": 44001112504,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400111,
+    "enemy_id": 440011125,
+    "bt_command_id": 4,
+    "master_id": 44001111217
+  },
+  {
+    "id": 44001113501,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400111,
+    "enemy_id": 440011135,
+    "bt_command_id": 1,
+    "master_id": 44001111218
+  },
+  {
+    "id": 44001113502,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400111,
+    "enemy_id": 440011135,
+    "bt_command_id": 2,
+    "master_id": 44001111219
+  },
+  {
+    "id": 44001113503,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400111,
+    "enemy_id": 440011135,
+    "bt_command_id": 3,
+    "master_id": 44001111220
+  },
+  {
+    "id": 44001113504,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400111,
+    "enemy_id": 440011135,
+    "bt_command_id": 4,
+    "master_id": 44001111221
+  },
+  {
+    "id": 44001114501,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400111,
+    "enemy_id": 440011145,
+    "bt_command_id": 1,
+    "master_id": 44001111222
+  },
+  {
+    "id": 44001114502,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400111,
+    "enemy_id": 440011145,
+    "bt_command_id": 2,
+    "master_id": 44001111223
+  },
+  {
+    "id": 44001114503,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400111,
+    "enemy_id": 440011145,
+    "bt_command_id": 3,
+    "master_id": 44001111224
+  },
+  {
+    "id": 44001114504,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400111,
+    "enemy_id": 440011145,
+    "bt_command_id": 4,
+    "master_id": 44001111225
+  },
+  {
+    "id": 44001120101,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400112,
+    "enemy_id": 440011201,
+    "bt_command_id": 1,
+    "master_id": 44001121202
+  },
+  {
+    "id": 44001120102,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400112,
+    "enemy_id": 440011201,
+    "bt_command_id": 2,
+    "master_id": 44001121203
+  },
+  {
+    "id": 44001120103,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400112,
+    "enemy_id": 440011201,
+    "bt_command_id": 3,
+    "master_id": 44001121204
+  },
+  {
+    "id": 44001120104,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400112,
+    "enemy_id": 440011201,
+    "bt_command_id": 4,
+    "master_id": 44001121205
+  },
+  {
+    "id": 44001120901,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400112,
+    "enemy_id": 440011209,
+    "bt_command_id": 1,
+    "master_id": 44001121206
+  },
+  {
+    "id": 44001120902,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400112,
+    "enemy_id": 440011209,
+    "bt_command_id": 2,
+    "master_id": 44001121207
+  },
+  {
+    "id": 44001120903,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400112,
+    "enemy_id": 440011209,
+    "bt_command_id": 3,
+    "master_id": 44001121208
+  },
+  {
+    "id": 44001120904,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400112,
+    "enemy_id": 440011209,
+    "bt_command_id": 4,
+    "master_id": 44001121209
+  },
+  {
+    "id": 44001121701,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400112,
+    "enemy_id": 440011217,
+    "bt_command_id": 1,
+    "master_id": 44001121210
+  },
+  {
+    "id": 44001121702,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400112,
+    "enemy_id": 440011217,
+    "bt_command_id": 2,
+    "master_id": 44001121211
+  },
+  {
+    "id": 44001121703,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400112,
+    "enemy_id": 440011217,
+    "bt_command_id": 3,
+    "master_id": 44001121212
+  },
+  {
+    "id": 44001121704,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400112,
+    "enemy_id": 440011217,
+    "bt_command_id": 4,
+    "master_id": 44001121213
+  },
+  {
+    "id": 44001122501,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400112,
+    "enemy_id": 440011225,
+    "bt_command_id": 1,
+    "master_id": 44001121214
+  },
+  {
+    "id": 44001122502,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400112,
+    "enemy_id": 440011225,
+    "bt_command_id": 2,
+    "master_id": 44001121215
+  },
+  {
+    "id": 44001122503,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400112,
+    "enemy_id": 440011225,
+    "bt_command_id": 3,
+    "master_id": 44001121216
+  },
+  {
+    "id": 44001122504,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400112,
+    "enemy_id": 440011225,
+    "bt_command_id": 4,
+    "master_id": 44001121217
+  },
+  {
+    "id": 44001123501,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400112,
+    "enemy_id": 440011235,
+    "bt_command_id": 1,
+    "master_id": 44001121218
+  },
+  {
+    "id": 44001123502,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400112,
+    "enemy_id": 440011235,
+    "bt_command_id": 2,
+    "master_id": 44001121219
+  },
+  {
+    "id": 44001123503,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400112,
+    "enemy_id": 440011235,
+    "bt_command_id": 3,
+    "master_id": 44001121220
+  },
+  {
+    "id": 44001123504,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400112,
+    "enemy_id": 440011235,
+    "bt_command_id": 4,
+    "master_id": 44001121221
+  },
+  {
+    "id": 44001124501,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400112,
+    "enemy_id": 440011245,
+    "bt_command_id": 1,
+    "master_id": 44001121222
+  },
+  {
+    "id": 44001124502,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400112,
+    "enemy_id": 440011245,
+    "bt_command_id": 2,
+    "master_id": 44001121223
+  },
+  {
+    "id": 44001124503,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400112,
+    "enemy_id": 440011245,
+    "bt_command_id": 3,
+    "master_id": 44001121224
+  },
+  {
+    "id": 44001124504,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400112,
+    "enemy_id": 440011245,
+    "bt_command_id": 4,
+    "master_id": 44001121225
+  },
+  {
+    "id": 44001210101,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400121,
+    "enemy_id": 440012101,
+    "bt_command_id": 1,
+    "master_id": 44001211202
+  },
+  {
+    "id": 44001210102,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400121,
+    "enemy_id": 440012101,
+    "bt_command_id": 2,
+    "master_id": 44001211203
+  },
+  {
+    "id": 44001210103,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400121,
+    "enemy_id": 440012101,
+    "bt_command_id": 3,
+    "master_id": 44001211204
+  },
+  {
+    "id": 44001210104,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400121,
+    "enemy_id": 440012101,
+    "bt_command_id": 4,
+    "master_id": 44001211205
+  },
+  {
+    "id": 44001211001,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400121,
+    "enemy_id": 440012110,
+    "bt_command_id": 1,
+    "master_id": 44001211206
+  },
+  {
+    "id": 44001211002,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400121,
+    "enemy_id": 440012110,
+    "bt_command_id": 2,
+    "master_id": 44001211207
+  },
+  {
+    "id": 44001211003,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400121,
+    "enemy_id": 440012110,
+    "bt_command_id": 3,
+    "master_id": 44001211208
+  },
+  {
+    "id": 44001211004,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400121,
+    "enemy_id": 440012110,
+    "bt_command_id": 4,
+    "master_id": 44001211209
+  },
+  {
+    "id": 44001211801,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400121,
+    "enemy_id": 440012118,
+    "bt_command_id": 1,
+    "master_id": 44001211210
+  },
+  {
+    "id": 44001211802,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400121,
+    "enemy_id": 440012118,
+    "bt_command_id": 2,
+    "master_id": 44001211211
+  },
+  {
+    "id": 44001211803,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400121,
+    "enemy_id": 440012118,
+    "bt_command_id": 3,
+    "master_id": 44001211212
+  },
+  {
+    "id": 44001211804,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400121,
+    "enemy_id": 440012118,
+    "bt_command_id": 4,
+    "master_id": 44001211213
+  },
+  {
+    "id": 44001212601,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400121,
+    "enemy_id": 440012126,
+    "bt_command_id": 1,
+    "master_id": 44001211214
+  },
+  {
+    "id": 44001212602,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400121,
+    "enemy_id": 440012126,
+    "bt_command_id": 2,
+    "master_id": 44001211215
+  },
+  {
+    "id": 44001212603,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400121,
+    "enemy_id": 440012126,
+    "bt_command_id": 3,
+    "master_id": 44001211216
+  },
+  {
+    "id": 44001212604,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400121,
+    "enemy_id": 440012126,
+    "bt_command_id": 4,
+    "master_id": 44001211217
+  },
+  {
+    "id": 44001213701,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400121,
+    "enemy_id": 440012137,
+    "bt_command_id": 1,
+    "master_id": 44001211218
+  },
+  {
+    "id": 44001213702,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400121,
+    "enemy_id": 440012137,
+    "bt_command_id": 2,
+    "master_id": 44001211219
+  },
+  {
+    "id": 44001213703,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400121,
+    "enemy_id": 440012137,
+    "bt_command_id": 3,
+    "master_id": 44001211220
+  },
+  {
+    "id": 44001213704,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400121,
+    "enemy_id": 440012137,
+    "bt_command_id": 4,
+    "master_id": 44001211221
+  },
+  {
+    "id": 44001214801,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400121,
+    "enemy_id": 440012148,
+    "bt_command_id": 1,
+    "master_id": 44001211222
+  },
+  {
+    "id": 44001214802,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400121,
+    "enemy_id": 440012148,
+    "bt_command_id": 2,
+    "master_id": 44001211223
+  },
+  {
+    "id": 44001214803,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400121,
+    "enemy_id": 440012148,
+    "bt_command_id": 3,
+    "master_id": 44001211224
+  },
+  {
+    "id": 44001214804,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400121,
+    "enemy_id": 440012148,
+    "bt_command_id": 4,
+    "master_id": 44001211225
+  },
+  {
+    "id": 44001220101,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400122,
+    "enemy_id": 440012201,
+    "bt_command_id": 1,
+    "master_id": 44001221202
+  },
+  {
+    "id": 44001220102,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400122,
+    "enemy_id": 440012201,
+    "bt_command_id": 2,
+    "master_id": 44001221203
+  },
+  {
+    "id": 44001220103,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400122,
+    "enemy_id": 440012201,
+    "bt_command_id": 3,
+    "master_id": 44001221204
+  },
+  {
+    "id": 44001220104,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400122,
+    "enemy_id": 440012201,
+    "bt_command_id": 4,
+    "master_id": 44001221205
+  },
+  {
+    "id": 44001221001,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400122,
+    "enemy_id": 440012210,
+    "bt_command_id": 1,
+    "master_id": 44001221206
+  },
+  {
+    "id": 44001221002,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400122,
+    "enemy_id": 440012210,
+    "bt_command_id": 2,
+    "master_id": 44001221207
+  },
+  {
+    "id": 44001221003,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400122,
+    "enemy_id": 440012210,
+    "bt_command_id": 3,
+    "master_id": 44001221208
+  },
+  {
+    "id": 44001221004,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400122,
+    "enemy_id": 440012210,
+    "bt_command_id": 4,
+    "master_id": 44001221209
+  },
+  {
+    "id": 44001221801,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400122,
+    "enemy_id": 440012218,
+    "bt_command_id": 1,
+    "master_id": 44001221210
+  },
+  {
+    "id": 44001221802,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400122,
+    "enemy_id": 440012218,
+    "bt_command_id": 2,
+    "master_id": 44001221211
+  },
+  {
+    "id": 44001221803,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400122,
+    "enemy_id": 440012218,
+    "bt_command_id": 3,
+    "master_id": 44001221212
+  },
+  {
+    "id": 44001221804,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400122,
+    "enemy_id": 440012218,
+    "bt_command_id": 4,
+    "master_id": 44001221213
+  },
+  {
+    "id": 44001222601,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400122,
+    "enemy_id": 440012226,
+    "bt_command_id": 1,
+    "master_id": 44001221214
+  },
+  {
+    "id": 44001222602,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400122,
+    "enemy_id": 440012226,
+    "bt_command_id": 2,
+    "master_id": 44001221215
+  },
+  {
+    "id": 44001222603,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400122,
+    "enemy_id": 440012226,
+    "bt_command_id": 3,
+    "master_id": 44001221216
+  },
+  {
+    "id": 44001222604,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400122,
+    "enemy_id": 440012226,
+    "bt_command_id": 4,
+    "master_id": 44001221217
+  },
+  {
+    "id": 44001223701,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400122,
+    "enemy_id": 440012237,
+    "bt_command_id": 1,
+    "master_id": 44001221218
+  },
+  {
+    "id": 44001223702,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400122,
+    "enemy_id": 440012237,
+    "bt_command_id": 2,
+    "master_id": 44001221219
+  },
+  {
+    "id": 44001223703,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400122,
+    "enemy_id": 440012237,
+    "bt_command_id": 3,
+    "master_id": 44001221220
+  },
+  {
+    "id": 44001223704,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400122,
+    "enemy_id": 440012237,
+    "bt_command_id": 4,
+    "master_id": 44001221221
+  },
+  {
+    "id": 44001224801,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400122,
+    "enemy_id": 440012248,
+    "bt_command_id": 1,
+    "master_id": 44001221222
+  },
+  {
+    "id": 44001224802,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400122,
+    "enemy_id": 440012248,
+    "bt_command_id": 2,
+    "master_id": 44001221223
+  },
+  {
+    "id": 44001224803,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400122,
+    "enemy_id": 440012248,
+    "bt_command_id": 3,
+    "master_id": 44001221224
+  },
+  {
+    "id": 44001224804,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400122,
+    "enemy_id": 440012248,
+    "bt_command_id": 4,
+    "master_id": 44001221225
+  },
+  {
+    "id": 44001310101,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400131,
+    "enemy_id": 440013101,
+    "bt_command_id": 1,
+    "master_id": 44001311202
+  },
+  {
+    "id": 44001310102,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400131,
+    "enemy_id": 440013101,
+    "bt_command_id": 2,
+    "master_id": 44001311203
+  },
+  {
+    "id": 44001310103,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400131,
+    "enemy_id": 440013101,
+    "bt_command_id": 3,
+    "master_id": 44001311204
+  },
+  {
+    "id": 44001310104,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400131,
+    "enemy_id": 440013101,
+    "bt_command_id": 4,
+    "master_id": 44001311205
+  },
+  {
+    "id": 44001311101,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400131,
+    "enemy_id": 440013111,
+    "bt_command_id": 1,
+    "master_id": 44001311206
+  },
+  {
+    "id": 44001311102,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400131,
+    "enemy_id": 440013111,
+    "bt_command_id": 2,
+    "master_id": 44001311207
+  },
+  {
+    "id": 44001311103,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400131,
+    "enemy_id": 440013111,
+    "bt_command_id": 3,
+    "master_id": 44001311208
+  },
+  {
+    "id": 44001311104,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400131,
+    "enemy_id": 440013111,
+    "bt_command_id": 4,
+    "master_id": 44001311209
+  },
+  {
+    "id": 44001311901,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400131,
+    "enemy_id": 440013119,
+    "bt_command_id": 1,
+    "master_id": 44001311210
+  },
+  {
+    "id": 44001311902,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400131,
+    "enemy_id": 440013119,
+    "bt_command_id": 2,
+    "master_id": 44001311211
+  },
+  {
+    "id": 44001311903,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400131,
+    "enemy_id": 440013119,
+    "bt_command_id": 3,
+    "master_id": 44001311212
+  },
+  {
+    "id": 44001311904,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400131,
+    "enemy_id": 440013119,
+    "bt_command_id": 4,
+    "master_id": 44001311213
+  },
+  {
+    "id": 44001312701,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400131,
+    "enemy_id": 440013127,
+    "bt_command_id": 1,
+    "master_id": 44001311214
+  },
+  {
+    "id": 44001312702,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400131,
+    "enemy_id": 440013127,
+    "bt_command_id": 2,
+    "master_id": 44001311215
+  },
+  {
+    "id": 44001312703,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400131,
+    "enemy_id": 440013127,
+    "bt_command_id": 3,
+    "master_id": 44001311216
+  },
+  {
+    "id": 44001312704,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400131,
+    "enemy_id": 440013127,
+    "bt_command_id": 4,
+    "master_id": 44001311217
+  },
+  {
+    "id": 44001313901,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400131,
+    "enemy_id": 440013139,
+    "bt_command_id": 1,
+    "master_id": 44001311218
+  },
+  {
+    "id": 44001313902,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400131,
+    "enemy_id": 440013139,
+    "bt_command_id": 2,
+    "master_id": 44001311219
+  },
+  {
+    "id": 44001313903,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400131,
+    "enemy_id": 440013139,
+    "bt_command_id": 3,
+    "master_id": 44001311220
+  },
+  {
+    "id": 44001313904,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400131,
+    "enemy_id": 440013139,
+    "bt_command_id": 4,
+    "master_id": 44001311221
+  },
+  {
+    "id": 44001315101,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400131,
+    "enemy_id": 440013151,
+    "bt_command_id": 1,
+    "master_id": 44001311222
+  },
+  {
+    "id": 44001315102,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400131,
+    "enemy_id": 440013151,
+    "bt_command_id": 2,
+    "master_id": 44001311223
+  },
+  {
+    "id": 44001315103,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400131,
+    "enemy_id": 440013151,
+    "bt_command_id": 3,
+    "master_id": 44001311224
+  },
+  {
+    "id": 44001315104,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400131,
+    "enemy_id": 440013151,
+    "bt_command_id": 4,
+    "master_id": 44001311225
+  },
+  {
+    "id": 44001320101,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400132,
+    "enemy_id": 440013201,
+    "bt_command_id": 1,
+    "master_id": 44001321202
+  },
+  {
+    "id": 44001320102,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400132,
+    "enemy_id": 440013201,
+    "bt_command_id": 2,
+    "master_id": 44001321203
+  },
+  {
+    "id": 44001320103,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400132,
+    "enemy_id": 440013201,
+    "bt_command_id": 3,
+    "master_id": 44001321204
+  },
+  {
+    "id": 44001320104,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400132,
+    "enemy_id": 440013201,
+    "bt_command_id": 4,
+    "master_id": 44001321205
+  },
+  {
+    "id": 44001321101,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400132,
+    "enemy_id": 440013211,
+    "bt_command_id": 1,
+    "master_id": 44001321206
+  },
+  {
+    "id": 44001321102,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400132,
+    "enemy_id": 440013211,
+    "bt_command_id": 2,
+    "master_id": 44001321207
+  },
+  {
+    "id": 44001321103,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400132,
+    "enemy_id": 440013211,
+    "bt_command_id": 3,
+    "master_id": 44001321208
+  },
+  {
+    "id": 44001321104,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400132,
+    "enemy_id": 440013211,
+    "bt_command_id": 4,
+    "master_id": 44001321209
+  },
+  {
+    "id": 44001321901,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400132,
+    "enemy_id": 440013219,
+    "bt_command_id": 1,
+    "master_id": 44001321210
+  },
+  {
+    "id": 44001321902,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400132,
+    "enemy_id": 440013219,
+    "bt_command_id": 2,
+    "master_id": 44001321211
+  },
+  {
+    "id": 44001321903,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400132,
+    "enemy_id": 440013219,
+    "bt_command_id": 3,
+    "master_id": 44001321212
+  },
+  {
+    "id": 44001321904,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400132,
+    "enemy_id": 440013219,
+    "bt_command_id": 4,
+    "master_id": 44001321213
+  },
+  {
+    "id": 44001322701,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400132,
+    "enemy_id": 440013227,
+    "bt_command_id": 1,
+    "master_id": 44001321214
+  },
+  {
+    "id": 44001322702,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400132,
+    "enemy_id": 440013227,
+    "bt_command_id": 2,
+    "master_id": 44001321215
+  },
+  {
+    "id": 44001322703,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400132,
+    "enemy_id": 440013227,
+    "bt_command_id": 3,
+    "master_id": 44001321216
+  },
+  {
+    "id": 44001322704,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400132,
+    "enemy_id": 440013227,
+    "bt_command_id": 4,
+    "master_id": 44001321217
+  },
+  {
+    "id": 44001323901,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400132,
+    "enemy_id": 440013239,
+    "bt_command_id": 1,
+    "master_id": 44001321218
+  },
+  {
+    "id": 44001323902,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400132,
+    "enemy_id": 440013239,
+    "bt_command_id": 2,
+    "master_id": 44001321219
+  },
+  {
+    "id": 44001323903,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400132,
+    "enemy_id": 440013239,
+    "bt_command_id": 3,
+    "master_id": 44001321220
+  },
+  {
+    "id": 44001323904,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400132,
+    "enemy_id": 440013239,
+    "bt_command_id": 4,
+    "master_id": 44001321221
+  },
+  {
+    "id": 44001325101,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400132,
+    "enemy_id": 440013251,
+    "bt_command_id": 1,
+    "master_id": 44001321222
+  },
+  {
+    "id": 44001325102,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400132,
+    "enemy_id": 440013251,
+    "bt_command_id": 2,
+    "master_id": 44001321223
+  },
+  {
+    "id": 44001325103,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400132,
+    "enemy_id": 440013251,
+    "bt_command_id": 3,
+    "master_id": 44001321224
+  },
+  {
+    "id": 44001325104,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400132,
+    "enemy_id": 440013251,
+    "bt_command_id": 4,
+    "master_id": 44001321225
+  },
+  {
+    "id": 44001330101,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400133,
+    "enemy_id": 440013301,
+    "bt_command_id": 1,
+    "master_id": 44001331202
+  },
+  {
+    "id": 44001330102,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400133,
+    "enemy_id": 440013301,
+    "bt_command_id": 2,
+    "master_id": 44001331203
+  },
+  {
+    "id": 44001330103,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400133,
+    "enemy_id": 440013301,
+    "bt_command_id": 3,
+    "master_id": 44001331204
+  },
+  {
+    "id": 44001330104,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400133,
+    "enemy_id": 440013301,
+    "bt_command_id": 4,
+    "master_id": 44001331205
+  },
+  {
+    "id": 44001331301,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400133,
+    "enemy_id": 440013313,
+    "bt_command_id": 1,
+    "master_id": 44001331206
+  },
+  {
+    "id": 44001331302,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400133,
+    "enemy_id": 440013313,
+    "bt_command_id": 2,
+    "master_id": 44001331207
+  },
+  {
+    "id": 44001331303,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400133,
+    "enemy_id": 440013313,
+    "bt_command_id": 3,
+    "master_id": 44001331208
+  },
+  {
+    "id": 44001331304,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400133,
+    "enemy_id": 440013313,
+    "bt_command_id": 4,
+    "master_id": 44001331209
+  },
+  {
+    "id": 44001332501,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400133,
+    "enemy_id": 440013325,
+    "bt_command_id": 1,
+    "master_id": 44001331210
+  },
+  {
+    "id": 44001332502,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400133,
+    "enemy_id": 440013325,
+    "bt_command_id": 2,
+    "master_id": 44001331211
+  },
+  {
+    "id": 44001332503,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400133,
+    "enemy_id": 440013325,
+    "bt_command_id": 3,
+    "master_id": 44001331212
+  },
+  {
+    "id": 44001332504,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400133,
+    "enemy_id": 440013325,
+    "bt_command_id": 4,
+    "master_id": 44001331213
+  },
+  {
+    "id": 44001334901,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400133,
+    "enemy_id": 440013349,
+    "bt_command_id": 1,
+    "master_id": 44001331218
+  },
+  {
+    "id": 44001334902,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400133,
+    "enemy_id": 440013349,
+    "bt_command_id": 2,
+    "master_id": 44001331219
+  },
+  {
+    "id": 44001334903,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400133,
+    "enemy_id": 440013349,
+    "bt_command_id": 3,
+    "master_id": 44001331220
+  },
+  {
+    "id": 44001334904,
+    "quest_type": 1001,
+    "command_type": 1001,
+    "quest_id": 4400133,
+    "enemy_id": 440013349,
+    "bt_command_id": 4,
+    "master_id": 44001331221
+  },
+  {
     "id": 47011011101,
     "quest_type": 1001,
     "command_type": 2001,

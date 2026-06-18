@@ -196,6 +196,34 @@
     "dialogue": "今日はうまく話せた気がするぞ！\n森に帰って、焚き火に報告だ！"
   },
   {
+    "id": 13000140,
+    "m_character_id": 1300014,
+    "name": "ルシータ",
+    "category": 1,
+    "dialogue": "ご挨拶もきちんとね"
+  },
+  {
+    "id": 13000141,
+    "m_character_id": 1300014,
+    "name": "ルシータ",
+    "category": 1,
+    "dialogue": "みんなもご挨拶して"
+  },
+  {
+    "id": 13000142,
+    "m_character_id": 1300014,
+    "name": "ルシータ",
+    "category": 1,
+    "dialogue": "役に立ったかな？"
+  },
+  {
+    "id": 13000143,
+    "m_character_id": 1300014,
+    "name": "ルシータ",
+    "category": 2,
+    "dialogue": "アタシは好きだよ？\nこうやって色んな人間に出会える場所は"
+  },
+  {
     "id": 13000150,
     "m_character_id": 1300015,
     "name": "ラヴェリア",
@@ -1426,5 +1454,61 @@
     "name": "テルー",
     "category": 2,
     "dialogue": "お仕事も大道芸も\n楽しまなくちゃダメだもんね！"
+  },
+  {
+    "id": 13000010,
+    "m_character_id": 1300001,
+    "name": "レヴィエーヌ",
+    "category": 1,
+    "dialogue": "失敗はしない"
+  },
+  {
+    "id": 13000011,
+    "m_character_id": 1300001,
+    "name": "レヴィエーヌ",
+    "category": 1,
+    "dialogue": "片付けもしっかりと"
+  },
+  {
+    "id": 13000012,
+    "m_character_id": 1300001,
+    "name": "レヴィエーヌ",
+    "category": 1,
+    "dialogue": "と、当然の義務です"
+  },
+  {
+    "id": 13000013,
+    "m_character_id": 1300001,
+    "name": "レヴィエーヌ",
+    "category": 2,
+    "dialogue": "うちの人気すごいのよ。\n信じてないの？\nホントにホントだってば！"
+  },
+  {
+    "id": 13000100,
+    "m_character_id": 1300010,
+    "name": "ディアーナ",
+    "category": 1,
+    "dialogue": "お疲れ様～"
+  },
+  {
+    "id": 13000101,
+    "m_character_id": 1300010,
+    "name": "ディアーナ",
+    "category": 1,
+    "dialogue": "また来てねー！"
+  },
+  {
+    "id": 13000102,
+    "m_character_id": 1300010,
+    "name": "ディアーナ",
+    "category": 1,
+    "dialogue": "褒めてくださいっ！"
+  },
+  {
+    "id": 13000103,
+    "m_character_id": 1300010,
+    "name": "ディアーナ",
+    "category": 2,
+    "dialogue": "もうすっかり慣れてきたかも！\nこの調子で頑張ろう！"
   }
 ]

@@ -277,7 +277,7 @@
     "m_character_id": 1200004,
     "trigger_type": 30,
     "name": "スモークバースト",
-    "description": "紋章：衝撃を5消費し、対象に防御力DOWN【{[PRJCTL.AOE.IMPACTSUCCEED.DEFENCEDOWN.RATE_PERCENT]} / 20秒】を付与"
+    "description": "紋章：衝撃を5消費し、対象に防御力DOWN【{[IMPACTSUCCEED.PRJCTL.AOE.DEFENCEDOWN.RATE_PERCENT]} / 20秒】を付与"
   },
   {
     "id": 1200005000,
@@ -434,6 +434,20 @@
     "description": "ダメージ倍率が【{[DAMAGE.DAMAGE_PERCENT]}】に変化 / 紋章：情熱が5以上のとき、自身に会心率UP【20% / {[ZEAL.CRITICALUP.DURATION]秒}】を付与"
   },
   {
+    "id": 1300001000,
+    "m_character_id": 1300001,
+    "trigger_type": 20,
+    "name": "バーニングロンド",
+    "description": "HPが最も高い敵1体に【8HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 自身に紋章：情熱を【1】付与"
+  },
+  {
+    "id": 1300001001,
+    "m_character_id": 1300001,
+    "trigger_type": 30,
+    "name": "バーニングロンド",
+    "description": "ダメージ倍率が【{[DAMAGE.DAMAGE_PERCENT]}】に上昇 / 紋章：情熱が5以上のとき、自身のスキルを【{[ZEAL.SKILL_CHARGE.CHARGE_VALUE]}】チャージ"
+  },
+  {
     "id": 1300003000,
     "m_character_id": 1300003,
     "trigger_type": 20,
@@ -518,6 +532,20 @@
     "description": "紋章：情熱が5以上のとき、凍結の付与秒数が【{[PRJCTL.LAND.ZEAL.ABNORMAL.DURATION]秒}】に変化"
   },
   {
+    "id": 1300010000,
+    "m_character_id": 1300010,
+    "trigger_type": 20,
+    "name": "ライトニングアロー",
+    "description": "HPが最も高い敵1体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 麻痺【[PRJCTL.LAND.ABNORMAL.DURATION]秒/成功率:{[PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 1300010001,
+    "m_character_id": 1300010,
+    "trigger_type": 30,
+    "name": "ライトニングアロー",
+    "description": "自身に会心率UP【{[CRITICALUP.FIXED_PERCENT]} / 15秒】を付与 / 紋章：衝撃を10消費し、ダメージ倍率が【{[IMPACTSUCCEED.PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】に変化 / 麻痺の効果時間が【7秒】に変化"
+  },
+  {
     "id": 1300011000,
     "m_character_id": 1300011,
     "trigger_type": 20,
@@ -530,6 +558,20 @@
     "trigger_type": 30,
     "name": "ピコピコントロール",
     "description": "さらに紋章：衝撃を5消費し、最も攻撃力の高い光・闇・無属性の味方1体に衝撃消費無効1回【永続】を付与"
+  },
+  {
+    "id": 1300014000,
+    "m_character_id": 1300014,
+    "trigger_type": 20,
+    "name": "カノンコール",
+    "description": "大砲を【40秒】召喚 / 大砲は自身のパラメーターの【{[SUMMON_SERVANT.PARAM_RATIO]}】を引き継ぐ  / 自身に紋章：情熱を【1】付与"
+  },
+  {
+    "id": 1300014001,
+    "m_character_id": 1300014,
+    "trigger_type": 30,
+    "name": "カノンコール",
+    "description": "紋章：情熱が5以上のとき、自身に連撃率UP【20% / {[ZEAL.ATTACKCONTINUOUSPROBABILITYUP.DURATION]}秒】を付与"
   },
   {
     "id": 1300015000,

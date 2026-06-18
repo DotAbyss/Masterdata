@@ -4,7 +4,7 @@
     "asset_id": "7020001",
     "target_scene": 4,
     "param": 103,
-    "display_order": 1,
+    "display_order": 9901,
     "start_at": "2026-06-11 00:00:00",
     "end_at": "2026-06-20 4:59:59"
   },
@@ -13,8 +13,8 @@
     "asset_id": "7030005",
     "target_scene": 4,
     "param": 102,
-    "display_order": 3,
-    "start_at": "2026-06-25 15:00:00",
+    "display_order": 9800,
+    "start_at": "2026-06-25 10:00:00",
     "end_at": "2026-07-10 12:59:59"
   },
   {
@@ -22,7 +22,7 @@
     "asset_id": "7500002",
     "target_scene": 4,
     "param": 104,
-    "display_order": 99,
+    "display_order": 10000,
     "start_at": "2000-01-01 00:00:00",
     "end_at": "2030-12-31 23:59:59"
   },
@@ -31,8 +31,62 @@
     "asset_id": "1020001_1",
     "target_scene": 52,
     "param": 300001,
-    "display_order": 5,
+    "display_order": 9902,
     "start_at": "2026-06-13 10:00:00",
     "end_at": "2026-06-20 4:59:59"
+  },
+  {
+    "id": 6,
+    "asset_id": "7040001",
+    "target_scene": 4,
+    "param": 112,
+    "display_order": 9803,
+    "start_at": "2026-06-18 12:00:00",
+    "end_at": "2026-06-27 4:59:59"
+  },
+  {
+    "id": 7,
+    "asset_id": "1040001",
+    "target_scene": 55,
+    "param": 600001,
+    "display_order": 9806,
+    "start_at": "2026-06-18 12:00:00",
+    "end_at": "2026-06-27 4:59:59"
+  },
+  {
+    "id": 8,
+    "asset_id": "7020007",
+    "target_scene": 4,
+    "param": 117,
+    "display_order": 9804,
+    "start_at": "2026-06-18 12:00:00",
+    "end_at": "2026-06-25 4:59:59"
+  },
+  {
+    "id": 9,
+    "asset_id": "7010005",
+    "target_scene": 4,
+    "param": 110,
+    "display_order": 9801,
+    "start_at": "2026-06-25 10:00:00",
+    "end_at": "2026-07-02 4:59:59"
+  },
+  {
+    "id": 10,
+    "asset_id": "7010004",
+    "target_scene": 4,
+    "param": 116,
+    "display_order": 9802,
+    "start_at": "2026-06-25 10:00:00",
+    "end_at": "2026-07-02 4:59:59"
+  },
+  {
+    "id": 11,
+    "asset_id": "1070004",
+    "target_scene": 50,
+    "param": 100001,
+    "display_order": 9805,
+    "start_at": "2026-06-26 10:00:00",
+    "end_at": "2026-06-30 12:59:59"
   }
 ]

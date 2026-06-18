@@ -418,6 +418,17 @@
     "m_tavern_card_effect_id_3": 0
   },
   {
+    "id": 13000140,
+    "m_character_id": 1300014,
+    "m_character_skin_id": 130001402,
+    "name": "ルシータの提案",
+    "effect_type": 3,
+    "description": "次ターンの営業カードが必ず「ドリンク」関連のものになる。\n全てのスタッフの満足度+10%",
+    "m_tavern_card_effect_id_1": 500000,
+    "m_tavern_card_effect_id_2": 400000,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
     "id": 13000150,
     "m_character_id": 1300015,
     "m_character_skin_id": 130001502,
@@ -558,6 +569,28 @@
     "description": "次ターンの営業カードが必ず「料理」関連のものになる。\n全てのスタッフの満足度+10%",
     "m_tavern_card_effect_id_1": 500002,
     "m_tavern_card_effect_id_2": 400000,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 13000010,
+    "m_character_id": 1300001,
+    "m_character_skin_id": 130000102,
+    "name": "レヴィエーヌの提案",
+    "effect_type": 3,
+    "description": "ランダムな「エルドラーナ」の\nスタッフ最大2体に「接客」を付与。\nそれらのスタッフの満足度+40%",
+    "m_tavern_card_effect_id_1": 101008,
+    "m_tavern_card_effect_id_2": 401010,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 13000100,
+    "m_character_id": 1300010,
+    "m_character_skin_id": 130001002,
+    "name": "ディアーナの提案",
+    "effect_type": 3,
+    "description": "ランダムな「千国連合」の\nスタッフ最大3体に「料理」を付与。\nそれらのスタッフの満足度+20%",
+    "m_tavern_card_effect_id_1": 102012,
+    "m_tavern_card_effect_id_2": 401007,
     "m_tavern_card_effect_id_3": 0
   }
 ]

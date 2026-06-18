@@ -1143,6 +1143,87 @@
     "direction_type": 0
   },
   {
+    "id": 128,
+    "m_character_id": 1300001,
+    "intimacy_level": 1,
+    "m_novel_home_id": 10090100001,
+    "m_home_greeting_position_id": 6,
+    "m_home_greeting_reward_group_id": 12,
+    "direction_type": 0
+  },
+  {
+    "id": 129,
+    "m_character_id": 1300001,
+    "intimacy_level": 5,
+    "m_novel_home_id": 10090100002,
+    "m_home_greeting_position_id": 9,
+    "m_home_greeting_reward_group_id": 18,
+    "direction_type": 0
+  },
+  {
+    "id": 130,
+    "m_character_id": 1300001,
+    "intimacy_level": 15,
+    "m_novel_home_id": 10090100003,
+    "m_home_greeting_position_id": 1,
+    "m_home_greeting_reward_group_id": 2,
+    "direction_type": 0
+  },
+  {
+    "id": 131,
+    "m_character_id": 1300010,
+    "intimacy_level": 1,
+    "m_novel_home_id": 10100100001,
+    "m_home_greeting_position_id": 7,
+    "m_home_greeting_reward_group_id": 15,
+    "direction_type": 0
+  },
+  {
+    "id": 132,
+    "m_character_id": 1300010,
+    "intimacy_level": 5,
+    "m_novel_home_id": 10100100002,
+    "m_home_greeting_position_id": 8,
+    "m_home_greeting_reward_group_id": 19,
+    "direction_type": 0
+  },
+  {
+    "id": 133,
+    "m_character_id": 1300010,
+    "intimacy_level": 15,
+    "m_novel_home_id": 10100100003,
+    "m_home_greeting_position_id": 1,
+    "m_home_greeting_reward_group_id": 2,
+    "direction_type": 0
+  },
+  {
+    "id": 134,
+    "m_character_id": 1300014,
+    "intimacy_level": 1,
+    "m_novel_home_id": 10190100001,
+    "m_home_greeting_position_id": 11,
+    "m_home_greeting_reward_group_id": 12,
+    "direction_type": 0
+  },
+  {
+    "id": 135,
+    "m_character_id": 1300014,
+    "intimacy_level": 5,
+    "m_novel_home_id": 10190100002,
+    "m_home_greeting_position_id": 2,
+    "m_home_greeting_reward_group_id": 19,
+    "direction_type": 0
+  },
+  {
+    "id": 136,
+    "m_character_id": 1300014,
+    "intimacy_level": 15,
+    "m_novel_home_id": 10190100003,
+    "m_home_greeting_position_id": 8,
+    "m_home_greeting_reward_group_id": 2,
+    "direction_type": 0
+  },
+  {
     "id": 147,
     "m_character_id": 1200001,
     "intimacy_level": 0,
@@ -1595,6 +1676,33 @@
   {
     "id": 197,
     "m_character_id": 1300041,
+    "intimacy_level": 0,
+    "m_novel_home_id": 0,
+    "m_home_greeting_position_id": 0,
+    "m_home_greeting_reward_group_id": 1,
+    "direction_type": 0
+  },
+  {
+    "id": 198,
+    "m_character_id": 1300001,
+    "intimacy_level": 0,
+    "m_novel_home_id": 0,
+    "m_home_greeting_position_id": 0,
+    "m_home_greeting_reward_group_id": 1,
+    "direction_type": 0
+  },
+  {
+    "id": 199,
+    "m_character_id": 1300010,
+    "intimacy_level": 0,
+    "m_novel_home_id": 0,
+    "m_home_greeting_position_id": 0,
+    "m_home_greeting_reward_group_id": 1,
+    "direction_type": 0
+  },
+  {
+    "id": 200,
+    "m_character_id": 1300014,
     "intimacy_level": 0,
     "m_novel_home_id": 0,
     "m_home_greeting_position_id": 0,

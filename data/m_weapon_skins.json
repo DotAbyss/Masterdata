@@ -154,6 +154,34 @@
     "display_order": 2
   },
   {
+    "id": 130000101,
+    "weapon_type": 1030,
+    "rarity": 2,
+    "name": "舞踏家の手甲",
+    "description": "蝶の如く舞い、蜂の如く刺す、舞踏家の手甲。\nフラフープの円舞から放たれる鋭い一撃は、\n変幻自在な軌道で敵の急所を無慈悲に貫く。",
+    "m_character_id": 1300001,
+    "is_default": 0,
+    "is_paid": 1,
+    "bonus_bond_point": 0,
+    "released_at": "2026-06-18 12:00:00",
+    "asset_id": "41034002",
+    "display_order": 2
+  },
+  {
+    "id": 130000301,
+    "weapon_type": 1050,
+    "rarity": 2,
+    "name": "銀狼の猟銃",
+    "description": "美しい銀の装飾が施された、銃身の軽い猟銃。\n放たれる弾丸は狼の牙の如く、獲物の息の根を止める。\n冷徹なその狙撃からは、如何なる標的も逃れられない。",
+    "m_character_id": 1300003,
+    "is_default": 0,
+    "is_paid": 1,
+    "bonus_bond_point": 0,
+    "released_at": "2024-06-22 10:00:00",
+    "asset_id": "41064002",
+    "display_order": 2
+  },
+  {
     "id": 130000501,
     "weapon_type": 1020,
     "rarity": 2,
@@ -165,6 +193,20 @@
     "bonus_bond_point": 0,
     "released_at": "2024-01-01 00:00:00",
     "asset_id": "41024001",
+    "display_order": 2
+  },
+  {
+    "id": 130000701,
+    "weapon_type": 1040,
+    "rarity": 2,
+    "name": "業火の弓",
+    "description": "激しく燃え盛る業火を放つ一騎当千の威力を秘めた弓。\n彼女が放つ一射は、戦局を独力で塗り替える。\n轟々と唸る炎の矢は、立ち塞がる敵軍を灰へと変える。",
+    "m_character_id": 1300007,
+    "is_default": 0,
+    "is_paid": 1,
+    "bonus_bond_point": 0,
+    "released_at": "2024-06-22 10:00:00",
+    "asset_id": "41054002",
     "display_order": 2
   },
   {
@@ -196,6 +238,20 @@
     "display_order": 2
   },
   {
+    "id": 130001001,
+    "weapon_type": 1040,
+    "rarity": 2,
+    "name": "雷光の狩猟弓",
+    "description": "迅雷の魔力を秘めた狩猟弓。引き絞るほどに\n雷光を増し、稲妻の如き一矢で全てを貫き通す。\nその光速の連射からは、如何なる獲物も逃げられぬ。",
+    "m_character_id": 1300010,
+    "is_default": 0,
+    "is_paid": 1,
+    "bonus_bond_point": 0,
+    "released_at": "2026-06-18 12:00:00",
+    "asset_id": "41054001",
+    "display_order": 2
+  },
+  {
     "id": 130001101,
     "weapon_type": 1080,
     "rarity": 2,
@@ -207,6 +263,20 @@
     "bonus_bond_point": 0,
     "released_at": "2024-01-01 00:00:00",
     "asset_id": "41084002",
+    "display_order": 2
+  },
+  {
+    "id": 130001401,
+    "weapon_type": 1050,
+    "rarity": 2,
+    "name": "デッドマンズ・トリガー",
+    "description": "金銀の装飾が美しく輝く、海賊ルシータが誇る愛用銃。\n絶命の瞬間でさえ敵を道連れにする執念の宿る引き金。\n放つ一撃は、敵を大海原の底へと引きずり込む。",
+    "m_character_id": 1300014,
+    "is_default": 0,
+    "is_paid": 1,
+    "bonus_bond_point": 0,
+    "released_at": "2026-06-25 10:00:00",
+    "asset_id": "41064003",
     "display_order": 2
   },
   {
@@ -291,6 +361,20 @@
     "bonus_bond_point": 0,
     "released_at": "2024-01-01 00:00:00",
     "asset_id": "41034007",
+    "display_order": 2
+  },
+  {
+    "id": 130003101,
+    "weapon_type": 1070,
+    "rarity": 2,
+    "name": "陰陽五行・水の巻",
+    "description": "陰陽師ヒナギが紐解く、陰陽五行・水の理を記した書。\n水系の陰陽術が放つ清流は、人々を優しく包み、\n清らかな血流をもたらし、戦う友に安らぎを与える。",
+    "m_character_id": 1300031,
+    "is_default": 0,
+    "is_paid": 1,
+    "bonus_bond_point": 0,
+    "released_at": "2024-06-22 10:00:00",
+    "asset_id": "41074007",
     "display_order": 2
   },
   {

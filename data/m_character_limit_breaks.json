@@ -1953,6 +1953,111 @@
     "effect_param": 10
   },
   {
+    "id": 130000101,
+    "m_character_id": 1300001,
+    "limit_break_count": 1,
+    "effect_type": 2,
+    "effect_param": 2
+  },
+  {
+    "id": 130000102,
+    "m_character_id": 1300001,
+    "limit_break_count": 1,
+    "effect_type": 1,
+    "effect_param": 130000101
+  },
+  {
+    "id": 130000103,
+    "m_character_id": 1300001,
+    "limit_break_count": 1,
+    "effect_type": 1,
+    "effect_param": 130000102
+  },
+  {
+    "id": 130000104,
+    "m_character_id": 1300001,
+    "limit_break_count": 2,
+    "effect_type": 1,
+    "effect_param": 130000103
+  },
+  {
+    "id": 130000105,
+    "m_character_id": 1300001,
+    "limit_break_count": 2,
+    "effect_type": 2,
+    "effect_param": 3
+  },
+  {
+    "id": 130000106,
+    "m_character_id": 1300001,
+    "limit_break_count": 3,
+    "effect_type": 1,
+    "effect_param": 130000101
+  },
+  {
+    "id": 130000107,
+    "m_character_id": 1300001,
+    "limit_break_count": 3,
+    "effect_type": 2,
+    "effect_param": 4
+  },
+  {
+    "id": 130000108,
+    "m_character_id": 1300001,
+    "limit_break_count": 4,
+    "effect_type": 1,
+    "effect_param": 130000102
+  },
+  {
+    "id": 130000109,
+    "m_character_id": 1300001,
+    "limit_break_count": 4,
+    "effect_type": 2,
+    "effect_param": 5
+  },
+  {
+    "id": 130000110,
+    "m_character_id": 1300001,
+    "limit_break_count": 4,
+    "effect_type": 1,
+    "effect_param": 130000103
+  },
+  {
+    "id": 130000112,
+    "m_character_id": 1300001,
+    "limit_break_count": 5,
+    "effect_type": 2,
+    "effect_param": 6
+  },
+  {
+    "id": 130000114,
+    "m_character_id": 1300001,
+    "limit_break_count": 6,
+    "effect_type": 2,
+    "effect_param": 7
+  },
+  {
+    "id": 130000116,
+    "m_character_id": 1300001,
+    "limit_break_count": 7,
+    "effect_type": 2,
+    "effect_param": 8
+  },
+  {
+    "id": 130000118,
+    "m_character_id": 1300001,
+    "limit_break_count": 8,
+    "effect_type": 2,
+    "effect_param": 9
+  },
+  {
+    "id": 130000119,
+    "m_character_id": 1300001,
+    "limit_break_count": 9,
+    "effect_type": 2,
+    "effect_param": 10
+  },
+  {
     "id": 130000301,
     "m_character_id": 1300003,
     "limit_break_count": 1,
@@ -2583,6 +2688,111 @@
     "effect_param": 10
   },
   {
+    "id": 130001001,
+    "m_character_id": 1300010,
+    "limit_break_count": 1,
+    "effect_type": 2,
+    "effect_param": 2
+  },
+  {
+    "id": 130001002,
+    "m_character_id": 1300010,
+    "limit_break_count": 1,
+    "effect_type": 1,
+    "effect_param": 130001001
+  },
+  {
+    "id": 130001003,
+    "m_character_id": 1300010,
+    "limit_break_count": 1,
+    "effect_type": 1,
+    "effect_param": 130001002
+  },
+  {
+    "id": 130001004,
+    "m_character_id": 1300010,
+    "limit_break_count": 2,
+    "effect_type": 1,
+    "effect_param": 130001003
+  },
+  {
+    "id": 130001005,
+    "m_character_id": 1300010,
+    "limit_break_count": 2,
+    "effect_type": 2,
+    "effect_param": 3
+  },
+  {
+    "id": 130001006,
+    "m_character_id": 1300010,
+    "limit_break_count": 3,
+    "effect_type": 1,
+    "effect_param": 130001001
+  },
+  {
+    "id": 130001007,
+    "m_character_id": 1300010,
+    "limit_break_count": 3,
+    "effect_type": 2,
+    "effect_param": 4
+  },
+  {
+    "id": 130001008,
+    "m_character_id": 1300010,
+    "limit_break_count": 4,
+    "effect_type": 1,
+    "effect_param": 130001002
+  },
+  {
+    "id": 130001009,
+    "m_character_id": 1300010,
+    "limit_break_count": 4,
+    "effect_type": 2,
+    "effect_param": 5
+  },
+  {
+    "id": 130001010,
+    "m_character_id": 1300010,
+    "limit_break_count": 4,
+    "effect_type": 1,
+    "effect_param": 130001003
+  },
+  {
+    "id": 130001012,
+    "m_character_id": 1300010,
+    "limit_break_count": 5,
+    "effect_type": 2,
+    "effect_param": 6
+  },
+  {
+    "id": 130001014,
+    "m_character_id": 1300010,
+    "limit_break_count": 6,
+    "effect_type": 2,
+    "effect_param": 7
+  },
+  {
+    "id": 130001016,
+    "m_character_id": 1300010,
+    "limit_break_count": 7,
+    "effect_type": 2,
+    "effect_param": 8
+  },
+  {
+    "id": 130001018,
+    "m_character_id": 1300010,
+    "limit_break_count": 8,
+    "effect_type": 2,
+    "effect_param": 9
+  },
+  {
+    "id": 130001019,
+    "m_character_id": 1300010,
+    "limit_break_count": 9,
+    "effect_type": 2,
+    "effect_param": 10
+  },
+  {
     "id": 130001101,
     "m_character_id": 1300011,
     "limit_break_count": 1,
@@ -2683,6 +2893,111 @@
   {
     "id": 130001119,
     "m_character_id": 1300011,
+    "limit_break_count": 9,
+    "effect_type": 2,
+    "effect_param": 10
+  },
+  {
+    "id": 130001401,
+    "m_character_id": 1300014,
+    "limit_break_count": 1,
+    "effect_type": 2,
+    "effect_param": 2
+  },
+  {
+    "id": 130001402,
+    "m_character_id": 1300014,
+    "limit_break_count": 1,
+    "effect_type": 1,
+    "effect_param": 130001401
+  },
+  {
+    "id": 130001403,
+    "m_character_id": 1300014,
+    "limit_break_count": 1,
+    "effect_type": 1,
+    "effect_param": 130001402
+  },
+  {
+    "id": 130001404,
+    "m_character_id": 1300014,
+    "limit_break_count": 2,
+    "effect_type": 1,
+    "effect_param": 130001403
+  },
+  {
+    "id": 130001405,
+    "m_character_id": 1300014,
+    "limit_break_count": 2,
+    "effect_type": 2,
+    "effect_param": 3
+  },
+  {
+    "id": 130001406,
+    "m_character_id": 1300014,
+    "limit_break_count": 3,
+    "effect_type": 1,
+    "effect_param": 130001401
+  },
+  {
+    "id": 130001407,
+    "m_character_id": 1300014,
+    "limit_break_count": 3,
+    "effect_type": 2,
+    "effect_param": 4
+  },
+  {
+    "id": 130001408,
+    "m_character_id": 1300014,
+    "limit_break_count": 4,
+    "effect_type": 1,
+    "effect_param": 130001402
+  },
+  {
+    "id": 130001409,
+    "m_character_id": 1300014,
+    "limit_break_count": 4,
+    "effect_type": 2,
+    "effect_param": 5
+  },
+  {
+    "id": 130001410,
+    "m_character_id": 1300014,
+    "limit_break_count": 4,
+    "effect_type": 1,
+    "effect_param": 130001403
+  },
+  {
+    "id": 130001412,
+    "m_character_id": 1300014,
+    "limit_break_count": 5,
+    "effect_type": 2,
+    "effect_param": 6
+  },
+  {
+    "id": 130001414,
+    "m_character_id": 1300014,
+    "limit_break_count": 6,
+    "effect_type": 2,
+    "effect_param": 7
+  },
+  {
+    "id": 130001416,
+    "m_character_id": 1300014,
+    "limit_break_count": 7,
+    "effect_type": 2,
+    "effect_param": 8
+  },
+  {
+    "id": 130001418,
+    "m_character_id": 1300014,
+    "limit_break_count": 8,
+    "effect_type": 2,
+    "effect_param": 9
+  },
+  {
+    "id": 130001419,
+    "m_character_id": 1300014,
     "limit_break_count": 9,
     "effect_type": 2,
     "effect_param": 10

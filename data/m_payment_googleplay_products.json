@@ -187,6 +187,281 @@
     "has_r18": 1
   },
   {
+    "id": 10022,
+    "store_product_id": "com.exnoa.abyss.lm_100",
+    "currency_amount": 1200,
+    "price": 1500,
+    "m_payment_pack_pack_id": 10022,
+    "name": "PickUpキャラ ガチャチケットパック1",
+    "asset_id": "5010252",
+    "description": "[有償]アビスジェム×1200\n▼以下おまけ\nピックアップガチャチケット×5",
+    "has_r18": 1
+  },
+  {
+    "id": 10023,
+    "store_product_id": "com.exnoa.abyss.lm_101",
+    "currency_amount": 2400,
+    "price": 3000,
+    "m_payment_pack_pack_id": 10023,
+    "name": "PickUpキャラ ガチャチケットパック2",
+    "asset_id": "5010253",
+    "description": "[有償]アビスジェム×2400\n▼以下おまけ\nピックアップガチャチケット×10",
+    "has_r18": 1
+  },
+  {
+    "id": 10024,
+    "store_product_id": "com.exnoa.abyss.lm_102",
+    "currency_amount": 4800,
+    "price": 6000,
+    "m_payment_pack_pack_id": 10024,
+    "name": "PickUpキャラ ガチャチケットパック3",
+    "asset_id": "5010254",
+    "description": "[有償]アビスジェム×4800\n▼以下おまけ\nピックアップガチャチケット×20\n【凸】純真結晶引換券(ルクスノヴァ除く)×5",
+    "has_r18": 1
+  },
+  {
+    "id": 10025,
+    "store_product_id": "com.exnoa.abyss.lm_103",
+    "currency_amount": 9600,
+    "price": 12000,
+    "m_payment_pack_pack_id": 10025,
+    "name": "PickUpキャラ ガチャチケットパック4",
+    "asset_id": "5010255",
+    "description": "[有償]アビスジェム×9600\n▼以下おまけ\nピックアップガチャチケット×40\n【凸】純真結晶引換券(ルクスノヴァ除く)×15",
+    "has_r18": 1
+  },
+  {
+    "id": 10026,
+    "store_product_id": "com.exnoa.abyss.lm_104",
+    "currency_amount": 2400,
+    "price": 3000,
+    "m_payment_pack_pack_id": 10026,
+    "name": "レヴィエーヌスキル強化パック",
+    "asset_id": "5010256",
+    "description": "[有償]アビスジェム×2400\n▼以下おまけ\n[無償]アビスジェム×900\n特級技能元素（万能）×1\n初級技能元素(火)×60\n初級技能元素(フロント)×60\n中級技能元素(火)×30\n中級技能元素(フロント)×30\n上級技能元素(火)×15\n上級技能元素(フロント)×15",
+    "has_r18": 1
+  },
+  {
+    "id": 10027,
+    "store_product_id": "com.exnoa.abyss.lm_105",
+    "currency_amount": 2400,
+    "price": 3000,
+    "m_payment_pack_pack_id": 10027,
+    "name": "ディアーナスキル強化パック",
+    "asset_id": "5010257",
+    "description": "[有償]アビスジェム×2400\n▼以下おまけ\n[無償]アビスジェム×900\n特級技能元素（万能）×1\n初級技能元素(光)×60\n初級技能元素(バック)×60\n中級技能元素(光)×30\n中級技能元素(バック)×30\n上級技能元素(光)×15\n上級技能元素(バック)×15",
+    "has_r18": 1
+  },
+  {
+    "id": 10028,
+    "store_product_id": "com.exnoa.abyss.lm_106",
+    "currency_amount": 800,
+    "price": 1000,
+    "m_payment_pack_pack_id": 10028,
+    "name": "レヴィエーヌ武器スキンパック",
+    "asset_id": "5010258",
+    "description": "[有償]アビスジェム×800\n▼以下おまけ\n[無償]アビスジェム×300\nレヴィエーヌ専用武器スキン「舞踏家の手甲」×1\n絆の追憶(能力強化)×1\nプレミアムガチャチケット×5\n\n注意事項）\n・レヴィエーヌを獲得した後に\n　この武器スキンに着せ替えできるようになります。\n・本スキンは販売期間終了後に\n　今後再登場する可能性があります。",
+    "has_r18": 1
+  },
+  {
+    "id": 10029,
+    "store_product_id": "com.exnoa.abyss.lm_107",
+    "currency_amount": 800,
+    "price": 1000,
+    "m_payment_pack_pack_id": 10029,
+    "name": "ディアーナ武器スキンパック",
+    "asset_id": "5010259",
+    "description": "[有償]アビスジェム×800\n▼以下おまけ\n[無償]アビスジェム×300\nディアーナ専用武器スキン「雷光の狩猟弓」×1\n絆の追憶(能力強化)×1\nプレミアムガチャチケット×5\n\n注意事項）\n・ディアーナを獲得した後に\n　この武器スキンに着せ替えできるようになります。\n・本スキンは販売期間終了後に\n　今後再登場する可能性があります。",
+    "has_r18": 1
+  },
+  {
+    "id": 10030,
+    "store_product_id": "com.exnoa.abyss.lm_108",
+    "currency_amount": 800,
+    "price": 1000,
+    "m_payment_pack_pack_id": 10030,
+    "name": "絆Lv強化パック",
+    "asset_id": "5010260",
+    "description": "[有償]アビスジェム×800\n▼以下おまけ\n[無償]アビスジェム×300\nうれしいプレゼント×40\n深・絆の追憶(能力強化)×1\nキャラ経験値セット(1時間)×5\nゴールドセット(1時間)×5　\n記憶の欠片セット(1時間)×5",
+    "has_r18": 1
+  },
+  {
+    "id": 10031,
+    "store_product_id": "com.exnoa.abyss.lm_109",
+    "currency_amount": 400,
+    "price": 500,
+    "m_payment_pack_pack_id": 10031,
+    "name": "スタミナ周回パック",
+    "asset_id": "5010261",
+    "description": "[有償]アビスジェム×400\n▼以下おまけ\nスタミナ回復薬(中)×5\nプレミアムガチャチケット×2",
+    "has_r18": 1
+  },
+  {
+    "id": 10032,
+    "store_product_id": "com.exnoa.abyss.lm_110",
+    "currency_amount": 800,
+    "price": 1000,
+    "m_payment_pack_pack_id": 10032,
+    "name": "ウィステリア武器スキンパック",
+    "asset_id": "5010262",
+    "description": "[有償]アビスジェム×800\n▼以下おまけ\nウィステリア専用武器スキン「業火の弓」×1\nセレクトSSR確定ガチャのかけら×5\nプレミアムガチャチケット×3\n絆の追憶(能力強化)×1\n\n注意事項）\n・ウィステリアを獲得した後に\n　この武器スキンに着せ替えできるようになります。\n・本スキンは販売期間終了後に\n　今後再登場する可能性があります。",
+    "has_r18": 1
+  },
+  {
+    "id": 10033,
+    "store_product_id": "com.exnoa.abyss.lm_111",
+    "currency_amount": 800,
+    "price": 1000,
+    "m_payment_pack_pack_id": 10033,
+    "name": "エティア武器スキンパック",
+    "asset_id": "5010263",
+    "description": "[有償]アビスジェム×800\n▼以下おまけ\nエティア専用武器スキン「銀狼の猟銃」×1\nセレクトSSR確定ガチャのかけら×5\nプレミアムガチャチケット×3\n絆の追憶(能力強化)×1\n\n注意事項）\n・エティアを獲得した後に\n　この武器スキンに着せ替えできるようになります。\n・本スキンは販売期間終了後に\n　今後再登場する可能性があります。",
+    "has_r18": 1
+  },
+  {
+    "id": 10034,
+    "store_product_id": "com.exnoa.abyss.lm_112",
+    "currency_amount": 800,
+    "price": 1000,
+    "m_payment_pack_pack_id": 10034,
+    "name": "ヒナギ武器スキンパック",
+    "asset_id": "5010264",
+    "description": "[有償]アビスジェム×800\n▼以下おまけ\nヒナギ専用武器スキン「陰陽五行・水の巻」×1\nセレクトSSR確定ガチャのかけら×5\nプレミアムガチャチケット×3\n絆の追憶(能力強化)×1\n\n注意事項）\n・ヒナギを獲得した後に\n　この武器スキンに着せ替えできるようになります。\n・本スキンは販売期間終了後に\n　今後再登場する可能性があります。",
+    "has_r18": 1
+  },
+  {
+    "id": 10035,
+    "store_product_id": "com.exnoa.abyss.lm_113",
+    "currency_amount": 1600,
+    "price": 2000,
+    "m_payment_pack_pack_id": 10035,
+    "name": "オフタイム・ジャージコスチュームパック",
+    "asset_id": "5010265",
+    "description": "[有償]アビスジェム×1600\n▼以下おまけ\nウィステリア専用コスチューム「オフタイム・ジャージ」×1\nセレクトSSR確定ガチャのかけら×12\n【凸】純真結晶引換券(ルクスノヴァ除く)×10\n\n注意事項）\n・ウィステリアを獲得した後に\n　このコスチュームに着せ替えできるようになります。\n・本コスチュームは販売期間終了後に\n　今後再登場する可能性があります。",
+    "has_r18": 1
+  },
+  {
+    "id": 10036,
+    "store_product_id": "com.exnoa.abyss.lm_114",
+    "currency_amount": 1600,
+    "price": 2000,
+    "m_payment_pack_pack_id": 10036,
+    "name": "ハートフル・ウェイトレスコスチュームパック",
+    "asset_id": "5010266",
+    "description": "[有償]アビスジェム×1600\n▼以下おまけ\nエティア専用コスチューム「ハートフル・ウェイトレス」×1\nセレクトSSR確定ガチャのかけら×12\n【凸】純真結晶引換券(ルクスノヴァ除く)×10\n\n注意事項）\n・エティアを獲得した後に\n　このコスチュームに着せ替えできるようになります。\n・本コスチュームは販売期間終了後に\n　今後再登場する可能性があります。",
+    "has_r18": 1
+  },
+  {
+    "id": 10037,
+    "store_product_id": "com.exnoa.abyss.lm_115",
+    "currency_amount": 1600,
+    "price": 2000,
+    "m_payment_pack_pack_id": 10037,
+    "name": "刻を超えたセーラー服コスチュームパック",
+    "asset_id": "5010267",
+    "description": "[有償]アビスジェム×1600\n▼以下おまけ\nヒナギ専用コスチューム「刻を超えたセーラー服」×1\nセレクトSSR確定ガチャのかけら×12\n【凸】純真結晶引換券(ルクスノヴァ除く)×10\n\n注意事項）\n・ヒナギを獲得した後に\n　このコスチュームに着せ替えできるようになります。\n・本コスチュームは販売期間終了後に\n　今後再登場する可能性があります。",
+    "has_r18": 1
+  },
+  {
+    "id": 10038,
+    "store_product_id": "com.exnoa.abyss.lm_116",
+    "currency_amount": 1200,
+    "price": 1500,
+    "m_payment_pack_pack_id": 10038,
+    "name": "アビスジェム＆プレミアムガチャチケパック1",
+    "asset_id": "5010270",
+    "description": "[有償]アビスジェム×1200\n▼以下おまけ\n[無償]アビスジェム×600\nプレミアムガチャチケット×4",
+    "has_r18": 1
+  },
+  {
+    "id": 10039,
+    "store_product_id": "com.exnoa.abyss.lm_117",
+    "currency_amount": 2400,
+    "price": 3000,
+    "m_payment_pack_pack_id": 10039,
+    "name": "アビスジェム＆プレミアムガチャチケパック2",
+    "asset_id": "5010269",
+    "description": "[有償]アビスジェム×2400\n▼以下おまけ\n[無償]アビスジェム×1200\nプレミアムガチャチケット×8",
+    "has_r18": 1
+  },
+  {
+    "id": 10040,
+    "store_product_id": "com.exnoa.abyss.lm_118",
+    "currency_amount": 9600,
+    "price": 12000,
+    "m_payment_pack_pack_id": 10040,
+    "name": "アビスジェム＆プレミアムガチャチケパック3",
+    "asset_id": "5010268",
+    "description": "[有償]アビスジェム×9600\n▼以下おまけ\n[無償]アビスジェム×4800\nプレミアムガチャチケット×32\n【凸】純真結晶引換券(ルクスノヴァ除く)×15",
+    "has_r18": 1
+  },
+  {
+    "id": 10041,
+    "store_product_id": "com.exnoa.abyss.lm_119",
+    "currency_amount": 4000,
+    "price": 5000,
+    "m_payment_pack_pack_id": 10041,
+    "name": "キューティデビルコスチュームパック",
+    "asset_id": "5010271",
+    "description": "[有償]アビスジェム×4000\n▼以下おまけ\nエミリー専用コスチューム「キューティデビル」×1\n深・絆の追憶(能力強化)×1\n\n注意事項）\n・エミリーを獲得した後に\n　このコスチュームに着せ替えできるようになります。\n・本コスチュームは販売期間終了後に\n　今後再登場する可能性があります。",
+    "has_r18": 1
+  },
+  {
+    "id": 10042,
+    "store_product_id": "com.exnoa.abyss.lm_120",
+    "currency_amount": 4000,
+    "price": 5000,
+    "m_payment_pack_pack_id": 10042,
+    "name": "限界突破応援パック",
+    "asset_id": "5010272",
+    "description": "[有償]アビスジェム×4000\n▼以下おまけ\n【凸】純真結晶引換券(ルクスノヴァ除く)×40",
+    "has_r18": 1
+  },
+  {
+    "id": 10043,
+    "store_product_id": "com.exnoa.abyss.lm_121",
+    "currency_amount": 2400,
+    "price": 3000,
+    "m_payment_pack_pack_id": 10043,
+    "name": "ルシータスキル強化パック",
+    "asset_id": "5010277",
+    "description": "[有償]アビスジェム×2400\n▼以下おまけ\n[無償]アビスジェム×900\n特級技能元素（万能）×1\n初級技能元素(火)×60\n初級技能元素(バック)×60\n中級技能元素(火)×30\n中級技能元素(バック)×30\n上級技能元素(火)×15\n上級技能元素(バック)×15",
+    "has_r18": 1
+  },
+  {
+    "id": 10044,
+    "store_product_id": "com.exnoa.abyss.lm_122",
+    "currency_amount": 800,
+    "price": 1000,
+    "m_payment_pack_pack_id": 10044,
+    "name": "ルシータ武器スキンパック",
+    "asset_id": "5010278",
+    "description": "[有償]アビスジェム×800\n▼以下おまけ\n[無償]アビスジェム×300\nルシータ専用武器スキン「デッドマンズ・トリガー」×1\n絆の追憶(能力強化)×1\nプレミアムガチャチケット×5\n\n注意事項）\n・ルシータを獲得した後に\n　この武器スキンに着せ替えできるようになります。\n・本スキンは販売期間終了後に\n　今後再登場する可能性があります。",
+    "has_r18": 1
+  },
+  {
+    "id": 10045,
+    "store_product_id": "com.exnoa.abyss.lm_123",
+    "currency_amount": 800,
+    "price": 1000,
+    "m_payment_pack_pack_id": 10045,
+    "name": "絆Lv強化パック",
+    "asset_id": "5010275",
+    "description": "[有償]アビスジェム×800\n▼以下おまけ\n[無償]アビスジェム×300\nうれしいプレゼント×40\n深・絆の追憶(能力強化)×1\nキャラ経験値セット(1時間)×5\nゴールドセット(1時間)×5　\n記憶の欠片セット(1時間)×5",
+    "has_r18": 1
+  },
+  {
+    "id": 10046,
+    "store_product_id": "com.exnoa.abyss.lm_124",
+    "currency_amount": 1200,
+    "price": 1500,
+    "m_payment_pack_pack_id": 10046,
+    "name": "深淵挑戦パック",
+    "asset_id": "5010276",
+    "description": "[有償]アビスジェム×1200\n▼以下おまけ\n[無償]アビスジェム×300\n鑑定レンズ「装備」×20\nゲートキー「深淵」×5",
+    "has_r18": 1
+  },
+  {
     "id": 20001,
     "store_product_id": "com.exnoa.abyss.sub_00001",
     "currency_amount": 800,
@@ -724,17 +999,6 @@
     "asset_id": "00000000",
     "description": "[有償]アビスジェム×2400\n＋プレミアム報酬解放\n\n注意事項）\n・本商品をご購入いただくことでプレミアム報酬が解放されプレミアム報酬を受け取る権利を得ることができます。\n・プレミアム報酬を解放している場合でも、未達成の報酬は受け取ることができません。\n",
     "has_r18": 1
-  },
-  {
-    "id": 100001,
-    "store_product_id": "com.exnoa.abyss.gc_001",
-    "currency_amount": 0,
-    "price": 5000,
-    "m_payment_pack_pack_id": 0,
-    "name": "リリース記念フロントピックアップSSR確定ガチャ",
-    "asset_id": "00000000",
-    "description": "リリース記念フロントピックアップSSR確定ガチャ",
-    "has_r18": 0
   },
   {
     "id": 200001,
@@ -1812,6 +2076,72 @@
     "name": "オートマタと魔術師姉妹のサプライズ\nオートマタと魔術士姉妹の死闘2 クリア記念",
     "asset_id": "5010301",
     "description": "[有償]アビスジェム×1600\n▼以下おまけ\n[無償]アビスジェム×1600\n【凸】純真結晶引換券(ルクスノヴァ除く)×10\n選べるSSRキャラBOX交換券×5\n記憶の欠片(LvUP)×200",
+    "has_r18": 0
+  },
+  {
+    "id": 260013,
+    "store_product_id": "com.exnoa.abyss_pssev_100",
+    "currency_amount": 4000,
+    "price": 5000,
+    "m_payment_pack_pack_id": 260013,
+    "name": "レヴィエーヌ獲得記念\n【レヴィエーヌ限界突破アイテム付き！】",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×4000\n▼以下おまけ\n[無償]アビスジェム×4000\nレヴィエーヌの純真結晶×1\n初級技能元素(火)×60\n初級技能元素(フロント)×60\n中級技能元素(火)×30\n中級技能元素(フロント)×30\n上級技能元素(火)×15\n上級技能元素(フロント)×15",
+    "has_r18": 0
+  },
+  {
+    "id": 260014,
+    "store_product_id": "com.exnoa.abyss_pssev_101",
+    "currency_amount": 4000,
+    "price": 5000,
+    "m_payment_pack_pack_id": 260014,
+    "name": "ディアーナ獲得記念\n【ディアーナ限界突破アイテム付き！】",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×4000\n▼以下おまけ\n[無償]アビスジェム×4000\nディアーナの純真結晶×1\n初級技能元素(光)×60\n初級技能元素(バック)×60\n中級技能元素(光)×30\n中級技能元素(バック)×30\n上級技能元素(光)×15\n上級技能元素(バック)×15",
+    "has_r18": 0
+  },
+  {
+    "id": 260015,
+    "store_product_id": "com.exnoa.abyss_pssev_102",
+    "currency_amount": 4000,
+    "price": 5000,
+    "m_payment_pack_pack_id": 260015,
+    "name": "レヴィエーヌマナ覚醒記念\n【レヴィエーヌ限界突破アイテム付き！】",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×4000\n▼以下おまけ\n[無償]アビスジェム×4000\nレヴィエーヌの純真結晶×1\n【凸】純真結晶引換券(ルクスノヴァ除く)×10",
+    "has_r18": 0
+  },
+  {
+    "id": 260016,
+    "store_product_id": "com.exnoa.abyss_pssev_103",
+    "currency_amount": 4000,
+    "price": 5000,
+    "m_payment_pack_pack_id": 260016,
+    "name": "ディアーナマナ覚醒記念\n【ディアーナ限界突破アイテム付き！】",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×4000\n▼以下おまけ\n[無償]アビスジェム×4000\nディアーナの純真結晶×1\n【凸】純真結晶引換券(ルクスノヴァ除く)×10",
+    "has_r18": 0
+  },
+  {
+    "id": 260017,
+    "store_product_id": "com.exnoa.abyss_pssev_104",
+    "currency_amount": 4000,
+    "price": 5000,
+    "m_payment_pack_pack_id": 260017,
+    "name": "ルシータ獲得記念\n【ルシータ限界突破アイテム付き！】",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×4000\n▼以下おまけ\n[無償]アビスジェム×4000\nルシータの純真結晶×1\n初級技能元素(火)×60\n初級技能元素(バック)×60\n中級技能元素(火)×30\n中級技能元素(バック)×30\n上級技能元素(火)×15\n上級技能元素(バック)×15",
+    "has_r18": 0
+  },
+  {
+    "id": 260018,
+    "store_product_id": "com.exnoa.abyss_pssev_105",
+    "currency_amount": 4000,
+    "price": 5000,
+    "m_payment_pack_pack_id": 260018,
+    "name": "ルシータマナ覚醒記念\n【ルシータ限界突破アイテム付き！】",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×4000\n▼以下おまけ\n[無償]アビスジェム×4000\nルシータの純真結晶×1\n【凸】純真結晶引換券(ルクスノヴァ除く)×10",
     "has_r18": 0
   }
 ]

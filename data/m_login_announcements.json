@@ -12,10 +12,10 @@
   {
     "id": 2,
     "title": "リリース記念SSR確定ガチャ",
-    "display_priority": 100,
-    "display_order": 100,
+    "display_priority": 190,
+    "display_order": 190,
     "asset_id": "7030005",
-    "begin_at": "2026-06-25 15:00:00",
+    "begin_at": "2026-06-25 10:00:00",
     "end_at": "2026-07-10 12:59:59",
     "has_r18": 1
   },
@@ -78,5 +78,95 @@
     "begin_at": "2026-06-16 10:00:00",
     "end_at": "2026-06-20 4:59:59",
     "has_r18": 1
+  },
+  {
+    "id": 9,
+    "title": "レヴィエーヌ＆ディアーナマルチピックアップガチャ",
+    "display_priority": 140,
+    "display_order": 140,
+    "asset_id": "7040001",
+    "begin_at": "2026-06-18 12:00:00",
+    "end_at": "2026-06-27 4:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 11,
+    "title": "【開催中】第1回ラッキーボックス",
+    "display_priority": 139,
+    "display_order": 139,
+    "asset_id": "1040001_1",
+    "begin_at": "2026-06-18 12:00:00",
+    "end_at": "2026-06-27 4:59:59",
+    "has_r18": 0
+  },
+  {
+    "id": 12,
+    "title": "紋章：衝撃ピックアップガチャ",
+    "display_priority": 138,
+    "display_order": 138,
+    "asset_id": "7020007",
+    "begin_at": "2026-06-18 12:00:00",
+    "end_at": "2026-06-25 4:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 14,
+    "title": "【開催中】ボーナスクエスト発生！",
+    "display_priority": 141,
+    "display_order": 141,
+    "asset_id": "1080001_1",
+    "begin_at": "2026-06-19 5:00:00",
+    "end_at": "2026-06-23 4:59:59",
+    "has_r18": 0
+  },
+  {
+    "id": 16,
+    "title": "【開催中】ボーナスクエスト発生！",
+    "display_priority": 160,
+    "display_order": 160,
+    "asset_id": "1080002_1",
+    "begin_at": "2026-06-23 5:00:00",
+    "end_at": "2026-06-26 4:59:59",
+    "has_r18": 0
+  },
+  {
+    "id": 17,
+    "title": "ルシータピックアップガチャ",
+    "display_priority": 180,
+    "display_order": 180,
+    "asset_id": "7010005",
+    "begin_at": "2026-06-25 10:00:00",
+    "end_at": "2026-07-02 4:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 18,
+    "title": "エミリーピックアップガチャ",
+    "display_priority": 170,
+    "display_order": 170,
+    "asset_id": "7010004",
+    "begin_at": "2026-06-25 10:00:00",
+    "end_at": "2026-07-02 4:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 20,
+    "title": "【開催中】決戦の採掘場",
+    "display_priority": 200,
+    "display_order": 200,
+    "asset_id": "1070004",
+    "begin_at": "2026-06-26 10:00:00",
+    "end_at": "2026-06-30 12:59:59",
+    "has_r18": 0
+  },
+  {
+    "id": 22,
+    "title": "【開催中】ボーナスクエスト発生！",
+    "display_priority": 210,
+    "display_order": 210,
+    "asset_id": "1080003_1",
+    "begin_at": "2026-06-28 5:00:00",
+    "end_at": "2026-07-01 4:59:59",
+    "has_r18": 0
   }
 ]

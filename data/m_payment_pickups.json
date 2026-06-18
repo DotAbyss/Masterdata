@@ -3,24 +3,64 @@
     "id": 1,
     "m_payment_lineups_id_1": 30001,
     "m_payment_lineups_id_2": 0,
-    "open_at": 1
+    "open_at": "2026-06-01 00:00:00",
+    "close_at": "2026-06-18 12:59:59",
+    "display_order": 1
   },
   {
     "id": 2,
     "m_payment_lineups_id_1": 10004,
     "m_payment_lineups_id_2": 10002,
-    "open_at": 2
+    "open_at": "2026-06-01 00:00:00",
+    "close_at": "2026-06-18 12:59:59",
+    "display_order": 2
   },
   {
     "id": 4,
     "m_payment_lineups_id_1": 80002,
     "m_payment_lineups_id_2": 80005,
-    "open_at": 4
+    "open_at": "2026-06-01 00:00:00",
+    "close_at": "2026-06-18 12:59:59",
+    "display_order": 4
   },
   {
     "id": 5,
     "m_payment_lineups_id_1": 10009,
     "m_payment_lineups_id_2": 50005,
-    "open_at": 5
+    "open_at": "2026-06-01 00:00:00",
+    "close_at": "2026-06-18 12:59:59",
+    "display_order": 5
+  },
+  {
+    "id": 6,
+    "m_payment_lineups_id_1": 10025,
+    "m_payment_lineups_id_2": 10023,
+    "open_at": "2026-06-18 14:00:00",
+    "close_at": "2026-06-30 04:59:59",
+    "display_order": 8
+  },
+  {
+    "id": 7,
+    "m_payment_lineups_id_1": 10028,
+    "m_payment_lineups_id_2": 10029,
+    "open_at": "2026-06-18 14:00:00",
+    "close_at": "2026-06-30 04:59:59",
+    "display_order": 9
+  },
+  {
+    "id": 8,
+    "m_payment_lineups_id_1": 10041,
+    "m_payment_lineups_id_2": 0,
+    "open_at": "2026-06-25 10:00:00",
+    "close_at": "2026-06-30 04:59:59",
+    "display_order": 6
+  },
+  {
+    "id": 9,
+    "m_payment_lineups_id_1": 10044,
+    "m_payment_lineups_id_2": 10042,
+    "open_at": "2026-06-25 10:00:00",
+    "close_at": "2026-06-30 04:59:59",
+    "display_order": 7
   }
 ]

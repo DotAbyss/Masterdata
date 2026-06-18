@@ -38,5 +38,35 @@
     "pos_x": -45,
     "pos_z": 35,
     "direction_type": 1
+  },
+  {
+    "id": 5,
+    "m_home_stage_group_id": 3,
+    "m_character_id": 1300001,
+    "m_character_skin_id": 130000101,
+    "serif": "最高の舞台を見せるわよ\nうちの虜にしてあ・げ・る♡",
+    "pos_x": 45,
+    "pos_z": -50,
+    "direction_type": 0
+  },
+  {
+    "id": 6,
+    "m_home_stage_group_id": 3,
+    "m_character_id": 1300010,
+    "m_character_skin_id": 130001001,
+    "serif": "さぁ、狩りの時間だ！\nボクの弓からは逃げられないよ♪",
+    "pos_x": -45,
+    "pos_z": 35,
+    "direction_type": 1
+  },
+  {
+    "id": 7,
+    "m_home_stage_group_id": 4,
+    "m_character_id": 1300014,
+    "m_character_skin_id": 130001401,
+    "serif": "伝説の大海賊の末裔、ルシータだ！\nアタシと新たな航海に出発しようぜ！",
+    "pos_x": -13,
+    "pos_z": -28,
+    "direction_type": 0
   }
 ]

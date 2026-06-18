@@ -7083,6 +7083,69 @@
     "order": 1
   },
   {
+    "id": 10000101,
+    "group_id": 10000101,
+    "content_type": 54,
+    "content_id": 1000,
+    "amount": 100,
+    "display_order": 1,
+    "order": 1
+  },
+  {
+    "id": 10000102,
+    "group_id": 10000102,
+    "content_type": 54,
+    "content_id": 1000,
+    "amount": 250,
+    "display_order": 1,
+    "order": 1
+  },
+  {
+    "id": 10000103,
+    "group_id": 10000103,
+    "content_type": 54,
+    "content_id": 1000,
+    "amount": 500,
+    "display_order": 1,
+    "order": 1
+  },
+  {
+    "id": 10000104,
+    "group_id": 10000104,
+    "content_type": 54,
+    "content_id": 1000,
+    "amount": 1000,
+    "display_order": 1,
+    "order": 1
+  },
+  {
+    "id": 10000105,
+    "group_id": 10000105,
+    "content_type": 54,
+    "content_id": 1000,
+    "amount": 1500,
+    "display_order": 1,
+    "order": 1
+  },
+  {
+    "id": 10000106,
+    "group_id": 10000106,
+    "content_type": 54,
+    "content_id": 1000,
+    "amount": 2000,
+    "display_order": 1,
+    "order": 1
+  },
+  {
+    "id": 10000107,
+    "group_id": 10000107,
+    "content_type": 70,
+    "content_id": 18060440,
+    "amount": 1,
+    "display_order": 1,
+    "order": 1
+  },
+  {
     "id": 30000101,
     "group_id": 30000101,
     "content_type": 54,
@@ -7187,6 +7250,168 @@
     "content_type": 10,
     "content_id": 0,
     "amount": 300,
+    "display_order": 1,
+    "order": 1
+  },
+  {
+    "id": 60000101,
+    "group_id": 60000101,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 50,
+    "display_order": 1,
+    "order": 1
+  },
+  {
+    "id": 60000102,
+    "group_id": 60000102,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 50,
+    "display_order": 1,
+    "order": 1
+  },
+  {
+    "id": 60000103,
+    "group_id": 60000103,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 50,
+    "display_order": 1,
+    "order": 1
+  },
+  {
+    "id": 60000104,
+    "group_id": 60000104,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 50,
+    "display_order": 1,
+    "order": 1
+  },
+  {
+    "id": 60000105,
+    "group_id": 60000105,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 50,
+    "display_order": 1,
+    "order": 1
+  },
+  {
+    "id": 60000106,
+    "group_id": 60000106,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 50,
+    "display_order": 1,
+    "order": 1
+  },
+  {
+    "id": 60000201,
+    "group_id": 60000201,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 50,
+    "display_order": 1,
+    "order": 1
+  },
+  {
+    "id": 60000202,
+    "group_id": 60000202,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 50,
+    "display_order": 1,
+    "order": 1
+  },
+  {
+    "id": 60000203,
+    "group_id": 60000203,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 50,
+    "display_order": 1,
+    "order": 1
+  },
+  {
+    "id": 60000204,
+    "group_id": 60000204,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 50,
+    "display_order": 1,
+    "order": 1
+  },
+  {
+    "id": 60000205,
+    "group_id": 60000205,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 50,
+    "display_order": 1,
+    "order": 1
+  },
+  {
+    "id": 60000206,
+    "group_id": 60000206,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 50,
+    "display_order": 1,
+    "order": 1
+  },
+  {
+    "id": 60000301,
+    "group_id": 60000301,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 50,
+    "display_order": 1,
+    "order": 1
+  },
+  {
+    "id": 60000302,
+    "group_id": 60000302,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 50,
+    "display_order": 1,
+    "order": 1
+  },
+  {
+    "id": 60000303,
+    "group_id": 60000303,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 50,
+    "display_order": 1,
+    "order": 1
+  },
+  {
+    "id": 60000304,
+    "group_id": 60000304,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 50,
+    "display_order": 1,
+    "order": 1
+  },
+  {
+    "id": 60000305,
+    "group_id": 60000305,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 50,
+    "display_order": 1,
+    "order": 1
+  },
+  {
+    "id": 60000306,
+    "group_id": 60000306,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 50,
     "display_order": 1,
     "order": 1
   },
@@ -7805,6 +8030,87 @@
   {
     "id": 40009,
     "group_id": 40009,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 3000,
+    "display_order": 1,
+    "order": 1
+  },
+  {
+    "id": 40010,
+    "group_id": 40010,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 1500,
+    "display_order": 1,
+    "order": 1
+  },
+  {
+    "id": 40011,
+    "group_id": 40011,
+    "content_type": 30,
+    "content_id": 170001,
+    "amount": 2,
+    "display_order": 1,
+    "order": 1
+  },
+  {
+    "id": 40012,
+    "group_id": 40012,
+    "content_type": 30,
+    "content_id": 170001,
+    "amount": 2,
+    "display_order": 1,
+    "order": 1
+  },
+  {
+    "id": 40013,
+    "group_id": 40013,
+    "content_type": 30,
+    "content_id": 170001,
+    "amount": 2,
+    "display_order": 1,
+    "order": 1
+  },
+  {
+    "id": 40014,
+    "group_id": 40014,
+    "content_type": 30,
+    "content_id": 150001,
+    "amount": 5,
+    "display_order": 1,
+    "order": 1
+  },
+  {
+    "id": 40015,
+    "group_id": 40015,
+    "content_type": 30,
+    "content_id": 170001,
+    "amount": 2,
+    "display_order": 1,
+    "order": 1
+  },
+  {
+    "id": 40016,
+    "group_id": 40016,
+    "content_type": 30,
+    "content_id": 170001,
+    "amount": 2,
+    "display_order": 1,
+    "order": 1
+  },
+  {
+    "id": 40017,
+    "group_id": 40017,
+    "content_type": 30,
+    "content_id": 110001,
+    "amount": 5,
+    "display_order": 1,
+    "order": 1
+  },
+  {
+    "id": 40018,
+    "group_id": 40018,
     "content_type": 10,
     "content_id": 0,
     "amount": 3000,

@@ -2432,6 +2432,38 @@
     "effect_param": 200
   },
   {
+    "id": 401008,
+    "target_type": 100,
+    "target_param": 1,
+    "random_num": 2,
+    "effect_type": 10,
+    "effect_param": 400
+  },
+  {
+    "id": 401009,
+    "target_type": 100,
+    "target_param": 2,
+    "random_num": 2,
+    "effect_type": 10,
+    "effect_param": 400
+  },
+  {
+    "id": 401010,
+    "target_type": 100,
+    "target_param": 3,
+    "random_num": 2,
+    "effect_type": 10,
+    "effect_param": 400
+  },
+  {
+    "id": 401011,
+    "target_type": 100,
+    "target_param": 4,
+    "random_num": 2,
+    "effect_type": 10,
+    "effect_param": 400
+  },
+  {
     "id": 500000,
     "target_type": 0,
     "target_param": 0,

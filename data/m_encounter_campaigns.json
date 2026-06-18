@@ -1,1 +1,50 @@
-null
+[
+  {
+    "id": 10000,
+    "name": "ボーナスクエスト発生！",
+    "override_encount_interval": 100,
+    "additional_encounter_supply": 3,
+    "m_encounter_campaign_map_area_group_id": 10000,
+    "m_encounter_campaign_quest_group_id": 10000,
+    "m_encounter_campaign_bonus_quest_group_id": 10000,
+    "require_clear_count_for_bonus": 2,
+    "campaign_encount_probability": 0,
+    "m_idle_exploration_encount_group_id": 700,
+    "m_mission_term_id": 60000101,
+    "open_at": "2026-06-19 5:00:00",
+    "end_at": "2026-06-23 4:59:59",
+    "close_at": "2026-06-23 4:59:59"
+  },
+  {
+    "id": 10001,
+    "name": "ボーナスクエスト発生！",
+    "override_encount_interval": 100,
+    "additional_encounter_supply": 3,
+    "m_encounter_campaign_map_area_group_id": 10001,
+    "m_encounter_campaign_quest_group_id": 10001,
+    "m_encounter_campaign_bonus_quest_group_id": 10001,
+    "require_clear_count_for_bonus": 2,
+    "campaign_encount_probability": 0,
+    "m_idle_exploration_encount_group_id": 701,
+    "m_mission_term_id": 60000201,
+    "open_at": "2026-06-23 5:00:00",
+    "end_at": "2026-06-26 4:59:59",
+    "close_at": "2026-06-26 4:59:59"
+  },
+  {
+    "id": 10002,
+    "name": "ボーナスクエスト発生！",
+    "override_encount_interval": 100,
+    "additional_encounter_supply": 3,
+    "m_encounter_campaign_map_area_group_id": 10002,
+    "m_encounter_campaign_quest_group_id": 10002,
+    "m_encounter_campaign_bonus_quest_group_id": 10002,
+    "require_clear_count_for_bonus": 2,
+    "campaign_encount_probability": 0,
+    "m_idle_exploration_encount_group_id": 702,
+    "m_mission_term_id": 60000301,
+    "open_at": "2026-06-28 5:00:00",
+    "end_at": "2026-07-01 4:59:59",
+    "close_at": "2026-07-01 4:59:59"
+  }
+]

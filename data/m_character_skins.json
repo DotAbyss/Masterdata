@@ -945,6 +945,36 @@
     "display_order": 1
   },
   {
+    "id": 130000101,
+    "m_character_id": 1300001,
+    "type": 1,
+    "rarity": 1,
+    "name": "レヴィエーヌ基本コスチューム",
+    "description": "レヴィエーヌの基本コスチュームです。",
+    "serif": "最高の舞台を見せるわよ\nうちの虜にしてあ・げ・る♡",
+    "is_default": 1,
+    "bonus_bond_point": 0,
+    "released_at": "2024-01-01 00:00:00",
+    "asset_id": "100901000G",
+    "bg_asset_id": "abg10100a",
+    "display_order": 1
+  },
+  {
+    "id": 130000102,
+    "m_character_id": 1300001,
+    "type": 2,
+    "rarity": 1,
+    "name": "レヴィエーヌおしごと時基本コスチューム",
+    "description": "レヴィエーヌの基本コスチュームです。",
+    "serif": "最高の舞台を見せるわよ\nうちの虜にしてあ・げ・る♡",
+    "is_default": 1,
+    "bonus_bond_point": 0,
+    "released_at": "2024-01-01 00:00:00",
+    "asset_id": "100901000X",
+    "bg_asset_id": "abg10100a",
+    "display_order": 1
+  },
+  {
     "id": 130000301,
     "m_character_id": 1300003,
     "type": 1,
@@ -958,6 +988,21 @@
     "asset_id": "101201000G",
     "bg_asset_id": "abg10100a",
     "display_order": 1
+  },
+  {
+    "id": 130000302,
+    "m_character_id": 1300003,
+    "type": 1,
+    "rarity": 2,
+    "name": "ハートフル・ウェイトレス",
+    "description": "いらっしゃいませ！　と元気な声が響く。\nご注文は何でしょう？\nスマイルはもちろん無料です♪",
+    "serif": "ハンティングメガバーガーセット……\nお、お待たせしました……",
+    "is_default": 0,
+    "bonus_bond_point": 0,
+    "released_at": "2026-06-22 10:00:00",
+    "asset_id": "101201001G",
+    "bg_asset_id": "abg10100a",
+    "display_order": 2
   },
   {
     "id": 130000303,
@@ -1080,6 +1125,21 @@
     "display_order": 1
   },
   {
+    "id": 130000703,
+    "m_character_id": 1300007,
+    "type": 1,
+    "rarity": 2,
+    "name": "オフタイム・ジャージ",
+    "description": "休日の部屋着に迷ったらこれ！\nださ……もとい、おしゃれなデザインと、\n機能性に長けた、究極のリラックスウェア。",
+    "serif": "今日は休暇日だぞ？　こういう\nリラックス出来る格好でもいいだろ？",
+    "is_default": 0,
+    "bonus_bond_point": 0,
+    "released_at": "2026-06-22 10:00:00",
+    "asset_id": "101601001G",
+    "bg_asset_id": "abg10100a",
+    "display_order": 2
+  },
+  {
     "id": 130000801,
     "m_character_id": 1300008,
     "type": 1,
@@ -1140,6 +1200,36 @@
     "display_order": 1
   },
   {
+    "id": 130001001,
+    "m_character_id": 1300010,
+    "type": 1,
+    "rarity": 1,
+    "name": "ディアーナ基本コスチューム",
+    "description": "ディアーナの基本コスチュームです。",
+    "serif": "さぁ、狩りの時間だ！\nボクの弓からは逃げられないよ♪",
+    "is_default": 1,
+    "bonus_bond_point": 0,
+    "released_at": "2024-01-01 00:00:00",
+    "asset_id": "101001000G",
+    "bg_asset_id": "abg10100a",
+    "display_order": 1
+  },
+  {
+    "id": 130001002,
+    "m_character_id": 1300010,
+    "type": 2,
+    "rarity": 1,
+    "name": "ディアーナおしごと時基本コスチューム",
+    "description": "ディアーナの基本コスチュームです。",
+    "serif": "さぁ、狩りの時間だ！\nボクの弓からは逃げられないよ♪",
+    "is_default": 1,
+    "bonus_bond_point": 0,
+    "released_at": "2024-01-01 00:00:00",
+    "asset_id": "101001000X",
+    "bg_asset_id": "abg10100a",
+    "display_order": 1
+  },
+  {
     "id": 130001101,
     "m_character_id": 1300011,
     "type": 1,
@@ -1166,6 +1256,36 @@
     "bonus_bond_point": 0,
     "released_at": "2024-01-01 00:00:00",
     "asset_id": "101401000X",
+    "bg_asset_id": "abg10100a",
+    "display_order": 1
+  },
+  {
+    "id": 130001401,
+    "m_character_id": 1300014,
+    "type": 1,
+    "rarity": 1,
+    "name": "ルシータ基本コスチューム",
+    "description": "ルシータの基本コスチュームです。",
+    "serif": "伝説の大海賊の末裔、ルシータだ！\nアタシと新たな航海に出発しようぜ！",
+    "is_default": 1,
+    "bonus_bond_point": 0,
+    "released_at": "2024-01-01 00:00:00",
+    "asset_id": "101901000G",
+    "bg_asset_id": "abg10100a",
+    "display_order": 1
+  },
+  {
+    "id": 130001402,
+    "m_character_id": 1300014,
+    "type": 2,
+    "rarity": 1,
+    "name": "ルシータおしごと時基本コスチューム",
+    "description": "ルシータの基本コスチュームです。",
+    "serif": "伝説の大海賊の末裔、ルシータだ！\nアタシと新たな航海に出発しようぜ！",
+    "is_default": 1,
+    "bonus_bond_point": 0,
+    "released_at": "2024-01-01 00:00:00",
+    "asset_id": "101901000X",
     "bg_asset_id": "abg10100a",
     "display_order": 1
   },
@@ -1365,6 +1485,21 @@
     "display_order": 1
   },
   {
+    "id": 130002303,
+    "m_character_id": 1300023,
+    "type": 2,
+    "rarity": 2,
+    "name": "キューティデビル",
+    "description": "その笑顔と甘い言葉にご用心。\nこの小悪魔に心を奪われたら、後戻りなどできはしない。\n魂が燃え尽きるまでその魅力に溺れてしまうだろう。",
+    "serif": "サキュバスになり切れって言われても\nあ、あたしに出来るかなぁ～……",
+    "is_default": 0,
+    "bonus_bond_point": 0,
+    "released_at": "2026-06-25 10:00:00",
+    "asset_id": "102801001X",
+    "bg_asset_id": "abg13000a",
+    "display_order": 2
+  },
+  {
     "id": 130002401,
     "m_character_id": 1300024,
     "type": 1,
@@ -1496,6 +1631,21 @@
     "bonus_bond_point": 0,
     "released_at": "2024-01-01 00:00:00",
     "asset_id": "106201000X",
+    "bg_asset_id": "abg10100a",
+    "display_order": 1
+  },
+  {
+    "id": 130003103,
+    "m_character_id": 1300031,
+    "type": 1,
+    "rarity": 2,
+    "name": "刻を超えたセーラー服",
+    "description": "時空の狭間を超え、学園に舞い降りた陰陽師。\n古き技と新しい風を纏い、\n少女は新たな物語を紡ぎ出す。",
+    "serif": "この学びの園に蔓延る邪気は、\n陰陽師である私が払い清めますっ！",
+    "is_default": 0,
+    "bonus_bond_point": 0,
+    "released_at": "2026-06-22 10:00:00",
+    "asset_id": "106201001G",
     "bg_asset_id": "abg10100a",
     "display_order": 1
   },
