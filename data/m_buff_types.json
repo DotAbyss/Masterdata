@@ -344,14 +344,6 @@
     "description": "マナが多いほど攻撃力が上昇する状態【{0}】"
   },
   {
-    "id": 160,
-    "name": "パラメータ変換",
-    "nameEN": "Status Conversion",
-    "limit": 0,
-    "icon_asset_id": "",
-    "description": "{0}の{1}を{2}に変換する状態"
-  },
-  {
     "id": 170,
     "name": "特殊行動制御",
     "nameEN": "",

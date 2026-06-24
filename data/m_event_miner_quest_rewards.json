@@ -98,9 +98,17 @@
   {
     "id": 10000120101,
     "m_event_miner_quest_id": 100001201,
+    "content_type": 10,
+    "content_id": 10,
+    "amount": 50,
+    "is_first_reward": 1
+  },
+  {
+    "id": 10000120102,
+    "m_event_miner_quest_id": 100001201,
     "content_type": 54,
     "content_id": 1000,
-    "amount": 10,
+    "amount": 750,
     "is_first_reward": 0
   }
 ]

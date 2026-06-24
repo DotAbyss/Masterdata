@@ -99,7 +99,7 @@
     "adult_telop_duration": 4000,
     "normal_telop_duration": 7000,
     "skill_name": "ヒールエール",
-    "skill_flavor": "\u003cgradient=\"GachaSkillColorGrad\"\u003e最もHPが低い味方1体を中心とした\u003c/gradient\u003e\u003cbr\u003e\r\n範囲内の味方全員のHPを回復！",
+    "skill_flavor": "\u003cgradient=\"GachaSkillColorGrad\"\u003e現在HPが最も低い味方を中心とした\u003c/gradient\u003e\u003cbr\u003e\n範囲内の味方全員に自身の最大HPの割合分回復！",
     "ntr_flag_1": 0,
     "story_flavor_1": "２階で研修してください",
     "ntr_flag_2": 1,

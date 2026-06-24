@@ -336,18 +336,18 @@
     "id": 44,
     "m_login_bonus_sheet_id": 6,
     "index": 2,
-    "content_type": 10,
-    "content_id": 0,
-    "amount": 1000,
+    "content_type": 30,
+    "content_id": 140015,
+    "amount": 10,
     "pickup": 0
   },
   {
     "id": 45,
     "m_login_bonus_sheet_id": 6,
     "index": 3,
-    "content_type": 30,
-    "content_id": 150000,
-    "amount": 2,
+    "content_type": 140,
+    "content_id": 120001702,
+    "amount": 1,
     "pickup": 0
   },
   {
@@ -355,8 +355,8 @@
     "m_login_bonus_sheet_id": 6,
     "index": 4,
     "content_type": 30,
-    "content_id": 140001,
-    "amount": 50,
+    "content_id": 150000,
+    "amount": 2,
     "pickup": 0
   },
   {
@@ -365,7 +365,7 @@
     "index": 5,
     "content_type": 10,
     "content_id": 0,
-    "amount": 800,
+    "amount": 1000,
     "pickup": 0
   },
   {
@@ -373,9 +373,9 @@
     "m_login_bonus_sheet_id": 6,
     "index": 6,
     "content_type": 30,
-    "content_id": 190004,
-    "amount": 1,
-    "pickup": 1
+    "content_id": 110001,
+    "amount": 10,
+    "pickup": 0
   },
   {
     "id": 49,
@@ -391,8 +391,8 @@
     "m_login_bonus_sheet_id": 6,
     "index": 8,
     "content_type": 30,
-    "content_id": 150000,
-    "amount": 2,
+    "content_id": 140001,
+    "amount": 50,
     "pickup": 0
   },
   {
@@ -400,8 +400,8 @@
     "m_login_bonus_sheet_id": 6,
     "index": 9,
     "content_type": 30,
-    "content_id": 190005,
-    "amount": 1,
+    "content_id": 150000,
+    "amount": 2,
     "pickup": 0
   },
   {
@@ -412,5 +412,50 @@
     "content_id": 0,
     "amount": 2000,
     "pickup": 1
+  },
+  {
+    "id": 108,
+    "m_login_bonus_sheet_id": 10002,
+    "index": 1,
+    "content_type": 30,
+    "content_id": 190003,
+    "amount": 1,
+    "pickup": 0
+  },
+  {
+    "id": 109,
+    "m_login_bonus_sheet_id": 10002,
+    "index": 2,
+    "content_type": 30,
+    "content_id": 190003,
+    "amount": 1,
+    "pickup": 0
+  },
+  {
+    "id": 110,
+    "m_login_bonus_sheet_id": 10002,
+    "index": 3,
+    "content_type": 30,
+    "content_id": 190003,
+    "amount": 1,
+    "pickup": 0
+  },
+  {
+    "id": 111,
+    "m_login_bonus_sheet_id": 10002,
+    "index": 4,
+    "content_type": 30,
+    "content_id": 190003,
+    "amount": 1,
+    "pickup": 0
+  },
+  {
+    "id": 112,
+    "m_login_bonus_sheet_id": 10002,
+    "index": 5,
+    "content_type": 30,
+    "content_id": 190003,
+    "amount": 1,
+    "pickup": 0
   }
 ]

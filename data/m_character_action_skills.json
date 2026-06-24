@@ -564,7 +564,7 @@
     "m_character_id": 1300014,
     "trigger_type": 20,
     "name": "カノンコール",
-    "description": "大砲を【40秒】召喚 / 大砲は自身のパラメーターの【{[SUMMON_SERVANT.PARAM_RATIO]}】を引き継ぐ  / 自身に紋章：情熱を【1】付与"
+    "description": "自身のパラメーターの【{[SUMMON_SERVANT.PARAM_RATIO]}】を引き継ぐ大砲を【40秒】召喚  / 自身に紋章：情熱を【1】付与"
   },
   {
     "id": 1300014001,
