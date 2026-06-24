@@ -3,13 +3,13 @@
     "id": 1,
     "category": 1,
     "asset_id": "5000110",
-    "display_order": 2
+    "display_order": 3
   },
   {
     "id": 2,
     "category": 2,
     "asset_id": "5000108",
-    "display_order": 3
+    "display_order": 2
   },
   {
     "id": 3,
@@ -32,7 +32,7 @@
   {
     "id": 6,
     "category": 6,
-    "asset_id": "5000117",
+    "asset_id": "5000222",
     "display_order": 5
   },
   {
@@ -40,6 +40,12 @@
     "category": 7,
     "asset_id": "5000118",
     "display_order": 9
+  },
+  {
+    "id": 8,
+    "category": 10,
+    "asset_id": "5000222",
+    "display_order": 10
   },
   {
     "id": 888,
