@@ -27,6 +27,24 @@
     "asset_id": "0"
   },
   {
+    "id": 30000201,
+    "category": 2,
+    "category_group": 300002,
+    "title": "",
+    "start_at": "2026-06-30 13:00:00",
+    "end_at": "2026-07-10 11:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 30000202,
+    "category": 2,
+    "category_group": 300002,
+    "title": "",
+    "start_at": "2026-07-05 10:00:00",
+    "end_at": "2026-07-17 04:59:59",
+    "asset_id": "0"
+  },
+  {
     "id": 60000101,
     "category": 2,
     "category_group": 10000,
@@ -54,6 +72,15 @@
     "asset_id": "0"
   },
   {
+    "id": 80000101,
+    "category": 2,
+    "category_group": 800001,
+    "title": "",
+    "start_at": "2026-07-05 10:00:00",
+    "end_at": "2026-07-17 04:59:59",
+    "asset_id": "0"
+  },
+  {
     "id": 100000000,
     "category": 3,
     "category_group": 1,
@@ -70,6 +97,24 @@
     "start_at": "2025-05-01 00:00:00",
     "end_at": "2026-07-01 04:59:59",
     "asset_id": "1700001"
+  },
+  {
+    "id": 100000002,
+    "category": 3,
+    "category_group": 2,
+    "title": "",
+    "start_at": "2026-07-01 05:00:00",
+    "end_at": "2026-08-01 04:59:59",
+    "asset_id": "1700002"
+  },
+  {
+    "id": 100000003,
+    "category": 3,
+    "category_group": 1,
+    "title": "",
+    "start_at": "2026-05-01 00:00:00",
+    "end_at": "2099-11-30 04:59:59",
+    "asset_id": "0"
   },
   {
     "id": 1,

@@ -592,6 +592,30 @@
     "order": 3
   },
   {
+    "id": 130000601,
+    "m_character_id": 1300006,
+    "asset_id": "Ability_Heal_01",
+    "name": "魔石採掘",
+    "ability_no": 10026,
+    "order": 1
+  },
+  {
+    "id": 130000602,
+    "m_character_id": 1300006,
+    "asset_id": "Ability_ConditionResist_01",
+    "name": "アタックサポート",
+    "ability_no": 10027,
+    "order": 2
+  },
+  {
+    "id": 130000603,
+    "m_character_id": 1300006,
+    "asset_id": "Ability_Attack_01",
+    "name": "固い意志",
+    "ability_no": 10028,
+    "order": 3
+  },
+  {
     "id": 130000701,
     "m_character_id": 1300007,
     "asset_id": "Ability_SpecialAttack_01",
@@ -928,6 +952,30 @@
     "order": 3
   },
   {
+    "id": 130002901,
+    "m_character_id": 1300029,
+    "asset_id": "Ability_SpecialAttack_01",
+    "name": "鬼の盾",
+    "ability_no": 10080,
+    "order": 1
+  },
+  {
+    "id": 130002902,
+    "m_character_id": 1300029,
+    "asset_id": "Ability_Defense_01",
+    "name": "守りの型",
+    "ability_no": 10081,
+    "order": 2
+  },
+  {
+    "id": 130002903,
+    "m_character_id": 1300029,
+    "asset_id": "Ability_Heal_01",
+    "name": "不屈の魂",
+    "ability_no": 10082,
+    "order": 3
+  },
+  {
     "id": 130003001,
     "m_character_id": 1300030,
     "asset_id": "Ability_SpecialAttack_01",
@@ -1021,6 +1069,30 @@
     "asset_id": "Ability_ConditionAttack_01",
     "name": "幸運のハーモニー",
     "ability_no": 10155,
+    "order": 3
+  },
+  {
+    "id": 130003401,
+    "m_character_id": 1300034,
+    "asset_id": "Ability_SpecialAttack_01",
+    "name": "蝶の舞",
+    "ability_no": 10159,
+    "order": 1
+  },
+  {
+    "id": 130003402,
+    "m_character_id": 1300034,
+    "asset_id": "Ability_Critical_01",
+    "name": "天命の掌握",
+    "ability_no": 10160,
+    "order": 2
+  },
+  {
+    "id": 130003403,
+    "m_character_id": 1300034,
+    "asset_id": "Ability_Attack_01",
+    "name": "不朽の光明",
+    "ability_no": 10161,
     "order": 3
   },
   {

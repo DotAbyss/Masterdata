@@ -103,5 +103,26 @@
     "asset_id": "511301005",
     "ability_no": 19005,
     "level": 10
+  },
+  {
+    "id": 16,
+    "name": "初級【情熱】バフ",
+    "asset_id": "511301006",
+    "ability_no": 19006,
+    "level": 1
+  },
+  {
+    "id": 17,
+    "name": "中級【情熱】バフ",
+    "asset_id": "511301006",
+    "ability_no": 19006,
+    "level": 5
+  },
+  {
+    "id": 18,
+    "name": "上級【情熱】バフ",
+    "asset_id": "511301006",
+    "ability_no": 19006,
+    "level": 10
   }
 ]

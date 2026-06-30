@@ -494,7 +494,7 @@
     "enchantment_no": 1014,
     "asset_id": "Unique",
     "name": "深蝕のライフル",
-    "description": "防御力【{1}%】減少。紋章：衝撃が付与されたとき、15秒間味方全体の攻撃力【{2}%】UP（1編成につき1本分のみ効果発動）"
+    "description": "防御力【{1}%】減少。紋章：衝撃が消費されたとき、15秒間味方全体の攻撃力【{2}%】UP（1編成につき1本分のみ効果発動）"
   },
   {
     "id": 72,
@@ -592,7 +592,7 @@
     "enchantment_no": 1028,
     "asset_id": "Unique",
     "name": "フォレストマント",
-    "description": "FC発動時、15秒間自身の攻撃力【{1}%】UP"
+    "description": "FC発動時、15秒間自身の攻撃力【{1}%】UP【累積 / 最大50％】"
   },
   {
     "id": 86,
@@ -1146,5 +1146,75 @@
     "asset_id": "Attack",
     "name": "攻撃上昇",
     "description": "攻撃【{1}%】上昇"
+  },
+  {
+    "id": 167,
+    "enchantment_no": 1039,
+    "asset_id": "Unique",
+    "name": "星詠みの杖",
+    "description": "攻撃力【{1}%】上昇。紋章：衝撃が消費された時、バック全体の会心率【{2}%】UP【累積 / 最大30％】（1編成につき1本分のみ効果発動）"
+  },
+  {
+    "id": 168,
+    "enchantment_no": 1040,
+    "asset_id": "Unique",
+    "name": "冥界の魔導書",
+    "description": "30秒に1回、自身に紋章：情熱を【{1}】付与。紋章：情熱1ごとに、自身の防御力【{2}%】UP"
+  },
+  {
+    "id": 170,
+    "enchantment_no": 4,
+    "asset_id": "Defense",
+    "name": "防御上昇",
+    "description": "防御【{1}%】上昇"
+  },
+  {
+    "id": 171,
+    "enchantment_no": 5,
+    "asset_id": "Attack",
+    "name": "紋章：情熱連撃率UP",
+    "description": "紋章：情熱が付与されたとき、15秒間自身の連撃率【{1}%】UP"
+  },
+  {
+    "id": 172,
+    "enchantment_no": 6,
+    "asset_id": "Attack",
+    "name": "攻撃上昇",
+    "description": "攻撃【{1}%】上昇"
+  },
+  {
+    "id": 173,
+    "enchantment_no": 7,
+    "asset_id": "CriticalRate",
+    "name": "会心率上昇",
+    "description": "会心率【{1}%】上昇"
+  },
+  {
+    "id": 174,
+    "enchantment_no": 8,
+    "asset_id": "SkillChargeUp",
+    "name": "紋章：衝撃スキルチャージ",
+    "description": "紋章：衝撃が消費されたとき、15秒間自分のスキルチャージ効率【{1}%】UP"
+  },
+  {
+    "id": 175,
+    "enchantment_no": 9,
+    "asset_id": "Attack",
+    "name": "攻撃上昇",
+    "description": "攻撃【{1}%】上昇"
+  },
+  {
+    "id": 177,
+    "enchantment_no": 9000000,
+    "asset_id": "Defense",
+    "name": "紋章：情熱防御UP",
+    "description": "紋章：情熱が付与されたとき、15秒間自身の防御【{1}%】UP"
+  },
+  {
+    "id": 178,
+    "enchantment_no": 9000001,
+    "asset_id": "Attack",
+    "name": "紋章：衝撃連撃率UP",
+    "description": "紋章：衝撃が消費されたとき、15秒間自身の連撃率【{1}%】UP"
   }
 ]

@@ -1,1 +1,38 @@
-null
+[
+  {
+    "id": 1,
+    "m_payment_lineup_id": 120001,
+    "step": 1,
+    "m_payment_id": 80007
+  },
+  {
+    "id": 2,
+    "m_payment_lineup_id": 120001,
+    "step": 2,
+    "m_payment_id": 50001
+  },
+  {
+    "id": 3,
+    "m_payment_lineup_id": 120001,
+    "step": 3,
+    "m_payment_id": 80006
+  },
+  {
+    "id": 4,
+    "m_payment_lineup_id": 120002,
+    "step": 1,
+    "m_payment_id": 80009
+  },
+  {
+    "id": 5,
+    "m_payment_lineup_id": 120002,
+    "step": 2,
+    "m_payment_id": 50002
+  },
+  {
+    "id": 6,
+    "m_payment_lineup_id": 120002,
+    "step": 3,
+    "m_payment_id": 80008
+  }
+]

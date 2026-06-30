@@ -52,5 +52,32 @@
     "voice_id": "0",
     "serif": "お待ちしてました司令官！今日も素敵な１日になりますように♪",
     "has_r18": 0
+  },
+  {
+    "id": 7,
+    "m_login_bonus_sheet_id": 7,
+    "prefab_id": "LoginBonus_1020002",
+    "m_character_id": 1300020,
+    "voice_id": "0",
+    "serif": "イベント用　シラエスのセリフ",
+    "has_r18": 0
+  },
+  {
+    "id": 10001,
+    "m_login_bonus_sheet_id": 10001,
+    "prefab_id": "LoginBonus_1020001",
+    "m_character_id": 1300020,
+    "voice_id": "0",
+    "serif": "イベント用　ウェンディのセリフ",
+    "has_r18": 0
+  },
+  {
+    "id": 10002,
+    "m_login_bonus_sheet_id": 10002,
+    "prefab_id": "LoginBonus_1020001",
+    "m_character_id": 1300020,
+    "voice_id": "0",
+    "serif": "イベント用　ウェンディのセリフ",
+    "has_r18": 0
   }
 ]

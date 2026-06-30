@@ -19,5 +19,145 @@
     "ability_no": 90005,
     "ability_lv": 10,
     "event_buff_asset_id": ""
+  },
+  {
+    "id": 43000101,
+    "stage_effect_no": 430001,
+    "ability_no": 90007,
+    "ability_lv": 1,
+    "event_buff_asset_id": ""
+  },
+  {
+    "id": 45000101,
+    "stage_effect_no": 450001,
+    "ability_no": 90008,
+    "ability_lv": 10,
+    "event_buff_asset_id": ""
+  },
+  {
+    "id": 45000201,
+    "stage_effect_no": 450002,
+    "ability_no": 90008,
+    "ability_lv": 10,
+    "event_buff_asset_id": ""
+  },
+  {
+    "id": 45000202,
+    "stage_effect_no": 450002,
+    "ability_no": 90009,
+    "ability_lv": 5,
+    "event_buff_asset_id": ""
+  },
+  {
+    "id": 45000301,
+    "stage_effect_no": 450003,
+    "ability_no": 90008,
+    "ability_lv": 5,
+    "event_buff_asset_id": ""
+  },
+  {
+    "id": 45000302,
+    "stage_effect_no": 450003,
+    "ability_no": 90010,
+    "ability_lv": 5,
+    "event_buff_asset_id": ""
+  },
+  {
+    "id": 45000303,
+    "stage_effect_no": 450003,
+    "ability_no": 90011,
+    "ability_lv": 10,
+    "event_buff_asset_id": ""
+  },
+  {
+    "id": 45000401,
+    "stage_effect_no": 450004,
+    "ability_no": 90008,
+    "ability_lv": 5,
+    "event_buff_asset_id": ""
+  },
+  {
+    "id": 45000501,
+    "stage_effect_no": 450005,
+    "ability_no": 90008,
+    "ability_lv": 3,
+    "event_buff_asset_id": ""
+  },
+  {
+    "id": 45000502,
+    "stage_effect_no": 450005,
+    "ability_no": 90009,
+    "ability_lv": 10,
+    "event_buff_asset_id": ""
+  },
+  {
+    "id": 45000601,
+    "stage_effect_no": 450006,
+    "ability_no": 90008,
+    "ability_lv": 3,
+    "event_buff_asset_id": ""
+  },
+  {
+    "id": 45000602,
+    "stage_effect_no": 450006,
+    "ability_no": 90010,
+    "ability_lv": 10,
+    "event_buff_asset_id": ""
+  },
+  {
+    "id": 45000603,
+    "stage_effect_no": 450006,
+    "ability_no": 90011,
+    "ability_lv": 5,
+    "event_buff_asset_id": ""
+  },
+  {
+    "id": 45000701,
+    "stage_effect_no": 450007,
+    "ability_no": 90007,
+    "ability_lv": 1,
+    "event_buff_asset_id": ""
+  },
+  {
+    "id": 45000702,
+    "stage_effect_no": 450007,
+    "ability_no": 90012,
+    "ability_lv": 6,
+    "event_buff_asset_id": ""
+  },
+  {
+    "id": 45000703,
+    "stage_effect_no": 450007,
+    "ability_no": 90013,
+    "ability_lv": 2,
+    "event_buff_asset_id": ""
+  },
+  {
+    "id": 45000704,
+    "stage_effect_no": 450007,
+    "ability_no": 90014,
+    "ability_lv": 2,
+    "event_buff_asset_id": ""
+  },
+  {
+    "id": 45000801,
+    "stage_effect_no": 450008,
+    "ability_no": 90007,
+    "ability_lv": 1,
+    "event_buff_asset_id": ""
+  },
+  {
+    "id": 45000802,
+    "stage_effect_no": 450008,
+    "ability_no": 90013,
+    "ability_lv": 4,
+    "event_buff_asset_id": ""
+  },
+  {
+    "id": 45000803,
+    "stage_effect_no": 450008,
+    "ability_no": 90014,
+    "ability_lv": 3,
+    "event_buff_asset_id": ""
   }
 ]

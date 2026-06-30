@@ -592,5 +592,49 @@
     "m_tavern_card_effect_id_1": 102012,
     "m_tavern_card_effect_id_2": 401007,
     "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 13000231,
+    "m_character_id": 1300023,
+    "m_character_skin_id": 130002303,
+    "name": "エミリーの小悪魔な提案",
+    "effect_type": 2,
+    "description": "「接客」が付与されているスタッフに\n「ドリンク」を付与する。",
+    "m_tavern_card_effect_id_1": 300003,
+    "m_tavern_card_effect_id_2": 0,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 13000290,
+    "m_character_id": 1300029,
+    "m_character_skin_id": 130002902,
+    "name": "クレハの提案",
+    "effect_type": 3,
+    "description": "ランダムな「千国連合」の\nスタッフ最大1体に「接客」を付与。\nそれらのスタッフの満足度+100%",
+    "m_tavern_card_effect_id_1": 100011,
+    "m_tavern_card_effect_id_2": 401015,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 13000340,
+    "m_character_id": 1300034,
+    "m_character_skin_id": 130003402,
+    "name": "シラエスの提案",
+    "effect_type": 3,
+    "description": "次ターンの営業カードが必ず「接客」関連のものになる。\n全てのスタッフの満足度+10%",
+    "m_tavern_card_effect_id_1": 500001,
+    "m_tavern_card_effect_id_2": 400000,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 13000060,
+    "m_character_id": 1300006,
+    "m_character_skin_id": 130000602,
+    "name": "グラティアの提案",
+    "effect_type": 1,
+    "description": "評価がGood以上のスタッフの満足度+30%",
+    "m_tavern_card_effect_id_1": 200004,
+    "m_tavern_card_effect_id_2": 0,
+    "m_tavern_card_effect_id_3": 0
   }
 ]

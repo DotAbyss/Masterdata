@@ -9,9 +9,10 @@
     "is_default": 1,
     "is_paid": 0,
     "bonus_bond_point": 0,
-    "is_collabo": "2024-01-01 00:00:00",
-    "released_at": "41010001",
-    "asset_id": 1
+    "is_collabo": 0,
+    "released_at": "2024-01-01 00:00:00",
+    "asset_id": "41010001",
+    "display_order": 1
   },
   {
     "id": 100012001,
@@ -23,9 +24,10 @@
     "is_default": 1,
     "is_paid": 0,
     "bonus_bond_point": 0,
-    "is_collabo": "2024-01-01 00:00:00",
-    "released_at": "41020001",
-    "asset_id": 1
+    "is_collabo": 0,
+    "released_at": "2024-01-01 00:00:00",
+    "asset_id": "41020001",
+    "display_order": 1
   },
   {
     "id": 100013001,
@@ -37,9 +39,10 @@
     "is_default": 1,
     "is_paid": 0,
     "bonus_bond_point": 0,
-    "is_collabo": "2024-01-01 00:00:00",
-    "released_at": "41030001",
-    "asset_id": 1
+    "is_collabo": 0,
+    "released_at": "2024-01-01 00:00:00",
+    "asset_id": "41030001",
+    "display_order": 1
   },
   {
     "id": 100014001,
@@ -51,9 +54,10 @@
     "is_default": 1,
     "is_paid": 0,
     "bonus_bond_point": 0,
-    "is_collabo": "2024-01-01 00:00:00",
-    "released_at": "41050001",
-    "asset_id": 1
+    "is_collabo": 0,
+    "released_at": "2024-01-01 00:00:00",
+    "asset_id": "41050001",
+    "display_order": 1
   },
   {
     "id": 100015001,
@@ -65,9 +69,10 @@
     "is_default": 1,
     "is_paid": 0,
     "bonus_bond_point": 0,
-    "is_collabo": "2024-01-01 00:00:00",
-    "released_at": "41060001",
-    "asset_id": 1
+    "is_collabo": 0,
+    "released_at": "2024-01-01 00:00:00",
+    "asset_id": "41060001",
+    "display_order": 1
   },
   {
     "id": 100016001,
@@ -79,9 +84,10 @@
     "is_default": 1,
     "is_paid": 0,
     "bonus_bond_point": 0,
-    "is_collabo": "2024-01-01 00:00:00",
-    "released_at": "41040001",
-    "asset_id": 1
+    "is_collabo": 0,
+    "released_at": "2024-01-01 00:00:00",
+    "asset_id": "41040001",
+    "display_order": 1
   },
   {
     "id": 100017001,
@@ -93,9 +99,10 @@
     "is_default": 1,
     "is_paid": 0,
     "bonus_bond_point": 0,
-    "is_collabo": "2024-01-01 00:00:00",
-    "released_at": "41070001",
-    "asset_id": 1
+    "is_collabo": 0,
+    "released_at": "2024-01-01 00:00:00",
+    "asset_id": "41070001",
+    "display_order": 1
   },
   {
     "id": 100018001,
@@ -107,9 +114,10 @@
     "is_default": 1,
     "is_paid": 0,
     "bonus_bond_point": 0,
-    "is_collabo": "2024-01-01 00:00:00",
-    "released_at": "41080001",
-    "asset_id": 1
+    "is_collabo": 0,
+    "released_at": "2024-01-01 00:00:00",
+    "asset_id": "41080001",
+    "display_order": 1
   },
   {
     "id": 120000201,
@@ -121,9 +129,10 @@
     "is_default": 0,
     "is_paid": 1,
     "bonus_bond_point": 0,
-    "is_collabo": "2024-01-01 00:00:00",
-    "released_at": "41044001",
-    "asset_id": 2
+    "is_collabo": 0,
+    "released_at": "2024-01-01 00:00:00",
+    "asset_id": "41044001",
+    "display_order": 2
   },
   {
     "id": 120000301,
@@ -135,9 +144,10 @@
     "is_default": 0,
     "is_paid": 1,
     "bonus_bond_point": 0,
-    "is_collabo": "2024-01-01 00:00:00",
-    "released_at": "41084001",
-    "asset_id": 2
+    "is_collabo": 0,
+    "released_at": "2024-01-01 00:00:00",
+    "asset_id": "41084001",
+    "display_order": 2
   },
   {
     "id": 120001601,
@@ -149,9 +159,10 @@
     "is_default": 0,
     "is_paid": 1,
     "bonus_bond_point": 0,
-    "is_collabo": "2024-01-01 00:00:00",
-    "released_at": "41014010",
-    "asset_id": 2
+    "is_collabo": 0,
+    "released_at": "2024-01-01 00:00:00",
+    "asset_id": "41014010",
+    "display_order": 2
   },
   {
     "id": 130000101,
@@ -163,9 +174,10 @@
     "is_default": 0,
     "is_paid": 1,
     "bonus_bond_point": 0,
-    "is_collabo": "2026-06-18 12:00:00",
-    "released_at": "41034002",
-    "asset_id": 2
+    "is_collabo": 0,
+    "released_at": "2026-06-18 12:00:00",
+    "asset_id": "41034002",
+    "display_order": 2
   },
   {
     "id": 130000301,
@@ -177,9 +189,10 @@
     "is_default": 0,
     "is_paid": 1,
     "bonus_bond_point": 0,
-    "is_collabo": "2024-06-22 10:00:00",
-    "released_at": "41064002",
-    "asset_id": 2
+    "is_collabo": 0,
+    "released_at": "2024-06-22 10:00:00",
+    "asset_id": "41064002",
+    "display_order": 2
   },
   {
     "id": 130000501,
@@ -191,9 +204,25 @@
     "is_default": 0,
     "is_paid": 1,
     "bonus_bond_point": 0,
-    "is_collabo": "2024-01-01 00:00:00",
-    "released_at": "41024001",
-    "asset_id": 2
+    "is_collabo": 0,
+    "released_at": "2024-01-01 00:00:00",
+    "asset_id": "41024001",
+    "display_order": 2
+  },
+  {
+    "id": 130000601,
+    "weapon_type": 1080,
+    "rarity": 2,
+    "name": "ハンマー・ドリル",
+    "description": "開発者グラディアが設計したドリル一体型の特殊重槌。\n高速回転する先端部が、硬質な岩盤も容易に粉砕する。\n叩き伏せ抉り穿つその一撃は、鉄壁の守りさえも貫く。",
+    "m_character_id": 1300006,
+    "is_default": 0,
+    "is_paid": 1,
+    "bonus_bond_point": 0,
+    "is_collabo": 0,
+    "released_at": "2026-07-05 10:00:00",
+    "asset_id": "41084003",
+    "display_order": 2
   },
   {
     "id": 130000701,
@@ -205,9 +234,10 @@
     "is_default": 0,
     "is_paid": 1,
     "bonus_bond_point": 0,
-    "is_collabo": "2024-06-22 10:00:00",
-    "released_at": "41054002",
-    "asset_id": 2
+    "is_collabo": 0,
+    "released_at": "2024-06-22 10:00:00",
+    "asset_id": "41054002",
+    "display_order": 2
   },
   {
     "id": 130000801,
@@ -219,9 +249,10 @@
     "is_default": 0,
     "is_paid": 1,
     "bonus_bond_point": 0,
-    "is_collabo": "2024-01-01 00:00:00",
-    "released_at": "41064001",
-    "asset_id": 2
+    "is_collabo": 0,
+    "released_at": "2024-01-01 00:00:00",
+    "asset_id": "41064001",
+    "display_order": 2
   },
   {
     "id": 130000901,
@@ -233,9 +264,10 @@
     "is_default": 0,
     "is_paid": 1,
     "bonus_bond_point": 0,
-    "is_collabo": "2024-01-01 00:00:00",
-    "released_at": "41044002",
-    "asset_id": 2
+    "is_collabo": 0,
+    "released_at": "2024-01-01 00:00:00",
+    "asset_id": "41044002",
+    "display_order": 2
   },
   {
     "id": 130001001,
@@ -247,9 +279,10 @@
     "is_default": 0,
     "is_paid": 1,
     "bonus_bond_point": 0,
-    "is_collabo": "2026-06-18 12:00:00",
-    "released_at": "41054001",
-    "asset_id": 2
+    "is_collabo": 0,
+    "released_at": "2026-06-18 12:00:00",
+    "asset_id": "41054001",
+    "display_order": 2
   },
   {
     "id": 130001101,
@@ -261,9 +294,10 @@
     "is_default": 0,
     "is_paid": 1,
     "bonus_bond_point": 0,
-    "is_collabo": "2024-01-01 00:00:00",
-    "released_at": "41084002",
-    "asset_id": 2
+    "is_collabo": 0,
+    "released_at": "2024-01-01 00:00:00",
+    "asset_id": "41084002",
+    "display_order": 2
   },
   {
     "id": 130001401,
@@ -275,9 +309,10 @@
     "is_default": 0,
     "is_paid": 1,
     "bonus_bond_point": 0,
-    "is_collabo": "2026-06-25 10:00:00",
-    "released_at": "41064003",
-    "asset_id": 2
+    "is_collabo": 0,
+    "released_at": "2026-06-25 10:00:00",
+    "asset_id": "41064003",
+    "display_order": 2
   },
   {
     "id": 130001501,
@@ -289,9 +324,10 @@
     "is_default": 0,
     "is_paid": 1,
     "bonus_bond_point": 0,
-    "is_collabo": "2024-01-01 00:00:00",
-    "released_at": "41024003",
-    "asset_id": 2
+    "is_collabo": 0,
+    "released_at": "2024-01-01 00:00:00",
+    "asset_id": "41024003",
+    "display_order": 2
   },
   {
     "id": 130001601,
@@ -303,9 +339,10 @@
     "is_default": 0,
     "is_paid": 1,
     "bonus_bond_point": 0,
-    "is_collabo": "2024-01-01 00:00:00",
-    "released_at": "41034003",
-    "asset_id": 2
+    "is_collabo": 0,
+    "released_at": "2024-01-01 00:00:00",
+    "asset_id": "41034003",
+    "display_order": 2
   },
   {
     "id": 130002001,
@@ -317,9 +354,10 @@
     "is_default": 0,
     "is_paid": 1,
     "bonus_bond_point": 0,
-    "is_collabo": "2024-01-01 00:00:00",
-    "released_at": "41024004",
-    "asset_id": 2
+    "is_collabo": 0,
+    "released_at": "2024-01-01 00:00:00",
+    "asset_id": "41024004",
+    "display_order": 2
   },
   {
     "id": 130002301,
@@ -331,9 +369,10 @@
     "is_default": 0,
     "is_paid": 1,
     "bonus_bond_point": 0,
-    "is_collabo": "2024-01-01 00:00:00",
-    "released_at": "41084005",
-    "asset_id": 2
+    "is_collabo": 0,
+    "released_at": "2024-01-01 00:00:00",
+    "asset_id": "41084005",
+    "display_order": 2
   },
   {
     "id": 130002401,
@@ -345,9 +384,25 @@
     "is_default": 0,
     "is_paid": 1,
     "bonus_bond_point": 0,
-    "is_collabo": "2024-01-01 00:00:00",
-    "released_at": "41074004",
-    "asset_id": 2
+    "is_collabo": 0,
+    "released_at": "2024-01-01 00:00:00",
+    "asset_id": "41074004",
+    "display_order": 2
+  },
+  {
+    "id": 130002901,
+    "weapon_type": 1010,
+    "rarity": 2,
+    "name": "羅刹の剣と盾",
+    "description": "鬼族のクレハが携える、羅刹の魂が宿る重厚な剣と盾。\n常人には重すぎるが、鬼族の怪力なら軽々と扱える。\n猛き一撃は大地を砕き、無敵の守りは不落の城の如し。",
+    "m_character_id": 1300029,
+    "is_default": 0,
+    "is_paid": 1,
+    "bonus_bond_point": 0,
+    "is_collabo": 0,
+    "released_at": "2026-06-30 13:00:00",
+    "asset_id": "41014009",
+    "display_order": 2
   },
   {
     "id": 130003001,
@@ -359,9 +414,10 @@
     "is_default": 0,
     "is_paid": 1,
     "bonus_bond_point": 0,
-    "is_collabo": "2024-01-01 00:00:00",
-    "released_at": "41034007",
-    "asset_id": 2
+    "is_collabo": 0,
+    "released_at": "2024-01-01 00:00:00",
+    "asset_id": "41034007",
+    "display_order": 2
   },
   {
     "id": 130003101,
@@ -373,9 +429,10 @@
     "is_default": 0,
     "is_paid": 1,
     "bonus_bond_point": 0,
-    "is_collabo": "2024-06-22 10:00:00",
-    "released_at": "41074007",
-    "asset_id": 2
+    "is_collabo": 0,
+    "released_at": "2024-06-22 10:00:00",
+    "asset_id": "41074007",
+    "display_order": 2
   },
   {
     "id": 130003301,
@@ -387,9 +444,25 @@
     "is_default": 0,
     "is_paid": 1,
     "bonus_bond_point": 0,
-    "is_collabo": "2024-01-01 00:00:00",
-    "released_at": "41054009",
-    "asset_id": 2
+    "is_collabo": 0,
+    "released_at": "2024-01-01 00:00:00",
+    "asset_id": "41054009",
+    "display_order": 2
+  },
+  {
+    "id": 130003401,
+    "weapon_type": 1060,
+    "rarity": 2,
+    "name": "長き叡智の杖",
+    "description": "シラエスが携える、長き叡智を宿した神秘の杖。\n杖を振れば蝶の魔弾が、雲石の如く天から降り注ぐ。\n長き時を経た彼女の英知が、戦場を光りで満たす。",
+    "m_character_id": 1300034,
+    "is_default": 0,
+    "is_paid": 1,
+    "bonus_bond_point": 0,
+    "is_collabo": 0,
+    "released_at": "2026-06-30 13:00:00",
+    "asset_id": "41044008",
+    "display_order": 2
   },
   {
     "id": 900000001,
@@ -401,9 +474,10 @@
     "is_default": 0,
     "is_paid": 0,
     "bonus_bond_point": 0,
-    "is_collabo": "2026-06-11 05:00:00",
-    "released_at": "41085001",
-    "asset_id": 99
+    "is_collabo": 1,
+    "released_at": "2026-06-11 05:00:00",
+    "asset_id": "41085001",
+    "display_order": 99
   },
   {
     "id": 900000002,
@@ -415,9 +489,10 @@
     "is_default": 0,
     "is_paid": 0,
     "bonus_bond_point": 0,
-    "is_collabo": "2026-06-11 05:00:00",
-    "released_at": "41065001",
-    "asset_id": 99
+    "is_collabo": 1,
+    "released_at": "2026-06-11 05:00:00",
+    "asset_id": "41065001",
+    "display_order": 99
   },
   {
     "id": 900000003,
@@ -429,9 +504,10 @@
     "is_default": 0,
     "is_paid": 0,
     "bonus_bond_point": 0,
-    "is_collabo": "2026-06-11 05:00:00",
-    "released_at": "41015001",
-    "asset_id": 99
+    "is_collabo": 1,
+    "released_at": "2026-06-11 05:00:00",
+    "asset_id": "41015001",
+    "display_order": 99
   },
   {
     "id": 900000004,
@@ -443,9 +519,10 @@
     "is_default": 0,
     "is_paid": 0,
     "bonus_bond_point": 0,
-    "is_collabo": "2026-06-11 05:00:00",
-    "released_at": "41025001",
-    "asset_id": 99
+    "is_collabo": 1,
+    "released_at": "2026-06-11 05:00:00",
+    "asset_id": "41025001",
+    "display_order": 99
   },
   {
     "id": 900000005,
@@ -457,8 +534,9 @@
     "is_default": 0,
     "is_paid": 0,
     "bonus_bond_point": 0,
-    "is_collabo": "2026-06-11 05:00:00",
-    "released_at": "41045001",
-    "asset_id": 99
+    "is_collabo": 1,
+    "released_at": "2026-06-11 05:00:00",
+    "asset_id": "41045001",
+    "display_order": 99
   }
 ]

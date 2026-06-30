@@ -45,8 +45,8 @@
     "chain_count": 4,
     "append_effect_condition_stack": 5,
     "effect_description": "敵全体に攻撃力【(450+Rank×900)】で【1HIT / 100％】のダメージ / 敵全体にノックバックLv6",
-    "append_effect_description": "【条件】紋章：衝撃が5以上の味方がチェインに参加\n【効果】敵全体に条件を満たした参加者の合計攻撃力で【1HIT / 125％】のダメージ",
-    "append_effect_description_ingame": "【条件】紋章：衝撃が5以上の味方がチェインに参加\n【効果】敵全体に条件を満たした参加者の合計攻撃力で【1HIT / 125％】のダメージ",
+    "append_effect_description": "【条件】紋章：衝撃が5以上の味方がチェインに参加\n【効果】敵全体に条件を満たした参加者の合計攻撃力で【1HIT / 125％】のダメージ / 味方全体に連撃率UP【50%/15秒】を付与",
+    "append_effect_description_ingame": "【条件】紋章：衝撃が5以上の味方がチェインに参加\n【効果】敵全体に条件を満たした参加者の合計攻撃力で【1HIT / 125％】のダメージ / 味方全体に連撃率UP【50%/15秒】を付与",
     "is_show_total_recovery": 0,
     "is_show_total_buff": 0
   },
@@ -79,8 +79,8 @@
     "chain_count": 5,
     "append_effect_condition_stack": 5,
     "effect_description": "敵全体に攻撃力【(562+Rank×1125)】で【1HIT / 100％】のダメージ / 毒【10秒】を付与",
-    "append_effect_description": "【条件】紋章：衝撃が5以上の味方がチェインに参加\n【効果】条件を満たした参加者の人数に応じて毒のダメージが上昇",
-    "append_effect_description_ingame": "【条件】紋章：衝撃が5以上の味方がチェインに参加\n【効果】条件を満たした参加者の人数に応じて毒のダメージが上昇",
+    "append_effect_description": "【条件】紋章：衝撃が5以上の味方がチェインに参加\n【効果】条件を満たした参加者の人数に応じて毒のダメージが上昇 / 敵全体に攻撃力DOWN【20％/15秒】を付与",
+    "append_effect_description_ingame": "【条件】紋章：衝撃が5以上の味方がチェインに参加\n【効果】条件を満たした参加者の人数に応じて毒のダメージが上昇 / 敵全体に攻撃力DOWN【20％/15秒】を付与",
     "is_show_total_recovery": 0,
     "is_show_total_buff": 0
   },

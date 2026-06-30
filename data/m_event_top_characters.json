@@ -108,6 +108,114 @@
     "serif_type": 2
   },
   {
+    "id": 300002001,
+    "m_event_id": 300002,
+    "m_character_id": 1300029,
+    "character_asset_id": "105801000G",
+    "position": 1,
+    "serif": "旦那様が私と一緒に鬼ヶ島へ\n里帰りしてくださるのですか！？\nもしや結婚の挨拶のために！？",
+    "serif_type": 1
+  },
+  {
+    "id": 300002002,
+    "m_event_id": 300002,
+    "m_character_id": 1300029,
+    "character_asset_id": "105801000G",
+    "position": 1,
+    "serif": "仲人になっていただき、\n感謝しますシラエスさん……\nいえ、シラエスママ！",
+    "serif_type": 1
+  },
+  {
+    "id": 300002003,
+    "m_event_id": 300002,
+    "m_character_id": 1300034,
+    "character_asset_id": "106801000G",
+    "position": 1,
+    "serif": "鬼ヶ島、か……\n千年以上冒険者をやっていたが、\n行くのは初めてだよ。楽しみだ",
+    "serif_type": 1
+  },
+  {
+    "id": 300002004,
+    "m_event_id": 300002,
+    "m_character_id": 1300034,
+    "character_asset_id": "106801000G",
+    "position": 1,
+    "serif": "ふふ、クレハ君はいい子だな。\n時間をかけて仲良くなろう……\n１０年くらい……少し長いかな？",
+    "serif_type": 1
+  },
+  {
+    "id": 300002005,
+    "m_event_id": 300002,
+    "m_character_id": 1300029,
+    "character_asset_id": "105801000G",
+    "position": 1,
+    "serif": "私と旦那の愛のパワーで、\n必ずや鬼ヶ島のプロデュースを\n成功させてみせます！",
+    "serif_type": 1
+  },
+  {
+    "id": 300002006,
+    "m_event_id": 300002,
+    "m_character_id": 1300029,
+    "character_asset_id": "105801000G",
+    "position": 1,
+    "serif": "旦那様～♪　観光客のみなさまに\nお出しする料理ができました♪\n味見してください、あ～～ん♪",
+    "serif_type": 1
+  },
+  {
+    "id": 300002007,
+    "m_event_id": 300002,
+    "m_character_id": 1300034,
+    "character_asset_id": "106801000G",
+    "position": 1,
+    "serif": "みんな張り切っているね……\n私も、精一杯盛り上げるとしよう。\nあ、よいしょよいしょ",
+    "serif_type": 1
+  },
+  {
+    "id": 300002008,
+    "m_event_id": 300002,
+    "m_character_id": 1300034,
+    "character_asset_id": "106801000G",
+    "position": 1,
+    "serif": "サクラ役なら任せてほしい。\n伊達に歳を重ねてないからな。\n演技には自信があるよ",
+    "serif_type": 1
+  },
+  {
+    "id": 300002009,
+    "m_event_id": 300002,
+    "m_character_id": 1300029,
+    "character_asset_id": "105801000G",
+    "position": 1,
+    "serif": "ありがとうございます、旦那様。\n鬼族と人が仲良くなれる日が\n来るなんて……夢のようですっ",
+    "serif_type": 2
+  },
+  {
+    "id": 300002010,
+    "m_event_id": 300002,
+    "m_character_id": 1300029,
+    "character_asset_id": "105801000G",
+    "position": 1,
+    "serif": "それでは鬼族のみんな……！\n次は旦那様とシラエスママを\nもてなしますよ～♪",
+    "serif_type": 2
+  },
+  {
+    "id": 300002011,
+    "m_event_id": 300002,
+    "m_character_id": 1300034,
+    "character_asset_id": "106801000G",
+    "position": 1,
+    "serif": "ふふ、人間と同じくらい\n鬼族のみんなを大好きになったよ",
+    "serif_type": 2
+  },
+  {
+    "id": 300002012,
+    "m_event_id": 300002,
+    "m_character_id": 1300034,
+    "character_asset_id": "106801000G",
+    "position": 1,
+    "serif": "鬼ヶ島での出来事は、\n何千年経とうが色褪せない、\n素晴らしい思い出だよ",
+    "serif_type": 2
+  },
+  {
     "id": 27,
     "m_event_id": 600001,
     "m_character_id": 1300010,
@@ -132,6 +240,33 @@
     "character_asset_id": "102801000G",
     "position": 1,
     "serif": "セリフ1\nセリフ1\nセリフ1",
+    "serif_type": 0
+  },
+  {
+    "id": 36,
+    "m_event_id": 800001,
+    "m_character_id": 1300002,
+    "character_asset_id": "300601000",
+    "position": 1,
+    "serif": "大穴で産出される武具は\nミレスガルドの戦力強化に有益\n優先的に買い取らせて欲しい",
+    "serif_type": 0
+  },
+  {
+    "id": 37,
+    "m_event_id": 800001,
+    "m_character_id": 1300002,
+    "character_asset_id": "300601000",
+    "position": 1,
+    "serif": "王都の防衛で手が離せぬ今、\n前線の指揮は\nあの男に任せるしかない、か……",
+    "serif_type": 0
+  },
+  {
+    "id": 38,
+    "m_event_id": 800001,
+    "m_character_id": 1300002,
+    "character_asset_id": "300601000",
+    "position": 1,
+    "serif": "ソフィアが信頼する人物……\nその手並み拝見させてもらうぞ",
     "serif_type": 0
   }
 ]

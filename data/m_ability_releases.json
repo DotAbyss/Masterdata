@@ -749,6 +749,13 @@
     "condition_value": 15
   },
   {
+    "id": 108,
+    "m_character_ability_id": 130002903,
+    "level": 6,
+    "condition_type": 2,
+    "condition_value": 15
+  },
+  {
     "id": 109,
     "m_character_ability_id": 130003003,
     "level": 6,
@@ -772,6 +779,13 @@
   {
     "id": 112,
     "m_character_ability_id": 130003303,
+    "level": 6,
+    "condition_type": 2,
+    "condition_value": 15
+  },
+  {
+    "id": 113,
+    "m_character_ability_id": 130003403,
     "level": 6,
     "condition_type": 2,
     "condition_value": 15

@@ -72,6 +72,15 @@
     "end_at": "2026-07-02 4:59:59"
   },
   {
+    "id": 10,
+    "asset_id": "7010004",
+    "target_scene": 4,
+    "param": 116,
+    "display_order": 9802,
+    "start_at": "2026-06-30 13:00:00",
+    "end_at": "2026-07-10 12:59:59"
+  },
+  {
     "id": 11,
     "asset_id": "1070004",
     "target_scene": 50,
@@ -79,5 +88,50 @@
     "display_order": 9805,
     "start_at": "2026-06-26 10:00:00",
     "end_at": "2026-06-30 12:59:59"
+  },
+  {
+    "id": 12,
+    "asset_id": "7020003",
+    "target_scene": 4,
+    "param": 114,
+    "display_order": 9702,
+    "start_at": "2026-06-30 13:00:00",
+    "end_at": "2026-07-10 12:59:59"
+  },
+  {
+    "id": 13,
+    "asset_id": "7010009",
+    "target_scene": 4,
+    "param": 115,
+    "display_order": 9701,
+    "start_at": "2026-07-05 10:00:00",
+    "end_at": "2026-07-12 4:59:59"
+  },
+  {
+    "id": 14,
+    "asset_id": "1020002_1",
+    "target_scene": 52,
+    "param": 300002,
+    "display_order": 9704,
+    "start_at": "2026-06-30 13:00:00",
+    "end_at": "2026-07-05 9:59:59"
+  },
+  {
+    "id": 15,
+    "asset_id": "1020002_2",
+    "target_scene": 52,
+    "param": 300002,
+    "display_order": 9704,
+    "start_at": "2026-07-05 10:00:00",
+    "end_at": "2026-07-10 12:59:59"
+  },
+  {
+    "id": 16,
+    "asset_id": "1090002_1",
+    "target_scene": 56,
+    "param": 800001,
+    "display_order": 9703,
+    "start_at": "2026-07-05 10:00:00",
+    "end_at": "2026-07-10 12:59:59"
   }
 ]

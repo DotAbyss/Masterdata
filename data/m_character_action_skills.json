@@ -466,7 +466,7 @@
     "m_character_id": 1300004,
     "trigger_type": 20,
     "name": "カースドポーション",
-    "description": "最も近い敵を中心とした範囲内にいる敵全体に攻撃力DOWN【{[PRJCTL.LAND.ATTACKDOWN.RATE_PERCENT]} / 15秒】を付与"
+    "description": "最も近い敵を中心とした範囲内にいる敵全体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 攻撃力DOWN【{[PRJCTL.LAND.ATTACKDOWN.RATE_PERCENT]} / 15秒】を付与"
   },
   {
     "id": 1300004001,
@@ -480,14 +480,28 @@
     "m_character_id": 1300005,
     "trigger_type": 20,
     "name": "ゴーストライド",
-    "description": "自身にノワール憑依【5秒】を付与 / 自身の前方範囲内にいる敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+    "description": "自身にノワール憑依【5秒】と紋章：衝撃を【1】付与 / 自身の前方範囲内にいる敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
   },
   {
     "id": 1300005001,
     "m_character_id": 1300005,
     "trigger_type": 30,
     "name": "ゴーストライド",
-    "description": "紋章：衝撃を5消費し、ノワール憑依が【20秒】に変化 / ダメージ倍率が【{[IMPACTSUCCEED.DAMAGE.DAMAGE_PERCENT]}】に変化"
+    "description": "自身に会心ダメージ倍率UP【{[CRITICALDAMAGERATEUP.FIXED_PERCENT]} / 15秒】を付与 / 紋章：衝撃を5消費し、ノワール憑依が【20秒】に変化 / ダメージ倍率が【{[IMPACTSUCCEED.DAMAGE.DAMAGE_PERCENT]}】に変化"
+  },
+  {
+    "id": 1300006000,
+    "m_character_id": 1300006,
+    "trigger_type": 20,
+    "name": "ドリルミサイル",
+    "description": "自身に紋章：情熱を【1】付与 / HPが最も高い敵1体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 1300006001,
+    "m_character_id": 1300006,
+    "trigger_type": 30,
+    "name": "ドリルミサイル",
+    "description": "ダメージ倍率が【{[ZEALOVER.PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】に変化 / 紋章：情熱が10以上のとき、対象に防御力DOWN【{[ZEALOVER.PRJCTL.LAND.DEFENCEDOWN.RATE_PERCENT]} / {[ZEALOVER.PRJCTL.LAND.DEFENCEDOWN.DURATION]}秒】を付与"
   },
   {
     "id": 1300007000,
@@ -550,7 +564,7 @@
     "m_character_id": 1300011,
     "trigger_type": 20,
     "name": "ピコピコントロール",
-    "description": "味方バック全体にスキル与ダメージUP【{[SKILLDAMAGEUP.RATE_PERCENT]}  / 30秒】を付与 / 紋章：衝撃を【3】付与"
+    "description": "味方バック全体にスキル与ダメージUP【{[SKILLDAMAGEUP.RATE_PERCENT]}  / 30秒】を付与 / 光・闇・無属性の味方バック全体と自身に紋章：衝撃を【3】付与"
   },
   {
     "id": 1300011001,
@@ -686,6 +700,20 @@
     "description": "さらに自身に与えたダメージの【{[DAMAGE_DRAIN.HEAL_RATIO:1]}】分の回復 / 紋章：衝撃を2消費し、対象に喪失【{[IMPACTSUCCEED.ABNORMAL.DURATION]秒}/ 成功率:100%】を付与"
   },
   {
+    "id": 1300029000,
+    "m_character_id": 1300029,
+    "trigger_type": 20,
+    "name": "妖鬼炎殺撃",
+    "description": "自身の前方範囲内にいる敵全体に【2HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ "
+  },
+  {
+    "id": 1300029001,
+    "m_character_id": 1300029,
+    "trigger_type": 30,
+    "name": "妖鬼炎殺撃",
+    "description": "さらに自身に挑発【25秒】を付与 / 紋章：情熱が5以上のとき、自身に防御力UP【30% / {[ZEAL.DEFENCEUP.DURATION]秒}】を付与"
+  },
+  {
     "id": 1300030000,
     "m_character_id": 1300030,
     "trigger_type": 20,
@@ -740,6 +768,20 @@
     "trigger_type": 30,
     "name": "大自然の鎮魂歌",
     "description": "石化の成功率が【{[ABNORMAL.APPLY_PROBABILITY]}】に変化 / 自身に紋章：情熱を【1】付与"
+  },
+  {
+    "id": 1300034000,
+    "m_character_id": 1300034,
+    "trigger_type": 20,
+    "name": "胡蝶の時雨",
+    "description": "最も近い敵を中心とした範囲内にいる敵全体に【5HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 対象に喪失【{[PRJCTL.LAND.ABNORMAL.DURATION]秒} / 成功率:50%】を付与"
+  },
+  {
+    "id": 1300034001,
+    "m_character_id": 1300034,
+    "trigger_type": 30,
+    "name": "胡蝶の時雨",
+    "description": "自身に会心ダメージ倍率UP【{[PRJCTL.LAND.CRITICALDAMAGERATEUP.FIXED_PERCENT]} / 15秒】を付与 / 紋章：衝撃を5消費し、ダメージ倍率が【{[PRJCTL.LAND.IMPACTSUCCEED.DAMAGE.DAMAGE_PERCENT]}】に変化"
   },
   {
     "id": 1300041000,

@@ -2296,6 +2296,14 @@
     "effect_param": 300
   },
   {
+    "id": 200004,
+    "target_type": 2,
+    "target_param": 2,
+    "random_num": 0,
+    "effect_type": 10,
+    "effect_param": 300
+  },
+  {
     "id": 300001,
     "target_type": 101,
     "target_param": 3,
@@ -2462,6 +2470,38 @@
     "random_num": 2,
     "effect_type": 10,
     "effect_param": 400
+  },
+  {
+    "id": 401012,
+    "target_type": 100,
+    "target_param": 1,
+    "random_num": 1,
+    "effect_type": 10,
+    "effect_param": 1000
+  },
+  {
+    "id": 401013,
+    "target_type": 100,
+    "target_param": 2,
+    "random_num": 1,
+    "effect_type": 10,
+    "effect_param": 1000
+  },
+  {
+    "id": 401014,
+    "target_type": 100,
+    "target_param": 3,
+    "random_num": 1,
+    "effect_type": 10,
+    "effect_param": 1000
+  },
+  {
+    "id": 401015,
+    "target_type": 100,
+    "target_param": 4,
+    "random_num": 1,
+    "effect_type": 10,
+    "effect_param": 1000
   },
   {
     "id": 500000,

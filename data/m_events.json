@@ -14,6 +14,20 @@
     "cue_id": "bgm0005"
   },
   {
+    "id": 300002,
+    "name": "大波乱・鬼ヶ島をプロデュース！！",
+    "type": 3,
+    "m_mission_term_category_group": 300002,
+    "m_exchange_category_id": 300002,
+    "m_gacha_group_id": 114,
+    "m_event_boss_ticket_id": 0,
+    "open_at": "2026-06-30 13:00:00",
+    "end_at": "2026-07-10 12:59:59",
+    "close_at": "2026-07-17 4:59:59",
+    "cue_sheet": "bgm0005",
+    "cue_id": "bgm0005"
+  },
+  {
     "id": 600001,
     "name": "第1回ラッキーボックス",
     "type": 6,
@@ -38,6 +52,20 @@
     "open_at": "2026-06-26 10:00:00",
     "end_at": "2026-06-30 11:59:59",
     "close_at": "2026-07-07 4:59:59",
+    "cue_sheet": "bgm0005",
+    "cue_id": "bgm0005"
+  },
+  {
+    "id": 800001,
+    "name": "お願い司令官！レイゼリアからの特別依頼",
+    "type": 7,
+    "m_mission_term_category_group": 800001,
+    "m_exchange_category_id": 0,
+    "m_gacha_group_id": 0,
+    "m_event_boss_ticket_id": 0,
+    "open_at": "2026-07-05 10:00:00",
+    "end_at": "2026-07-10 12:59:59",
+    "close_at": "2026-07-17 4:59:59",
     "cue_sheet": "bgm0005",
     "cue_id": "bgm0005"
   }

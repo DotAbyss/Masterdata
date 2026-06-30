@@ -1392,6 +1392,22 @@
     "quality": 1
   },
   {
+    "id": 4300211211,
+    "m_enemy_id": 430021121,
+    "order": 0,
+    "ability_no": 50001,
+    "ability_lv": 2,
+    "quality": 1
+  },
+  {
+    "id": 4300211221,
+    "m_enemy_id": 430021122,
+    "order": 0,
+    "ability_no": 50001,
+    "ability_lv": 2,
+    "quality": 1
+  },
+  {
     "id": 4400111031,
     "m_enemy_id": 440011103,
     "order": 0,
@@ -2381,6 +2397,54 @@
     "order": 0,
     "ability_no": 50002,
     "ability_lv": 1,
+    "quality": 1
+  },
+  {
+    "id": 4500102141,
+    "m_enemy_id": 450010214,
+    "order": 0,
+    "ability_no": 50001,
+    "ability_lv": 2,
+    "quality": 1
+  },
+  {
+    "id": 4500102151,
+    "m_enemy_id": 450010215,
+    "order": 0,
+    "ability_no": 50001,
+    "ability_lv": 2,
+    "quality": 1
+  },
+  {
+    "id": 4500102161,
+    "m_enemy_id": 450010216,
+    "order": 0,
+    "ability_no": 50001,
+    "ability_lv": 2,
+    "quality": 1
+  },
+  {
+    "id": 4500106141,
+    "m_enemy_id": 450010614,
+    "order": 0,
+    "ability_no": 50001,
+    "ability_lv": 2,
+    "quality": 1
+  },
+  {
+    "id": 4500106151,
+    "m_enemy_id": 450010615,
+    "order": 0,
+    "ability_no": 50001,
+    "ability_lv": 2,
+    "quality": 1
+  },
+  {
+    "id": 4500106161,
+    "m_enemy_id": 450010616,
+    "order": 0,
+    "ability_no": 50001,
+    "ability_lv": 2,
     "quality": 1
   }
 ]

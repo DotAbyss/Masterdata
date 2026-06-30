@@ -9573,7 +9573,7 @@
     "base_power": 1000,
     "mileage": 500,
     "flavor_text": "歪んだ怨念を宿した禍々しい大剣\n紋章：衝撃に反応し、地獄の隕石を呼び出す。",
-    "mana_type": 2
+    "mana_type": 3
   },
   {
     "id": 12050340,
@@ -9828,6 +9828,24 @@
     "mana_type": 2
   },
   {
+    "id": 16070340,
+    "asset_id": "41043003",
+    "name": "星詠みの杖",
+    "weapon_type": 1060,
+    "group_no": 606,
+    "rank": 3,
+    "rarity": 4,
+    "up_parameter_type": 2,
+    "basic_parameter": 490,
+    "min_parameter": 0,
+    "max_parameter": 210,
+    "lottery_interval": 1,
+    "base_power": 1000,
+    "mileage": 500,
+    "flavor_text": "夜空に輝く星のような杖。紋章：衝撃の\n力の発動に合わせて周囲の会心率を高める",
+    "mana_type": 3
+  },
+  {
     "id": 17040340,
     "asset_id": "41073002",
     "name": "深淵鉱石の書",
@@ -9880,6 +9898,24 @@
     "mileage": 500,
     "flavor_text": "謂れが謎に包まれた漆黒の魔導書、紋章：衝撃の\n力の発動に合わせて味方の防御力を高める。",
     "mana_type": 3
+  },
+  {
+    "id": 17070340,
+    "asset_id": "41073003",
+    "name": "冥界の魔導書",
+    "weapon_type": 1070,
+    "group_no": 706,
+    "rank": 3,
+    "rarity": 4,
+    "up_parameter_type": 2,
+    "basic_parameter": 368,
+    "min_parameter": 0,
+    "max_parameter": 157,
+    "lottery_interval": 1,
+    "base_power": 1000,
+    "mileage": 500,
+    "flavor_text": "冥界の全てが記された魔導書、紋章：情熱の\n力の高まりに合わせて防御力が上昇する。",
+    "mana_type": 2
   },
   {
     "id": 18040340,
@@ -10023,7 +10059,7 @@
     "base_power": 1000,
     "mileage": 500,
     "flavor_text": "歪んだ怨念を宿した禍々しい大剣\n紋章：衝撃に反応し、地獄の隕石を呼び出す。",
-    "mana_type": 2
+    "mana_type": 3
   },
   {
     "id": 12050440,
@@ -10278,6 +10314,24 @@
     "mana_type": 2
   },
   {
+    "id": 16070440,
+    "asset_id": "41043003",
+    "name": "星詠みの杖",
+    "weapon_type": 1060,
+    "group_no": 606,
+    "rank": 4,
+    "rarity": 4,
+    "up_parameter_type": 2,
+    "basic_parameter": 700,
+    "min_parameter": 0,
+    "max_parameter": 300,
+    "lottery_interval": 1,
+    "base_power": 1000,
+    "mileage": 500,
+    "flavor_text": "夜空に輝く星のような杖。紋章：衝撃の\n力の発動に合わせて周囲の会心率を高める",
+    "mana_type": 3
+  },
+  {
     "id": 17040440,
     "asset_id": "41073002",
     "name": "深淵鉱石の書",
@@ -10330,6 +10384,24 @@
     "mileage": 500,
     "flavor_text": "謂れが謎に包まれた漆黒の魔導書、紋章：衝撃の\n力の発動に合わせて味方の防御力を高める。",
     "mana_type": 3
+  },
+  {
+    "id": 17070440,
+    "asset_id": "41073003",
+    "name": "冥界の魔導書",
+    "weapon_type": 1070,
+    "group_no": 706,
+    "rank": 4,
+    "rarity": 4,
+    "up_parameter_type": 2,
+    "basic_parameter": 525,
+    "min_parameter": 0,
+    "max_parameter": 225,
+    "lottery_interval": 1,
+    "base_power": 1000,
+    "mileage": 500,
+    "flavor_text": "冥界の全てが記された魔導書、紋章：情熱の\n力の高まりに合わせて防御力が上昇する。",
+    "mana_type": 2
   },
   {
     "id": 18040440,
@@ -10473,7 +10545,7 @@
     "base_power": 1000,
     "mileage": 500,
     "flavor_text": "歪んだ怨念を宿した禍々しい大剣\n紋章：衝撃に反応し、地獄の隕石を呼び出す。",
-    "mana_type": 2
+    "mana_type": 3
   },
   {
     "id": 12050540,
@@ -10728,6 +10800,24 @@
     "mana_type": 2
   },
   {
+    "id": 16070540,
+    "asset_id": "41043003",
+    "name": "星詠みの杖",
+    "weapon_type": 1060,
+    "group_no": 606,
+    "rank": 5,
+    "rarity": 4,
+    "up_parameter_type": 2,
+    "basic_parameter": 910,
+    "min_parameter": 0,
+    "max_parameter": 390,
+    "lottery_interval": 1,
+    "base_power": 1000,
+    "mileage": 500,
+    "flavor_text": "夜空に輝く星のような杖。紋章：衝撃の\n力の発動に合わせて周囲の会心率を高める",
+    "mana_type": 3
+  },
+  {
     "id": 17040540,
     "asset_id": "41073002",
     "name": "深淵鉱石の書",
@@ -10780,6 +10870,24 @@
     "mileage": 500,
     "flavor_text": "謂れが謎に包まれた漆黒の魔導書、紋章：衝撃の\n力の発動に合わせて味方の防御力を高める。",
     "mana_type": 3
+  },
+  {
+    "id": 17070540,
+    "asset_id": "41073003",
+    "name": "冥界の魔導書",
+    "weapon_type": 1070,
+    "group_no": 706,
+    "rank": 5,
+    "rarity": 4,
+    "up_parameter_type": 2,
+    "basic_parameter": 683,
+    "min_parameter": 0,
+    "max_parameter": 292,
+    "lottery_interval": 1,
+    "base_power": 1000,
+    "mileage": 500,
+    "flavor_text": "冥界の全てが記された魔導書、紋章：情熱の\n力の高まりに合わせて防御力が上昇する。",
+    "mana_type": 2
   },
   {
     "id": 18040540,
@@ -10870,5 +10978,77 @@
     "mileage": 300,
     "flavor_text": "堅牢な造りの兵士の剣と盾\nトレストリア地方では一般的なもの\n",
     "mana_type": 0
+  },
+  {
+    "id": 11030435,
+    "asset_id": "41011003",
+    "name": "豪勇の剣",
+    "weapon_type": 1010,
+    "group_no": 103,
+    "rank": 4,
+    "rarity": 3,
+    "up_parameter_type": 2,
+    "basic_parameter": 438,
+    "min_parameter": 0,
+    "max_parameter": 187,
+    "lottery_interval": 1,
+    "base_power": 300,
+    "mileage": 300,
+    "flavor_text": "豪快な戦士向けの剣と盾、紋章：情熱の\n力が高まった時に連撃率が上昇する。",
+    "mana_type": 2
+  },
+  {
+    "id": 16030435,
+    "asset_id": "41041003",
+    "name": "幻翠の杖",
+    "weapon_type": 1060,
+    "group_no": 603,
+    "rank": 4,
+    "rarity": 3,
+    "up_parameter_type": 2,
+    "basic_parameter": 700,
+    "min_parameter": 0,
+    "max_parameter": 300,
+    "lottery_interval": 1,
+    "base_power": 300,
+    "mileage": 300,
+    "flavor_text": "緑の魔石を触媒として用いた杖。紋章：衝撃の力を\n解放した際にスキルチャージを高める",
+    "mana_type": 3
+  },
+  {
+    "id": 11030535,
+    "asset_id": "41011003",
+    "name": "豪勇の剣",
+    "weapon_type": 1010,
+    "group_no": 103,
+    "rank": 5,
+    "rarity": 3,
+    "up_parameter_type": 2,
+    "basic_parameter": 569,
+    "min_parameter": 0,
+    "max_parameter": 244,
+    "lottery_interval": 1,
+    "base_power": 300,
+    "mileage": 300,
+    "flavor_text": "豪快な戦士向けの剣と盾、紋章：情熱の\n力が高まった時に連撃率が上昇する。",
+    "mana_type": 2
+  },
+  {
+    "id": 16030535,
+    "asset_id": "41041003",
+    "name": "幻翠の杖",
+    "weapon_type": 1060,
+    "group_no": 603,
+    "rank": 5,
+    "rarity": 3,
+    "up_parameter_type": 2,
+    "basic_parameter": 910,
+    "min_parameter": 0,
+    "max_parameter": 390,
+    "lottery_interval": 1,
+    "base_power": 300,
+    "mileage": 300,
+    "flavor_text": "緑の魔石を触媒として用いた杖。紋章：衝撃の力を\n解放した際にスキルチャージを高める",
+    "mana_type": 3
   }
 ]

@@ -7,6 +7,13 @@
     "bg_asset_id": "abg11101a"
   },
   {
+    "id": 30000201,
+    "m_event_id": 300002,
+    "tips_asset_id": "1020002",
+    "logo_asset_id": "1020002",
+    "bg_asset_id": "abg20200b"
+  },
+  {
     "id": 60000101,
     "m_event_id": 600001,
     "tips_asset_id": "1040001",
@@ -19,5 +26,12 @@
     "tips_asset_id": "1070004",
     "logo_asset_id": "1070001",
     "bg_asset_id": "abg14900a"
+  },
+  {
+    "id": 80000101,
+    "m_event_id": 800001,
+    "tips_asset_id": "1090002",
+    "logo_asset_id": "1090002",
+    "bg_asset_id": "abg10100a"
   }
 ]

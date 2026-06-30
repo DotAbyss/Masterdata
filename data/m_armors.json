@@ -4156,5 +4156,41 @@
     "mileage": 500,
     "flavor_text": "謂れが謎に包まれた漆黒の衣\n紋章：衝撃の力を高める。",
     "mana_type": 3
+  },
+  {
+    "id": 21010435,
+    "asset_id": "42011001",
+    "name": "ライトアーマー",
+    "armor_type": 2010,
+    "group_no": 1001,
+    "rank": 4,
+    "rarity": 3,
+    "up_parameter_type": 3,
+    "basic_parameter": 480,
+    "min_parameter": 0,
+    "max_parameter": 320,
+    "lottery_interval": 1,
+    "base_power": 300,
+    "mileage": 300,
+    "flavor_text": "金属となめした革を組み合わせた鎧\n紋章：情熱の力に反応して防御力を高める。",
+    "mana_type": 2
+  },
+  {
+    "id": 23030435,
+    "asset_id": "42021002",
+    "name": "パラディンマント",
+    "armor_type": 2020,
+    "group_no": 3003,
+    "rank": 4,
+    "rarity": 3,
+    "up_parameter_type": 3,
+    "basic_parameter": 360,
+    "min_parameter": 0,
+    "max_parameter": 240,
+    "lottery_interval": 1,
+    "base_power": 300,
+    "mileage": 300,
+    "flavor_text": "高貴な聖騎士のマント\n紋章：衝撃の力に反応して連続攻撃率を高める。",
+    "mana_type": 3
   }
 ]
