@@ -594,7 +594,7 @@
   {
     "id": 130000601,
     "m_character_id": 1300006,
-    "asset_id": "Ability_Heal_01",
+    "asset_id": "Ability_SpecialAssist_01",
     "name": "魔石採掘",
     "ability_no": 10026,
     "order": 1
@@ -602,7 +602,7 @@
   {
     "id": 130000602,
     "m_character_id": 1300006,
-    "asset_id": "Ability_ConditionResist_01",
+    "asset_id": "Ability_Attack_01",
     "name": "アタックサポート",
     "ability_no": 10027,
     "order": 2
@@ -610,7 +610,7 @@
   {
     "id": 130000603,
     "m_character_id": 1300006,
-    "asset_id": "Ability_Attack_01",
+    "asset_id": "Ability_Defense_01",
     "name": "固い意志",
     "ability_no": 10028,
     "order": 3
