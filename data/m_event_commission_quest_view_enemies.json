@@ -674,68 +674,12 @@
   {
     "id": 1000,
     "m_event_commission_quest_id": 80000110,
-    "m_enemy_id": 450011001,
-    "is_boss": 0,
-    "asset_id": "2014301"
-  },
-  {
-    "id": 1001,
-    "m_event_commission_quest_id": 80000110,
-    "m_enemy_id": 450011002,
-    "is_boss": 0,
-    "asset_id": "2003101"
-  },
-  {
-    "id": 1002,
-    "m_event_commission_quest_id": 80000110,
-    "m_enemy_id": 450011003,
-    "is_boss": 0,
-    "asset_id": "2003201"
-  },
-  {
-    "id": 1003,
-    "m_event_commission_quest_id": 80000110,
-    "m_enemy_id": 450011004,
-    "is_boss": 0,
-    "asset_id": "2003301"
-  },
-  {
-    "id": 1004,
-    "m_event_commission_quest_id": 80000110,
-    "m_enemy_id": 450011005,
-    "is_boss": 0,
-    "asset_id": "2007101"
-  },
-  {
-    "id": 1005,
-    "m_event_commission_quest_id": 80000110,
-    "m_enemy_id": 450011006,
-    "is_boss": 0,
-    "asset_id": "2007201"
-  },
-  {
-    "id": 1006,
-    "m_event_commission_quest_id": 80000110,
-    "m_enemy_id": 450011007,
-    "is_boss": 0,
-    "asset_id": "2016301"
-  },
-  {
-    "id": 1007,
-    "m_event_commission_quest_id": 80000110,
-    "m_enemy_id": 450011008,
-    "is_boss": 0,
-    "asset_id": "2008201"
-  },
-  {
-    "id": 1008,
-    "m_event_commission_quest_id": 80000110,
     "m_enemy_id": 450011009,
     "is_boss": 0,
     "asset_id": "2018101"
   },
   {
-    "id": 1009,
+    "id": 1001,
     "m_event_commission_quest_id": 80000110,
     "m_enemy_id": 450011010,
     "is_boss": 1,
