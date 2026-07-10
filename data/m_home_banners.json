@@ -18,15 +18,6 @@
     "end_at": "2026-07-10 12:59:59"
   },
   {
-    "id": 4,
-    "asset_id": "7500002",
-    "target_scene": 4,
-    "param": 104,
-    "display_order": 10000,
-    "start_at": "2000-01-01 00:00:00",
-    "end_at": "2030-12-31 23:59:59"
-  },
-  {
     "id": 5,
     "asset_id": "1020001_1",
     "target_scene": 52,
@@ -133,5 +124,50 @@
     "display_order": 9703,
     "start_at": "2026-07-05 10:00:00",
     "end_at": "2026-07-10 12:59:59"
+  },
+  {
+    "id": 17,
+    "asset_id": "7010011",
+    "target_scene": 4,
+    "param": 118,
+    "display_order": 9602,
+    "start_at": "2026-07-10 13:00:00",
+    "end_at": "2026-07-20 4:59:59"
+  },
+  {
+    "id": 18,
+    "asset_id": "7040002",
+    "target_scene": 4,
+    "param": 119,
+    "display_order": 9601,
+    "start_at": "2026-07-17 13:00:00",
+    "end_at": "2026-07-27 4:59:59"
+  },
+  {
+    "id": 19,
+    "asset_id": "1040002",
+    "target_scene": 55,
+    "param": 600002,
+    "display_order": 9604,
+    "start_at": "2026-07-10 13:00:00",
+    "end_at": "2026-07-20 4:59:59"
+  },
+  {
+    "id": 20,
+    "asset_id": "1030002",
+    "target_scene": 54,
+    "param": 500001,
+    "display_order": 9603,
+    "start_at": "2026-07-17 13:00:00",
+    "end_at": "2026-07-27 4:59:59"
+  },
+  {
+    "id": 21,
+    "asset_id": "7500002",
+    "target_scene": 4,
+    "param": 120,
+    "display_order": 10000,
+    "start_at": "2000-01-01 00:00:00",
+    "end_at": "2030-12-31 23:59:59"
   }
 ]

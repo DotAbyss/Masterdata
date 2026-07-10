@@ -78,5 +78,55 @@
     "pos_x": -13,
     "pos_z": -28,
     "direction_type": 0
+  },
+  {
+    "id": 11,
+    "m_home_stage_group_id": 7,
+    "m_character_id": 1300035,
+    "m_character_skin_id": 130003501,
+    "serif": "ウェーイ！ 今日は\nやりらふぃーなノリで決めちゃうよ！",
+    "pos_x": -13,
+    "pos_z": -28,
+    "direction_type": 0
+  },
+  {
+    "id": 12,
+    "m_home_stage_group_id": 8,
+    "m_character_id": 1300027,
+    "m_character_skin_id": 130002701,
+    "serif": "フィオナとポパパポパは\nとっても仲が良いんですよぉ",
+    "pos_x": 45,
+    "pos_z": -50,
+    "direction_type": 0
+  },
+  {
+    "id": 13,
+    "m_home_stage_group_id": 8,
+    "m_character_id": 1300037,
+    "m_character_skin_id": 130003701,
+    "serif": "星々が描く運命の交差点……\nさあ、あなたはどの道を選ぶの？",
+    "pos_x": -45,
+    "pos_z": 35,
+    "direction_type": 1
+  },
+  {
+    "id": 14,
+    "m_home_stage_group_id": 9,
+    "m_character_id": 1300027,
+    "m_character_skin_id": 130002701,
+    "serif": "フィオナとポパパポパは\nとっても仲が良いんですよぉ",
+    "pos_x": 45,
+    "pos_z": -50,
+    "direction_type": 0
+  },
+  {
+    "id": 15,
+    "m_home_stage_group_id": 9,
+    "m_character_id": 1300037,
+    "m_character_skin_id": 130003701,
+    "serif": "星々が描く運命の交差点……\nさあ、あなたはどの道を選ぶの？",
+    "pos_x": -45,
+    "pos_z": 35,
+    "direction_type": 1
   }
 ]

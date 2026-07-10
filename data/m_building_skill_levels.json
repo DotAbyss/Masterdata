@@ -510,6 +510,56 @@
     "is_notify": 0
   },
   {
+    "id": 300025,
+    "m_building_id": 300,
+    "skill_type": 3000,
+    "skill_level": 26,
+    "building_exp": 10,
+    "name": "装備点検：体力",
+    "is_hidden": 0,
+    "is_notify": 0
+  },
+  {
+    "id": 300026,
+    "m_building_id": 300,
+    "skill_type": 3000,
+    "skill_level": 27,
+    "building_exp": 10,
+    "name": "装備点検：体力",
+    "is_hidden": 0,
+    "is_notify": 0
+  },
+  {
+    "id": 300027,
+    "m_building_id": 300,
+    "skill_type": 3000,
+    "skill_level": 28,
+    "building_exp": 10,
+    "name": "装備点検：体力",
+    "is_hidden": 0,
+    "is_notify": 0
+  },
+  {
+    "id": 300028,
+    "m_building_id": 300,
+    "skill_type": 3000,
+    "skill_level": 29,
+    "building_exp": 10,
+    "name": "装備点検：体力",
+    "is_hidden": 0,
+    "is_notify": 0
+  },
+  {
+    "id": 300029,
+    "m_building_id": 300,
+    "skill_type": 3000,
+    "skill_level": 30,
+    "building_exp": 10,
+    "name": "装備点検：体力",
+    "is_hidden": 0,
+    "is_notify": 0
+  },
+  {
     "id": 300100,
     "m_building_id": 300,
     "skill_type": 3001,
@@ -760,6 +810,56 @@
     "is_notify": 0
   },
   {
+    "id": 300125,
+    "m_building_id": 300,
+    "skill_type": 3001,
+    "skill_level": 26,
+    "building_exp": 10,
+    "name": "装備点検：攻撃",
+    "is_hidden": 0,
+    "is_notify": 0
+  },
+  {
+    "id": 300126,
+    "m_building_id": 300,
+    "skill_type": 3001,
+    "skill_level": 27,
+    "building_exp": 10,
+    "name": "装備点検：攻撃",
+    "is_hidden": 0,
+    "is_notify": 0
+  },
+  {
+    "id": 300127,
+    "m_building_id": 300,
+    "skill_type": 3001,
+    "skill_level": 28,
+    "building_exp": 10,
+    "name": "装備点検：攻撃",
+    "is_hidden": 0,
+    "is_notify": 0
+  },
+  {
+    "id": 300128,
+    "m_building_id": 300,
+    "skill_type": 3001,
+    "skill_level": 29,
+    "building_exp": 10,
+    "name": "装備点検：攻撃",
+    "is_hidden": 0,
+    "is_notify": 0
+  },
+  {
+    "id": 300129,
+    "m_building_id": 300,
+    "skill_type": 3001,
+    "skill_level": 30,
+    "building_exp": 10,
+    "name": "装備点検：攻撃",
+    "is_hidden": 0,
+    "is_notify": 0
+  },
+  {
     "id": 300200,
     "m_building_id": 300,
     "skill_type": 3002,
@@ -1004,6 +1104,56 @@
     "m_building_id": 300,
     "skill_type": 3002,
     "skill_level": 25,
+    "building_exp": 10,
+    "name": "装備点検：防御",
+    "is_hidden": 0,
+    "is_notify": 0
+  },
+  {
+    "id": 300225,
+    "m_building_id": 300,
+    "skill_type": 3002,
+    "skill_level": 26,
+    "building_exp": 10,
+    "name": "装備点検：防御",
+    "is_hidden": 0,
+    "is_notify": 0
+  },
+  {
+    "id": 300226,
+    "m_building_id": 300,
+    "skill_type": 3002,
+    "skill_level": 27,
+    "building_exp": 10,
+    "name": "装備点検：防御",
+    "is_hidden": 0,
+    "is_notify": 0
+  },
+  {
+    "id": 300227,
+    "m_building_id": 300,
+    "skill_type": 3002,
+    "skill_level": 28,
+    "building_exp": 10,
+    "name": "装備点検：防御",
+    "is_hidden": 0,
+    "is_notify": 0
+  },
+  {
+    "id": 300228,
+    "m_building_id": 300,
+    "skill_type": 3002,
+    "skill_level": 29,
+    "building_exp": 10,
+    "name": "装備点検：防御",
+    "is_hidden": 0,
+    "is_notify": 0
+  },
+  {
+    "id": 300229,
+    "m_building_id": 300,
+    "skill_type": 3002,
+    "skill_level": 30,
     "building_exp": 10,
     "name": "装備点検：防御",
     "is_hidden": 0,
@@ -1906,6 +2056,26 @@
     "skill_level": 1,
     "building_exp": 100,
     "name": "シンクロ研究",
+    "is_hidden": 0,
+    "is_notify": 1
+  },
+  {
+    "id": 1000200,
+    "m_building_id": 1000,
+    "skill_type": 12001,
+    "skill_level": 1,
+    "building_exp": 10,
+    "name": "マナクリスタル錬成【煉獄】",
+    "is_hidden": 0,
+    "is_notify": 1
+  },
+  {
+    "id": 1000201,
+    "m_building_id": 1000,
+    "skill_type": 12001,
+    "skill_level": 2,
+    "building_exp": 10,
+    "name": "マナクリスタル錬成【煉獄】",
     "is_hidden": 0,
     "is_notify": 1
   }

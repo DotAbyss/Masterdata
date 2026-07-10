@@ -45,6 +45,24 @@
     "asset_id": "0"
   },
   {
+    "id": 50000101,
+    "category": 2,
+    "category_group": 500001,
+    "title": "",
+    "start_at": "2026-07-17 13:00:00",
+    "end_at": "2026-08-03 04:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 50000201,
+    "category": 2,
+    "category_group": 500001,
+    "title": "",
+    "start_at": "2026-07-22 10:00:00",
+    "end_at": "2026-08-03 04:59:59",
+    "asset_id": "0"
+  },
+  {
     "id": 60000101,
     "category": 2,
     "category_group": 10000,
@@ -69,6 +87,33 @@
     "title": "",
     "start_at": "2026-06-28 05:00:00",
     "end_at": "2026-07-01 04:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 60000401,
+    "category": 2,
+    "category_group": 10003,
+    "title": "",
+    "start_at": "2026-07-13 05:00:00",
+    "end_at": "2026-07-16 04:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 60000501,
+    "category": 2,
+    "category_group": 10004,
+    "title": "",
+    "start_at": "2026-07-17 05:00:00",
+    "end_at": "2026-07-20 04:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 60000601,
+    "category": 2,
+    "category_group": 10005,
+    "title": "",
+    "start_at": "2026-07-24 05:00:00",
+    "end_at": "2026-07-27 04:59:59",
     "asset_id": "0"
   },
   {
@@ -117,6 +162,15 @@
     "asset_id": "0"
   },
   {
+    "id": 160000201,
+    "category": 2,
+    "category_group": 600002,
+    "title": "",
+    "start_at": "2026-07-10 12:00:00",
+    "end_at": "2026-07-20 04:59:59",
+    "asset_id": "0"
+  },
+  {
     "id": 1,
     "category": 1,
     "category_group": 0,
@@ -133,6 +187,15 @@
     "start_at": "2026-06-25 05:00:00",
     "end_at": "2026-07-08 04:59:59",
     "asset_id": "1300002"
+  },
+  {
+    "id": 3,
+    "category": 1,
+    "category_group": 0,
+    "title": "リリース1カ月＆7章追加記念ミッション",
+    "start_at": "2026-07-10 12:00:00",
+    "end_at": "2026-07-23 04:59:59",
+    "asset_id": "1300006"
   },
   {
     "id": 300000000,
@@ -498,6 +561,15 @@
     "id": 300010017,
     "category": 5,
     "category_group": 40,
+    "title": "",
+    "start_at": "2025-05-01 00:00:00",
+    "end_at": "2099-11-30 23:59:59",
+    "asset_id": "0"
+  },
+  {
+    "id": 401100111,
+    "category": 5,
+    "category_group": 41,
     "title": "",
     "start_at": "2025-05-01 00:00:00",
     "end_at": "2099-11-30 23:59:59",

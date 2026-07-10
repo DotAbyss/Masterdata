@@ -1,1 +1,62 @@
-null
+[
+  {
+    "id": 1,
+    "m_event_hunt_quest_id": 102,
+    "m_event_hunt_quest_restrict_id": 101,
+    "description": "フィオナ模擬戦 Lv10をクリアで開放"
+  },
+  {
+    "id": 2,
+    "m_event_hunt_quest_id": 103,
+    "m_event_hunt_quest_restrict_id": 102,
+    "description": "フィオナ模擬戦 Lv30をクリアで開放"
+  },
+  {
+    "id": 3,
+    "m_event_hunt_quest_id": 104,
+    "m_event_hunt_quest_restrict_id": 103,
+    "description": "フィオナ模擬戦 Lv40をクリアで開放"
+  },
+  {
+    "id": 4,
+    "m_event_hunt_quest_id": 106,
+    "m_event_hunt_quest_restrict_id": 105,
+    "description": "クリスティ模擬戦 Lv20をクリアで開放"
+  },
+  {
+    "id": 5,
+    "m_event_hunt_quest_id": 107,
+    "m_event_hunt_quest_restrict_id": 106,
+    "description": "クリスティ模擬戦 Lv40をクリアで開放"
+  },
+  {
+    "id": 6,
+    "m_event_hunt_quest_id": 108,
+    "m_event_hunt_quest_restrict_id": 107,
+    "description": "クリスティ模擬戦 Lv55をクリアで開放"
+  },
+  {
+    "id": 7,
+    "m_event_hunt_quest_id": 202,
+    "m_event_hunt_quest_restrict_id": 201,
+    "description": "フィオナ LV40をクリアで開放"
+  },
+  {
+    "id": 8,
+    "m_event_hunt_quest_id": 203,
+    "m_event_hunt_quest_restrict_id": 202,
+    "description": "フィオナ LV60をクリアで開放"
+  },
+  {
+    "id": 9,
+    "m_event_hunt_quest_id": 205,
+    "m_event_hunt_quest_restrict_id": 204,
+    "description": "クリスティ LV50をクリアで開放"
+  },
+  {
+    "id": 10,
+    "m_event_hunt_quest_id": 206,
+    "m_event_hunt_quest_restrict_id": 205,
+    "description": "クリスティ LV80をクリアで開放"
+  }
+]

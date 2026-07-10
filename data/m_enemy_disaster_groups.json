@@ -56,6 +56,134 @@
     "drop_energy": 300
   },
   {
+    "id": 100201,
+    "group_id": 1002,
+    "m_enemy_id": 1003,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 100202,
+    "group_id": 1002,
+    "m_enemy_id": 1003,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 200
+  },
+  {
+    "id": 100203,
+    "group_id": 1002,
+    "m_enemy_id": 1003,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 100204,
+    "group_id": 1002,
+    "m_enemy_id": 1004,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 250
+  },
+  {
+    "id": 100205,
+    "group_id": 1002,
+    "m_enemy_id": 1004,
+    "order": 4,
+    "set_position": 4,
+    "drop_energy": 250
+  },
+  {
+    "id": 100206,
+    "group_id": 1002,
+    "m_enemy_id": 1004,
+    "order": 5,
+    "set_position": 5,
+    "drop_energy": 250
+  },
+  {
+    "id": 100301,
+    "group_id": 1003,
+    "m_enemy_id": 1002,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 50
+  },
+  {
+    "id": 100302,
+    "group_id": 1003,
+    "m_enemy_id": 1002,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 50
+  },
+  {
+    "id": 100303,
+    "group_id": 1003,
+    "m_enemy_id": 1002,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 50
+  },
+  {
+    "id": 100304,
+    "group_id": 1003,
+    "m_enemy_id": 1002,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 50
+  },
+  {
+    "id": 100305,
+    "group_id": 1003,
+    "m_enemy_id": 1002,
+    "order": 4,
+    "set_position": 4,
+    "drop_energy": 50
+  },
+  {
+    "id": 100306,
+    "group_id": 1003,
+    "m_enemy_id": 1002,
+    "order": 5,
+    "set_position": 5,
+    "drop_energy": 50
+  },
+  {
+    "id": 100307,
+    "group_id": 1003,
+    "m_enemy_id": 1002,
+    "order": 6,
+    "set_position": 6,
+    "drop_energy": 50
+  },
+  {
+    "id": 100308,
+    "group_id": 1003,
+    "m_enemy_id": 1002,
+    "order": 7,
+    "set_position": 7,
+    "drop_energy": 50
+  },
+  {
+    "id": 100309,
+    "group_id": 1003,
+    "m_enemy_id": 1002,
+    "order": 8,
+    "set_position": 8,
+    "drop_energy": 50
+  },
+  {
+    "id": 100310,
+    "group_id": 1003,
+    "m_enemy_id": 1002,
+    "order": 9,
+    "set_position": 9,
+    "drop_energy": 50
+  },
+  {
     "id": 42011101,
     "group_id": 420111,
     "m_enemy_id": 4200101021,
@@ -3462,6 +3590,1062 @@
     "order": 8,
     "set_position": 8,
     "drop_energy": 200
+  },
+  {
+    "id": 11070010201,
+    "group_id": 110700102,
+    "m_enemy_id": 110700112,
+    "order": 0,
+    "set_position": 11,
+    "drop_energy": 550
+  },
+  {
+    "id": 11070010202,
+    "group_id": 110700102,
+    "m_enemy_id": 110700113,
+    "order": 1,
+    "set_position": 10,
+    "drop_energy": 550
+  },
+  {
+    "id": 11070010203,
+    "group_id": 110700102,
+    "m_enemy_id": 110700103,
+    "order": 2,
+    "set_position": 0,
+    "drop_energy": 270
+  },
+  {
+    "id": 11070010204,
+    "group_id": 110700102,
+    "m_enemy_id": 110700104,
+    "order": 3,
+    "set_position": 1,
+    "drop_energy": 270
+  },
+  {
+    "id": 11070010205,
+    "group_id": 110700102,
+    "m_enemy_id": 110700103,
+    "order": 4,
+    "set_position": 2,
+    "drop_energy": 270
+  },
+  {
+    "id": 11070010206,
+    "group_id": 110700102,
+    "m_enemy_id": 110700104,
+    "order": 5,
+    "set_position": 3,
+    "drop_energy": 270
+  },
+  {
+    "id": 11070010207,
+    "group_id": 110700102,
+    "m_enemy_id": 110700111,
+    "order": 6,
+    "set_position": 9,
+    "drop_energy": 300
+  },
+  {
+    "id": 11070010208,
+    "group_id": 110700102,
+    "m_enemy_id": 110700109,
+    "order": 7,
+    "set_position": 4,
+    "drop_energy": 300
+  },
+  {
+    "id": 11070010209,
+    "group_id": 110700102,
+    "m_enemy_id": 110700109,
+    "order": 8,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 11070010210,
+    "group_id": 110700102,
+    "m_enemy_id": 110700109,
+    "order": 9,
+    "set_position": 6,
+    "drop_energy": 300
+  },
+  {
+    "id": 11070010211,
+    "group_id": 110700102,
+    "m_enemy_id": 110700110,
+    "order": 10,
+    "set_position": 7,
+    "drop_energy": 200
+  },
+  {
+    "id": 11070010212,
+    "group_id": 110700102,
+    "m_enemy_id": 110700110,
+    "order": 11,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 11070010301,
+    "group_id": 110700103,
+    "m_enemy_id": 110700112,
+    "order": 0,
+    "set_position": 9,
+    "drop_energy": 550
+  },
+  {
+    "id": 11070010302,
+    "group_id": 110700103,
+    "m_enemy_id": 110700113,
+    "order": 1,
+    "set_position": 10,
+    "drop_energy": 550
+  },
+  {
+    "id": 11070010303,
+    "group_id": 110700103,
+    "m_enemy_id": 110700112,
+    "order": 2,
+    "set_position": 11,
+    "drop_energy": 550
+  },
+  {
+    "id": 11070010304,
+    "group_id": 110700103,
+    "m_enemy_id": 110700103,
+    "order": 3,
+    "set_position": 0,
+    "drop_energy": 270
+  },
+  {
+    "id": 11070010305,
+    "group_id": 110700103,
+    "m_enemy_id": 110700104,
+    "order": 4,
+    "set_position": 1,
+    "drop_energy": 270
+  },
+  {
+    "id": 11070010306,
+    "group_id": 110700103,
+    "m_enemy_id": 110700103,
+    "order": 5,
+    "set_position": 2,
+    "drop_energy": 270
+  },
+  {
+    "id": 11070010307,
+    "group_id": 110700103,
+    "m_enemy_id": 110700104,
+    "order": 6,
+    "set_position": 3,
+    "drop_energy": 270
+  },
+  {
+    "id": 11070010308,
+    "group_id": 110700103,
+    "m_enemy_id": 110700106,
+    "order": 7,
+    "set_position": 6,
+    "drop_energy": 150
+  },
+  {
+    "id": 11070010309,
+    "group_id": 110700103,
+    "m_enemy_id": 110700111,
+    "order": 8,
+    "set_position": 7,
+    "drop_energy": 300
+  },
+  {
+    "id": 11070010310,
+    "group_id": 110700103,
+    "m_enemy_id": 110700111,
+    "order": 9,
+    "set_position": 8,
+    "drop_energy": 300
+  },
+  {
+    "id": 11070010311,
+    "group_id": 110700103,
+    "m_enemy_id": 110700105,
+    "order": 10,
+    "set_position": 4,
+    "drop_energy": 150
+  },
+  {
+    "id": 11070010312,
+    "group_id": 110700103,
+    "m_enemy_id": 110700105,
+    "order": 11,
+    "set_position": 5,
+    "drop_energy": 150
+  },
+  {
+    "id": 11070010401,
+    "group_id": 110700104,
+    "m_enemy_id": 110700113,
+    "order": 0,
+    "set_position": 10,
+    "drop_energy": 550
+  },
+  {
+    "id": 11070010402,
+    "group_id": 110700104,
+    "m_enemy_id": 110700112,
+    "order": 1,
+    "set_position": 11,
+    "drop_energy": 550
+  },
+  {
+    "id": 11070010403,
+    "group_id": 110700104,
+    "m_enemy_id": 110700103,
+    "order": 2,
+    "set_position": 0,
+    "drop_energy": 270
+  },
+  {
+    "id": 11070010404,
+    "group_id": 110700104,
+    "m_enemy_id": 110700104,
+    "order": 3,
+    "set_position": 1,
+    "drop_energy": 270
+  },
+  {
+    "id": 11070010405,
+    "group_id": 110700104,
+    "m_enemy_id": 110700103,
+    "order": 4,
+    "set_position": 2,
+    "drop_energy": 270
+  },
+  {
+    "id": 11070010406,
+    "group_id": 110700104,
+    "m_enemy_id": 110700106,
+    "order": 5,
+    "set_position": 9,
+    "drop_energy": 150
+  },
+  {
+    "id": 11070010407,
+    "group_id": 110700104,
+    "m_enemy_id": 110700111,
+    "order": 6,
+    "set_position": 6,
+    "drop_energy": 300
+  },
+  {
+    "id": 11070010408,
+    "group_id": 110700104,
+    "m_enemy_id": 110700105,
+    "order": 7,
+    "set_position": 3,
+    "drop_energy": 150
+  },
+  {
+    "id": 11070010409,
+    "group_id": 110700104,
+    "m_enemy_id": 110700105,
+    "order": 8,
+    "set_position": 4,
+    "drop_energy": 150
+  },
+  {
+    "id": 11070010410,
+    "group_id": 110700104,
+    "m_enemy_id": 110700105,
+    "order": 9,
+    "set_position": 5,
+    "drop_energy": 150
+  },
+  {
+    "id": 11070010411,
+    "group_id": 110700104,
+    "m_enemy_id": 110700109,
+    "order": 10,
+    "set_position": 7,
+    "drop_energy": 300
+  },
+  {
+    "id": 11070010412,
+    "group_id": 110700104,
+    "m_enemy_id": 110700109,
+    "order": 11,
+    "set_position": 8,
+    "drop_energy": 300
+  },
+  {
+    "id": 12070010201,
+    "group_id": 120700102,
+    "m_enemy_id": 120700112,
+    "order": 0,
+    "set_position": 11,
+    "drop_energy": 550
+  },
+  {
+    "id": 12070010202,
+    "group_id": 120700102,
+    "m_enemy_id": 120700113,
+    "order": 1,
+    "set_position": 10,
+    "drop_energy": 550
+  },
+  {
+    "id": 12070010203,
+    "group_id": 120700102,
+    "m_enemy_id": 120700103,
+    "order": 2,
+    "set_position": 0,
+    "drop_energy": 270
+  },
+  {
+    "id": 12070010204,
+    "group_id": 120700102,
+    "m_enemy_id": 120700104,
+    "order": 3,
+    "set_position": 1,
+    "drop_energy": 270
+  },
+  {
+    "id": 12070010205,
+    "group_id": 120700102,
+    "m_enemy_id": 120700103,
+    "order": 4,
+    "set_position": 2,
+    "drop_energy": 270
+  },
+  {
+    "id": 12070010206,
+    "group_id": 120700102,
+    "m_enemy_id": 120700104,
+    "order": 5,
+    "set_position": 3,
+    "drop_energy": 270
+  },
+  {
+    "id": 12070010207,
+    "group_id": 120700102,
+    "m_enemy_id": 120700111,
+    "order": 6,
+    "set_position": 9,
+    "drop_energy": 300
+  },
+  {
+    "id": 12070010208,
+    "group_id": 120700102,
+    "m_enemy_id": 120700109,
+    "order": 7,
+    "set_position": 4,
+    "drop_energy": 300
+  },
+  {
+    "id": 12070010209,
+    "group_id": 120700102,
+    "m_enemy_id": 120700109,
+    "order": 8,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 12070010210,
+    "group_id": 120700102,
+    "m_enemy_id": 120700109,
+    "order": 9,
+    "set_position": 6,
+    "drop_energy": 300
+  },
+  {
+    "id": 12070010211,
+    "group_id": 120700102,
+    "m_enemy_id": 120700110,
+    "order": 10,
+    "set_position": 7,
+    "drop_energy": 200
+  },
+  {
+    "id": 12070010212,
+    "group_id": 120700102,
+    "m_enemy_id": 120700110,
+    "order": 11,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 12070010301,
+    "group_id": 120700103,
+    "m_enemy_id": 120700112,
+    "order": 0,
+    "set_position": 9,
+    "drop_energy": 550
+  },
+  {
+    "id": 12070010302,
+    "group_id": 120700103,
+    "m_enemy_id": 120700113,
+    "order": 1,
+    "set_position": 10,
+    "drop_energy": 550
+  },
+  {
+    "id": 12070010303,
+    "group_id": 120700103,
+    "m_enemy_id": 120700112,
+    "order": 2,
+    "set_position": 11,
+    "drop_energy": 550
+  },
+  {
+    "id": 12070010304,
+    "group_id": 120700103,
+    "m_enemy_id": 120700103,
+    "order": 3,
+    "set_position": 0,
+    "drop_energy": 270
+  },
+  {
+    "id": 12070010305,
+    "group_id": 120700103,
+    "m_enemy_id": 120700104,
+    "order": 4,
+    "set_position": 1,
+    "drop_energy": 270
+  },
+  {
+    "id": 12070010306,
+    "group_id": 120700103,
+    "m_enemy_id": 120700103,
+    "order": 5,
+    "set_position": 2,
+    "drop_energy": 270
+  },
+  {
+    "id": 12070010307,
+    "group_id": 120700103,
+    "m_enemy_id": 120700104,
+    "order": 6,
+    "set_position": 3,
+    "drop_energy": 270
+  },
+  {
+    "id": 12070010308,
+    "group_id": 120700103,
+    "m_enemy_id": 120700106,
+    "order": 7,
+    "set_position": 6,
+    "drop_energy": 150
+  },
+  {
+    "id": 12070010309,
+    "group_id": 120700103,
+    "m_enemy_id": 120700111,
+    "order": 8,
+    "set_position": 7,
+    "drop_energy": 300
+  },
+  {
+    "id": 12070010310,
+    "group_id": 120700103,
+    "m_enemy_id": 120700111,
+    "order": 9,
+    "set_position": 8,
+    "drop_energy": 300
+  },
+  {
+    "id": 12070010311,
+    "group_id": 120700103,
+    "m_enemy_id": 120700105,
+    "order": 10,
+    "set_position": 4,
+    "drop_energy": 150
+  },
+  {
+    "id": 12070010312,
+    "group_id": 120700103,
+    "m_enemy_id": 120700105,
+    "order": 11,
+    "set_position": 5,
+    "drop_energy": 150
+  },
+  {
+    "id": 12070010401,
+    "group_id": 120700104,
+    "m_enemy_id": 120700113,
+    "order": 0,
+    "set_position": 10,
+    "drop_energy": 550
+  },
+  {
+    "id": 12070010402,
+    "group_id": 120700104,
+    "m_enemy_id": 120700112,
+    "order": 1,
+    "set_position": 11,
+    "drop_energy": 550
+  },
+  {
+    "id": 12070010403,
+    "group_id": 120700104,
+    "m_enemy_id": 120700103,
+    "order": 2,
+    "set_position": 0,
+    "drop_energy": 270
+  },
+  {
+    "id": 12070010404,
+    "group_id": 120700104,
+    "m_enemy_id": 120700104,
+    "order": 3,
+    "set_position": 1,
+    "drop_energy": 270
+  },
+  {
+    "id": 12070010405,
+    "group_id": 120700104,
+    "m_enemy_id": 120700103,
+    "order": 4,
+    "set_position": 2,
+    "drop_energy": 270
+  },
+  {
+    "id": 12070010406,
+    "group_id": 120700104,
+    "m_enemy_id": 120700106,
+    "order": 5,
+    "set_position": 9,
+    "drop_energy": 150
+  },
+  {
+    "id": 12070010407,
+    "group_id": 120700104,
+    "m_enemy_id": 120700111,
+    "order": 6,
+    "set_position": 6,
+    "drop_energy": 300
+  },
+  {
+    "id": 12070010408,
+    "group_id": 120700104,
+    "m_enemy_id": 120700105,
+    "order": 7,
+    "set_position": 3,
+    "drop_energy": 150
+  },
+  {
+    "id": 12070010409,
+    "group_id": 120700104,
+    "m_enemy_id": 120700105,
+    "order": 8,
+    "set_position": 4,
+    "drop_energy": 150
+  },
+  {
+    "id": 12070010410,
+    "group_id": 120700104,
+    "m_enemy_id": 120700105,
+    "order": 9,
+    "set_position": 5,
+    "drop_energy": 150
+  },
+  {
+    "id": 12070010411,
+    "group_id": 120700104,
+    "m_enemy_id": 120700109,
+    "order": 10,
+    "set_position": 7,
+    "drop_energy": 300
+  },
+  {
+    "id": 12070010412,
+    "group_id": 120700104,
+    "m_enemy_id": 120700109,
+    "order": 11,
+    "set_position": 8,
+    "drop_energy": 300
+  },
+  {
+    "id": 12070010501,
+    "group_id": 120700105,
+    "m_enemy_id": 120700102,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 50
+  },
+  {
+    "id": 12070010502,
+    "group_id": 120700105,
+    "m_enemy_id": 120700102,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 50
+  },
+  {
+    "id": 12070010503,
+    "group_id": 120700105,
+    "m_enemy_id": 120700102,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 50
+  },
+  {
+    "id": 12070010504,
+    "group_id": 120700105,
+    "m_enemy_id": 120700102,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 50
+  },
+  {
+    "id": 12070010505,
+    "group_id": 120700105,
+    "m_enemy_id": 120700102,
+    "order": 4,
+    "set_position": 4,
+    "drop_energy": 50
+  },
+  {
+    "id": 12070010506,
+    "group_id": 120700105,
+    "m_enemy_id": 120700102,
+    "order": 5,
+    "set_position": 5,
+    "drop_energy": 50
+  },
+  {
+    "id": 12070010507,
+    "group_id": 120700105,
+    "m_enemy_id": 120700102,
+    "order": 6,
+    "set_position": 6,
+    "drop_energy": 50
+  },
+  {
+    "id": 12070010508,
+    "group_id": 120700105,
+    "m_enemy_id": 120700102,
+    "order": 7,
+    "set_position": 7,
+    "drop_energy": 50
+  },
+  {
+    "id": 12070010509,
+    "group_id": 120700105,
+    "m_enemy_id": 120700102,
+    "order": 8,
+    "set_position": 8,
+    "drop_energy": 50
+  },
+  {
+    "id": 12070010510,
+    "group_id": 120700105,
+    "m_enemy_id": 120700102,
+    "order": 9,
+    "set_position": 9,
+    "drop_energy": 50
+  },
+  {
+    "id": 12070010511,
+    "group_id": 120700105,
+    "m_enemy_id": 120700102,
+    "order": 10,
+    "set_position": 10,
+    "drop_energy": 50
+  },
+  {
+    "id": 12070010512,
+    "group_id": 120700105,
+    "m_enemy_id": 120700102,
+    "order": 11,
+    "set_position": 11,
+    "drop_energy": 50
+  },
+  {
+    "id": 13070010201,
+    "group_id": 130700102,
+    "m_enemy_id": 130700112,
+    "order": 0,
+    "set_position": 11,
+    "drop_energy": 550
+  },
+  {
+    "id": 13070010202,
+    "group_id": 130700102,
+    "m_enemy_id": 130700113,
+    "order": 1,
+    "set_position": 10,
+    "drop_energy": 550
+  },
+  {
+    "id": 13070010203,
+    "group_id": 130700102,
+    "m_enemy_id": 130700103,
+    "order": 2,
+    "set_position": 0,
+    "drop_energy": 270
+  },
+  {
+    "id": 13070010204,
+    "group_id": 130700102,
+    "m_enemy_id": 130700104,
+    "order": 3,
+    "set_position": 1,
+    "drop_energy": 270
+  },
+  {
+    "id": 13070010205,
+    "group_id": 130700102,
+    "m_enemy_id": 130700103,
+    "order": 4,
+    "set_position": 2,
+    "drop_energy": 270
+  },
+  {
+    "id": 13070010206,
+    "group_id": 130700102,
+    "m_enemy_id": 130700104,
+    "order": 5,
+    "set_position": 3,
+    "drop_energy": 270
+  },
+  {
+    "id": 13070010207,
+    "group_id": 130700102,
+    "m_enemy_id": 130700111,
+    "order": 6,
+    "set_position": 9,
+    "drop_energy": 300
+  },
+  {
+    "id": 13070010208,
+    "group_id": 130700102,
+    "m_enemy_id": 130700109,
+    "order": 7,
+    "set_position": 4,
+    "drop_energy": 300
+  },
+  {
+    "id": 13070010209,
+    "group_id": 130700102,
+    "m_enemy_id": 130700109,
+    "order": 8,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 13070010210,
+    "group_id": 130700102,
+    "m_enemy_id": 130700109,
+    "order": 9,
+    "set_position": 6,
+    "drop_energy": 300
+  },
+  {
+    "id": 13070010211,
+    "group_id": 130700102,
+    "m_enemy_id": 130700110,
+    "order": 10,
+    "set_position": 7,
+    "drop_energy": 200
+  },
+  {
+    "id": 13070010212,
+    "group_id": 130700102,
+    "m_enemy_id": 130700110,
+    "order": 11,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 13070010301,
+    "group_id": 130700103,
+    "m_enemy_id": 130700112,
+    "order": 0,
+    "set_position": 9,
+    "drop_energy": 550
+  },
+  {
+    "id": 13070010302,
+    "group_id": 130700103,
+    "m_enemy_id": 130700113,
+    "order": 1,
+    "set_position": 10,
+    "drop_energy": 550
+  },
+  {
+    "id": 13070010303,
+    "group_id": 130700103,
+    "m_enemy_id": 130700112,
+    "order": 2,
+    "set_position": 11,
+    "drop_energy": 550
+  },
+  {
+    "id": 13070010304,
+    "group_id": 130700103,
+    "m_enemy_id": 130700103,
+    "order": 3,
+    "set_position": 0,
+    "drop_energy": 270
+  },
+  {
+    "id": 13070010305,
+    "group_id": 130700103,
+    "m_enemy_id": 130700104,
+    "order": 4,
+    "set_position": 1,
+    "drop_energy": 270
+  },
+  {
+    "id": 13070010306,
+    "group_id": 130700103,
+    "m_enemy_id": 130700103,
+    "order": 5,
+    "set_position": 2,
+    "drop_energy": 270
+  },
+  {
+    "id": 13070010307,
+    "group_id": 130700103,
+    "m_enemy_id": 130700104,
+    "order": 6,
+    "set_position": 3,
+    "drop_energy": 270
+  },
+  {
+    "id": 13070010308,
+    "group_id": 130700103,
+    "m_enemy_id": 130700106,
+    "order": 7,
+    "set_position": 6,
+    "drop_energy": 150
+  },
+  {
+    "id": 13070010309,
+    "group_id": 130700103,
+    "m_enemy_id": 130700111,
+    "order": 8,
+    "set_position": 7,
+    "drop_energy": 300
+  },
+  {
+    "id": 13070010310,
+    "group_id": 130700103,
+    "m_enemy_id": 130700111,
+    "order": 9,
+    "set_position": 8,
+    "drop_energy": 300
+  },
+  {
+    "id": 13070010311,
+    "group_id": 130700103,
+    "m_enemy_id": 130700105,
+    "order": 10,
+    "set_position": 4,
+    "drop_energy": 150
+  },
+  {
+    "id": 13070010312,
+    "group_id": 130700103,
+    "m_enemy_id": 130700105,
+    "order": 11,
+    "set_position": 5,
+    "drop_energy": 150
+  },
+  {
+    "id": 13070010401,
+    "group_id": 130700104,
+    "m_enemy_id": 130700113,
+    "order": 0,
+    "set_position": 10,
+    "drop_energy": 550
+  },
+  {
+    "id": 13070010402,
+    "group_id": 130700104,
+    "m_enemy_id": 130700112,
+    "order": 1,
+    "set_position": 11,
+    "drop_energy": 550
+  },
+  {
+    "id": 13070010403,
+    "group_id": 130700104,
+    "m_enemy_id": 130700103,
+    "order": 2,
+    "set_position": 0,
+    "drop_energy": 270
+  },
+  {
+    "id": 13070010404,
+    "group_id": 130700104,
+    "m_enemy_id": 130700104,
+    "order": 3,
+    "set_position": 1,
+    "drop_energy": 270
+  },
+  {
+    "id": 13070010405,
+    "group_id": 130700104,
+    "m_enemy_id": 130700103,
+    "order": 4,
+    "set_position": 2,
+    "drop_energy": 270
+  },
+  {
+    "id": 13070010406,
+    "group_id": 130700104,
+    "m_enemy_id": 130700106,
+    "order": 5,
+    "set_position": 9,
+    "drop_energy": 150
+  },
+  {
+    "id": 13070010407,
+    "group_id": 130700104,
+    "m_enemy_id": 130700111,
+    "order": 6,
+    "set_position": 6,
+    "drop_energy": 300
+  },
+  {
+    "id": 13070010408,
+    "group_id": 130700104,
+    "m_enemy_id": 130700105,
+    "order": 7,
+    "set_position": 3,
+    "drop_energy": 150
+  },
+  {
+    "id": 13070010409,
+    "group_id": 130700104,
+    "m_enemy_id": 130700105,
+    "order": 8,
+    "set_position": 4,
+    "drop_energy": 150
+  },
+  {
+    "id": 13070010410,
+    "group_id": 130700104,
+    "m_enemy_id": 130700105,
+    "order": 9,
+    "set_position": 5,
+    "drop_energy": 150
+  },
+  {
+    "id": 13070010411,
+    "group_id": 130700104,
+    "m_enemy_id": 130700109,
+    "order": 10,
+    "set_position": 7,
+    "drop_energy": 300
+  },
+  {
+    "id": 13070010412,
+    "group_id": 130700104,
+    "m_enemy_id": 130700109,
+    "order": 11,
+    "set_position": 8,
+    "drop_energy": 300
+  },
+  {
+    "id": 13070010501,
+    "group_id": 130700105,
+    "m_enemy_id": 130700102,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 50
+  },
+  {
+    "id": 13070010502,
+    "group_id": 130700105,
+    "m_enemy_id": 130700102,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 50
+  },
+  {
+    "id": 13070010503,
+    "group_id": 130700105,
+    "m_enemy_id": 130700102,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 50
+  },
+  {
+    "id": 13070010504,
+    "group_id": 130700105,
+    "m_enemy_id": 130700102,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 50
+  },
+  {
+    "id": 13070010505,
+    "group_id": 130700105,
+    "m_enemy_id": 130700102,
+    "order": 4,
+    "set_position": 4,
+    "drop_energy": 50
+  },
+  {
+    "id": 13070010506,
+    "group_id": 130700105,
+    "m_enemy_id": 130700102,
+    "order": 5,
+    "set_position": 5,
+    "drop_energy": 50
+  },
+  {
+    "id": 13070010507,
+    "group_id": 130700105,
+    "m_enemy_id": 130700102,
+    "order": 6,
+    "set_position": 6,
+    "drop_energy": 50
+  },
+  {
+    "id": 13070010508,
+    "group_id": 130700105,
+    "m_enemy_id": 130700102,
+    "order": 7,
+    "set_position": 7,
+    "drop_energy": 50
+  },
+  {
+    "id": 13070010509,
+    "group_id": 130700105,
+    "m_enemy_id": 130700102,
+    "order": 8,
+    "set_position": 8,
+    "drop_energy": 50
+  },
+  {
+    "id": 13070010510,
+    "group_id": 130700105,
+    "m_enemy_id": 130700102,
+    "order": 9,
+    "set_position": 9,
+    "drop_energy": 50
+  },
+  {
+    "id": 13070010511,
+    "group_id": 130700105,
+    "m_enemy_id": 130700102,
+    "order": 10,
+    "set_position": 10,
+    "drop_energy": 50
+  },
+  {
+    "id": 13070010512,
+    "group_id": 130700105,
+    "m_enemy_id": 130700102,
+    "order": 11,
+    "set_position": 11,
+    "drop_energy": 50
   },
   {
     "id": 22001010201,
@@ -26486,5 +27670,7141 @@
     "order": 8,
     "set_position": 8,
     "drop_energy": 200
+  },
+  {
+    "id": 22016010201,
+    "group_id": 220160102,
+    "m_enemy_id": 220160103,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016010202,
+    "group_id": 220160102,
+    "m_enemy_id": 220160104,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016010203,
+    "group_id": 220160102,
+    "m_enemy_id": 220160105,
+    "order": 2,
+    "set_position": 4,
+    "drop_energy": 250
+  },
+  {
+    "id": 22016010204,
+    "group_id": 220160102,
+    "m_enemy_id": 220160106,
+    "order": 3,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016010205,
+    "group_id": 220160102,
+    "m_enemy_id": 220160105,
+    "order": 4,
+    "set_position": 6,
+    "drop_energy": 250
+  },
+  {
+    "id": 22016010206,
+    "group_id": 220160102,
+    "m_enemy_id": 220160108,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22016010207,
+    "group_id": 220160102,
+    "m_enemy_id": 220160109,
+    "order": 6,
+    "set_position": 8,
+    "drop_energy": 300
+  },
+  {
+    "id": 22016010301,
+    "group_id": 220160103,
+    "m_enemy_id": 220160102,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016010302,
+    "group_id": 220160103,
+    "m_enemy_id": 220160104,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016010303,
+    "group_id": 220160103,
+    "m_enemy_id": 220160107,
+    "order": 2,
+    "set_position": 4,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016010304,
+    "group_id": 220160103,
+    "m_enemy_id": 220160106,
+    "order": 3,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016010305,
+    "group_id": 220160103,
+    "m_enemy_id": 220160111,
+    "order": 4,
+    "set_position": 7,
+    "drop_energy": 750
+  },
+  {
+    "id": 22016010401,
+    "group_id": 220160104,
+    "m_enemy_id": 220160103,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016010402,
+    "group_id": 220160104,
+    "m_enemy_id": 220160104,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016010403,
+    "group_id": 220160104,
+    "m_enemy_id": 220160103,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016010404,
+    "group_id": 220160104,
+    "m_enemy_id": 220160102,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016010405,
+    "group_id": 220160104,
+    "m_enemy_id": 220160109,
+    "order": 4,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 22016010406,
+    "group_id": 220160104,
+    "m_enemy_id": 220160108,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22016010407,
+    "group_id": 220160104,
+    "m_enemy_id": 220160107,
+    "order": 6,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016010501,
+    "group_id": 220160105,
+    "m_enemy_id": 220160104,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016010502,
+    "group_id": 220160105,
+    "m_enemy_id": 220160110,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 800
+  },
+  {
+    "id": 22016010503,
+    "group_id": 220160105,
+    "m_enemy_id": 220160104,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016010504,
+    "group_id": 220160105,
+    "m_enemy_id": 220160109,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 300
+  },
+  {
+    "id": 22016010505,
+    "group_id": 220160105,
+    "m_enemy_id": 220160106,
+    "order": 4,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016010506,
+    "group_id": 220160105,
+    "m_enemy_id": 220160108,
+    "order": 5,
+    "set_position": 6,
+    "drop_energy": 500
+  },
+  {
+    "id": 22016010507,
+    "group_id": 220160105,
+    "m_enemy_id": 220160108,
+    "order": 6,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22016010508,
+    "group_id": 220160105,
+    "m_enemy_id": 220160107,
+    "order": 7,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016010509,
+    "group_id": 220160105,
+    "m_enemy_id": 220160105,
+    "order": 8,
+    "set_position": 9,
+    "drop_energy": 250
+  },
+  {
+    "id": 22016020201,
+    "group_id": 220160202,
+    "m_enemy_id": 220160203,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016020202,
+    "group_id": 220160202,
+    "m_enemy_id": 220160204,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016020203,
+    "group_id": 220160202,
+    "m_enemy_id": 220160205,
+    "order": 2,
+    "set_position": 4,
+    "drop_energy": 250
+  },
+  {
+    "id": 22016020204,
+    "group_id": 220160202,
+    "m_enemy_id": 220160206,
+    "order": 3,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016020205,
+    "group_id": 220160202,
+    "m_enemy_id": 220160205,
+    "order": 4,
+    "set_position": 6,
+    "drop_energy": 250
+  },
+  {
+    "id": 22016020206,
+    "group_id": 220160202,
+    "m_enemy_id": 220160208,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22016020207,
+    "group_id": 220160202,
+    "m_enemy_id": 220160209,
+    "order": 6,
+    "set_position": 8,
+    "drop_energy": 300
+  },
+  {
+    "id": 22016020301,
+    "group_id": 220160203,
+    "m_enemy_id": 220160202,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016020302,
+    "group_id": 220160203,
+    "m_enemy_id": 220160204,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016020303,
+    "group_id": 220160203,
+    "m_enemy_id": 220160207,
+    "order": 2,
+    "set_position": 4,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016020304,
+    "group_id": 220160203,
+    "m_enemy_id": 220160206,
+    "order": 3,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016020305,
+    "group_id": 220160203,
+    "m_enemy_id": 220160211,
+    "order": 4,
+    "set_position": 7,
+    "drop_energy": 750
+  },
+  {
+    "id": 22016020401,
+    "group_id": 220160204,
+    "m_enemy_id": 220160203,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016020402,
+    "group_id": 220160204,
+    "m_enemy_id": 220160204,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016020403,
+    "group_id": 220160204,
+    "m_enemy_id": 220160203,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016020404,
+    "group_id": 220160204,
+    "m_enemy_id": 220160202,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016020405,
+    "group_id": 220160204,
+    "m_enemy_id": 220160209,
+    "order": 4,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 22016020406,
+    "group_id": 220160204,
+    "m_enemy_id": 220160208,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22016020407,
+    "group_id": 220160204,
+    "m_enemy_id": 220160207,
+    "order": 6,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016020501,
+    "group_id": 220160205,
+    "m_enemy_id": 220160204,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016020502,
+    "group_id": 220160205,
+    "m_enemy_id": 220160210,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 800
+  },
+  {
+    "id": 22016020503,
+    "group_id": 220160205,
+    "m_enemy_id": 220160204,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016020504,
+    "group_id": 220160205,
+    "m_enemy_id": 220160209,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 300
+  },
+  {
+    "id": 22016020505,
+    "group_id": 220160205,
+    "m_enemy_id": 220160206,
+    "order": 4,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016020506,
+    "group_id": 220160205,
+    "m_enemy_id": 220160208,
+    "order": 5,
+    "set_position": 6,
+    "drop_energy": 500
+  },
+  {
+    "id": 22016020507,
+    "group_id": 220160205,
+    "m_enemy_id": 220160208,
+    "order": 6,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22016020508,
+    "group_id": 220160205,
+    "m_enemy_id": 220160207,
+    "order": 7,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016020509,
+    "group_id": 220160205,
+    "m_enemy_id": 220160205,
+    "order": 8,
+    "set_position": 9,
+    "drop_energy": 250
+  },
+  {
+    "id": 22016030201,
+    "group_id": 220160302,
+    "m_enemy_id": 220160303,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016030202,
+    "group_id": 220160302,
+    "m_enemy_id": 220160304,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016030203,
+    "group_id": 220160302,
+    "m_enemy_id": 220160305,
+    "order": 2,
+    "set_position": 4,
+    "drop_energy": 250
+  },
+  {
+    "id": 22016030204,
+    "group_id": 220160302,
+    "m_enemy_id": 220160306,
+    "order": 3,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016030205,
+    "group_id": 220160302,
+    "m_enemy_id": 220160305,
+    "order": 4,
+    "set_position": 6,
+    "drop_energy": 250
+  },
+  {
+    "id": 22016030206,
+    "group_id": 220160302,
+    "m_enemy_id": 220160308,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22016030207,
+    "group_id": 220160302,
+    "m_enemy_id": 220160309,
+    "order": 6,
+    "set_position": 8,
+    "drop_energy": 300
+  },
+  {
+    "id": 22016030301,
+    "group_id": 220160303,
+    "m_enemy_id": 220160302,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016030302,
+    "group_id": 220160303,
+    "m_enemy_id": 220160304,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016030303,
+    "group_id": 220160303,
+    "m_enemy_id": 220160307,
+    "order": 2,
+    "set_position": 4,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016030304,
+    "group_id": 220160303,
+    "m_enemy_id": 220160306,
+    "order": 3,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016030305,
+    "group_id": 220160303,
+    "m_enemy_id": 220160311,
+    "order": 4,
+    "set_position": 7,
+    "drop_energy": 750
+  },
+  {
+    "id": 22016030401,
+    "group_id": 220160304,
+    "m_enemy_id": 220160303,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016030402,
+    "group_id": 220160304,
+    "m_enemy_id": 220160304,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016030403,
+    "group_id": 220160304,
+    "m_enemy_id": 220160303,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016030404,
+    "group_id": 220160304,
+    "m_enemy_id": 220160302,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016030405,
+    "group_id": 220160304,
+    "m_enemy_id": 220160309,
+    "order": 4,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 22016030406,
+    "group_id": 220160304,
+    "m_enemy_id": 220160308,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22016030407,
+    "group_id": 220160304,
+    "m_enemy_id": 220160307,
+    "order": 6,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016030501,
+    "group_id": 220160305,
+    "m_enemy_id": 220160304,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016030502,
+    "group_id": 220160305,
+    "m_enemy_id": 220160310,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 800
+  },
+  {
+    "id": 22016030503,
+    "group_id": 220160305,
+    "m_enemy_id": 220160304,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016030504,
+    "group_id": 220160305,
+    "m_enemy_id": 220160309,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 300
+  },
+  {
+    "id": 22016030505,
+    "group_id": 220160305,
+    "m_enemy_id": 220160306,
+    "order": 4,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016030506,
+    "group_id": 220160305,
+    "m_enemy_id": 220160308,
+    "order": 5,
+    "set_position": 6,
+    "drop_energy": 500
+  },
+  {
+    "id": 22016030507,
+    "group_id": 220160305,
+    "m_enemy_id": 220160308,
+    "order": 6,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22016030508,
+    "group_id": 220160305,
+    "m_enemy_id": 220160307,
+    "order": 7,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016030509,
+    "group_id": 220160305,
+    "m_enemy_id": 220160305,
+    "order": 8,
+    "set_position": 9,
+    "drop_energy": 250
+  },
+  {
+    "id": 22016040201,
+    "group_id": 220160402,
+    "m_enemy_id": 220160403,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016040202,
+    "group_id": 220160402,
+    "m_enemy_id": 220160404,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016040203,
+    "group_id": 220160402,
+    "m_enemy_id": 220160405,
+    "order": 2,
+    "set_position": 4,
+    "drop_energy": 250
+  },
+  {
+    "id": 22016040204,
+    "group_id": 220160402,
+    "m_enemy_id": 220160406,
+    "order": 3,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016040205,
+    "group_id": 220160402,
+    "m_enemy_id": 220160405,
+    "order": 4,
+    "set_position": 6,
+    "drop_energy": 250
+  },
+  {
+    "id": 22016040206,
+    "group_id": 220160402,
+    "m_enemy_id": 220160408,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22016040207,
+    "group_id": 220160402,
+    "m_enemy_id": 220160409,
+    "order": 6,
+    "set_position": 8,
+    "drop_energy": 300
+  },
+  {
+    "id": 22016040301,
+    "group_id": 220160403,
+    "m_enemy_id": 220160402,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016040302,
+    "group_id": 220160403,
+    "m_enemy_id": 220160404,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016040303,
+    "group_id": 220160403,
+    "m_enemy_id": 220160407,
+    "order": 2,
+    "set_position": 4,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016040304,
+    "group_id": 220160403,
+    "m_enemy_id": 220160406,
+    "order": 3,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016040305,
+    "group_id": 220160403,
+    "m_enemy_id": 220160411,
+    "order": 4,
+    "set_position": 7,
+    "drop_energy": 750
+  },
+  {
+    "id": 22016040401,
+    "group_id": 220160404,
+    "m_enemy_id": 220160403,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016040402,
+    "group_id": 220160404,
+    "m_enemy_id": 220160404,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016040403,
+    "group_id": 220160404,
+    "m_enemy_id": 220160403,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016040404,
+    "group_id": 220160404,
+    "m_enemy_id": 220160402,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016040405,
+    "group_id": 220160404,
+    "m_enemy_id": 220160409,
+    "order": 4,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 22016040406,
+    "group_id": 220160404,
+    "m_enemy_id": 220160408,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22016040407,
+    "group_id": 220160404,
+    "m_enemy_id": 220160407,
+    "order": 6,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016040501,
+    "group_id": 220160405,
+    "m_enemy_id": 220160404,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016040502,
+    "group_id": 220160405,
+    "m_enemy_id": 220160410,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 800
+  },
+  {
+    "id": 22016040503,
+    "group_id": 220160405,
+    "m_enemy_id": 220160404,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016040504,
+    "group_id": 220160405,
+    "m_enemy_id": 220160409,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 300
+  },
+  {
+    "id": 22016040505,
+    "group_id": 220160405,
+    "m_enemy_id": 220160406,
+    "order": 4,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016040506,
+    "group_id": 220160405,
+    "m_enemy_id": 220160408,
+    "order": 5,
+    "set_position": 6,
+    "drop_energy": 500
+  },
+  {
+    "id": 22016040507,
+    "group_id": 220160405,
+    "m_enemy_id": 220160408,
+    "order": 6,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22016040508,
+    "group_id": 220160405,
+    "m_enemy_id": 220160407,
+    "order": 7,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016040509,
+    "group_id": 220160405,
+    "m_enemy_id": 220160405,
+    "order": 8,
+    "set_position": 9,
+    "drop_energy": 250
+  },
+  {
+    "id": 22016050201,
+    "group_id": 220160502,
+    "m_enemy_id": 220160503,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016050202,
+    "group_id": 220160502,
+    "m_enemy_id": 220160504,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016050203,
+    "group_id": 220160502,
+    "m_enemy_id": 220160505,
+    "order": 2,
+    "set_position": 4,
+    "drop_energy": 250
+  },
+  {
+    "id": 22016050204,
+    "group_id": 220160502,
+    "m_enemy_id": 220160506,
+    "order": 3,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016050205,
+    "group_id": 220160502,
+    "m_enemy_id": 220160505,
+    "order": 4,
+    "set_position": 6,
+    "drop_energy": 250
+  },
+  {
+    "id": 22016050206,
+    "group_id": 220160502,
+    "m_enemy_id": 220160508,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22016050207,
+    "group_id": 220160502,
+    "m_enemy_id": 220160509,
+    "order": 6,
+    "set_position": 8,
+    "drop_energy": 300
+  },
+  {
+    "id": 22016050301,
+    "group_id": 220160503,
+    "m_enemy_id": 220160502,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016050302,
+    "group_id": 220160503,
+    "m_enemy_id": 220160504,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016050303,
+    "group_id": 220160503,
+    "m_enemy_id": 220160507,
+    "order": 2,
+    "set_position": 4,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016050304,
+    "group_id": 220160503,
+    "m_enemy_id": 220160506,
+    "order": 3,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016050305,
+    "group_id": 220160503,
+    "m_enemy_id": 220160511,
+    "order": 4,
+    "set_position": 7,
+    "drop_energy": 750
+  },
+  {
+    "id": 22016050401,
+    "group_id": 220160504,
+    "m_enemy_id": 220160503,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016050402,
+    "group_id": 220160504,
+    "m_enemy_id": 220160504,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016050403,
+    "group_id": 220160504,
+    "m_enemy_id": 220160503,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016050404,
+    "group_id": 220160504,
+    "m_enemy_id": 220160502,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016050405,
+    "group_id": 220160504,
+    "m_enemy_id": 220160509,
+    "order": 4,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 22016050406,
+    "group_id": 220160504,
+    "m_enemy_id": 220160508,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22016050407,
+    "group_id": 220160504,
+    "m_enemy_id": 220160507,
+    "order": 6,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016050501,
+    "group_id": 220160505,
+    "m_enemy_id": 220160504,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016050502,
+    "group_id": 220160505,
+    "m_enemy_id": 220160510,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 800
+  },
+  {
+    "id": 22016050503,
+    "group_id": 220160505,
+    "m_enemy_id": 220160504,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016050504,
+    "group_id": 220160505,
+    "m_enemy_id": 220160509,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 300
+  },
+  {
+    "id": 22016050505,
+    "group_id": 220160505,
+    "m_enemy_id": 220160506,
+    "order": 4,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016050506,
+    "group_id": 220160505,
+    "m_enemy_id": 220160508,
+    "order": 5,
+    "set_position": 6,
+    "drop_energy": 500
+  },
+  {
+    "id": 22016050507,
+    "group_id": 220160505,
+    "m_enemy_id": 220160508,
+    "order": 6,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22016050508,
+    "group_id": 220160505,
+    "m_enemy_id": 220160507,
+    "order": 7,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016050509,
+    "group_id": 220160505,
+    "m_enemy_id": 220160505,
+    "order": 8,
+    "set_position": 9,
+    "drop_energy": 250
+  },
+  {
+    "id": 22016060201,
+    "group_id": 220160602,
+    "m_enemy_id": 220160603,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016060202,
+    "group_id": 220160602,
+    "m_enemy_id": 220160604,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016060203,
+    "group_id": 220160602,
+    "m_enemy_id": 220160605,
+    "order": 2,
+    "set_position": 4,
+    "drop_energy": 250
+  },
+  {
+    "id": 22016060204,
+    "group_id": 220160602,
+    "m_enemy_id": 220160606,
+    "order": 3,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016060205,
+    "group_id": 220160602,
+    "m_enemy_id": 220160605,
+    "order": 4,
+    "set_position": 6,
+    "drop_energy": 250
+  },
+  {
+    "id": 22016060206,
+    "group_id": 220160602,
+    "m_enemy_id": 220160608,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22016060207,
+    "group_id": 220160602,
+    "m_enemy_id": 220160609,
+    "order": 6,
+    "set_position": 8,
+    "drop_energy": 300
+  },
+  {
+    "id": 22016060301,
+    "group_id": 220160603,
+    "m_enemy_id": 220160602,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016060302,
+    "group_id": 220160603,
+    "m_enemy_id": 220160604,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016060303,
+    "group_id": 220160603,
+    "m_enemy_id": 220160607,
+    "order": 2,
+    "set_position": 4,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016060304,
+    "group_id": 220160603,
+    "m_enemy_id": 220160606,
+    "order": 3,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016060305,
+    "group_id": 220160603,
+    "m_enemy_id": 220160611,
+    "order": 4,
+    "set_position": 7,
+    "drop_energy": 750
+  },
+  {
+    "id": 22016060401,
+    "group_id": 220160604,
+    "m_enemy_id": 220160603,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016060402,
+    "group_id": 220160604,
+    "m_enemy_id": 220160604,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016060403,
+    "group_id": 220160604,
+    "m_enemy_id": 220160603,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016060404,
+    "group_id": 220160604,
+    "m_enemy_id": 220160602,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016060405,
+    "group_id": 220160604,
+    "m_enemy_id": 220160609,
+    "order": 4,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 22016060406,
+    "group_id": 220160604,
+    "m_enemy_id": 220160608,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22016060407,
+    "group_id": 220160604,
+    "m_enemy_id": 220160607,
+    "order": 6,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016060501,
+    "group_id": 220160605,
+    "m_enemy_id": 220160604,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016060502,
+    "group_id": 220160605,
+    "m_enemy_id": 220160610,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 800
+  },
+  {
+    "id": 22016060503,
+    "group_id": 220160605,
+    "m_enemy_id": 220160604,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016060504,
+    "group_id": 220160605,
+    "m_enemy_id": 220160609,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 300
+  },
+  {
+    "id": 22016060505,
+    "group_id": 220160605,
+    "m_enemy_id": 220160606,
+    "order": 4,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22016060506,
+    "group_id": 220160605,
+    "m_enemy_id": 220160608,
+    "order": 5,
+    "set_position": 6,
+    "drop_energy": 500
+  },
+  {
+    "id": 22016060507,
+    "group_id": 220160605,
+    "m_enemy_id": 220160608,
+    "order": 6,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22016060508,
+    "group_id": 220160605,
+    "m_enemy_id": 220160607,
+    "order": 7,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016060509,
+    "group_id": 220160605,
+    "m_enemy_id": 220160605,
+    "order": 8,
+    "set_position": 9,
+    "drop_energy": 250
+  },
+  {
+    "id": 22016070201,
+    "group_id": 220160702,
+    "m_enemy_id": 220160712,
+    "order": 0,
+    "set_position": 11,
+    "drop_energy": 550
+  },
+  {
+    "id": 22016070202,
+    "group_id": 220160702,
+    "m_enemy_id": 220160713,
+    "order": 1,
+    "set_position": 10,
+    "drop_energy": 550
+  },
+  {
+    "id": 22016070203,
+    "group_id": 220160702,
+    "m_enemy_id": 220160703,
+    "order": 2,
+    "set_position": 0,
+    "drop_energy": 270
+  },
+  {
+    "id": 22016070204,
+    "group_id": 220160702,
+    "m_enemy_id": 220160704,
+    "order": 3,
+    "set_position": 1,
+    "drop_energy": 270
+  },
+  {
+    "id": 22016070205,
+    "group_id": 220160702,
+    "m_enemy_id": 220160703,
+    "order": 4,
+    "set_position": 2,
+    "drop_energy": 270
+  },
+  {
+    "id": 22016070206,
+    "group_id": 220160702,
+    "m_enemy_id": 220160704,
+    "order": 5,
+    "set_position": 3,
+    "drop_energy": 270
+  },
+  {
+    "id": 22016070207,
+    "group_id": 220160702,
+    "m_enemy_id": 220160711,
+    "order": 6,
+    "set_position": 9,
+    "drop_energy": 300
+  },
+  {
+    "id": 22016070208,
+    "group_id": 220160702,
+    "m_enemy_id": 220160709,
+    "order": 7,
+    "set_position": 4,
+    "drop_energy": 300
+  },
+  {
+    "id": 22016070209,
+    "group_id": 220160702,
+    "m_enemy_id": 220160709,
+    "order": 8,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 22016070210,
+    "group_id": 220160702,
+    "m_enemy_id": 220160709,
+    "order": 9,
+    "set_position": 6,
+    "drop_energy": 300
+  },
+  {
+    "id": 22016070211,
+    "group_id": 220160702,
+    "m_enemy_id": 220160710,
+    "order": 10,
+    "set_position": 7,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016070212,
+    "group_id": 220160702,
+    "m_enemy_id": 220160710,
+    "order": 11,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22016070301,
+    "group_id": 220160703,
+    "m_enemy_id": 220160712,
+    "order": 0,
+    "set_position": 9,
+    "drop_energy": 550
+  },
+  {
+    "id": 22016070302,
+    "group_id": 220160703,
+    "m_enemy_id": 220160713,
+    "order": 1,
+    "set_position": 10,
+    "drop_energy": 550
+  },
+  {
+    "id": 22016070303,
+    "group_id": 220160703,
+    "m_enemy_id": 220160712,
+    "order": 2,
+    "set_position": 11,
+    "drop_energy": 550
+  },
+  {
+    "id": 22016070304,
+    "group_id": 220160703,
+    "m_enemy_id": 220160703,
+    "order": 3,
+    "set_position": 0,
+    "drop_energy": 270
+  },
+  {
+    "id": 22016070305,
+    "group_id": 220160703,
+    "m_enemy_id": 220160704,
+    "order": 4,
+    "set_position": 1,
+    "drop_energy": 270
+  },
+  {
+    "id": 22016070306,
+    "group_id": 220160703,
+    "m_enemy_id": 220160703,
+    "order": 5,
+    "set_position": 2,
+    "drop_energy": 270
+  },
+  {
+    "id": 22016070307,
+    "group_id": 220160703,
+    "m_enemy_id": 220160704,
+    "order": 6,
+    "set_position": 3,
+    "drop_energy": 270
+  },
+  {
+    "id": 22016070308,
+    "group_id": 220160703,
+    "m_enemy_id": 220160706,
+    "order": 7,
+    "set_position": 6,
+    "drop_energy": 150
+  },
+  {
+    "id": 22016070309,
+    "group_id": 220160703,
+    "m_enemy_id": 220160711,
+    "order": 8,
+    "set_position": 7,
+    "drop_energy": 300
+  },
+  {
+    "id": 22016070310,
+    "group_id": 220160703,
+    "m_enemy_id": 220160711,
+    "order": 9,
+    "set_position": 8,
+    "drop_energy": 300
+  },
+  {
+    "id": 22016070311,
+    "group_id": 220160703,
+    "m_enemy_id": 220160705,
+    "order": 10,
+    "set_position": 4,
+    "drop_energy": 150
+  },
+  {
+    "id": 22016070312,
+    "group_id": 220160703,
+    "m_enemy_id": 220160705,
+    "order": 11,
+    "set_position": 5,
+    "drop_energy": 150
+  },
+  {
+    "id": 22016070401,
+    "group_id": 220160704,
+    "m_enemy_id": 220160713,
+    "order": 0,
+    "set_position": 10,
+    "drop_energy": 550
+  },
+  {
+    "id": 22016070402,
+    "group_id": 220160704,
+    "m_enemy_id": 220160712,
+    "order": 1,
+    "set_position": 11,
+    "drop_energy": 550
+  },
+  {
+    "id": 22016070403,
+    "group_id": 220160704,
+    "m_enemy_id": 220160703,
+    "order": 2,
+    "set_position": 0,
+    "drop_energy": 270
+  },
+  {
+    "id": 22016070404,
+    "group_id": 220160704,
+    "m_enemy_id": 220160704,
+    "order": 3,
+    "set_position": 1,
+    "drop_energy": 270
+  },
+  {
+    "id": 22016070405,
+    "group_id": 220160704,
+    "m_enemy_id": 220160703,
+    "order": 4,
+    "set_position": 2,
+    "drop_energy": 270
+  },
+  {
+    "id": 22016070406,
+    "group_id": 220160704,
+    "m_enemy_id": 220160706,
+    "order": 5,
+    "set_position": 9,
+    "drop_energy": 150
+  },
+  {
+    "id": 22016070407,
+    "group_id": 220160704,
+    "m_enemy_id": 220160711,
+    "order": 6,
+    "set_position": 6,
+    "drop_energy": 300
+  },
+  {
+    "id": 22016070408,
+    "group_id": 220160704,
+    "m_enemy_id": 220160705,
+    "order": 7,
+    "set_position": 3,
+    "drop_energy": 150
+  },
+  {
+    "id": 22016070409,
+    "group_id": 220160704,
+    "m_enemy_id": 220160705,
+    "order": 8,
+    "set_position": 4,
+    "drop_energy": 150
+  },
+  {
+    "id": 22016070410,
+    "group_id": 220160704,
+    "m_enemy_id": 220160705,
+    "order": 9,
+    "set_position": 5,
+    "drop_energy": 150
+  },
+  {
+    "id": 22016070411,
+    "group_id": 220160704,
+    "m_enemy_id": 220160709,
+    "order": 10,
+    "set_position": 7,
+    "drop_energy": 300
+  },
+  {
+    "id": 22016070412,
+    "group_id": 220160704,
+    "m_enemy_id": 220160709,
+    "order": 11,
+    "set_position": 8,
+    "drop_energy": 300
+  },
+  {
+    "id": 22016070501,
+    "group_id": 220160705,
+    "m_enemy_id": 220160702,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 50
+  },
+  {
+    "id": 22016070502,
+    "group_id": 220160705,
+    "m_enemy_id": 220160702,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 50
+  },
+  {
+    "id": 22016070503,
+    "group_id": 220160705,
+    "m_enemy_id": 220160702,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 50
+  },
+  {
+    "id": 22016070504,
+    "group_id": 220160705,
+    "m_enemy_id": 220160702,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 50
+  },
+  {
+    "id": 22016070505,
+    "group_id": 220160705,
+    "m_enemy_id": 220160702,
+    "order": 4,
+    "set_position": 4,
+    "drop_energy": 50
+  },
+  {
+    "id": 22016070506,
+    "group_id": 220160705,
+    "m_enemy_id": 220160702,
+    "order": 5,
+    "set_position": 5,
+    "drop_energy": 50
+  },
+  {
+    "id": 22016070507,
+    "group_id": 220160705,
+    "m_enemy_id": 220160702,
+    "order": 6,
+    "set_position": 6,
+    "drop_energy": 50
+  },
+  {
+    "id": 22016070508,
+    "group_id": 220160705,
+    "m_enemy_id": 220160702,
+    "order": 7,
+    "set_position": 7,
+    "drop_energy": 50
+  },
+  {
+    "id": 22016070509,
+    "group_id": 220160705,
+    "m_enemy_id": 220160702,
+    "order": 8,
+    "set_position": 8,
+    "drop_energy": 50
+  },
+  {
+    "id": 22016070510,
+    "group_id": 220160705,
+    "m_enemy_id": 220160702,
+    "order": 9,
+    "set_position": 9,
+    "drop_energy": 50
+  },
+  {
+    "id": 22016070511,
+    "group_id": 220160705,
+    "m_enemy_id": 220160702,
+    "order": 10,
+    "set_position": 10,
+    "drop_energy": 50
+  },
+  {
+    "id": 22016070512,
+    "group_id": 220160705,
+    "m_enemy_id": 220160702,
+    "order": 11,
+    "set_position": 11,
+    "drop_energy": 50
+  },
+  {
+    "id": 22017010201,
+    "group_id": 220170102,
+    "m_enemy_id": 220170102,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22017010202,
+    "group_id": 220170102,
+    "m_enemy_id": 220170104,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22017010203,
+    "group_id": 220170102,
+    "m_enemy_id": 220170103,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22017010204,
+    "group_id": 220170102,
+    "m_enemy_id": 220170109,
+    "order": 3,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 22017010205,
+    "group_id": 220170102,
+    "m_enemy_id": 220170105,
+    "order": 4,
+    "set_position": 6,
+    "drop_energy": 250
+  },
+  {
+    "id": 22017010206,
+    "group_id": 220170102,
+    "m_enemy_id": 220170106,
+    "order": 5,
+    "set_position": 8,
+    "drop_energy": 400
+  },
+  {
+    "id": 22017010207,
+    "group_id": 220170102,
+    "m_enemy_id": 220170107,
+    "order": 6,
+    "set_position": 9,
+    "drop_energy": 200
+  },
+  {
+    "id": 22017010301,
+    "group_id": 220170103,
+    "m_enemy_id": 220170104,
+    "order": 0,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22017010302,
+    "group_id": 220170103,
+    "m_enemy_id": 220170104,
+    "order": 1,
+    "set_position": 2,
+    "drop_energy": 400
+  },
+  {
+    "id": 22017010303,
+    "group_id": 220170103,
+    "m_enemy_id": 220170109,
+    "order": 2,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 22017010304,
+    "group_id": 220170103,
+    "m_enemy_id": 220170109,
+    "order": 3,
+    "set_position": 6,
+    "drop_energy": 300
+  },
+  {
+    "id": 22017010305,
+    "group_id": 220170103,
+    "m_enemy_id": 220170108,
+    "order": 4,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22017010306,
+    "group_id": 220170103,
+    "m_enemy_id": 220170106,
+    "order": 5,
+    "set_position": 8,
+    "drop_energy": 400
+  },
+  {
+    "id": 22017010307,
+    "group_id": 220170103,
+    "m_enemy_id": 220170107,
+    "order": 6,
+    "set_position": 9,
+    "drop_energy": 200
+  },
+  {
+    "id": 22017010308,
+    "group_id": 220170103,
+    "m_enemy_id": 220170108,
+    "order": 7,
+    "set_position": 10,
+    "drop_energy": 500
+  },
+  {
+    "id": 22017010401,
+    "group_id": 220170104,
+    "m_enemy_id": 220170103,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22017010402,
+    "group_id": 220170104,
+    "m_enemy_id": 220170102,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 200
+  },
+  {
+    "id": 22017010403,
+    "group_id": 220170104,
+    "m_enemy_id": 220170105,
+    "order": 2,
+    "set_position": 6,
+    "drop_energy": 250
+  },
+  {
+    "id": 22017010404,
+    "group_id": 220170104,
+    "m_enemy_id": 220170106,
+    "order": 3,
+    "set_position": 8,
+    "drop_energy": 400
+  },
+  {
+    "id": 22017010405,
+    "group_id": 220170104,
+    "m_enemy_id": 220170107,
+    "order": 4,
+    "set_position": 10,
+    "drop_energy": 200
+  },
+  {
+    "id": 22017010501,
+    "group_id": 220170105,
+    "m_enemy_id": 220170103,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22017010502,
+    "group_id": 220170105,
+    "m_enemy_id": 220170110,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 700
+  },
+  {
+    "id": 22017010503,
+    "group_id": 220170105,
+    "m_enemy_id": 220170102,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22017010504,
+    "group_id": 220170105,
+    "m_enemy_id": 220170102,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 200
+  },
+  {
+    "id": 22017010505,
+    "group_id": 220170105,
+    "m_enemy_id": 220170109,
+    "order": 4,
+    "set_position": 4,
+    "drop_energy": 300
+  },
+  {
+    "id": 22017010506,
+    "group_id": 220170105,
+    "m_enemy_id": 220170103,
+    "order": 5,
+    "set_position": 5,
+    "drop_energy": 200
+  },
+  {
+    "id": 22017010507,
+    "group_id": 220170105,
+    "m_enemy_id": 220170111,
+    "order": 6,
+    "set_position": 7,
+    "drop_energy": 750
+  },
+  {
+    "id": 22017010508,
+    "group_id": 220170105,
+    "m_enemy_id": 220170109,
+    "order": 7,
+    "set_position": 9,
+    "drop_energy": 300
+  },
+  {
+    "id": 22018010201,
+    "group_id": 220180102,
+    "m_enemy_id": 220180102,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22018010202,
+    "group_id": 220180102,
+    "m_enemy_id": 220180104,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22018010203,
+    "group_id": 220180102,
+    "m_enemy_id": 220180103,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22018010204,
+    "group_id": 220180102,
+    "m_enemy_id": 220180105,
+    "order": 3,
+    "set_position": 4,
+    "drop_energy": 250
+  },
+  {
+    "id": 22018010205,
+    "group_id": 220180102,
+    "m_enemy_id": 220180109,
+    "order": 4,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 22018010206,
+    "group_id": 220180102,
+    "m_enemy_id": 220180105,
+    "order": 5,
+    "set_position": 6,
+    "drop_energy": 250
+  },
+  {
+    "id": 22018010207,
+    "group_id": 220180102,
+    "m_enemy_id": 220180106,
+    "order": 6,
+    "set_position": 8,
+    "drop_energy": 400
+  },
+  {
+    "id": 22018010301,
+    "group_id": 220180103,
+    "m_enemy_id": 220180103,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22018010302,
+    "group_id": 220180103,
+    "m_enemy_id": 220180111,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 800
+  },
+  {
+    "id": 22018010303,
+    "group_id": 220180103,
+    "m_enemy_id": 220180102,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22018010304,
+    "group_id": 220180103,
+    "m_enemy_id": 220180109,
+    "order": 3,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 22018010305,
+    "group_id": 220180103,
+    "m_enemy_id": 220180109,
+    "order": 4,
+    "set_position": 6,
+    "drop_energy": 300
+  },
+  {
+    "id": 22018010306,
+    "group_id": 220180103,
+    "m_enemy_id": 220180108,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22018010307,
+    "group_id": 220180103,
+    "m_enemy_id": 220180107,
+    "order": 6,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22018010308,
+    "group_id": 220180103,
+    "m_enemy_id": 220180106,
+    "order": 7,
+    "set_position": 10,
+    "drop_energy": 400
+  },
+  {
+    "id": 22018010401,
+    "group_id": 220180104,
+    "m_enemy_id": 220180103,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22018010402,
+    "group_id": 220180104,
+    "m_enemy_id": 220180104,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22018010403,
+    "group_id": 220180104,
+    "m_enemy_id": 220180102,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22018010404,
+    "group_id": 220180104,
+    "m_enemy_id": 220180102,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 200
+  },
+  {
+    "id": 22018010405,
+    "group_id": 220180104,
+    "m_enemy_id": 220180109,
+    "order": 4,
+    "set_position": 4,
+    "drop_energy": 300
+  },
+  {
+    "id": 22018010406,
+    "group_id": 220180104,
+    "m_enemy_id": 220180108,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22018010407,
+    "group_id": 220180104,
+    "m_enemy_id": 220180105,
+    "order": 6,
+    "set_position": 9,
+    "drop_energy": 250
+  },
+  {
+    "id": 22018010501,
+    "group_id": 220180105,
+    "m_enemy_id": 220180104,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 400
+  },
+  {
+    "id": 22018010502,
+    "group_id": 220180105,
+    "m_enemy_id": 220180110,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 700
+  },
+  {
+    "id": 22018010503,
+    "group_id": 220180105,
+    "m_enemy_id": 220180102,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22018010504,
+    "group_id": 220180105,
+    "m_enemy_id": 220180109,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 300
+  },
+  {
+    "id": 22018010505,
+    "group_id": 220180105,
+    "m_enemy_id": 220180105,
+    "order": 4,
+    "set_position": 5,
+    "drop_energy": 250
+  },
+  {
+    "id": 22018010506,
+    "group_id": 220180105,
+    "m_enemy_id": 220180106,
+    "order": 5,
+    "set_position": 6,
+    "drop_energy": 400
+  },
+  {
+    "id": 22018010507,
+    "group_id": 220180105,
+    "m_enemy_id": 220180108,
+    "order": 6,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22018010508,
+    "group_id": 220180105,
+    "m_enemy_id": 220180107,
+    "order": 7,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22019010201,
+    "group_id": 220190102,
+    "m_enemy_id": 220190106,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22019010202,
+    "group_id": 220190102,
+    "m_enemy_id": 220190102,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 700
+  },
+  {
+    "id": 22019010203,
+    "group_id": 220190102,
+    "m_enemy_id": 220190116,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 150
+  },
+  {
+    "id": 22019010204,
+    "group_id": 220190102,
+    "m_enemy_id": 220190107,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 200
+  },
+  {
+    "id": 22019010205,
+    "group_id": 220190102,
+    "m_enemy_id": 220190104,
+    "order": 4,
+    "set_position": 4,
+    "drop_energy": 400
+  },
+  {
+    "id": 22019010206,
+    "group_id": 220190102,
+    "m_enemy_id": 220190111,
+    "order": 5,
+    "set_position": 5,
+    "drop_energy": 150
+  },
+  {
+    "id": 22019010207,
+    "group_id": 220190102,
+    "m_enemy_id": 220190112,
+    "order": 6,
+    "set_position": 6,
+    "drop_energy": 150
+  },
+  {
+    "id": 22019010208,
+    "group_id": 220190102,
+    "m_enemy_id": 220190112,
+    "order": 7,
+    "set_position": 7,
+    "drop_energy": 150
+  },
+  {
+    "id": 22019010209,
+    "group_id": 220190102,
+    "m_enemy_id": 220190109,
+    "order": 8,
+    "set_position": 8,
+    "drop_energy": 400
+  },
+  {
+    "id": 22019010210,
+    "group_id": 220190102,
+    "m_enemy_id": 220190103,
+    "order": 9,
+    "set_position": 9,
+    "drop_energy": 150
+  },
+  {
+    "id": 22019010211,
+    "group_id": 220190102,
+    "m_enemy_id": 220190105,
+    "order": 10,
+    "set_position": 10,
+    "drop_energy": 500
+  },
+  {
+    "id": 22019010212,
+    "group_id": 220190102,
+    "m_enemy_id": 220190105,
+    "order": 11,
+    "set_position": 11,
+    "drop_energy": 500
+  },
+  {
+    "id": 22019010301,
+    "group_id": 220190103,
+    "m_enemy_id": 220190112,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 150
+  },
+  {
+    "id": 22019010302,
+    "group_id": 220190103,
+    "m_enemy_id": 220190104,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22019010303,
+    "group_id": 220190103,
+    "m_enemy_id": 220190107,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22019010304,
+    "group_id": 220190103,
+    "m_enemy_id": 220190111,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 150
+  },
+  {
+    "id": 22019010305,
+    "group_id": 220190103,
+    "m_enemy_id": 220190105,
+    "order": 4,
+    "set_position": 6,
+    "drop_energy": 500
+  },
+  {
+    "id": 22019010306,
+    "group_id": 220190103,
+    "m_enemy_id": 220190105,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22019010401,
+    "group_id": 220190104,
+    "m_enemy_id": 220190111,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 150
+  },
+  {
+    "id": 22019010402,
+    "group_id": 220190104,
+    "m_enemy_id": 220190104,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22019010403,
+    "group_id": 220190104,
+    "m_enemy_id": 220190106,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22019010404,
+    "group_id": 220190104,
+    "m_enemy_id": 220190112,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 150
+  },
+  {
+    "id": 22019010405,
+    "group_id": 220190104,
+    "m_enemy_id": 220190105,
+    "order": 4,
+    "set_position": 6,
+    "drop_energy": 500
+  },
+  {
+    "id": 22019010406,
+    "group_id": 220190104,
+    "m_enemy_id": 220190105,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22019010501,
+    "group_id": 220190105,
+    "m_enemy_id": 220190112,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 150
+  },
+  {
+    "id": 22019010502,
+    "group_id": 220190105,
+    "m_enemy_id": 220190111,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 150
+  },
+  {
+    "id": 22019010503,
+    "group_id": 220190105,
+    "m_enemy_id": 220190111,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 150
+  },
+  {
+    "id": 22019010504,
+    "group_id": 220190105,
+    "m_enemy_id": 220190112,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 150
+  },
+  {
+    "id": 22019010505,
+    "group_id": 220190105,
+    "m_enemy_id": 220190116,
+    "order": 4,
+    "set_position": 4,
+    "drop_energy": 150
+  },
+  {
+    "id": 22019010506,
+    "group_id": 220190105,
+    "m_enemy_id": 220190116,
+    "order": 5,
+    "set_position": 5,
+    "drop_energy": 150
+  },
+  {
+    "id": 22019010507,
+    "group_id": 220190105,
+    "m_enemy_id": 220190114,
+    "order": 6,
+    "set_position": 6,
+    "drop_energy": 200
+  },
+  {
+    "id": 22019010508,
+    "group_id": 220190105,
+    "m_enemy_id": 220190113,
+    "order": 7,
+    "set_position": 7,
+    "drop_energy": 300
+  },
+  {
+    "id": 22019010509,
+    "group_id": 220190105,
+    "m_enemy_id": 220190114,
+    "order": 8,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22020010201,
+    "group_id": 220200102,
+    "m_enemy_id": 220200102,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22020010202,
+    "group_id": 220200102,
+    "m_enemy_id": 220200104,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22020010203,
+    "group_id": 220200102,
+    "m_enemy_id": 220200103,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22020010204,
+    "group_id": 220200102,
+    "m_enemy_id": 220200109,
+    "order": 3,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 22020010205,
+    "group_id": 220200102,
+    "m_enemy_id": 220200105,
+    "order": 4,
+    "set_position": 6,
+    "drop_energy": 250
+  },
+  {
+    "id": 22020010206,
+    "group_id": 220200102,
+    "m_enemy_id": 220200106,
+    "order": 5,
+    "set_position": 8,
+    "drop_energy": 400
+  },
+  {
+    "id": 22020010207,
+    "group_id": 220200102,
+    "m_enemy_id": 220200107,
+    "order": 6,
+    "set_position": 9,
+    "drop_energy": 200
+  },
+  {
+    "id": 22020010301,
+    "group_id": 220200103,
+    "m_enemy_id": 220200104,
+    "order": 0,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22020010302,
+    "group_id": 220200103,
+    "m_enemy_id": 220200104,
+    "order": 1,
+    "set_position": 2,
+    "drop_energy": 400
+  },
+  {
+    "id": 22020010303,
+    "group_id": 220200103,
+    "m_enemy_id": 220200109,
+    "order": 2,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 22020010304,
+    "group_id": 220200103,
+    "m_enemy_id": 220200109,
+    "order": 3,
+    "set_position": 6,
+    "drop_energy": 300
+  },
+  {
+    "id": 22020010305,
+    "group_id": 220200103,
+    "m_enemy_id": 220200108,
+    "order": 4,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22020010306,
+    "group_id": 220200103,
+    "m_enemy_id": 220200106,
+    "order": 5,
+    "set_position": 8,
+    "drop_energy": 400
+  },
+  {
+    "id": 22020010307,
+    "group_id": 220200103,
+    "m_enemy_id": 220200107,
+    "order": 6,
+    "set_position": 9,
+    "drop_energy": 200
+  },
+  {
+    "id": 22020010308,
+    "group_id": 220200103,
+    "m_enemy_id": 220200108,
+    "order": 7,
+    "set_position": 10,
+    "drop_energy": 500
+  },
+  {
+    "id": 22020010401,
+    "group_id": 220200104,
+    "m_enemy_id": 220200103,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22020010402,
+    "group_id": 220200104,
+    "m_enemy_id": 220200102,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 200
+  },
+  {
+    "id": 22020010403,
+    "group_id": 220200104,
+    "m_enemy_id": 220200105,
+    "order": 2,
+    "set_position": 6,
+    "drop_energy": 250
+  },
+  {
+    "id": 22020010404,
+    "group_id": 220200104,
+    "m_enemy_id": 220200106,
+    "order": 3,
+    "set_position": 8,
+    "drop_energy": 400
+  },
+  {
+    "id": 22020010405,
+    "group_id": 220200104,
+    "m_enemy_id": 220200107,
+    "order": 4,
+    "set_position": 10,
+    "drop_energy": 200
+  },
+  {
+    "id": 22020010501,
+    "group_id": 220200105,
+    "m_enemy_id": 220200103,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22020010502,
+    "group_id": 220200105,
+    "m_enemy_id": 220200110,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 700
+  },
+  {
+    "id": 22020010503,
+    "group_id": 220200105,
+    "m_enemy_id": 220200102,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22020010504,
+    "group_id": 220200105,
+    "m_enemy_id": 220200102,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 200
+  },
+  {
+    "id": 22020010505,
+    "group_id": 220200105,
+    "m_enemy_id": 220200109,
+    "order": 4,
+    "set_position": 4,
+    "drop_energy": 300
+  },
+  {
+    "id": 22020010506,
+    "group_id": 220200105,
+    "m_enemy_id": 220200103,
+    "order": 5,
+    "set_position": 5,
+    "drop_energy": 200
+  },
+  {
+    "id": 22020010507,
+    "group_id": 220200105,
+    "m_enemy_id": 220200111,
+    "order": 6,
+    "set_position": 7,
+    "drop_energy": 750
+  },
+  {
+    "id": 22020010508,
+    "group_id": 220200105,
+    "m_enemy_id": 220200109,
+    "order": 7,
+    "set_position": 9,
+    "drop_energy": 300
+  },
+  {
+    "id": 22020020201,
+    "group_id": 220200202,
+    "m_enemy_id": 220200202,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22020020202,
+    "group_id": 220200202,
+    "m_enemy_id": 220200204,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22020020203,
+    "group_id": 220200202,
+    "m_enemy_id": 220200203,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22020020204,
+    "group_id": 220200202,
+    "m_enemy_id": 220200205,
+    "order": 3,
+    "set_position": 4,
+    "drop_energy": 250
+  },
+  {
+    "id": 22020020205,
+    "group_id": 220200202,
+    "m_enemy_id": 220200209,
+    "order": 4,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 22020020206,
+    "group_id": 220200202,
+    "m_enemy_id": 220200205,
+    "order": 5,
+    "set_position": 6,
+    "drop_energy": 250
+  },
+  {
+    "id": 22020020207,
+    "group_id": 220200202,
+    "m_enemy_id": 220200206,
+    "order": 6,
+    "set_position": 8,
+    "drop_energy": 400
+  },
+  {
+    "id": 22020020301,
+    "group_id": 220200203,
+    "m_enemy_id": 220200203,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22020020302,
+    "group_id": 220200203,
+    "m_enemy_id": 220200211,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 800
+  },
+  {
+    "id": 22020020303,
+    "group_id": 220200203,
+    "m_enemy_id": 220200202,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22020020304,
+    "group_id": 220200203,
+    "m_enemy_id": 220200209,
+    "order": 3,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 22020020305,
+    "group_id": 220200203,
+    "m_enemy_id": 220200209,
+    "order": 4,
+    "set_position": 6,
+    "drop_energy": 300
+  },
+  {
+    "id": 22020020306,
+    "group_id": 220200203,
+    "m_enemy_id": 220200208,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22020020307,
+    "group_id": 220200203,
+    "m_enemy_id": 220200207,
+    "order": 6,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22020020308,
+    "group_id": 220200203,
+    "m_enemy_id": 220200206,
+    "order": 7,
+    "set_position": 10,
+    "drop_energy": 400
+  },
+  {
+    "id": 22020020401,
+    "group_id": 220200204,
+    "m_enemy_id": 220200203,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22020020402,
+    "group_id": 220200204,
+    "m_enemy_id": 220200204,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22020020403,
+    "group_id": 220200204,
+    "m_enemy_id": 220200202,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22020020404,
+    "group_id": 220200204,
+    "m_enemy_id": 220200202,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 200
+  },
+  {
+    "id": 22020020405,
+    "group_id": 220200204,
+    "m_enemy_id": 220200209,
+    "order": 4,
+    "set_position": 4,
+    "drop_energy": 300
+  },
+  {
+    "id": 22020020406,
+    "group_id": 220200204,
+    "m_enemy_id": 220200208,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22020020407,
+    "group_id": 220200204,
+    "m_enemy_id": 220200205,
+    "order": 6,
+    "set_position": 9,
+    "drop_energy": 250
+  },
+  {
+    "id": 22020020501,
+    "group_id": 220200205,
+    "m_enemy_id": 220200204,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 400
+  },
+  {
+    "id": 22020020502,
+    "group_id": 220200205,
+    "m_enemy_id": 220200210,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 700
+  },
+  {
+    "id": 22020020503,
+    "group_id": 220200205,
+    "m_enemy_id": 220200202,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22020020504,
+    "group_id": 220200205,
+    "m_enemy_id": 220200209,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 300
+  },
+  {
+    "id": 22020020505,
+    "group_id": 220200205,
+    "m_enemy_id": 220200205,
+    "order": 4,
+    "set_position": 5,
+    "drop_energy": 250
+  },
+  {
+    "id": 22020020506,
+    "group_id": 220200205,
+    "m_enemy_id": 220200206,
+    "order": 5,
+    "set_position": 6,
+    "drop_energy": 400
+  },
+  {
+    "id": 22020020507,
+    "group_id": 220200205,
+    "m_enemy_id": 220200208,
+    "order": 6,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22020020508,
+    "group_id": 220200205,
+    "m_enemy_id": 220200207,
+    "order": 7,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22020030201,
+    "group_id": 220200302,
+    "m_enemy_id": 220200306,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22020030202,
+    "group_id": 220200302,
+    "m_enemy_id": 220200302,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 700
+  },
+  {
+    "id": 22020030203,
+    "group_id": 220200302,
+    "m_enemy_id": 220200316,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 150
+  },
+  {
+    "id": 22020030204,
+    "group_id": 220200302,
+    "m_enemy_id": 220200307,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 200
+  },
+  {
+    "id": 22020030205,
+    "group_id": 220200302,
+    "m_enemy_id": 220200304,
+    "order": 4,
+    "set_position": 4,
+    "drop_energy": 400
+  },
+  {
+    "id": 22020030206,
+    "group_id": 220200302,
+    "m_enemy_id": 220200311,
+    "order": 5,
+    "set_position": 5,
+    "drop_energy": 150
+  },
+  {
+    "id": 22020030207,
+    "group_id": 220200302,
+    "m_enemy_id": 220200312,
+    "order": 6,
+    "set_position": 6,
+    "drop_energy": 150
+  },
+  {
+    "id": 22020030208,
+    "group_id": 220200302,
+    "m_enemy_id": 220200312,
+    "order": 7,
+    "set_position": 7,
+    "drop_energy": 150
+  },
+  {
+    "id": 22020030209,
+    "group_id": 220200302,
+    "m_enemy_id": 220200309,
+    "order": 8,
+    "set_position": 8,
+    "drop_energy": 400
+  },
+  {
+    "id": 22020030210,
+    "group_id": 220200302,
+    "m_enemy_id": 220200303,
+    "order": 9,
+    "set_position": 9,
+    "drop_energy": 150
+  },
+  {
+    "id": 22020030211,
+    "group_id": 220200302,
+    "m_enemy_id": 220200305,
+    "order": 10,
+    "set_position": 10,
+    "drop_energy": 500
+  },
+  {
+    "id": 22020030212,
+    "group_id": 220200302,
+    "m_enemy_id": 220200305,
+    "order": 11,
+    "set_position": 11,
+    "drop_energy": 500
+  },
+  {
+    "id": 22020030301,
+    "group_id": 220200303,
+    "m_enemy_id": 220200312,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 150
+  },
+  {
+    "id": 22020030302,
+    "group_id": 220200303,
+    "m_enemy_id": 220200304,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22020030303,
+    "group_id": 220200303,
+    "m_enemy_id": 220200307,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22020030304,
+    "group_id": 220200303,
+    "m_enemy_id": 220200311,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 150
+  },
+  {
+    "id": 22020030305,
+    "group_id": 220200303,
+    "m_enemy_id": 220200305,
+    "order": 4,
+    "set_position": 6,
+    "drop_energy": 500
+  },
+  {
+    "id": 22020030306,
+    "group_id": 220200303,
+    "m_enemy_id": 220200305,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22020030401,
+    "group_id": 220200304,
+    "m_enemy_id": 220200311,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 150
+  },
+  {
+    "id": 22020030402,
+    "group_id": 220200304,
+    "m_enemy_id": 220200304,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22020030403,
+    "group_id": 220200304,
+    "m_enemy_id": 220200306,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22020030404,
+    "group_id": 220200304,
+    "m_enemy_id": 220200312,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 150
+  },
+  {
+    "id": 22020030405,
+    "group_id": 220200304,
+    "m_enemy_id": 220200305,
+    "order": 4,
+    "set_position": 6,
+    "drop_energy": 500
+  },
+  {
+    "id": 22020030406,
+    "group_id": 220200304,
+    "m_enemy_id": 220200305,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22020030501,
+    "group_id": 220200305,
+    "m_enemy_id": 220200312,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 150
+  },
+  {
+    "id": 22020030502,
+    "group_id": 220200305,
+    "m_enemy_id": 220200311,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 150
+  },
+  {
+    "id": 22020030503,
+    "group_id": 220200305,
+    "m_enemy_id": 220200311,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 150
+  },
+  {
+    "id": 22020030504,
+    "group_id": 220200305,
+    "m_enemy_id": 220200312,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 150
+  },
+  {
+    "id": 22020030505,
+    "group_id": 220200305,
+    "m_enemy_id": 220200316,
+    "order": 4,
+    "set_position": 4,
+    "drop_energy": 150
+  },
+  {
+    "id": 22020030506,
+    "group_id": 220200305,
+    "m_enemy_id": 220200316,
+    "order": 5,
+    "set_position": 5,
+    "drop_energy": 150
+  },
+  {
+    "id": 22020030507,
+    "group_id": 220200305,
+    "m_enemy_id": 220200314,
+    "order": 6,
+    "set_position": 6,
+    "drop_energy": 200
+  },
+  {
+    "id": 22020030508,
+    "group_id": 220200305,
+    "m_enemy_id": 220200313,
+    "order": 7,
+    "set_position": 7,
+    "drop_energy": 300
+  },
+  {
+    "id": 22020030509,
+    "group_id": 220200305,
+    "m_enemy_id": 220200314,
+    "order": 8,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22020040201,
+    "group_id": 220200402,
+    "m_enemy_id": 220200412,
+    "order": 0,
+    "set_position": 11,
+    "drop_energy": 550
+  },
+  {
+    "id": 22020040202,
+    "group_id": 220200402,
+    "m_enemy_id": 220200413,
+    "order": 1,
+    "set_position": 10,
+    "drop_energy": 550
+  },
+  {
+    "id": 22020040203,
+    "group_id": 220200402,
+    "m_enemy_id": 220200403,
+    "order": 2,
+    "set_position": 0,
+    "drop_energy": 270
+  },
+  {
+    "id": 22020040204,
+    "group_id": 220200402,
+    "m_enemy_id": 220200404,
+    "order": 3,
+    "set_position": 1,
+    "drop_energy": 270
+  },
+  {
+    "id": 22020040205,
+    "group_id": 220200402,
+    "m_enemy_id": 220200403,
+    "order": 4,
+    "set_position": 2,
+    "drop_energy": 270
+  },
+  {
+    "id": 22020040206,
+    "group_id": 220200402,
+    "m_enemy_id": 220200404,
+    "order": 5,
+    "set_position": 3,
+    "drop_energy": 270
+  },
+  {
+    "id": 22020040207,
+    "group_id": 220200402,
+    "m_enemy_id": 220200411,
+    "order": 6,
+    "set_position": 9,
+    "drop_energy": 300
+  },
+  {
+    "id": 22020040208,
+    "group_id": 220200402,
+    "m_enemy_id": 220200409,
+    "order": 7,
+    "set_position": 4,
+    "drop_energy": 300
+  },
+  {
+    "id": 22020040209,
+    "group_id": 220200402,
+    "m_enemy_id": 220200409,
+    "order": 8,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 22020040210,
+    "group_id": 220200402,
+    "m_enemy_id": 220200409,
+    "order": 9,
+    "set_position": 6,
+    "drop_energy": 300
+  },
+  {
+    "id": 22020040211,
+    "group_id": 220200402,
+    "m_enemy_id": 220200410,
+    "order": 10,
+    "set_position": 7,
+    "drop_energy": 200
+  },
+  {
+    "id": 22020040212,
+    "group_id": 220200402,
+    "m_enemy_id": 220200410,
+    "order": 11,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22020040301,
+    "group_id": 220200403,
+    "m_enemy_id": 220200412,
+    "order": 0,
+    "set_position": 9,
+    "drop_energy": 550
+  },
+  {
+    "id": 22020040302,
+    "group_id": 220200403,
+    "m_enemy_id": 220200413,
+    "order": 1,
+    "set_position": 10,
+    "drop_energy": 550
+  },
+  {
+    "id": 22020040303,
+    "group_id": 220200403,
+    "m_enemy_id": 220200412,
+    "order": 2,
+    "set_position": 11,
+    "drop_energy": 550
+  },
+  {
+    "id": 22020040304,
+    "group_id": 220200403,
+    "m_enemy_id": 220200403,
+    "order": 3,
+    "set_position": 0,
+    "drop_energy": 270
+  },
+  {
+    "id": 22020040305,
+    "group_id": 220200403,
+    "m_enemy_id": 220200404,
+    "order": 4,
+    "set_position": 1,
+    "drop_energy": 270
+  },
+  {
+    "id": 22020040306,
+    "group_id": 220200403,
+    "m_enemy_id": 220200403,
+    "order": 5,
+    "set_position": 2,
+    "drop_energy": 270
+  },
+  {
+    "id": 22020040307,
+    "group_id": 220200403,
+    "m_enemy_id": 220200404,
+    "order": 6,
+    "set_position": 3,
+    "drop_energy": 270
+  },
+  {
+    "id": 22020040308,
+    "group_id": 220200403,
+    "m_enemy_id": 220200406,
+    "order": 7,
+    "set_position": 6,
+    "drop_energy": 150
+  },
+  {
+    "id": 22020040309,
+    "group_id": 220200403,
+    "m_enemy_id": 220200411,
+    "order": 8,
+    "set_position": 7,
+    "drop_energy": 300
+  },
+  {
+    "id": 22020040310,
+    "group_id": 220200403,
+    "m_enemy_id": 220200411,
+    "order": 9,
+    "set_position": 8,
+    "drop_energy": 300
+  },
+  {
+    "id": 22020040311,
+    "group_id": 220200403,
+    "m_enemy_id": 220200405,
+    "order": 10,
+    "set_position": 4,
+    "drop_energy": 150
+  },
+  {
+    "id": 22020040312,
+    "group_id": 220200403,
+    "m_enemy_id": 220200405,
+    "order": 11,
+    "set_position": 5,
+    "drop_energy": 150
+  },
+  {
+    "id": 22020040401,
+    "group_id": 220200404,
+    "m_enemy_id": 220200413,
+    "order": 0,
+    "set_position": 10,
+    "drop_energy": 550
+  },
+  {
+    "id": 22020040402,
+    "group_id": 220200404,
+    "m_enemy_id": 220200412,
+    "order": 1,
+    "set_position": 11,
+    "drop_energy": 550
+  },
+  {
+    "id": 22020040403,
+    "group_id": 220200404,
+    "m_enemy_id": 220200403,
+    "order": 2,
+    "set_position": 0,
+    "drop_energy": 270
+  },
+  {
+    "id": 22020040404,
+    "group_id": 220200404,
+    "m_enemy_id": 220200404,
+    "order": 3,
+    "set_position": 1,
+    "drop_energy": 270
+  },
+  {
+    "id": 22020040405,
+    "group_id": 220200404,
+    "m_enemy_id": 220200403,
+    "order": 4,
+    "set_position": 2,
+    "drop_energy": 270
+  },
+  {
+    "id": 22020040406,
+    "group_id": 220200404,
+    "m_enemy_id": 220200406,
+    "order": 5,
+    "set_position": 9,
+    "drop_energy": 150
+  },
+  {
+    "id": 22020040407,
+    "group_id": 220200404,
+    "m_enemy_id": 220200411,
+    "order": 6,
+    "set_position": 6,
+    "drop_energy": 300
+  },
+  {
+    "id": 22020040408,
+    "group_id": 220200404,
+    "m_enemy_id": 220200405,
+    "order": 7,
+    "set_position": 3,
+    "drop_energy": 150
+  },
+  {
+    "id": 22020040409,
+    "group_id": 220200404,
+    "m_enemy_id": 220200405,
+    "order": 8,
+    "set_position": 4,
+    "drop_energy": 150
+  },
+  {
+    "id": 22020040410,
+    "group_id": 220200404,
+    "m_enemy_id": 220200405,
+    "order": 9,
+    "set_position": 5,
+    "drop_energy": 150
+  },
+  {
+    "id": 22020040411,
+    "group_id": 220200404,
+    "m_enemy_id": 220200409,
+    "order": 10,
+    "set_position": 7,
+    "drop_energy": 300
+  },
+  {
+    "id": 22020040412,
+    "group_id": 220200404,
+    "m_enemy_id": 220200409,
+    "order": 11,
+    "set_position": 8,
+    "drop_energy": 300
+  },
+  {
+    "id": 22020040501,
+    "group_id": 220200405,
+    "m_enemy_id": 220200402,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 50
+  },
+  {
+    "id": 22020040502,
+    "group_id": 220200405,
+    "m_enemy_id": 220200402,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 50
+  },
+  {
+    "id": 22020040503,
+    "group_id": 220200405,
+    "m_enemy_id": 220200402,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 50
+  },
+  {
+    "id": 22020040504,
+    "group_id": 220200405,
+    "m_enemy_id": 220200402,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 50
+  },
+  {
+    "id": 22020040505,
+    "group_id": 220200405,
+    "m_enemy_id": 220200402,
+    "order": 4,
+    "set_position": 4,
+    "drop_energy": 50
+  },
+  {
+    "id": 22020040506,
+    "group_id": 220200405,
+    "m_enemy_id": 220200402,
+    "order": 5,
+    "set_position": 5,
+    "drop_energy": 50
+  },
+  {
+    "id": 22020040507,
+    "group_id": 220200405,
+    "m_enemy_id": 220200402,
+    "order": 6,
+    "set_position": 6,
+    "drop_energy": 50
+  },
+  {
+    "id": 22020040508,
+    "group_id": 220200405,
+    "m_enemy_id": 220200402,
+    "order": 7,
+    "set_position": 7,
+    "drop_energy": 50
+  },
+  {
+    "id": 22020040509,
+    "group_id": 220200405,
+    "m_enemy_id": 220200402,
+    "order": 8,
+    "set_position": 8,
+    "drop_energy": 50
+  },
+  {
+    "id": 22020040510,
+    "group_id": 220200405,
+    "m_enemy_id": 220200402,
+    "order": 9,
+    "set_position": 9,
+    "drop_energy": 50
+  },
+  {
+    "id": 22020040511,
+    "group_id": 220200405,
+    "m_enemy_id": 220200402,
+    "order": 10,
+    "set_position": 10,
+    "drop_energy": 50
+  },
+  {
+    "id": 22020040512,
+    "group_id": 220200405,
+    "m_enemy_id": 220200402,
+    "order": 11,
+    "set_position": 11,
+    "drop_energy": 50
+  },
+  {
+    "id": 22021010201,
+    "group_id": 220210102,
+    "m_enemy_id": 220210103,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021010202,
+    "group_id": 220210102,
+    "m_enemy_id": 220210104,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021010203,
+    "group_id": 220210102,
+    "m_enemy_id": 220210105,
+    "order": 2,
+    "set_position": 4,
+    "drop_energy": 250
+  },
+  {
+    "id": 22021010204,
+    "group_id": 220210102,
+    "m_enemy_id": 220210106,
+    "order": 3,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021010205,
+    "group_id": 220210102,
+    "m_enemy_id": 220210105,
+    "order": 4,
+    "set_position": 6,
+    "drop_energy": 250
+  },
+  {
+    "id": 22021010206,
+    "group_id": 220210102,
+    "m_enemy_id": 220210108,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22021010207,
+    "group_id": 220210102,
+    "m_enemy_id": 220210109,
+    "order": 6,
+    "set_position": 8,
+    "drop_energy": 300
+  },
+  {
+    "id": 22021010301,
+    "group_id": 220210103,
+    "m_enemy_id": 220210102,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021010302,
+    "group_id": 220210103,
+    "m_enemy_id": 220210104,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021010303,
+    "group_id": 220210103,
+    "m_enemy_id": 220210107,
+    "order": 2,
+    "set_position": 4,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021010304,
+    "group_id": 220210103,
+    "m_enemy_id": 220210106,
+    "order": 3,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021010305,
+    "group_id": 220210103,
+    "m_enemy_id": 220210111,
+    "order": 4,
+    "set_position": 7,
+    "drop_energy": 750
+  },
+  {
+    "id": 22021010401,
+    "group_id": 220210104,
+    "m_enemy_id": 220210103,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021010402,
+    "group_id": 220210104,
+    "m_enemy_id": 220210104,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021010403,
+    "group_id": 220210104,
+    "m_enemy_id": 220210103,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021010404,
+    "group_id": 220210104,
+    "m_enemy_id": 220210102,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021010405,
+    "group_id": 220210104,
+    "m_enemy_id": 220210109,
+    "order": 4,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 22021010406,
+    "group_id": 220210104,
+    "m_enemy_id": 220210108,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22021010407,
+    "group_id": 220210104,
+    "m_enemy_id": 220210107,
+    "order": 6,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021010501,
+    "group_id": 220210105,
+    "m_enemy_id": 220210104,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021010502,
+    "group_id": 220210105,
+    "m_enemy_id": 220210110,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 800
+  },
+  {
+    "id": 22021010503,
+    "group_id": 220210105,
+    "m_enemy_id": 220210104,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021010504,
+    "group_id": 220210105,
+    "m_enemy_id": 220210109,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 300
+  },
+  {
+    "id": 22021010505,
+    "group_id": 220210105,
+    "m_enemy_id": 220210106,
+    "order": 4,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021010506,
+    "group_id": 220210105,
+    "m_enemy_id": 220210108,
+    "order": 5,
+    "set_position": 6,
+    "drop_energy": 500
+  },
+  {
+    "id": 22021010507,
+    "group_id": 220210105,
+    "m_enemy_id": 220210108,
+    "order": 6,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22021010508,
+    "group_id": 220210105,
+    "m_enemy_id": 220210107,
+    "order": 7,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021010509,
+    "group_id": 220210105,
+    "m_enemy_id": 220210105,
+    "order": 8,
+    "set_position": 9,
+    "drop_energy": 250
+  },
+  {
+    "id": 22021020201,
+    "group_id": 220210202,
+    "m_enemy_id": 220210203,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021020202,
+    "group_id": 220210202,
+    "m_enemy_id": 220210204,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021020203,
+    "group_id": 220210202,
+    "m_enemy_id": 220210205,
+    "order": 2,
+    "set_position": 4,
+    "drop_energy": 250
+  },
+  {
+    "id": 22021020204,
+    "group_id": 220210202,
+    "m_enemy_id": 220210206,
+    "order": 3,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021020205,
+    "group_id": 220210202,
+    "m_enemy_id": 220210205,
+    "order": 4,
+    "set_position": 6,
+    "drop_energy": 250
+  },
+  {
+    "id": 22021020206,
+    "group_id": 220210202,
+    "m_enemy_id": 220210208,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22021020207,
+    "group_id": 220210202,
+    "m_enemy_id": 220210209,
+    "order": 6,
+    "set_position": 8,
+    "drop_energy": 300
+  },
+  {
+    "id": 22021020301,
+    "group_id": 220210203,
+    "m_enemy_id": 220210202,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021020302,
+    "group_id": 220210203,
+    "m_enemy_id": 220210204,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021020303,
+    "group_id": 220210203,
+    "m_enemy_id": 220210207,
+    "order": 2,
+    "set_position": 4,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021020304,
+    "group_id": 220210203,
+    "m_enemy_id": 220210206,
+    "order": 3,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021020305,
+    "group_id": 220210203,
+    "m_enemy_id": 220210211,
+    "order": 4,
+    "set_position": 7,
+    "drop_energy": 750
+  },
+  {
+    "id": 22021020401,
+    "group_id": 220210204,
+    "m_enemy_id": 220210203,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021020402,
+    "group_id": 220210204,
+    "m_enemy_id": 220210204,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021020403,
+    "group_id": 220210204,
+    "m_enemy_id": 220210203,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021020404,
+    "group_id": 220210204,
+    "m_enemy_id": 220210202,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021020405,
+    "group_id": 220210204,
+    "m_enemy_id": 220210209,
+    "order": 4,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 22021020406,
+    "group_id": 220210204,
+    "m_enemy_id": 220210208,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22021020407,
+    "group_id": 220210204,
+    "m_enemy_id": 220210207,
+    "order": 6,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021020501,
+    "group_id": 220210205,
+    "m_enemy_id": 220210204,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021020502,
+    "group_id": 220210205,
+    "m_enemy_id": 220210210,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 800
+  },
+  {
+    "id": 22021020503,
+    "group_id": 220210205,
+    "m_enemy_id": 220210204,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021020504,
+    "group_id": 220210205,
+    "m_enemy_id": 220210209,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 300
+  },
+  {
+    "id": 22021020505,
+    "group_id": 220210205,
+    "m_enemy_id": 220210206,
+    "order": 4,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021020506,
+    "group_id": 220210205,
+    "m_enemy_id": 220210208,
+    "order": 5,
+    "set_position": 6,
+    "drop_energy": 500
+  },
+  {
+    "id": 22021020507,
+    "group_id": 220210205,
+    "m_enemy_id": 220210208,
+    "order": 6,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22021020508,
+    "group_id": 220210205,
+    "m_enemy_id": 220210207,
+    "order": 7,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021020509,
+    "group_id": 220210205,
+    "m_enemy_id": 220210205,
+    "order": 8,
+    "set_position": 9,
+    "drop_energy": 250
+  },
+  {
+    "id": 22021030201,
+    "group_id": 220210302,
+    "m_enemy_id": 220210303,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021030202,
+    "group_id": 220210302,
+    "m_enemy_id": 220210304,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021030203,
+    "group_id": 220210302,
+    "m_enemy_id": 220210305,
+    "order": 2,
+    "set_position": 4,
+    "drop_energy": 250
+  },
+  {
+    "id": 22021030204,
+    "group_id": 220210302,
+    "m_enemy_id": 220210306,
+    "order": 3,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021030205,
+    "group_id": 220210302,
+    "m_enemy_id": 220210305,
+    "order": 4,
+    "set_position": 6,
+    "drop_energy": 250
+  },
+  {
+    "id": 22021030206,
+    "group_id": 220210302,
+    "m_enemy_id": 220210308,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22021030207,
+    "group_id": 220210302,
+    "m_enemy_id": 220210309,
+    "order": 6,
+    "set_position": 8,
+    "drop_energy": 300
+  },
+  {
+    "id": 22021030301,
+    "group_id": 220210303,
+    "m_enemy_id": 220210302,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021030302,
+    "group_id": 220210303,
+    "m_enemy_id": 220210304,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021030303,
+    "group_id": 220210303,
+    "m_enemy_id": 220210307,
+    "order": 2,
+    "set_position": 4,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021030304,
+    "group_id": 220210303,
+    "m_enemy_id": 220210306,
+    "order": 3,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021030305,
+    "group_id": 220210303,
+    "m_enemy_id": 220210311,
+    "order": 4,
+    "set_position": 7,
+    "drop_energy": 750
+  },
+  {
+    "id": 22021030401,
+    "group_id": 220210304,
+    "m_enemy_id": 220210303,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021030402,
+    "group_id": 220210304,
+    "m_enemy_id": 220210304,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021030403,
+    "group_id": 220210304,
+    "m_enemy_id": 220210303,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021030404,
+    "group_id": 220210304,
+    "m_enemy_id": 220210302,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021030405,
+    "group_id": 220210304,
+    "m_enemy_id": 220210309,
+    "order": 4,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 22021030406,
+    "group_id": 220210304,
+    "m_enemy_id": 220210308,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22021030407,
+    "group_id": 220210304,
+    "m_enemy_id": 220210307,
+    "order": 6,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021030501,
+    "group_id": 220210305,
+    "m_enemy_id": 220210304,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021030502,
+    "group_id": 220210305,
+    "m_enemy_id": 220210310,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 800
+  },
+  {
+    "id": 22021030503,
+    "group_id": 220210305,
+    "m_enemy_id": 220210304,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021030504,
+    "group_id": 220210305,
+    "m_enemy_id": 220210309,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 300
+  },
+  {
+    "id": 22021030505,
+    "group_id": 220210305,
+    "m_enemy_id": 220210306,
+    "order": 4,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021030506,
+    "group_id": 220210305,
+    "m_enemy_id": 220210308,
+    "order": 5,
+    "set_position": 6,
+    "drop_energy": 500
+  },
+  {
+    "id": 22021030507,
+    "group_id": 220210305,
+    "m_enemy_id": 220210308,
+    "order": 6,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22021030508,
+    "group_id": 220210305,
+    "m_enemy_id": 220210307,
+    "order": 7,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021030509,
+    "group_id": 220210305,
+    "m_enemy_id": 220210305,
+    "order": 8,
+    "set_position": 9,
+    "drop_energy": 250
+  },
+  {
+    "id": 22021040201,
+    "group_id": 220210402,
+    "m_enemy_id": 220210403,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021040202,
+    "group_id": 220210402,
+    "m_enemy_id": 220210404,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021040203,
+    "group_id": 220210402,
+    "m_enemy_id": 220210405,
+    "order": 2,
+    "set_position": 4,
+    "drop_energy": 250
+  },
+  {
+    "id": 22021040204,
+    "group_id": 220210402,
+    "m_enemy_id": 220210406,
+    "order": 3,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021040205,
+    "group_id": 220210402,
+    "m_enemy_id": 220210405,
+    "order": 4,
+    "set_position": 6,
+    "drop_energy": 250
+  },
+  {
+    "id": 22021040206,
+    "group_id": 220210402,
+    "m_enemy_id": 220210408,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22021040207,
+    "group_id": 220210402,
+    "m_enemy_id": 220210409,
+    "order": 6,
+    "set_position": 8,
+    "drop_energy": 300
+  },
+  {
+    "id": 22021040301,
+    "group_id": 220210403,
+    "m_enemy_id": 220210402,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021040302,
+    "group_id": 220210403,
+    "m_enemy_id": 220210404,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021040303,
+    "group_id": 220210403,
+    "m_enemy_id": 220210407,
+    "order": 2,
+    "set_position": 4,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021040304,
+    "group_id": 220210403,
+    "m_enemy_id": 220210406,
+    "order": 3,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021040305,
+    "group_id": 220210403,
+    "m_enemy_id": 220210411,
+    "order": 4,
+    "set_position": 7,
+    "drop_energy": 750
+  },
+  {
+    "id": 22021040401,
+    "group_id": 220210404,
+    "m_enemy_id": 220210403,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021040402,
+    "group_id": 220210404,
+    "m_enemy_id": 220210404,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021040403,
+    "group_id": 220210404,
+    "m_enemy_id": 220210403,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021040404,
+    "group_id": 220210404,
+    "m_enemy_id": 220210402,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021040405,
+    "group_id": 220210404,
+    "m_enemy_id": 220210409,
+    "order": 4,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 22021040406,
+    "group_id": 220210404,
+    "m_enemy_id": 220210408,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22021040407,
+    "group_id": 220210404,
+    "m_enemy_id": 220210407,
+    "order": 6,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021040501,
+    "group_id": 220210405,
+    "m_enemy_id": 220210404,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021040502,
+    "group_id": 220210405,
+    "m_enemy_id": 220210410,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 800
+  },
+  {
+    "id": 22021040503,
+    "group_id": 220210405,
+    "m_enemy_id": 220210404,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021040504,
+    "group_id": 220210405,
+    "m_enemy_id": 220210409,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 300
+  },
+  {
+    "id": 22021040505,
+    "group_id": 220210405,
+    "m_enemy_id": 220210406,
+    "order": 4,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021040506,
+    "group_id": 220210405,
+    "m_enemy_id": 220210408,
+    "order": 5,
+    "set_position": 6,
+    "drop_energy": 500
+  },
+  {
+    "id": 22021040507,
+    "group_id": 220210405,
+    "m_enemy_id": 220210408,
+    "order": 6,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22021040508,
+    "group_id": 220210405,
+    "m_enemy_id": 220210407,
+    "order": 7,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021040509,
+    "group_id": 220210405,
+    "m_enemy_id": 220210405,
+    "order": 8,
+    "set_position": 9,
+    "drop_energy": 250
+  },
+  {
+    "id": 22021050201,
+    "group_id": 220210502,
+    "m_enemy_id": 220210503,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021050202,
+    "group_id": 220210502,
+    "m_enemy_id": 220210504,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021050203,
+    "group_id": 220210502,
+    "m_enemy_id": 220210505,
+    "order": 2,
+    "set_position": 4,
+    "drop_energy": 250
+  },
+  {
+    "id": 22021050204,
+    "group_id": 220210502,
+    "m_enemy_id": 220210506,
+    "order": 3,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021050205,
+    "group_id": 220210502,
+    "m_enemy_id": 220210505,
+    "order": 4,
+    "set_position": 6,
+    "drop_energy": 250
+  },
+  {
+    "id": 22021050206,
+    "group_id": 220210502,
+    "m_enemy_id": 220210508,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22021050207,
+    "group_id": 220210502,
+    "m_enemy_id": 220210509,
+    "order": 6,
+    "set_position": 8,
+    "drop_energy": 300
+  },
+  {
+    "id": 22021050301,
+    "group_id": 220210503,
+    "m_enemy_id": 220210502,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021050302,
+    "group_id": 220210503,
+    "m_enemy_id": 220210504,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021050303,
+    "group_id": 220210503,
+    "m_enemy_id": 220210507,
+    "order": 2,
+    "set_position": 4,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021050304,
+    "group_id": 220210503,
+    "m_enemy_id": 220210506,
+    "order": 3,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021050305,
+    "group_id": 220210503,
+    "m_enemy_id": 220210511,
+    "order": 4,
+    "set_position": 7,
+    "drop_energy": 750
+  },
+  {
+    "id": 22021050401,
+    "group_id": 220210504,
+    "m_enemy_id": 220210503,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021050402,
+    "group_id": 220210504,
+    "m_enemy_id": 220210504,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021050403,
+    "group_id": 220210504,
+    "m_enemy_id": 220210503,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021050404,
+    "group_id": 220210504,
+    "m_enemy_id": 220210502,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021050405,
+    "group_id": 220210504,
+    "m_enemy_id": 220210509,
+    "order": 4,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 22021050406,
+    "group_id": 220210504,
+    "m_enemy_id": 220210508,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22021050407,
+    "group_id": 220210504,
+    "m_enemy_id": 220210507,
+    "order": 6,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021050501,
+    "group_id": 220210505,
+    "m_enemy_id": 220210504,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021050502,
+    "group_id": 220210505,
+    "m_enemy_id": 220210510,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 800
+  },
+  {
+    "id": 22021050503,
+    "group_id": 220210505,
+    "m_enemy_id": 220210504,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021050504,
+    "group_id": 220210505,
+    "m_enemy_id": 220210509,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 300
+  },
+  {
+    "id": 22021050505,
+    "group_id": 220210505,
+    "m_enemy_id": 220210506,
+    "order": 4,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021050506,
+    "group_id": 220210505,
+    "m_enemy_id": 220210508,
+    "order": 5,
+    "set_position": 6,
+    "drop_energy": 500
+  },
+  {
+    "id": 22021050507,
+    "group_id": 220210505,
+    "m_enemy_id": 220210508,
+    "order": 6,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22021050508,
+    "group_id": 220210505,
+    "m_enemy_id": 220210507,
+    "order": 7,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021050509,
+    "group_id": 220210505,
+    "m_enemy_id": 220210505,
+    "order": 8,
+    "set_position": 9,
+    "drop_energy": 250
+  },
+  {
+    "id": 22021060201,
+    "group_id": 220210602,
+    "m_enemy_id": 220210603,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021060202,
+    "group_id": 220210602,
+    "m_enemy_id": 220210604,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021060203,
+    "group_id": 220210602,
+    "m_enemy_id": 220210605,
+    "order": 2,
+    "set_position": 4,
+    "drop_energy": 250
+  },
+  {
+    "id": 22021060204,
+    "group_id": 220210602,
+    "m_enemy_id": 220210606,
+    "order": 3,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021060205,
+    "group_id": 220210602,
+    "m_enemy_id": 220210605,
+    "order": 4,
+    "set_position": 6,
+    "drop_energy": 250
+  },
+  {
+    "id": 22021060206,
+    "group_id": 220210602,
+    "m_enemy_id": 220210608,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22021060207,
+    "group_id": 220210602,
+    "m_enemy_id": 220210609,
+    "order": 6,
+    "set_position": 8,
+    "drop_energy": 300
+  },
+  {
+    "id": 22021060301,
+    "group_id": 220210603,
+    "m_enemy_id": 220210602,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021060302,
+    "group_id": 220210603,
+    "m_enemy_id": 220210604,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021060303,
+    "group_id": 220210603,
+    "m_enemy_id": 220210607,
+    "order": 2,
+    "set_position": 4,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021060304,
+    "group_id": 220210603,
+    "m_enemy_id": 220210606,
+    "order": 3,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021060305,
+    "group_id": 220210603,
+    "m_enemy_id": 220210611,
+    "order": 4,
+    "set_position": 7,
+    "drop_energy": 750
+  },
+  {
+    "id": 22021060401,
+    "group_id": 220210604,
+    "m_enemy_id": 220210603,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021060402,
+    "group_id": 220210604,
+    "m_enemy_id": 220210604,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021060403,
+    "group_id": 220210604,
+    "m_enemy_id": 220210603,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021060404,
+    "group_id": 220210604,
+    "m_enemy_id": 220210602,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021060405,
+    "group_id": 220210604,
+    "m_enemy_id": 220210609,
+    "order": 4,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 22021060406,
+    "group_id": 220210604,
+    "m_enemy_id": 220210608,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22021060407,
+    "group_id": 220210604,
+    "m_enemy_id": 220210607,
+    "order": 6,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021060501,
+    "group_id": 220210605,
+    "m_enemy_id": 220210604,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021060502,
+    "group_id": 220210605,
+    "m_enemy_id": 220210610,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 800
+  },
+  {
+    "id": 22021060503,
+    "group_id": 220210605,
+    "m_enemy_id": 220210604,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021060504,
+    "group_id": 220210605,
+    "m_enemy_id": 220210609,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 300
+  },
+  {
+    "id": 22021060505,
+    "group_id": 220210605,
+    "m_enemy_id": 220210606,
+    "order": 4,
+    "set_position": 5,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021060506,
+    "group_id": 220210605,
+    "m_enemy_id": 220210608,
+    "order": 5,
+    "set_position": 6,
+    "drop_energy": 500
+  },
+  {
+    "id": 22021060507,
+    "group_id": 220210605,
+    "m_enemy_id": 220210608,
+    "order": 6,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22021060508,
+    "group_id": 220210605,
+    "m_enemy_id": 220210607,
+    "order": 7,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021060509,
+    "group_id": 220210605,
+    "m_enemy_id": 220210605,
+    "order": 8,
+    "set_position": 9,
+    "drop_energy": 250
+  },
+  {
+    "id": 22021070201,
+    "group_id": 220210702,
+    "m_enemy_id": 220210702,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021070202,
+    "group_id": 220210702,
+    "m_enemy_id": 220210704,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021070203,
+    "group_id": 220210702,
+    "m_enemy_id": 220210703,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021070204,
+    "group_id": 220210702,
+    "m_enemy_id": 220210709,
+    "order": 3,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 22021070205,
+    "group_id": 220210702,
+    "m_enemy_id": 220210705,
+    "order": 4,
+    "set_position": 6,
+    "drop_energy": 250
+  },
+  {
+    "id": 22021070206,
+    "group_id": 220210702,
+    "m_enemy_id": 220210706,
+    "order": 5,
+    "set_position": 8,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021070207,
+    "group_id": 220210702,
+    "m_enemy_id": 220210707,
+    "order": 6,
+    "set_position": 9,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021070301,
+    "group_id": 220210703,
+    "m_enemy_id": 220210704,
+    "order": 0,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021070302,
+    "group_id": 220210703,
+    "m_enemy_id": 220210704,
+    "order": 1,
+    "set_position": 2,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021070303,
+    "group_id": 220210703,
+    "m_enemy_id": 220210709,
+    "order": 2,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 22021070304,
+    "group_id": 220210703,
+    "m_enemy_id": 220210709,
+    "order": 3,
+    "set_position": 6,
+    "drop_energy": 300
+  },
+  {
+    "id": 22021070305,
+    "group_id": 220210703,
+    "m_enemy_id": 220210708,
+    "order": 4,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22021070306,
+    "group_id": 220210703,
+    "m_enemy_id": 220210706,
+    "order": 5,
+    "set_position": 8,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021070307,
+    "group_id": 220210703,
+    "m_enemy_id": 220210707,
+    "order": 6,
+    "set_position": 9,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021070308,
+    "group_id": 220210703,
+    "m_enemy_id": 220210708,
+    "order": 7,
+    "set_position": 10,
+    "drop_energy": 500
+  },
+  {
+    "id": 22021070401,
+    "group_id": 220210704,
+    "m_enemy_id": 220210703,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021070402,
+    "group_id": 220210704,
+    "m_enemy_id": 220210702,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021070403,
+    "group_id": 220210704,
+    "m_enemy_id": 220210705,
+    "order": 2,
+    "set_position": 6,
+    "drop_energy": 250
+  },
+  {
+    "id": 22021070404,
+    "group_id": 220210704,
+    "m_enemy_id": 220210706,
+    "order": 3,
+    "set_position": 8,
+    "drop_energy": 400
+  },
+  {
+    "id": 22021070405,
+    "group_id": 220210704,
+    "m_enemy_id": 220210707,
+    "order": 4,
+    "set_position": 10,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021070501,
+    "group_id": 220210705,
+    "m_enemy_id": 220210703,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021070502,
+    "group_id": 220210705,
+    "m_enemy_id": 220210710,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 700
+  },
+  {
+    "id": 22021070503,
+    "group_id": 220210705,
+    "m_enemy_id": 220210702,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021070504,
+    "group_id": 220210705,
+    "m_enemy_id": 220210702,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021070505,
+    "group_id": 220210705,
+    "m_enemy_id": 220210709,
+    "order": 4,
+    "set_position": 4,
+    "drop_energy": 300
+  },
+  {
+    "id": 22021070506,
+    "group_id": 220210705,
+    "m_enemy_id": 220210703,
+    "order": 5,
+    "set_position": 5,
+    "drop_energy": 200
+  },
+  {
+    "id": 22021070507,
+    "group_id": 220210705,
+    "m_enemy_id": 220210711,
+    "order": 6,
+    "set_position": 7,
+    "drop_energy": 750
+  },
+  {
+    "id": 22021070508,
+    "group_id": 220210705,
+    "m_enemy_id": 220210709,
+    "order": 7,
+    "set_position": 9,
+    "drop_energy": 300
+  },
+  {
+    "id": 22022010201,
+    "group_id": 220220102,
+    "m_enemy_id": 220220102,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22022010202,
+    "group_id": 220220102,
+    "m_enemy_id": 220220104,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22022010203,
+    "group_id": 220220102,
+    "m_enemy_id": 220220103,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22022010204,
+    "group_id": 220220102,
+    "m_enemy_id": 220220105,
+    "order": 3,
+    "set_position": 4,
+    "drop_energy": 250
+  },
+  {
+    "id": 22022010205,
+    "group_id": 220220102,
+    "m_enemy_id": 220220109,
+    "order": 4,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 22022010206,
+    "group_id": 220220102,
+    "m_enemy_id": 220220105,
+    "order": 5,
+    "set_position": 6,
+    "drop_energy": 250
+  },
+  {
+    "id": 22022010207,
+    "group_id": 220220102,
+    "m_enemy_id": 220220106,
+    "order": 6,
+    "set_position": 8,
+    "drop_energy": 400
+  },
+  {
+    "id": 22022010301,
+    "group_id": 220220103,
+    "m_enemy_id": 220220103,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22022010302,
+    "group_id": 220220103,
+    "m_enemy_id": 220220111,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 800
+  },
+  {
+    "id": 22022010303,
+    "group_id": 220220103,
+    "m_enemy_id": 220220102,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22022010304,
+    "group_id": 220220103,
+    "m_enemy_id": 220220109,
+    "order": 3,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 22022010305,
+    "group_id": 220220103,
+    "m_enemy_id": 220220109,
+    "order": 4,
+    "set_position": 6,
+    "drop_energy": 300
+  },
+  {
+    "id": 22022010306,
+    "group_id": 220220103,
+    "m_enemy_id": 220220108,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22022010307,
+    "group_id": 220220103,
+    "m_enemy_id": 220220107,
+    "order": 6,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22022010308,
+    "group_id": 220220103,
+    "m_enemy_id": 220220106,
+    "order": 7,
+    "set_position": 10,
+    "drop_energy": 400
+  },
+  {
+    "id": 22022010401,
+    "group_id": 220220104,
+    "m_enemy_id": 220220103,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22022010402,
+    "group_id": 220220104,
+    "m_enemy_id": 220220104,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22022010403,
+    "group_id": 220220104,
+    "m_enemy_id": 220220102,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22022010404,
+    "group_id": 220220104,
+    "m_enemy_id": 220220102,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 200
+  },
+  {
+    "id": 22022010405,
+    "group_id": 220220104,
+    "m_enemy_id": 220220109,
+    "order": 4,
+    "set_position": 4,
+    "drop_energy": 300
+  },
+  {
+    "id": 22022010406,
+    "group_id": 220220104,
+    "m_enemy_id": 220220108,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22022010407,
+    "group_id": 220220104,
+    "m_enemy_id": 220220105,
+    "order": 6,
+    "set_position": 9,
+    "drop_energy": 250
+  },
+  {
+    "id": 22022010501,
+    "group_id": 220220105,
+    "m_enemy_id": 220220104,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 400
+  },
+  {
+    "id": 22022010502,
+    "group_id": 220220105,
+    "m_enemy_id": 220220110,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 700
+  },
+  {
+    "id": 22022010503,
+    "group_id": 220220105,
+    "m_enemy_id": 220220102,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22022010504,
+    "group_id": 220220105,
+    "m_enemy_id": 220220109,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 300
+  },
+  {
+    "id": 22022010505,
+    "group_id": 220220105,
+    "m_enemy_id": 220220105,
+    "order": 4,
+    "set_position": 5,
+    "drop_energy": 250
+  },
+  {
+    "id": 22022010506,
+    "group_id": 220220105,
+    "m_enemy_id": 220220106,
+    "order": 5,
+    "set_position": 6,
+    "drop_energy": 400
+  },
+  {
+    "id": 22022010507,
+    "group_id": 220220105,
+    "m_enemy_id": 220220108,
+    "order": 6,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22022010508,
+    "group_id": 220220105,
+    "m_enemy_id": 220220107,
+    "order": 7,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22023010201,
+    "group_id": 220230102,
+    "m_enemy_id": 220230106,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22023010202,
+    "group_id": 220230102,
+    "m_enemy_id": 220230102,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 700
+  },
+  {
+    "id": 22023010203,
+    "group_id": 220230102,
+    "m_enemy_id": 220230116,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 150
+  },
+  {
+    "id": 22023010204,
+    "group_id": 220230102,
+    "m_enemy_id": 220230107,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 200
+  },
+  {
+    "id": 22023010205,
+    "group_id": 220230102,
+    "m_enemy_id": 220230104,
+    "order": 4,
+    "set_position": 4,
+    "drop_energy": 400
+  },
+  {
+    "id": 22023010206,
+    "group_id": 220230102,
+    "m_enemy_id": 220230111,
+    "order": 5,
+    "set_position": 5,
+    "drop_energy": 150
+  },
+  {
+    "id": 22023010207,
+    "group_id": 220230102,
+    "m_enemy_id": 220230112,
+    "order": 6,
+    "set_position": 6,
+    "drop_energy": 150
+  },
+  {
+    "id": 22023010208,
+    "group_id": 220230102,
+    "m_enemy_id": 220230112,
+    "order": 7,
+    "set_position": 7,
+    "drop_energy": 150
+  },
+  {
+    "id": 22023010209,
+    "group_id": 220230102,
+    "m_enemy_id": 220230109,
+    "order": 8,
+    "set_position": 8,
+    "drop_energy": 400
+  },
+  {
+    "id": 22023010210,
+    "group_id": 220230102,
+    "m_enemy_id": 220230103,
+    "order": 9,
+    "set_position": 9,
+    "drop_energy": 150
+  },
+  {
+    "id": 22023010211,
+    "group_id": 220230102,
+    "m_enemy_id": 220230105,
+    "order": 10,
+    "set_position": 10,
+    "drop_energy": 500
+  },
+  {
+    "id": 22023010212,
+    "group_id": 220230102,
+    "m_enemy_id": 220230105,
+    "order": 11,
+    "set_position": 11,
+    "drop_energy": 500
+  },
+  {
+    "id": 22023010301,
+    "group_id": 220230103,
+    "m_enemy_id": 220230112,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 150
+  },
+  {
+    "id": 22023010302,
+    "group_id": 220230103,
+    "m_enemy_id": 220230104,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22023010303,
+    "group_id": 220230103,
+    "m_enemy_id": 220230107,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22023010304,
+    "group_id": 220230103,
+    "m_enemy_id": 220230111,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 150
+  },
+  {
+    "id": 22023010305,
+    "group_id": 220230103,
+    "m_enemy_id": 220230105,
+    "order": 4,
+    "set_position": 6,
+    "drop_energy": 500
+  },
+  {
+    "id": 22023010306,
+    "group_id": 220230103,
+    "m_enemy_id": 220230105,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22023010401,
+    "group_id": 220230104,
+    "m_enemy_id": 220230111,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 150
+  },
+  {
+    "id": 22023010402,
+    "group_id": 220230104,
+    "m_enemy_id": 220230104,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22023010403,
+    "group_id": 220230104,
+    "m_enemy_id": 220230106,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22023010404,
+    "group_id": 220230104,
+    "m_enemy_id": 220230112,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 150
+  },
+  {
+    "id": 22023010405,
+    "group_id": 220230104,
+    "m_enemy_id": 220230105,
+    "order": 4,
+    "set_position": 6,
+    "drop_energy": 500
+  },
+  {
+    "id": 22023010406,
+    "group_id": 220230104,
+    "m_enemy_id": 220230105,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22023010501,
+    "group_id": 220230105,
+    "m_enemy_id": 220230112,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 150
+  },
+  {
+    "id": 22023010502,
+    "group_id": 220230105,
+    "m_enemy_id": 220230111,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 150
+  },
+  {
+    "id": 22023010503,
+    "group_id": 220230105,
+    "m_enemy_id": 220230111,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 150
+  },
+  {
+    "id": 22023010504,
+    "group_id": 220230105,
+    "m_enemy_id": 220230112,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 150
+  },
+  {
+    "id": 22023010505,
+    "group_id": 220230105,
+    "m_enemy_id": 220230116,
+    "order": 4,
+    "set_position": 4,
+    "drop_energy": 150
+  },
+  {
+    "id": 22023010506,
+    "group_id": 220230105,
+    "m_enemy_id": 220230116,
+    "order": 5,
+    "set_position": 5,
+    "drop_energy": 150
+  },
+  {
+    "id": 22023010507,
+    "group_id": 220230105,
+    "m_enemy_id": 220230114,
+    "order": 6,
+    "set_position": 6,
+    "drop_energy": 200
+  },
+  {
+    "id": 22023010508,
+    "group_id": 220230105,
+    "m_enemy_id": 220230113,
+    "order": 7,
+    "set_position": 7,
+    "drop_energy": 300
+  },
+  {
+    "id": 22023010509,
+    "group_id": 220230105,
+    "m_enemy_id": 220230114,
+    "order": 8,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22024010201,
+    "group_id": 220240102,
+    "m_enemy_id": 220240112,
+    "order": 0,
+    "set_position": 11,
+    "drop_energy": 550
+  },
+  {
+    "id": 22024010202,
+    "group_id": 220240102,
+    "m_enemy_id": 220240113,
+    "order": 1,
+    "set_position": 10,
+    "drop_energy": 550
+  },
+  {
+    "id": 22024010203,
+    "group_id": 220240102,
+    "m_enemy_id": 220240103,
+    "order": 2,
+    "set_position": 0,
+    "drop_energy": 270
+  },
+  {
+    "id": 22024010204,
+    "group_id": 220240102,
+    "m_enemy_id": 220240104,
+    "order": 3,
+    "set_position": 1,
+    "drop_energy": 270
+  },
+  {
+    "id": 22024010205,
+    "group_id": 220240102,
+    "m_enemy_id": 220240103,
+    "order": 4,
+    "set_position": 2,
+    "drop_energy": 270
+  },
+  {
+    "id": 22024010206,
+    "group_id": 220240102,
+    "m_enemy_id": 220240104,
+    "order": 5,
+    "set_position": 3,
+    "drop_energy": 270
+  },
+  {
+    "id": 22024010207,
+    "group_id": 220240102,
+    "m_enemy_id": 220240111,
+    "order": 6,
+    "set_position": 9,
+    "drop_energy": 300
+  },
+  {
+    "id": 22024010208,
+    "group_id": 220240102,
+    "m_enemy_id": 220240109,
+    "order": 7,
+    "set_position": 4,
+    "drop_energy": 300
+  },
+  {
+    "id": 22024010209,
+    "group_id": 220240102,
+    "m_enemy_id": 220240109,
+    "order": 8,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 22024010210,
+    "group_id": 220240102,
+    "m_enemy_id": 220240109,
+    "order": 9,
+    "set_position": 6,
+    "drop_energy": 300
+  },
+  {
+    "id": 22024010211,
+    "group_id": 220240102,
+    "m_enemy_id": 220240110,
+    "order": 10,
+    "set_position": 7,
+    "drop_energy": 200
+  },
+  {
+    "id": 22024010212,
+    "group_id": 220240102,
+    "m_enemy_id": 220240110,
+    "order": 11,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22024010301,
+    "group_id": 220240103,
+    "m_enemy_id": 220240112,
+    "order": 0,
+    "set_position": 9,
+    "drop_energy": 550
+  },
+  {
+    "id": 22024010302,
+    "group_id": 220240103,
+    "m_enemy_id": 220240113,
+    "order": 1,
+    "set_position": 10,
+    "drop_energy": 550
+  },
+  {
+    "id": 22024010303,
+    "group_id": 220240103,
+    "m_enemy_id": 220240112,
+    "order": 2,
+    "set_position": 11,
+    "drop_energy": 550
+  },
+  {
+    "id": 22024010304,
+    "group_id": 220240103,
+    "m_enemy_id": 220240103,
+    "order": 3,
+    "set_position": 0,
+    "drop_energy": 270
+  },
+  {
+    "id": 22024010305,
+    "group_id": 220240103,
+    "m_enemy_id": 220240104,
+    "order": 4,
+    "set_position": 1,
+    "drop_energy": 270
+  },
+  {
+    "id": 22024010306,
+    "group_id": 220240103,
+    "m_enemy_id": 220240103,
+    "order": 5,
+    "set_position": 2,
+    "drop_energy": 270
+  },
+  {
+    "id": 22024010307,
+    "group_id": 220240103,
+    "m_enemy_id": 220240104,
+    "order": 6,
+    "set_position": 3,
+    "drop_energy": 270
+  },
+  {
+    "id": 22024010308,
+    "group_id": 220240103,
+    "m_enemy_id": 220240106,
+    "order": 7,
+    "set_position": 6,
+    "drop_energy": 150
+  },
+  {
+    "id": 22024010309,
+    "group_id": 220240103,
+    "m_enemy_id": 220240111,
+    "order": 8,
+    "set_position": 7,
+    "drop_energy": 300
+  },
+  {
+    "id": 22024010310,
+    "group_id": 220240103,
+    "m_enemy_id": 220240111,
+    "order": 9,
+    "set_position": 8,
+    "drop_energy": 300
+  },
+  {
+    "id": 22024010311,
+    "group_id": 220240103,
+    "m_enemy_id": 220240105,
+    "order": 10,
+    "set_position": 4,
+    "drop_energy": 150
+  },
+  {
+    "id": 22024010312,
+    "group_id": 220240103,
+    "m_enemy_id": 220240105,
+    "order": 11,
+    "set_position": 5,
+    "drop_energy": 150
+  },
+  {
+    "id": 22024010401,
+    "group_id": 220240104,
+    "m_enemy_id": 220240113,
+    "order": 0,
+    "set_position": 10,
+    "drop_energy": 550
+  },
+  {
+    "id": 22024010402,
+    "group_id": 220240104,
+    "m_enemy_id": 220240112,
+    "order": 1,
+    "set_position": 11,
+    "drop_energy": 550
+  },
+  {
+    "id": 22024010403,
+    "group_id": 220240104,
+    "m_enemy_id": 220240103,
+    "order": 2,
+    "set_position": 0,
+    "drop_energy": 270
+  },
+  {
+    "id": 22024010404,
+    "group_id": 220240104,
+    "m_enemy_id": 220240104,
+    "order": 3,
+    "set_position": 1,
+    "drop_energy": 270
+  },
+  {
+    "id": 22024010405,
+    "group_id": 220240104,
+    "m_enemy_id": 220240103,
+    "order": 4,
+    "set_position": 2,
+    "drop_energy": 270
+  },
+  {
+    "id": 22024010406,
+    "group_id": 220240104,
+    "m_enemy_id": 220240106,
+    "order": 5,
+    "set_position": 9,
+    "drop_energy": 150
+  },
+  {
+    "id": 22024010407,
+    "group_id": 220240104,
+    "m_enemy_id": 220240111,
+    "order": 6,
+    "set_position": 6,
+    "drop_energy": 300
+  },
+  {
+    "id": 22024010408,
+    "group_id": 220240104,
+    "m_enemy_id": 220240105,
+    "order": 7,
+    "set_position": 3,
+    "drop_energy": 150
+  },
+  {
+    "id": 22024010409,
+    "group_id": 220240104,
+    "m_enemy_id": 220240105,
+    "order": 8,
+    "set_position": 4,
+    "drop_energy": 150
+  },
+  {
+    "id": 22024010410,
+    "group_id": 220240104,
+    "m_enemy_id": 220240105,
+    "order": 9,
+    "set_position": 5,
+    "drop_energy": 150
+  },
+  {
+    "id": 22024010411,
+    "group_id": 220240104,
+    "m_enemy_id": 220240109,
+    "order": 10,
+    "set_position": 7,
+    "drop_energy": 300
+  },
+  {
+    "id": 22024010412,
+    "group_id": 220240104,
+    "m_enemy_id": 220240109,
+    "order": 11,
+    "set_position": 8,
+    "drop_energy": 300
+  },
+  {
+    "id": 22024010501,
+    "group_id": 220240105,
+    "m_enemy_id": 220240102,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 50
+  },
+  {
+    "id": 22024010502,
+    "group_id": 220240105,
+    "m_enemy_id": 220240102,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 50
+  },
+  {
+    "id": 22024010503,
+    "group_id": 220240105,
+    "m_enemy_id": 220240102,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 50
+  },
+  {
+    "id": 22024010504,
+    "group_id": 220240105,
+    "m_enemy_id": 220240102,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 50
+  },
+  {
+    "id": 22024010505,
+    "group_id": 220240105,
+    "m_enemy_id": 220240102,
+    "order": 4,
+    "set_position": 4,
+    "drop_energy": 50
+  },
+  {
+    "id": 22024010506,
+    "group_id": 220240105,
+    "m_enemy_id": 220240102,
+    "order": 5,
+    "set_position": 5,
+    "drop_energy": 50
+  },
+  {
+    "id": 22024010507,
+    "group_id": 220240105,
+    "m_enemy_id": 220240102,
+    "order": 6,
+    "set_position": 6,
+    "drop_energy": 50
+  },
+  {
+    "id": 22024010508,
+    "group_id": 220240105,
+    "m_enemy_id": 220240102,
+    "order": 7,
+    "set_position": 7,
+    "drop_energy": 50
+  },
+  {
+    "id": 22024010509,
+    "group_id": 220240105,
+    "m_enemy_id": 220240102,
+    "order": 8,
+    "set_position": 8,
+    "drop_energy": 50
+  },
+  {
+    "id": 22024010510,
+    "group_id": 220240105,
+    "m_enemy_id": 220240102,
+    "order": 9,
+    "set_position": 9,
+    "drop_energy": 50
+  },
+  {
+    "id": 22024010511,
+    "group_id": 220240105,
+    "m_enemy_id": 220240102,
+    "order": 10,
+    "set_position": 10,
+    "drop_energy": 50
+  },
+  {
+    "id": 22024010512,
+    "group_id": 220240105,
+    "m_enemy_id": 220240102,
+    "order": 11,
+    "set_position": 11,
+    "drop_energy": 50
+  },
+  {
+    "id": 22025010201,
+    "group_id": 220250102,
+    "m_enemy_id": 220250102,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22025010202,
+    "group_id": 220250102,
+    "m_enemy_id": 220250104,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22025010203,
+    "group_id": 220250102,
+    "m_enemy_id": 220250103,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22025010204,
+    "group_id": 220250102,
+    "m_enemy_id": 220250109,
+    "order": 3,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 22025010205,
+    "group_id": 220250102,
+    "m_enemy_id": 220250105,
+    "order": 4,
+    "set_position": 6,
+    "drop_energy": 250
+  },
+  {
+    "id": 22025010206,
+    "group_id": 220250102,
+    "m_enemy_id": 220250106,
+    "order": 5,
+    "set_position": 8,
+    "drop_energy": 400
+  },
+  {
+    "id": 22025010207,
+    "group_id": 220250102,
+    "m_enemy_id": 220250107,
+    "order": 6,
+    "set_position": 9,
+    "drop_energy": 200
+  },
+  {
+    "id": 22025010301,
+    "group_id": 220250103,
+    "m_enemy_id": 220250104,
+    "order": 0,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22025010302,
+    "group_id": 220250103,
+    "m_enemy_id": 220250104,
+    "order": 1,
+    "set_position": 2,
+    "drop_energy": 400
+  },
+  {
+    "id": 22025010303,
+    "group_id": 220250103,
+    "m_enemy_id": 220250109,
+    "order": 2,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 22025010304,
+    "group_id": 220250103,
+    "m_enemy_id": 220250109,
+    "order": 3,
+    "set_position": 6,
+    "drop_energy": 300
+  },
+  {
+    "id": 22025010305,
+    "group_id": 220250103,
+    "m_enemy_id": 220250108,
+    "order": 4,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22025010306,
+    "group_id": 220250103,
+    "m_enemy_id": 220250106,
+    "order": 5,
+    "set_position": 8,
+    "drop_energy": 400
+  },
+  {
+    "id": 22025010307,
+    "group_id": 220250103,
+    "m_enemy_id": 220250107,
+    "order": 6,
+    "set_position": 9,
+    "drop_energy": 200
+  },
+  {
+    "id": 22025010308,
+    "group_id": 220250103,
+    "m_enemy_id": 220250108,
+    "order": 7,
+    "set_position": 10,
+    "drop_energy": 500
+  },
+  {
+    "id": 22025010401,
+    "group_id": 220250104,
+    "m_enemy_id": 220250103,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22025010402,
+    "group_id": 220250104,
+    "m_enemy_id": 220250102,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 200
+  },
+  {
+    "id": 22025010403,
+    "group_id": 220250104,
+    "m_enemy_id": 220250105,
+    "order": 2,
+    "set_position": 6,
+    "drop_energy": 250
+  },
+  {
+    "id": 22025010404,
+    "group_id": 220250104,
+    "m_enemy_id": 220250106,
+    "order": 3,
+    "set_position": 8,
+    "drop_energy": 400
+  },
+  {
+    "id": 22025010405,
+    "group_id": 220250104,
+    "m_enemy_id": 220250107,
+    "order": 4,
+    "set_position": 10,
+    "drop_energy": 200
+  },
+  {
+    "id": 22025010501,
+    "group_id": 220250105,
+    "m_enemy_id": 220250103,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22025010502,
+    "group_id": 220250105,
+    "m_enemy_id": 220250110,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 700
+  },
+  {
+    "id": 22025010503,
+    "group_id": 220250105,
+    "m_enemy_id": 220250102,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22025010504,
+    "group_id": 220250105,
+    "m_enemy_id": 220250102,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 200
+  },
+  {
+    "id": 22025010505,
+    "group_id": 220250105,
+    "m_enemy_id": 220250109,
+    "order": 4,
+    "set_position": 4,
+    "drop_energy": 300
+  },
+  {
+    "id": 22025010506,
+    "group_id": 220250105,
+    "m_enemy_id": 220250103,
+    "order": 5,
+    "set_position": 5,
+    "drop_energy": 200
+  },
+  {
+    "id": 22025010507,
+    "group_id": 220250105,
+    "m_enemy_id": 220250111,
+    "order": 6,
+    "set_position": 7,
+    "drop_energy": 750
+  },
+  {
+    "id": 22025010508,
+    "group_id": 220250105,
+    "m_enemy_id": 220250109,
+    "order": 7,
+    "set_position": 9,
+    "drop_energy": 300
+  },
+  {
+    "id": 22025020201,
+    "group_id": 220250202,
+    "m_enemy_id": 220250202,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22025020202,
+    "group_id": 220250202,
+    "m_enemy_id": 220250204,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22025020203,
+    "group_id": 220250202,
+    "m_enemy_id": 220250203,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22025020204,
+    "group_id": 220250202,
+    "m_enemy_id": 220250205,
+    "order": 3,
+    "set_position": 4,
+    "drop_energy": 250
+  },
+  {
+    "id": 22025020205,
+    "group_id": 220250202,
+    "m_enemy_id": 220250209,
+    "order": 4,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 22025020206,
+    "group_id": 220250202,
+    "m_enemy_id": 220250205,
+    "order": 5,
+    "set_position": 6,
+    "drop_energy": 250
+  },
+  {
+    "id": 22025020207,
+    "group_id": 220250202,
+    "m_enemy_id": 220250206,
+    "order": 6,
+    "set_position": 8,
+    "drop_energy": 400
+  },
+  {
+    "id": 22025020301,
+    "group_id": 220250203,
+    "m_enemy_id": 220250203,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22025020302,
+    "group_id": 220250203,
+    "m_enemy_id": 220250211,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 800
+  },
+  {
+    "id": 22025020303,
+    "group_id": 220250203,
+    "m_enemy_id": 220250202,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22025020304,
+    "group_id": 220250203,
+    "m_enemy_id": 220250209,
+    "order": 3,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 22025020305,
+    "group_id": 220250203,
+    "m_enemy_id": 220250209,
+    "order": 4,
+    "set_position": 6,
+    "drop_energy": 300
+  },
+  {
+    "id": 22025020306,
+    "group_id": 220250203,
+    "m_enemy_id": 220250208,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22025020307,
+    "group_id": 220250203,
+    "m_enemy_id": 220250207,
+    "order": 6,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22025020308,
+    "group_id": 220250203,
+    "m_enemy_id": 220250206,
+    "order": 7,
+    "set_position": 10,
+    "drop_energy": 400
+  },
+  {
+    "id": 22025020401,
+    "group_id": 220250204,
+    "m_enemy_id": 220250203,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22025020402,
+    "group_id": 220250204,
+    "m_enemy_id": 220250204,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22025020403,
+    "group_id": 220250204,
+    "m_enemy_id": 220250202,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22025020404,
+    "group_id": 220250204,
+    "m_enemy_id": 220250202,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 200
+  },
+  {
+    "id": 22025020405,
+    "group_id": 220250204,
+    "m_enemy_id": 220250209,
+    "order": 4,
+    "set_position": 4,
+    "drop_energy": 300
+  },
+  {
+    "id": 22025020406,
+    "group_id": 220250204,
+    "m_enemy_id": 220250208,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22025020407,
+    "group_id": 220250204,
+    "m_enemy_id": 220250205,
+    "order": 6,
+    "set_position": 9,
+    "drop_energy": 250
+  },
+  {
+    "id": 22025020501,
+    "group_id": 220250205,
+    "m_enemy_id": 220250204,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 400
+  },
+  {
+    "id": 22025020502,
+    "group_id": 220250205,
+    "m_enemy_id": 220250210,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 700
+  },
+  {
+    "id": 22025020503,
+    "group_id": 220250205,
+    "m_enemy_id": 220250202,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22025020504,
+    "group_id": 220250205,
+    "m_enemy_id": 220250209,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 300
+  },
+  {
+    "id": 22025020505,
+    "group_id": 220250205,
+    "m_enemy_id": 220250205,
+    "order": 4,
+    "set_position": 5,
+    "drop_energy": 250
+  },
+  {
+    "id": 22025020506,
+    "group_id": 220250205,
+    "m_enemy_id": 220250206,
+    "order": 5,
+    "set_position": 6,
+    "drop_energy": 400
+  },
+  {
+    "id": 22025020507,
+    "group_id": 220250205,
+    "m_enemy_id": 220250208,
+    "order": 6,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22025020508,
+    "group_id": 220250205,
+    "m_enemy_id": 220250207,
+    "order": 7,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22025030201,
+    "group_id": 220250302,
+    "m_enemy_id": 220250306,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 200
+  },
+  {
+    "id": 22025030202,
+    "group_id": 220250302,
+    "m_enemy_id": 220250302,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 700
+  },
+  {
+    "id": 22025030203,
+    "group_id": 220250302,
+    "m_enemy_id": 220250316,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 150
+  },
+  {
+    "id": 22025030204,
+    "group_id": 220250302,
+    "m_enemy_id": 220250307,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 200
+  },
+  {
+    "id": 22025030205,
+    "group_id": 220250302,
+    "m_enemy_id": 220250304,
+    "order": 4,
+    "set_position": 4,
+    "drop_energy": 400
+  },
+  {
+    "id": 22025030206,
+    "group_id": 220250302,
+    "m_enemy_id": 220250311,
+    "order": 5,
+    "set_position": 5,
+    "drop_energy": 150
+  },
+  {
+    "id": 22025030207,
+    "group_id": 220250302,
+    "m_enemy_id": 220250312,
+    "order": 6,
+    "set_position": 6,
+    "drop_energy": 150
+  },
+  {
+    "id": 22025030208,
+    "group_id": 220250302,
+    "m_enemy_id": 220250312,
+    "order": 7,
+    "set_position": 7,
+    "drop_energy": 150
+  },
+  {
+    "id": 22025030209,
+    "group_id": 220250302,
+    "m_enemy_id": 220250309,
+    "order": 8,
+    "set_position": 8,
+    "drop_energy": 400
+  },
+  {
+    "id": 22025030210,
+    "group_id": 220250302,
+    "m_enemy_id": 220250303,
+    "order": 9,
+    "set_position": 9,
+    "drop_energy": 150
+  },
+  {
+    "id": 22025030211,
+    "group_id": 220250302,
+    "m_enemy_id": 220250305,
+    "order": 10,
+    "set_position": 10,
+    "drop_energy": 500
+  },
+  {
+    "id": 22025030212,
+    "group_id": 220250302,
+    "m_enemy_id": 220250305,
+    "order": 11,
+    "set_position": 11,
+    "drop_energy": 500
+  },
+  {
+    "id": 22025030301,
+    "group_id": 220250303,
+    "m_enemy_id": 220250312,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 150
+  },
+  {
+    "id": 22025030302,
+    "group_id": 220250303,
+    "m_enemy_id": 220250304,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22025030303,
+    "group_id": 220250303,
+    "m_enemy_id": 220250307,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22025030304,
+    "group_id": 220250303,
+    "m_enemy_id": 220250311,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 150
+  },
+  {
+    "id": 22025030305,
+    "group_id": 220250303,
+    "m_enemy_id": 220250305,
+    "order": 4,
+    "set_position": 6,
+    "drop_energy": 500
+  },
+  {
+    "id": 22025030306,
+    "group_id": 220250303,
+    "m_enemy_id": 220250305,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22025030401,
+    "group_id": 220250304,
+    "m_enemy_id": 220250311,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 150
+  },
+  {
+    "id": 22025030402,
+    "group_id": 220250304,
+    "m_enemy_id": 220250304,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 400
+  },
+  {
+    "id": 22025030403,
+    "group_id": 220250304,
+    "m_enemy_id": 220250306,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 200
+  },
+  {
+    "id": 22025030404,
+    "group_id": 220250304,
+    "m_enemy_id": 220250312,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 150
+  },
+  {
+    "id": 22025030405,
+    "group_id": 220250304,
+    "m_enemy_id": 220250305,
+    "order": 4,
+    "set_position": 6,
+    "drop_energy": 500
+  },
+  {
+    "id": 22025030406,
+    "group_id": 220250304,
+    "m_enemy_id": 220250305,
+    "order": 5,
+    "set_position": 7,
+    "drop_energy": 500
+  },
+  {
+    "id": 22025030501,
+    "group_id": 220250305,
+    "m_enemy_id": 220250312,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 150
+  },
+  {
+    "id": 22025030502,
+    "group_id": 220250305,
+    "m_enemy_id": 220250311,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 150
+  },
+  {
+    "id": 22025030503,
+    "group_id": 220250305,
+    "m_enemy_id": 220250311,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 150
+  },
+  {
+    "id": 22025030504,
+    "group_id": 220250305,
+    "m_enemy_id": 220250312,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 150
+  },
+  {
+    "id": 22025030505,
+    "group_id": 220250305,
+    "m_enemy_id": 220250316,
+    "order": 4,
+    "set_position": 4,
+    "drop_energy": 150
+  },
+  {
+    "id": 22025030506,
+    "group_id": 220250305,
+    "m_enemy_id": 220250316,
+    "order": 5,
+    "set_position": 5,
+    "drop_energy": 150
+  },
+  {
+    "id": 22025030507,
+    "group_id": 220250305,
+    "m_enemy_id": 220250314,
+    "order": 6,
+    "set_position": 6,
+    "drop_energy": 200
+  },
+  {
+    "id": 22025030508,
+    "group_id": 220250305,
+    "m_enemy_id": 220250313,
+    "order": 7,
+    "set_position": 7,
+    "drop_energy": 300
+  },
+  {
+    "id": 22025030509,
+    "group_id": 220250305,
+    "m_enemy_id": 220250314,
+    "order": 8,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22025040201,
+    "group_id": 220250402,
+    "m_enemy_id": 220250412,
+    "order": 0,
+    "set_position": 11,
+    "drop_energy": 550
+  },
+  {
+    "id": 22025040202,
+    "group_id": 220250402,
+    "m_enemy_id": 220250413,
+    "order": 1,
+    "set_position": 10,
+    "drop_energy": 550
+  },
+  {
+    "id": 22025040203,
+    "group_id": 220250402,
+    "m_enemy_id": 220250403,
+    "order": 2,
+    "set_position": 0,
+    "drop_energy": 270
+  },
+  {
+    "id": 22025040204,
+    "group_id": 220250402,
+    "m_enemy_id": 220250404,
+    "order": 3,
+    "set_position": 1,
+    "drop_energy": 270
+  },
+  {
+    "id": 22025040205,
+    "group_id": 220250402,
+    "m_enemy_id": 220250403,
+    "order": 4,
+    "set_position": 2,
+    "drop_energy": 270
+  },
+  {
+    "id": 22025040206,
+    "group_id": 220250402,
+    "m_enemy_id": 220250404,
+    "order": 5,
+    "set_position": 3,
+    "drop_energy": 270
+  },
+  {
+    "id": 22025040207,
+    "group_id": 220250402,
+    "m_enemy_id": 220250411,
+    "order": 6,
+    "set_position": 9,
+    "drop_energy": 300
+  },
+  {
+    "id": 22025040208,
+    "group_id": 220250402,
+    "m_enemy_id": 220250409,
+    "order": 7,
+    "set_position": 4,
+    "drop_energy": 300
+  },
+  {
+    "id": 22025040209,
+    "group_id": 220250402,
+    "m_enemy_id": 220250409,
+    "order": 8,
+    "set_position": 5,
+    "drop_energy": 300
+  },
+  {
+    "id": 22025040210,
+    "group_id": 220250402,
+    "m_enemy_id": 220250409,
+    "order": 9,
+    "set_position": 6,
+    "drop_energy": 300
+  },
+  {
+    "id": 22025040211,
+    "group_id": 220250402,
+    "m_enemy_id": 220250410,
+    "order": 10,
+    "set_position": 7,
+    "drop_energy": 200
+  },
+  {
+    "id": 22025040212,
+    "group_id": 220250402,
+    "m_enemy_id": 220250410,
+    "order": 11,
+    "set_position": 8,
+    "drop_energy": 200
+  },
+  {
+    "id": 22025040301,
+    "group_id": 220250403,
+    "m_enemy_id": 220250412,
+    "order": 0,
+    "set_position": 9,
+    "drop_energy": 550
+  },
+  {
+    "id": 22025040302,
+    "group_id": 220250403,
+    "m_enemy_id": 220250413,
+    "order": 1,
+    "set_position": 10,
+    "drop_energy": 550
+  },
+  {
+    "id": 22025040303,
+    "group_id": 220250403,
+    "m_enemy_id": 220250412,
+    "order": 2,
+    "set_position": 11,
+    "drop_energy": 550
+  },
+  {
+    "id": 22025040304,
+    "group_id": 220250403,
+    "m_enemy_id": 220250403,
+    "order": 3,
+    "set_position": 0,
+    "drop_energy": 270
+  },
+  {
+    "id": 22025040305,
+    "group_id": 220250403,
+    "m_enemy_id": 220250404,
+    "order": 4,
+    "set_position": 1,
+    "drop_energy": 270
+  },
+  {
+    "id": 22025040306,
+    "group_id": 220250403,
+    "m_enemy_id": 220250403,
+    "order": 5,
+    "set_position": 2,
+    "drop_energy": 270
+  },
+  {
+    "id": 22025040307,
+    "group_id": 220250403,
+    "m_enemy_id": 220250404,
+    "order": 6,
+    "set_position": 3,
+    "drop_energy": 270
+  },
+  {
+    "id": 22025040308,
+    "group_id": 220250403,
+    "m_enemy_id": 220250406,
+    "order": 7,
+    "set_position": 6,
+    "drop_energy": 150
+  },
+  {
+    "id": 22025040309,
+    "group_id": 220250403,
+    "m_enemy_id": 220250411,
+    "order": 8,
+    "set_position": 7,
+    "drop_energy": 300
+  },
+  {
+    "id": 22025040310,
+    "group_id": 220250403,
+    "m_enemy_id": 220250411,
+    "order": 9,
+    "set_position": 8,
+    "drop_energy": 300
+  },
+  {
+    "id": 22025040311,
+    "group_id": 220250403,
+    "m_enemy_id": 220250405,
+    "order": 10,
+    "set_position": 4,
+    "drop_energy": 150
+  },
+  {
+    "id": 22025040312,
+    "group_id": 220250403,
+    "m_enemy_id": 220250405,
+    "order": 11,
+    "set_position": 5,
+    "drop_energy": 150
+  },
+  {
+    "id": 22025040401,
+    "group_id": 220250404,
+    "m_enemy_id": 220250413,
+    "order": 0,
+    "set_position": 10,
+    "drop_energy": 550
+  },
+  {
+    "id": 22025040402,
+    "group_id": 220250404,
+    "m_enemy_id": 220250412,
+    "order": 1,
+    "set_position": 11,
+    "drop_energy": 550
+  },
+  {
+    "id": 22025040403,
+    "group_id": 220250404,
+    "m_enemy_id": 220250403,
+    "order": 2,
+    "set_position": 0,
+    "drop_energy": 270
+  },
+  {
+    "id": 22025040404,
+    "group_id": 220250404,
+    "m_enemy_id": 220250404,
+    "order": 3,
+    "set_position": 1,
+    "drop_energy": 270
+  },
+  {
+    "id": 22025040405,
+    "group_id": 220250404,
+    "m_enemy_id": 220250403,
+    "order": 4,
+    "set_position": 2,
+    "drop_energy": 270
+  },
+  {
+    "id": 22025040406,
+    "group_id": 220250404,
+    "m_enemy_id": 220250406,
+    "order": 5,
+    "set_position": 9,
+    "drop_energy": 150
+  },
+  {
+    "id": 22025040407,
+    "group_id": 220250404,
+    "m_enemy_id": 220250411,
+    "order": 6,
+    "set_position": 6,
+    "drop_energy": 300
+  },
+  {
+    "id": 22025040408,
+    "group_id": 220250404,
+    "m_enemy_id": 220250405,
+    "order": 7,
+    "set_position": 3,
+    "drop_energy": 150
+  },
+  {
+    "id": 22025040409,
+    "group_id": 220250404,
+    "m_enemy_id": 220250405,
+    "order": 8,
+    "set_position": 4,
+    "drop_energy": 150
+  },
+  {
+    "id": 22025040410,
+    "group_id": 220250404,
+    "m_enemy_id": 220250405,
+    "order": 9,
+    "set_position": 5,
+    "drop_energy": 150
+  },
+  {
+    "id": 22025040411,
+    "group_id": 220250404,
+    "m_enemy_id": 220250409,
+    "order": 10,
+    "set_position": 7,
+    "drop_energy": 300
+  },
+  {
+    "id": 22025040412,
+    "group_id": 220250404,
+    "m_enemy_id": 220250409,
+    "order": 11,
+    "set_position": 8,
+    "drop_energy": 300
+  },
+  {
+    "id": 22025040501,
+    "group_id": 220250405,
+    "m_enemy_id": 220250402,
+    "order": 0,
+    "set_position": 0,
+    "drop_energy": 50
+  },
+  {
+    "id": 22025040502,
+    "group_id": 220250405,
+    "m_enemy_id": 220250402,
+    "order": 1,
+    "set_position": 1,
+    "drop_energy": 50
+  },
+  {
+    "id": 22025040503,
+    "group_id": 220250405,
+    "m_enemy_id": 220250402,
+    "order": 2,
+    "set_position": 2,
+    "drop_energy": 50
+  },
+  {
+    "id": 22025040504,
+    "group_id": 220250405,
+    "m_enemy_id": 220250402,
+    "order": 3,
+    "set_position": 3,
+    "drop_energy": 50
+  },
+  {
+    "id": 22025040505,
+    "group_id": 220250405,
+    "m_enemy_id": 220250402,
+    "order": 4,
+    "set_position": 4,
+    "drop_energy": 50
+  },
+  {
+    "id": 22025040506,
+    "group_id": 220250405,
+    "m_enemy_id": 220250402,
+    "order": 5,
+    "set_position": 5,
+    "drop_energy": 50
+  },
+  {
+    "id": 22025040507,
+    "group_id": 220250405,
+    "m_enemy_id": 220250402,
+    "order": 6,
+    "set_position": 6,
+    "drop_energy": 50
+  },
+  {
+    "id": 22025040508,
+    "group_id": 220250405,
+    "m_enemy_id": 220250402,
+    "order": 7,
+    "set_position": 7,
+    "drop_energy": 50
+  },
+  {
+    "id": 22025040509,
+    "group_id": 220250405,
+    "m_enemy_id": 220250402,
+    "order": 8,
+    "set_position": 8,
+    "drop_energy": 50
+  },
+  {
+    "id": 22025040510,
+    "group_id": 220250405,
+    "m_enemy_id": 220250402,
+    "order": 9,
+    "set_position": 9,
+    "drop_energy": 50
+  },
+  {
+    "id": 22025040511,
+    "group_id": 220250405,
+    "m_enemy_id": 220250402,
+    "order": 10,
+    "set_position": 10,
+    "drop_energy": 50
+  },
+  {
+    "id": 22025040512,
+    "group_id": 220250405,
+    "m_enemy_id": 220250402,
+    "order": 11,
+    "set_position": 11,
+    "drop_energy": 50
   }
 ]

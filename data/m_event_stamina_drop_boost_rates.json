@@ -1,8 +1,20 @@
 [
   {
+    "id": 1,
+    "m_event_id": 500001,
+    "stamina_upper": 0,
+    "boost_rate": 1000
+  },
+  {
     "id": 2,
     "m_event_id": 600001,
     "stamina_upper": 0,
     "boost_rate": 1000
+  },
+  {
+    "id": 6,
+    "m_event_id": 600002,
+    "stamina_upper": 0,
+    "boost_rate": 750
   }
 ]

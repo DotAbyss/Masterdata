@@ -63,6 +63,33 @@
     "has_r18": 0
   },
   {
+    "id": 8,
+    "m_login_bonus_sheet_id": 8,
+    "prefab_id": "LoginBonus_1500004",
+    "m_character_id": 1300020,
+    "voice_id": "0",
+    "serif": "セリフ関係なし",
+    "has_r18": 1
+  },
+  {
+    "id": 9,
+    "m_login_bonus_sheet_id": 9,
+    "prefab_id": "LoginBonus_1040002",
+    "m_character_id": 1300020,
+    "voice_id": "0",
+    "serif": "セリフ関係なし",
+    "has_r18": 1
+  },
+  {
+    "id": 10,
+    "m_login_bonus_sheet_id": 10,
+    "prefab_id": "LoginBonus_1030002",
+    "m_character_id": 1300020,
+    "voice_id": "0",
+    "serif": "セリフ関係なし",
+    "has_r18": 1
+  },
+  {
     "id": 10001,
     "m_login_bonus_sheet_id": 10001,
     "prefab_id": "LoginBonus_1020001",

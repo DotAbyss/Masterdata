@@ -5001,15 +5001,15 @@
     "id": 10003,
     "select_text": "コーヒーを飲んでみる",
     "effect_text": "気になったからには試してみるしかない。\n覚悟と共に口にしたカップからは、飲みなれたコーヒーの味がした。",
-    "target_type_1": 1,
-    "select_parameter_1": 100,
+    "target_type_1": 0,
+    "select_parameter_1": 0,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
     "select_parameter_3": 0,
-    "content_type": 0,
-    "content_id": 0,
-    "amount": 0
+    "content_type": 31,
+    "content_id": 210002,
+    "amount": 1
   },
   {
     "id": 10011,
@@ -5049,8 +5049,8 @@
     "select_parameter_2": 0,
     "target_type_3": 0,
     "select_parameter_3": 0,
-    "content_type": 160,
-    "content_id": 0,
+    "content_type": 31,
+    "content_id": 210005,
     "amount": 1
   },
   {
@@ -5077,8 +5077,8 @@
     "select_parameter_2": 0,
     "target_type_3": 0,
     "select_parameter_3": 0,
-    "content_type": 160,
-    "content_id": 0,
+    "content_type": 31,
+    "content_id": 210004,
     "amount": 1
   },
   {
@@ -5134,7 +5134,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 20100,
+    "content_id": 210013,
     "amount": 1
   },
   {
@@ -5148,22 +5148,22 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 50004,
+    "content_id": 210017,
     "amount": 1
   },
   {
     "id": 10042,
     "select_text": "進行方向を変える",
     "effect_text": "厄介ごとに首を突っ込む必要はない。\n進行方向を変えて先を進むと、見晴らしのいい場所へとでた。\n後続隊への目印を設置し、先へと進む。",
-    "target_type_1": 0,
-    "select_parameter_1": 0,
+    "target_type_1": 4,
+    "select_parameter_1": 10,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
     "select_parameter_3": 0,
-    "content_type": 160,
+    "content_type": 0,
     "content_id": 0,
-    "amount": 1
+    "amount": 0
   },
   {
     "id": 10043,
@@ -5218,7 +5218,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 20020,
+    "content_id": 210011,
     "amount": 1
   },
   {
@@ -5232,15 +5232,15 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 200003,
-    "amount": 3
+    "content_id": 210125,
+    "amount": 1
   },
   {
     "id": 10062,
     "select_text": "扉を無理やりこじ開ける",
     "effect_text": "扉は鍵の部分を破壊すれば開けることはできそうだ。\n数度の体当たりにより、軽度の打撲と引き換えに扉が開く。\n先にある小さな物見櫓に、後続隊のための目印の旗を置いておくことにした。",
     "target_type_1": 2,
-    "select_parameter_1": 200,
+    "select_parameter_1": 400,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
@@ -5287,8 +5287,8 @@
     "select_parameter_2": 0,
     "target_type_3": 0,
     "select_parameter_3": 0,
-    "content_type": 160,
-    "content_id": 0,
+    "content_type": 31,
+    "content_id": 210001,
     "amount": 1
   },
   {
@@ -5309,15 +5309,15 @@
     "id": 10081,
     "select_text": "巣の主を警戒する",
     "effect_text": "周囲を警戒でき、かつ巣を見下ろせる場所を探し上と登る。\n巣の主こそ見つからなかったが、周囲の地形の把握と後続隊への目印を設置できた。",
-    "target_type_1": 0,
-    "select_parameter_1": 0,
+    "target_type_1": 4,
+    "select_parameter_1": 20,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
     "select_parameter_3": 0,
-    "content_type": 160,
+    "content_type": 0,
     "content_id": 0,
-    "amount": 1
+    "amount": 0
   },
   {
     "id": 10082,
@@ -5330,7 +5330,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 20110,
+    "content_id": 210014,
     "amount": 1
   },
   {
@@ -5372,7 +5372,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 20000,
+    "content_id": 210007,
     "amount": 1
   },
   {
@@ -5435,15 +5435,15 @@
     "id": 10104,
     "select_text": "モンスターが立ち去るのを待つ",
     "effect_text": "向こうから気付かれない場所に身を隠し、モンスター達の戦いが終わるのを待つ。\n争いのせいか周囲からは他のモンスター達も寄ってこない。\n双方が矛を収め去るのを確認し、こちらも休息を切り上げた。",
-    "target_type_1": 1,
-    "select_parameter_1": 200,
+    "target_type_1": 0,
+    "select_parameter_1": 0,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
     "select_parameter_3": 0,
-    "content_type": 0,
-    "content_id": 0,
-    "amount": 0
+    "content_type": 31,
+    "content_id": 210006,
+    "amount": 1
   },
   {
     "id": 10111,
@@ -5469,8 +5469,8 @@
     "select_parameter_2": 0,
     "target_type_3": 0,
     "select_parameter_3": 0,
-    "content_type": 160,
-    "content_id": 0,
+    "content_type": 31,
+    "content_id": 210012,
     "amount": 1
   },
   {
@@ -5526,7 +5526,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 50002,
+    "content_id": 210116,
     "amount": 1
   },
   {
@@ -5554,7 +5554,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 50005,
+    "content_id": 210105,
     "amount": 1
   },
   {
@@ -5575,15 +5575,15 @@
     "id": 10141,
     "select_text": "ここの食料品を食べてみる",
     "effect_text": "せっかくの物資を無駄にするわけにはいかない。\n意を決して口にした食料は傷んでこそいなかったものの、\n何故か味が全くしないものだった……",
-    "target_type_1": 3,
-    "select_parameter_1": 10,
-    "target_type_2": 1,
-    "select_parameter_2": 300,
+    "target_type_1": 0,
+    "select_parameter_1": 0,
+    "target_type_2": 0,
+    "select_parameter_2": 0,
     "target_type_3": 0,
     "select_parameter_3": 0,
-    "content_type": 0,
-    "content_id": 0,
-    "amount": 0
+    "content_type": 31,
+    "content_id": 210112,
+    "amount": 1
   },
   {
     "id": 10142,
@@ -5623,8 +5623,8 @@
     "select_parameter_2": 0,
     "target_type_3": 0,
     "select_parameter_3": 0,
-    "content_type": 160,
-    "content_id": 0,
+    "content_type": 31,
+    "content_id": 210104,
     "amount": 1
   },
   {
@@ -5679,8 +5679,8 @@
     "select_parameter_2": 0,
     "target_type_3": 0,
     "select_parameter_3": 0,
-    "content_type": 160,
-    "content_id": 0,
+    "content_type": 31,
+    "content_id": 210111,
     "amount": 1
   },
   {
@@ -5722,7 +5722,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 20001,
+    "content_id": 210107,
     "amount": 1
   },
   {
@@ -5778,22 +5778,22 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 20131,
+    "content_id": 210217,
     "amount": 1
   },
   {
     "id": 10191,
     "select_text": "ジョッキの中身を捨てる",
     "effect_text": "怪しい液体を飲むわけにはいかずジョッキの中の液体を捨てると、底にある何かが光り始めた。\n空気に触れたことで発光しはじめたらしいその輝石は持ち運ぶには目立ちすぎる。\n後続隊のための目印としよう。",
-    "target_type_1": 0,
-    "select_parameter_1": 0,
+    "target_type_1": 4,
+    "select_parameter_1": 40,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
     "select_parameter_3": 0,
-    "content_type": 160,
+    "content_type": 0,
     "content_id": 0,
-    "amount": 1
+    "amount": 0
   },
   {
     "id": 10192,
@@ -5806,7 +5806,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 20051,
+    "content_id": 210214,
     "amount": 1
   },
   {
@@ -5834,22 +5834,22 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 50008,
+    "content_id": 210211,
     "amount": 1
   },
   {
     "id": 10202,
     "select_text": "茂みの外から観察する",
     "effect_text": "茂みの外から中をよく見てみると、油らしきものがはいった樽を発見する。\nうかつに踏み入っていれば危険だったかもしてない。\n物資はもったいないが、後続隊への警告をかねて火を放ち茨を焼き払うことにした。",
-    "target_type_1": 0,
-    "select_parameter_1": 0,
+    "target_type_1": 1,
+    "select_parameter_1": 400,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
     "select_parameter_3": 0,
-    "content_type": 160,
+    "content_type": 0,
     "content_id": 0,
-    "amount": 1
+    "amount": 0
   },
   {
     "id": 10203,
@@ -5904,7 +5904,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 20041,
+    "content_id": 210213,
     "amount": 1
   },
   {
@@ -5917,9 +5917,9 @@
     "select_parameter_2": 0,
     "target_type_3": 0,
     "select_parameter_3": 0,
-    "content_type": 160,
+    "content_type": 165,
     "content_id": 0,
-    "amount": 1
+    "amount": 60
   },
   {
     "id": 10221,
@@ -5946,7 +5946,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 20031,
+    "content_id": 210218,
     "amount": 1
   },
   {
@@ -5967,15 +5967,15 @@
     "id": 10231,
     "select_text": "亀の移動を見届ける",
     "effect_text": "ゆっくりと移動していく亀を見送る中、誰ともなく手持無沙汰に地面に座る。\n結局亀が視界の外に消えるころには、探索隊は食事も終えすっかり体力を回復させていた。",
-    "target_type_1": 1,
-    "select_parameter_1": 400,
+    "target_type_1": 0,
+    "select_parameter_1": 0,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
     "select_parameter_3": 0,
-    "content_type": 0,
-    "content_id": 0,
-    "amount": 0
+    "content_type": 31,
+    "content_id": 210206,
+    "amount": 1
   },
   {
     "id": 10232,
@@ -6268,7 +6268,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 20010,
+    "content_id": 210002,
     "amount": 1
   },
   {
@@ -6276,7 +6276,7 @@
     "select_text": "露天を観察する",
     "effect_text": "露店の周囲を見て回る。\n 瘴気の霧の中に隠れていた看板はかなりの高さがある。\n 後続隊のための目印にさせてもらおう。",
     "target_type_1": 3,
-    "select_parameter_1": 10,
+    "select_parameter_1": 40,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
@@ -6337,8 +6337,8 @@
     "select_parameter_2": 0,
     "target_type_3": 0,
     "select_parameter_3": 0,
-    "content_type": 160,
-    "content_id": 0,
+    "content_type": 31,
+    "content_id": 210006,
     "amount": 1
   },
   {
@@ -6346,7 +6346,7 @@
     "select_text": "大きく迂回して避ける",
     "effect_text": "自ら危険に飛び込む物好きが多いとはいえ、虫が好きな探索者は珍しい。\n多少の無理をしてでも、という意見に従い崖を登って迂回することになった。\n後続隊のために虫注意の目印も置いておこう。",
     "target_type_1": 2,
-    "select_parameter_1": 100,
+    "select_parameter_1": 400,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
@@ -6380,7 +6380,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 50007,
+    "content_id": 210016,
     "amount": 1
   },
   {
@@ -6408,7 +6408,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 20000,
+    "content_id": 210003,
     "amount": 1
   },
   {
@@ -6436,7 +6436,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 20050,
+    "content_id": 210001,
     "amount": 1
   },
   {
@@ -6444,7 +6444,7 @@
     "select_text": "食べ物をあげる",
     "effect_text": "物資の中からいくつか食べ物を渡すが、警戒しているのかよっては来ない。\nお互いに無駄な争いはしたくない。そのまま後ずさり、立ち去ることにした。",
     "target_type_1": 5,
-    "select_parameter_1": 30,
+    "select_parameter_1": 50,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
@@ -6506,7 +6506,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 50001,
+    "content_id": 210008,
     "amount": 1
   },
   {
@@ -6520,7 +6520,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 50004,
+    "content_id": 210013,
     "amount": 1
   },
   {
@@ -6528,7 +6528,7 @@
     "select_text": "そのまま歩き続ける",
     "effect_text": "こういう時、焦れば焦るほど状況は悪化する。\n黙々と歩みを続けた結果。見晴らしのいい高台へと到着した。\n振り返ると入り組んだ地形で迷っていたようだ。後続隊のために旗を立てておくことにした。",
     "target_type_1": 3,
-    "select_parameter_1": 20,
+    "select_parameter_1": 40,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
@@ -6590,7 +6590,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 20110,
+    "content_id": 210005,
     "amount": 1
   },
   {
@@ -6598,7 +6598,7 @@
     "select_text": "茨の道を進む",
     "effect_text": "最短距離を進むべく、茨の中を突っ切ることにした。\n脚が傷だらけになった以外は無事に下草を抜け高台に到着する。\nここには近づかないよう、後続隊のために目印を置いておくことにした。",
     "target_type_1": 2,
-    "select_parameter_1": 200,
+    "select_parameter_1": 400,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
@@ -6632,7 +6632,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 20010,
+    "content_id": 210014,
     "amount": 1
   },
   {
@@ -6673,8 +6673,8 @@
     "select_parameter_2": 0,
     "target_type_3": 0,
     "select_parameter_3": 0,
-    "content_type": 160,
-    "content_id": 0,
+    "content_type": 31,
+    "content_id": 210018,
     "amount": 1
   },
   {
@@ -6702,7 +6702,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 20040,
+    "content_id": 210012,
     "amount": 1
   },
   {
@@ -6738,7 +6738,7 @@
     "select_text": "身軽になり上方に逃げる",
     "effect_text": "荷物を捨て、崖を登る。\n撃ち捨てた荷物が深く澱んだ瘴気の霧に呑まれていくのを見下ろしながら\nたどり着いた崖上に後続隊のための目印と登攀用ロープを設置した。",
     "target_type_1": 5,
-    "select_parameter_1": 40,
+    "select_parameter_1": 50,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
@@ -6772,7 +6772,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 50004,
+    "content_id": 210017,
     "amount": 1
   },
   {
@@ -6786,7 +6786,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 20001,
+    "content_id": 210116,
     "amount": 1
   },
   {
@@ -6794,7 +6794,7 @@
     "select_text": "外を調査する",
     "effect_text": "神殿の外観を調査する。\n荒れているのは経年というより瘴気の霧による浸食のようだ。\n瘴気の霧を払い、後続隊のための目印を掲げておく。",
     "target_type_1": 3,
-    "select_parameter_1": 30,
+    "select_parameter_1": 40,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
@@ -6856,7 +6856,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 20111,
+    "content_id": 210103,
     "amount": 1
   },
   {
@@ -6878,7 +6878,7 @@
     "select_text": "違法探索者を捕らえる",
     "effect_text": "内部に入ると同時に小屋を制圧する。\n残っていたのは非戦闘員のようで、大きなけが人もでなかった。\n後の処理は後続隊に任せることにしよう。",
     "target_type_1": 2,
-    "select_parameter_1": 300,
+    "select_parameter_1": 400,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
@@ -6898,7 +6898,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 50005,
+    "content_id": 210112,
     "amount": 1
   },
   {
@@ -6926,7 +6926,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 20021,
+    "content_id": 210107,
     "amount": 1
   },
   {
@@ -6968,7 +6968,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 20041,
+    "content_id": 210115,
     "amount": 1
   },
   {
@@ -6976,7 +6976,7 @@
     "select_text": "追い払う",
     "effect_text": "武器を構えると向こうも身構える。数合打ち合った後に動きを止め、立ち去って行った。\n後続隊のために筆談した文字と共に調査書を置いておくこととした。",
     "target_type_1": 2,
-    "select_parameter_1": 300,
+    "select_parameter_1": 400,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
@@ -7004,7 +7004,7 @@
     "select_text": "何か情報はないか聞く",
     "effect_text": "定型文を組み合わせて何とか情報を伝えようとしてくれているが、いかんせん時間がかかる。\n聞き終えたころには後続隊への目印の設置はすっかり終わっていた。",
     "target_type_1": 3,
-    "select_parameter_1": 30,
+    "select_parameter_1": 40,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
@@ -7038,7 +7038,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 50008,
+    "content_id": 210105,
     "amount": 1
   },
   {
@@ -7052,7 +7052,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 230002,
+    "content_id": 210212,
     "amount": 1
   },
   {
@@ -7135,8 +7135,8 @@
     "select_parameter_2": 0,
     "target_type_3": 0,
     "select_parameter_3": 0,
-    "content_type": 160,
-    "content_id": 0,
+    "content_type": 31,
+    "content_id": 210204,
     "amount": 1
   },
   {
@@ -7164,7 +7164,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 20001,
+    "content_id": 210201,
     "amount": 1
   },
   {
@@ -7206,7 +7206,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 20101,
+    "content_id": 210216,
     "amount": 1
   },
   {
@@ -7234,7 +7234,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 50002,
+    "content_id": 210207,
     "amount": 1
   },
   {
@@ -7304,7 +7304,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 20111,
+    "content_id": 210211,
     "amount": 1
   },
   {
@@ -7604,9 +7604,9 @@
   {
     "id": 30001,
     "select_text": "急いでこの場を離れる",
-    "effect_text": "後ろを振り返る余裕はない。\n探索隊は全速力でその場を離脱した。",
-    "target_type_1": 2,
-    "select_parameter_1": 100,
+    "effect_text": "後ろを振り返る余裕はない。\n探索隊は全速力でその場を離脱したが追いつかれてしまった。",
+    "target_type_1": 8,
+    "select_parameter_1": 7,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
@@ -7744,9 +7744,9 @@
   {
     "id": 30031,
     "select_text": "急いでこの場を離れる",
-    "effect_text": "あまりに普通の無人販売所すぎて、逆に異常だ。\n 体力の消耗は無視して全速力でこの場から離れることにした。",
-    "target_type_1": 2,
-    "select_parameter_1": 100,
+    "effect_text": "あまりに普通の無人販売所すぎて、逆に異常だ。\n体力の消耗は無視して全速力でこの場から離れようとしたが遅かったようだ。",
+    "target_type_1": 8,
+    "select_parameter_1": 56,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
@@ -7788,7 +7788,7 @@
     "select_text": "正体を確かめる",
     "effect_text": "なんであろうと、倒してしまえば問題ない。\n 探索隊は鬨の声を上げて接敵する！",
     "target_type_1": 8,
-    "select_parameter_1": 7,
+    "select_parameter_1": 56,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
@@ -7842,9 +7842,9 @@
   {
     "id": 30052,
     "select_text": "急いでその場を離れる",
-    "effect_text": "何かしらの攻撃かもしれない。そう判断した探索隊は先を急ぐことにした。\n しばらく全速力で移動したのち耳をすませたが、もうあの音楽は聞こえなかった。",
-    "target_type_1": 2,
-    "select_parameter_1": 100,
+    "effect_text": "何かしらの攻撃かもしれない。そう判断した探索隊は先を急ぐことにした。\n しばらく全速力で移動したが、どうやら逃げるのはここまでのようだ。",
+    "target_type_1": 8,
+    "select_parameter_1": 56,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
@@ -7870,9 +7870,9 @@
   {
     "id": 30061,
     "select_text": "気にせず進む",
-    "effect_text": "気にせず進んでいると、突然油が発火した。\n なんとか延焼前に通り抜けたが、軽く火傷を負ってしまった。",
-    "target_type_1": 2,
-    "select_parameter_1": 200,
+    "effect_text": "気にせず進んでいると、突然油が発火した。\nなんとか延焼前に通り抜けたが、煙でモンスターに見つかってしまったようだ。",
+    "target_type_1": 8,
+    "select_parameter_1": 104,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
@@ -7914,7 +7914,7 @@
     "select_text": "違法探索者を助ける",
     "effect_text": "犯罪者とはいえ人間を見捨てるわけにもいかないだろう。\n 探索隊はモンスターに攻撃をしかけることにした。",
     "target_type_1": 8,
-    "select_parameter_1": 56,
+    "select_parameter_1": 104,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
@@ -8052,9 +8052,9 @@
   {
     "id": 30101,
     "select_text": "急いで走り抜ける",
-    "effect_text": "幸い、炎のおかげで周囲の闇と瘴気の霧が祓われている。\n その横を軽くあぶられながらもなんとか通り抜けることができた。",
-    "target_type_1": 2,
-    "select_parameter_1": 200,
+    "effect_text": "幸い、炎のおかげで周囲の闇と瘴気の霧が祓われている。\nその横を軽くあぶられながらもなんとか通り抜けようとしたが、何者かの襲撃を受けた！",
+    "target_type_1": 8,
+    "select_parameter_1": 151,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
@@ -8136,9 +8136,9 @@
   {
     "id": 30121,
     "select_text": "そのまま歩き続ける",
-    "effect_text": "このまま抜け出せないのではという妄想を振り払い、あえて険しい道を進む。\n 気が付けば周囲の風景は変わっている。何とか抜け出せたようだ……",
-    "target_type_1": 2,
-    "select_parameter_1": 300,
+    "effect_text": "このまま抜け出せないのではという妄想を振り払い、あえて険しい道を進む。\n気が付けば周囲をモンスターの群れに囲まれてしまった。",
+    "target_type_1": 8,
+    "select_parameter_1": 198,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
@@ -8180,7 +8180,7 @@
     "select_text": "相手の目を見る",
     "effect_text": "相手もこちらを見ており、目が合ってしまう。\n しばらく見つめあっていると、背後から何者かが襲い掛かってきた！",
     "target_type_1": 8,
-    "select_parameter_1": 198,
+    "select_parameter_1": 245,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
@@ -8264,7 +8264,7 @@
     "select_text": "命の扉を開ける",
     "effect_text": "鍵のかかっていない扉を開ける。\n 案の定、目の前には敵が待ち構えていた！",
     "target_type_1": 8,
-    "select_parameter_1": 245,
+    "select_parameter_1": 292,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
@@ -8320,7 +8320,7 @@
     "select_text": "まっすぐ進む",
     "effect_text": "ここまできたら小細工は不要だろう。\n 探索隊は真正面から敵に立ち向かう！",
     "target_type_1": 8,
-    "select_parameter_1": 292,
+    "select_parameter_1": 339,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
@@ -8404,7 +8404,7 @@
     "select_text": "鈴を鳴らしてみる",
     "effect_text": "試しに鈴を手にすると、チーンとすんだ金属音が響く。\n その瞬間、目の前に忽然とモンスターが現れた！",
     "target_type_1": 8,
-    "select_parameter_1": 339,
+    "select_parameter_1": 386,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
@@ -8416,9 +8416,9 @@
   {
     "id": 30181,
     "select_text": "布で口元を覆う",
-    "effect_text": "多少の異臭は耐えられるが、火山性のガスにだけは注意が必要だ。\n 装備越しにも火傷しそうな熱さと暑さの中、この場所から逃げるように進む……",
-    "target_type_1": 2,
-    "select_parameter_1": 400,
+    "effect_text": "多少の異臭は耐えられるが、火山性のガスにだけは注意が必要だ。\n装備越しにも火傷しそうな熱さと暑さの中、この場所から逃げるように進む……",
+    "target_type_1": 8,
+    "select_parameter_1": 434,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
@@ -8556,9 +8556,9 @@
   {
     "id": 30212,
     "select_text": "とっさに物資を護る",
-    "effect_text": "全員で物資が落ちないように抑えこむ。\n その代償に転倒と物資の下敷きでいくばくかの負傷をしたが、必要経費とわりきるしかないだろう。",
-    "target_type_1": 2,
-    "select_parameter_1": 400,
+    "effect_text": "全員で物資が落ちないように抑えこむ。\nその代償に転倒と物資の下敷きでいくばくかの負傷をしたが、必要経費とわりきるしかないだろう。",
+    "target_type_1": 8,
+    "select_parameter_1": 434,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
@@ -8963,15 +8963,15 @@
     "id": 40001,
     "select_text": "食事をして回復する",
     "effect_text": "野営地で焚火を起こし、残されていた保存食をもらうことにした。\n 久しぶりの温かな食事で体力は回した。\n さあ、もうひと踏ん張りだ。",
-    "target_type_1": 1,
-    "select_parameter_1": 100,
+    "target_type_1": 0,
+    "select_parameter_1": 0,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
     "select_parameter_3": 0,
-    "content_type": 0,
-    "content_id": 0,
-    "amount": 0
+    "content_type": 31,
+    "content_id": 210003,
+    "amount": 1
   },
   {
     "id": 40002,
@@ -9012,7 +9012,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 20020,
+    "content_id": 210004,
     "amount": 1
   },
   {
@@ -9082,7 +9082,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 20110,
+    "content_id": 210011,
     "amount": 1
   },
   {
@@ -9095,8 +9095,8 @@
     "select_parameter_2": 0,
     "target_type_3": 0,
     "select_parameter_3": 0,
-    "content_type": 160,
-    "content_id": 0,
+    "content_type": 31,
+    "content_id": 210015,
     "amount": 1
   },
   {
@@ -9152,15 +9152,15 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 20131,
+    "content_id": 210114,
     "amount": 1
   },
   {
     "id": 40043,
     "select_text": "櫓に旗を立てる",
     "effect_text": "櫓の最上部に後続隊との合流用の旗を立てる。\n 準備を万端に整えて、戦いへと向かおう。",
-    "target_type_1": 0,
-    "select_parameter_1": 0,
+    "target_type_1": 2,
+    "select_parameter_1": 400,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
@@ -9201,15 +9201,15 @@
     "id": 40053,
     "select_text": "巨石の上にマーキングを行う",
     "effect_text": "巨石の上に上り、後続隊のための目印を刻む。\n 前線基地の探索はここまで届いたという偉業の証だ。\n だが、まだ歩みを止めるわけにはいかない。",
-    "target_type_1": 1,
-    "select_parameter_1": 300,
+    "target_type_1": 0,
+    "select_parameter_1": 0,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
     "select_parameter_3": 0,
-    "content_type": 0,
-    "content_id": 0,
-    "amount": 0
+    "content_type": 31,
+    "content_id": 210101,
+    "amount": 1
   },
   {
     "id": 40061,
@@ -9250,7 +9250,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 20041,
+    "content_id": 210203,
     "amount": 1
   },
   {
@@ -9271,8 +9271,8 @@
     "id": 40071,
     "select_text": "高台で休む",
     "effect_text": "高台へと登り、前線基地の旗を立てる。今はここが我々の最前線だ。\n これで後続隊も進路に困らないだろう。",
-    "target_type_1": 0,
-    "select_parameter_1": 0,
+    "target_type_1": 2,
+    "select_parameter_1": 400,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
@@ -9306,7 +9306,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 50008,
+    "content_id": 210212,
     "amount": 1
   },
   {
@@ -9412,7 +9412,7 @@
     "select_text": "周囲の地形を確認する",
     "effect_text": "周囲の地形を確認中、後続隊への目印を記すのに丁度いい崖を発見する。\n 目印を刻み終えて下りようとした際、足を滑らせて転落してしまった……",
     "target_type_1": 2,
-    "select_parameter_1": 100,
+    "select_parameter_1": 400,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
@@ -9446,7 +9446,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 50007,
+    "content_id": 210005,
     "amount": 1
   },
   {
@@ -9488,7 +9488,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 20050,
+    "content_id": 210013,
     "amount": 1
   },
   {
@@ -9496,7 +9496,7 @@
     "select_text": "現在地をマーキングする",
     "effect_text": "現在地をマーキングするために、後背地にある崖を登り再度周囲の地形を確認する。\n 体力を消耗したものの、後続隊への目印を刻めたので、良しとしておこう。",
     "target_type_1": 2,
-    "select_parameter_1": 200,
+    "select_parameter_1": 400,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
@@ -9516,7 +9516,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 20010,
+    "content_id": 210006,
     "amount": 1
   },
   {
@@ -9571,8 +9571,8 @@
     "select_parameter_2": 0,
     "target_type_3": 0,
     "select_parameter_3": 0,
-    "content_type": 160,
-    "content_id": 0,
+    "content_type": 31,
+    "content_id": 210015,
     "amount": 1
   },
   {
@@ -9580,7 +9580,7 @@
     "select_text": "現在位置を確認する",
     "effect_text": "現在地の正確な座標を調べるために、険しい崖を登る。\n 岩場を越え細かい傷だらけになったものの、情報を得ることができた。\n 登ったついでに後続隊への目印も用意しておこう。",
     "target_type_1": 2,
-    "select_parameter_1": 300,
+    "select_parameter_1": 400,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
@@ -9600,7 +9600,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 20031,
+    "content_id": 210107,
     "amount": 1
   },
   {
@@ -9636,7 +9636,7 @@
     "select_text": "物見塔から周囲を観察する",
     "effect_text": "砦の物見塔へ登り、周辺の確認をする。\n今まで通ってみた道がわかるよう、後続隊への目印となる旗を掲げておいた。",
     "target_type_1": 3,
-    "select_parameter_1": 30,
+    "select_parameter_1": 40,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,
@@ -9656,7 +9656,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 20021,
+    "content_id": 210114,
     "amount": 1
   },
   {
@@ -9670,7 +9670,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 50008,
+    "content_id": 210203,
     "amount": 1
   },
   {
@@ -9754,7 +9754,7 @@
     "target_type_3": 0,
     "select_parameter_3": 0,
     "content_type": 31,
-    "content_id": 50002,
+    "content_id": 210214,
     "amount": 1
   },
   {
@@ -9915,8 +9915,8 @@
     "id": 60012,
     "select_text": "強行軍で進む",
     "effect_text": "どうせ回復もしないのであれば、進み続ける方が精神的にもマシだろう。\n身体を動かせば気も紛れる、というのは安直だが実績のある探索者の知恵だ。",
-    "target_type_1": 2,
-    "select_parameter_1": 100,
+    "target_type_1": 8,
+    "select_parameter_1": 104,
     "target_type_2": 0,
     "select_parameter_2": 0,
     "target_type_3": 0,

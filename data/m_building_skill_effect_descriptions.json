@@ -358,5 +358,17 @@
     "description": "マナクリスタルのRANK+{0}",
     "type": 1,
     "display_order": 61
+  },
+  {
+    "id": 61,
+    "description": "情熱のマナクリスタル【活力】を獲得",
+    "type": 1,
+    "display_order": 62
+  },
+  {
+    "id": 62,
+    "description": "衝撃のマナクリスタル【虚空】を獲得",
+    "type": 1,
+    "display_order": 63
   }
 ]

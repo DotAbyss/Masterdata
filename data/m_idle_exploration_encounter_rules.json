@@ -1,33 +1,38 @@
 [
   {
     "id": 1,
-    "encount_interval": 1800,
+    "encount_interval": 3600,
     "m_idle_exploration_encount_group_id": 101
   },
   {
     "id": 2,
-    "encount_interval": 1800,
+    "encount_interval": 3600,
     "m_idle_exploration_encount_group_id": 201
   },
   {
     "id": 3,
-    "encount_interval": 1800,
+    "encount_interval": 3600,
     "m_idle_exploration_encount_group_id": 301
   },
   {
     "id": 4,
-    "encount_interval": 1800,
+    "encount_interval": 3600,
     "m_idle_exploration_encount_group_id": 401
   },
   {
     "id": 5,
-    "encount_interval": 1800,
+    "encount_interval": 3600,
     "m_idle_exploration_encount_group_id": 501
   },
   {
     "id": 6,
-    "encount_interval": 1800,
+    "encount_interval": 3600,
     "m_idle_exploration_encount_group_id": 601
+  },
+  {
+    "id": 7,
+    "encount_interval": 3600,
+    "m_idle_exploration_encount_group_id": 701
   },
   {
     "id": 70,
@@ -43,5 +48,20 @@
     "id": 72,
     "encount_interval": 1800,
     "m_idle_exploration_encount_group_id": 702
+  },
+  {
+    "id": 73,
+    "encount_interval": 3600,
+    "m_idle_exploration_encount_group_id": 703
+  },
+  {
+    "id": 74,
+    "encount_interval": 3600,
+    "m_idle_exploration_encount_group_id": 704
+  },
+  {
+    "id": 75,
+    "encount_interval": 3600,
+    "m_idle_exploration_encount_group_id": 705
   }
 ]

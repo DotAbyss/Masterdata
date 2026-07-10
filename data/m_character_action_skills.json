@@ -434,6 +434,20 @@
     "description": "ダメージ倍率が【{[DAMAGE.DAMAGE_PERCENT]}】に変化 / 紋章：情熱が5以上のとき、自身に会心率UP【20% / {[ZEAL.CRITICALUP.DURATION]秒}】を付与"
   },
   {
+    "id": 1200019000,
+    "m_character_id": 1200019,
+    "trigger_type": 20,
+    "name": "冥府への使役",
+    "description": "最も遠い敵を中心とした範囲内にいる敵全体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】ダメージ  /  石化【{[PRJCTL.LAND.ABNORMAL.DURATION]秒} / 成功率:20%】を付与"
+  },
+  {
+    "id": 1200019001,
+    "m_character_id": 1200019,
+    "trigger_type": 30,
+    "name": "冥府への使役",
+    "description": "自身に紋章：衝撃を【3】付与  /  紋章：衝撃を5消費し、石化の成功率が【{[PRJCTL.LAND.IMPACTSUCCEED.ABNORMAL.APPLY_PROBABILITY]}】に変化"
+  },
+  {
     "id": 1300001000,
     "m_character_id": 1300001,
     "trigger_type": 20,
@@ -700,6 +714,20 @@
     "description": "さらに自身に与えたダメージの【{[DAMAGE_DRAIN.HEAL_RATIO:1]}】分の回復 / 紋章：衝撃を2消費し、対象に喪失【{[IMPACTSUCCEED.ABNORMAL.DURATION]秒}/ 成功率:100%】を付与"
   },
   {
+    "id": 1300027000,
+    "m_character_id": 1300027,
+    "trigger_type": 20,
+    "name": "スピリットサークル",
+    "description": "最も近い敵を中心とした範囲内にいる敵全体に【5HIT / 合計{[PRJCTL.THROW.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 自身に紋章：情熱を【1】付与"
+  },
+  {
+    "id": 1300027001,
+    "m_character_id": 1300027,
+    "trigger_type": 30,
+    "name": "スピリットサークル",
+    "description": "さらに味方フロント全体に攻撃力UP【{[ATTACKUP.RATE_PERCENT]} / 15秒】を付与 / 紋章：情熱が5以上のとき、味方フロント全体に自身の最大HP【{[ZEAL.BARRIER.RATE]}】分のバリア【15秒】を付与"
+  },
+  {
     "id": 1300029000,
     "m_character_id": 1300029,
     "trigger_type": 20,
@@ -782,6 +810,34 @@
     "trigger_type": 30,
     "name": "胡蝶の時雨",
     "description": "自身に会心ダメージ倍率UP【{[PRJCTL.LAND.CRITICALDAMAGERATEUP.FIXED_PERCENT]} / 15秒】を付与 / 紋章：衝撃を5消費し、ダメージ倍率が【{[PRJCTL.LAND.IMPACTSUCCEED.DAMAGE.DAMAGE_PERCENT]}】に変化"
+  },
+  {
+    "id": 1300035000,
+    "m_character_id": 1300035,
+    "trigger_type": 20,
+    "name": "ガチ恋♡デビルハート",
+    "description": "ランダムな敵1体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT]}】ダメージ / 魅了【{[PRJCTL.LAND.ABNORMAL.DURATION:1]秒} / 成功率:50%】を付与する攻撃を4回行う"
+  },
+  {
+    "id": 1300035001,
+    "m_character_id": 1300035,
+    "trigger_type": 30,
+    "name": "ガチ恋♡デビルハート",
+    "description": "魅了の付与秒数が【{[IMPACTFAILED.PRJCTL.LAND.ABNORMAL.DURATION:1]秒}】に変化 / 紋章：衝撃を5消費し、ダメージ倍率が【{[IMPACTSUCCEED.PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT]}】に変化"
+  },
+  {
+    "id": 1300037000,
+    "m_character_id": 1300037,
+    "trigger_type": 20,
+    "name": "スターリーレイン",
+    "description": "自身にステラレコード【20秒】を付与 / 敵全体に【8HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 1300037001,
+    "m_character_id": 1300037,
+    "trigger_type": 30,
+    "name": "スターリーレイン",
+    "description": "自身のスキルを【{[SKILL_CHARGE.CHARGE_VALUE]}】チャージ  / 紋章：衝撃を5消費し、ダメージ倍率が【{[IMPACTSUCCEED.DAMAGE.DAMAGE_PERCENT]}】に変化"
   },
   {
     "id": 1300041000,

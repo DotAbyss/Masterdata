@@ -783,6 +783,141 @@
     "stamina": 0
   },
   {
+    "id": 1070101,
+    "m_chapter_area_id": 701,
+    "progress_order": 1,
+    "quest_type": 1,
+    "name": "フェリシオーネからの手紙",
+    "is_last": 0,
+    "stamina": 0
+  },
+  {
+    "id": 1070102,
+    "m_chapter_area_id": 701,
+    "progress_order": 2,
+    "quest_type": 2,
+    "name": "燃える城壁の調査",
+    "is_last": 1,
+    "stamina": 40
+  },
+  {
+    "id": 1070201,
+    "m_chapter_area_id": 702,
+    "progress_order": 1,
+    "quest_type": 1,
+    "name": "ドローンが映し出したもの",
+    "is_last": 0,
+    "stamina": 0
+  },
+  {
+    "id": 1070202,
+    "m_chapter_area_id": 702,
+    "progress_order": 2,
+    "quest_type": 2,
+    "name": "焼けた回廊の調査",
+    "is_last": 1,
+    "stamina": 40
+  },
+  {
+    "id": 1070301,
+    "m_chapter_area_id": 703,
+    "progress_order": 1,
+    "quest_type": 1,
+    "name": "教祖からの依頼",
+    "is_last": 0,
+    "stamina": 0
+  },
+  {
+    "id": 1070302,
+    "m_chapter_area_id": 703,
+    "progress_order": 2,
+    "quest_type": 1,
+    "name": "２人目の魔族",
+    "is_last": 0,
+    "stamina": 0
+  },
+  {
+    "id": 1070303,
+    "m_chapter_area_id": 703,
+    "progress_order": 3,
+    "quest_type": 1,
+    "name": "魔族返し",
+    "is_last": 0,
+    "stamina": 0
+  },
+  {
+    "id": 1070304,
+    "m_chapter_area_id": 703,
+    "progress_order": 4,
+    "quest_type": 2,
+    "name": "抱火の荒城の調査",
+    "is_last": 1,
+    "stamina": 40
+  },
+  {
+    "id": 1070401,
+    "m_chapter_area_id": 704,
+    "progress_order": 1,
+    "quest_type": 1,
+    "name": "二重扉",
+    "is_last": 0,
+    "stamina": 0
+  },
+  {
+    "id": 1070402,
+    "m_chapter_area_id": 704,
+    "progress_order": 2,
+    "quest_type": 2,
+    "name": "玉座の間の調査",
+    "is_last": 1,
+    "stamina": 40
+  },
+  {
+    "id": 1070501,
+    "m_chapter_area_id": 705,
+    "progress_order": 1,
+    "quest_type": 1,
+    "name": "血塗られた歴史",
+    "is_last": 0,
+    "stamina": 0
+  },
+  {
+    "id": 1070502,
+    "m_chapter_area_id": 705,
+    "progress_order": 2,
+    "quest_type": 1,
+    "name": "儀式の祭壇",
+    "is_last": 0,
+    "stamina": 0
+  },
+  {
+    "id": 1070503,
+    "m_chapter_area_id": 705,
+    "progress_order": 3,
+    "quest_type": 2,
+    "name": "地下処刑場の調査",
+    "is_last": 0,
+    "stamina": 40
+  },
+  {
+    "id": 1070504,
+    "m_chapter_area_id": 705,
+    "progress_order": 4,
+    "quest_type": 1,
+    "name": "教団が生み出した化け物",
+    "is_last": 0,
+    "stamina": 0
+  },
+  {
+    "id": 1070505,
+    "m_chapter_area_id": 705,
+    "progress_order": 5,
+    "quest_type": 1,
+    "name": "それぞれの選択",
+    "is_last": 1,
+    "stamina": 0
+  },
+  {
     "id": 2010101,
     "m_chapter_area_id": 111,
     "progress_order": 1,
@@ -1080,6 +1215,60 @@
     "stamina": 0
   },
   {
+    "id": 2070101,
+    "m_chapter_area_id": 711,
+    "progress_order": 1,
+    "quest_type": 2,
+    "name": "燃える城壁の調査",
+    "is_last": 1,
+    "stamina": 40
+  },
+  {
+    "id": 2070201,
+    "m_chapter_area_id": 712,
+    "progress_order": 1,
+    "quest_type": 2,
+    "name": "焼けた回廊の調査",
+    "is_last": 1,
+    "stamina": 40
+  },
+  {
+    "id": 2070301,
+    "m_chapter_area_id": 713,
+    "progress_order": 1,
+    "quest_type": 2,
+    "name": "抱火の荒城の調査",
+    "is_last": 1,
+    "stamina": 40
+  },
+  {
+    "id": 2070401,
+    "m_chapter_area_id": 714,
+    "progress_order": 1,
+    "quest_type": 2,
+    "name": "玉座の間の調査",
+    "is_last": 1,
+    "stamina": 40
+  },
+  {
+    "id": 2070501,
+    "m_chapter_area_id": 715,
+    "progress_order": 1,
+    "quest_type": 2,
+    "name": "地下処刑場の調査",
+    "is_last": 0,
+    "stamina": 40
+  },
+  {
+    "id": 2070502,
+    "m_chapter_area_id": 715,
+    "progress_order": 2,
+    "quest_type": 1,
+    "name": "煉獄の厄災",
+    "is_last": 1,
+    "stamina": 0
+  },
+  {
     "id": 3010101,
     "m_chapter_area_id": 121,
     "progress_order": 1,
@@ -1373,6 +1562,60 @@
     "progress_order": 2,
     "quest_type": 1,
     "name": "天使の厄災",
+    "is_last": 1,
+    "stamina": 0
+  },
+  {
+    "id": 3070101,
+    "m_chapter_area_id": 721,
+    "progress_order": 1,
+    "quest_type": 2,
+    "name": "燃える城壁の調査",
+    "is_last": 1,
+    "stamina": 40
+  },
+  {
+    "id": 3070201,
+    "m_chapter_area_id": 722,
+    "progress_order": 1,
+    "quest_type": 2,
+    "name": "焼けた回廊の調査",
+    "is_last": 1,
+    "stamina": 40
+  },
+  {
+    "id": 3070301,
+    "m_chapter_area_id": 723,
+    "progress_order": 1,
+    "quest_type": 2,
+    "name": "抱火の荒城の調査",
+    "is_last": 1,
+    "stamina": 40
+  },
+  {
+    "id": 3070401,
+    "m_chapter_area_id": 724,
+    "progress_order": 1,
+    "quest_type": 2,
+    "name": "玉座の間の調査",
+    "is_last": 1,
+    "stamina": 40
+  },
+  {
+    "id": 3070501,
+    "m_chapter_area_id": 725,
+    "progress_order": 1,
+    "quest_type": 2,
+    "name": "地下処刑場の調査",
+    "is_last": 0,
+    "stamina": 40
+  },
+  {
+    "id": 3070502,
+    "m_chapter_area_id": 725,
+    "progress_order": 2,
+    "quest_type": 1,
+    "name": "煉獄の厄災",
     "is_last": 1,
     "stamina": 0
   }

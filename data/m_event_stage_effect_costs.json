@@ -1,1 +1,37 @@
-null
+[
+  {
+    "id": 1,
+    "group_no": 1,
+    "content_type": 54,
+    "content_id": 5001,
+    "amount": 90
+  },
+  {
+    "id": 2,
+    "group_no": 2,
+    "content_type": 54,
+    "content_id": 5001,
+    "amount": 180
+  },
+  {
+    "id": 3,
+    "group_no": 3,
+    "content_type": 54,
+    "content_id": 5001,
+    "amount": 270
+  },
+  {
+    "id": 4,
+    "group_no": 4,
+    "content_type": 54,
+    "content_id": 5001,
+    "amount": 530
+  },
+  {
+    "id": 5,
+    "group_no": 5,
+    "content_type": 54,
+    "content_id": 5001,
+    "amount": 700
+  }
+]

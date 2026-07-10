@@ -3,48 +3,70 @@
     "id": 1,
     "category": 2,
     "sub_category_id": 1,
-    "category_text": "特別依頼イベント"
+    "category_text": "特別依頼イベント",
+    "display_order_desc": 3
   },
   {
     "id": 2,
     "category": 2,
     "sub_category_id": 2,
-    "category_text": "リリース記念第2弾"
+    "category_text": "リリース記念第2弾",
+    "display_order_desc": 2
   },
   {
     "id": 3,
     "category": 2,
     "sub_category_id": 3,
-    "category_text": "リリース2週間記念"
+    "category_text": "リリース2週間記念",
+    "display_order_desc": 1
   },
   {
     "id": 4,
     "category": 3,
     "sub_category_id": 1,
-    "category_text": "マンスリー"
+    "category_text": "マンスリー",
+    "display_order_desc": 3
   },
   {
     "id": 5,
     "category": 3,
     "sub_category_id": 2,
-    "category_text": "ウィークリー"
+    "category_text": "ウィークリー",
+    "display_order_desc": 2
   },
   {
     "id": 6,
     "category": 3,
     "sub_category_id": 3,
-    "category_text": "デイリー"
+    "category_text": "デイリー",
+    "display_order_desc": 1
   },
   {
     "id": 7,
     "category": 2,
     "sub_category_id": 4,
-    "category_text": "リリース記念"
+    "category_text": "リリース記念",
+    "display_order_desc": 2
   },
   {
     "id": 8,
     "category": 2,
     "sub_category_id": 5,
-    "category_text": "ストーリーイベント"
+    "category_text": "ストーリーイベント",
+    "display_order_desc": 1
+  },
+  {
+    "id": 9,
+    "category": 2,
+    "sub_category_id": 6,
+    "category_text": "リリース1カ月記念",
+    "display_order_desc": 4
+  },
+  {
+    "id": 10,
+    "category": 2,
+    "sub_category_id": 7,
+    "category_text": "鏡影の回廊",
+    "display_order_desc": 5
   }
 ]

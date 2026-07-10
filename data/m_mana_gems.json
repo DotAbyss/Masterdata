@@ -95,9 +95,26 @@
     "mana_type": 2,
     "chain_count": 4,
     "append_effect_condition_stack": 5,
-    "effect_description": "敵全体に攻撃力【(562+Rank×1125)】で【1HIT / 100％】のダメージ / 防御力DOWN【20％ / 20秒】を付与",
+    "effect_description": "敵全体に攻撃力【(562+Rank×1125)】で【6HIT / 100％】のダメージ / 防御力DOWN【20％ / 20秒】を付与",
     "append_effect_description": "【条件】紋章：情熱が5以上の味方がチェインに参加\n【効果】防御力DOWNの効果が条件を満たした参加者の人数×7.5％分上昇",
     "append_effect_description_ingame": "【条件】紋章：情熱が5以上の味方がチェインに参加\n【効果】防御力DOWNの効果が条件を満たした参加者の人数×7.5％分上昇",
+    "is_show_total_recovery": 0,
+    "is_show_total_buff": 0
+  },
+  {
+    "id": 204,
+    "asset_id": "10",
+    "name": "衝撃のマナクリスタル【虚空】",
+    "type": 2,
+    "cost": 6,
+    "flavor_text": "英雄の血脈に応じ、複数のマナの波動を一点に集束させる高純度魔力結晶。\n仲間の猛き衝撃を共鳴の火種とし、虚ろなる空間からの共振を発生させる。\n\n万象を震わす波は事象そのものを砕き、加えられる攻撃の威力を増加し立ち塞がる敵を塵芥へと帰す。\n崩壊を齎す虚空からの鳴動は、膠着する戦線を苛烈なる侵攻劇へと塗り替えるだろう。",
+    "default_m_mana_gem_auto_condition_id": 6,
+    "mana_type": 3,
+    "chain_count": 3,
+    "append_effect_condition_stack": 5,
+    "effect_description": "敵全体に攻撃力【(675+Rank×1350)】で【6HIT / 100％】のダメージ / 被ダメージUP【20％ / 20秒】を付与",
+    "append_effect_description": "【条件】紋章：衝撃が5以上の味方がチェインに参加\n【効果】 被ダメージUPの効果が条件を満たした参加者の人数×10％分上昇",
+    "append_effect_description_ingame": "【条件】紋章：衝撃が5以上の味方がチェインに参加\n【効果】 被ダメージUPの効果が条件を満たした参加者の人数×10％分上昇",
     "is_show_total_recovery": 0,
     "is_show_total_buff": 0
   },
@@ -151,5 +168,22 @@
     "append_effect_description_ingame": "【条件】紋章：情熱が5以上の味方がチェインに参加\n【効果】味方に条件を満たした参加者の合計攻撃力で【1HIT / 150％】の回復",
     "is_show_total_recovery": 1,
     "is_show_total_buff": 0
+  },
+  {
+    "id": 304,
+    "asset_id": "11",
+    "name": "情熱のマナクリスタル【活力】",
+    "type": 3,
+    "cost": 5,
+    "flavor_text": "英雄の血脈に応じ、複数のマナの波動を一点に集束させる高純度魔力結晶。\n仲間の昂る情熱を共鳴の火種とし、偽りの太陽を地上に顕現させる。\n\nあらゆる生命を滾らす根源たる陽光により、戦士たちは限界を超えて賦活される。\n燃え盛る肉体と魂はひたすらに躍動し、滅びの静寂を活力溢れる生命の礼賛へと塗り替えるだろう。",
+    "default_m_mana_gem_auto_condition_id": 6,
+    "mana_type": 2,
+    "chain_count": 3,
+    "append_effect_condition_stack": 5,
+    "effect_description": "味方全体に攻撃力UP【(7.5+Rank×1.5)％ / 15秒】と防御力UP【(7.5+Rank×1.5)％ / 15秒】を付与",
+    "append_effect_description": "【条件】紋章：情熱が5以上の味方がチェインに参加\n【効果】味方全体に条件を満たした参加者の人数×5％の会心ダメージ倍率UP【15秒】を付与",
+    "append_effect_description_ingame": "【条件】紋章：情熱が5以上の味方がチェインに参加\n【効果】味方全体に条件を満たした参加者の人数×5％の会心ダメージ倍率UP【15秒】を付与",
+    "is_show_total_recovery": 0,
+    "is_show_total_buff": 1
   }
 ]

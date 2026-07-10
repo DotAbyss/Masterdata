@@ -3112,5 +3112,401 @@
     "timeline": "Skill001",
     "name": "叫喚",
     "description": "助けを呼ぶ"
+  },
+  {
+    "id": 20340010001,
+    "asset_id": "2034001",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "前方範囲内の敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 【25％】の確率で防御力DOWN【{[DEFENCEDOWN.RATE_PERCENT]} / {[DEFENCEDOWN.DURATION]}秒】を付与"
+  },
+  {
+    "id": 20341010001,
+    "asset_id": "2034101",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "前方範囲内の敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 【25％】の確率で防御力DOWN【{[DEFENCEDOWN.RATE_PERCENT]} / {[DEFENCEDOWN.DURATION]}秒】を付与"
+  },
+  {
+    "id": 20342010001,
+    "asset_id": "2034201",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "前方範囲内の敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 【25％】の確率で防御力DOWN【{[DEFENCEDOWN.RATE_PERCENT]} / {[DEFENCEDOWN.DURATION]}秒】を付与"
+  },
+  {
+    "id": 20343010001,
+    "asset_id": "2034301",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "前方範囲内の敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 【25％】の確率で防御力DOWN【{[DEFENCEDOWN.RATE_PERCENT]} / {[DEFENCEDOWN.DURATION]}秒】を付与"
+  },
+  {
+    "id": 20344010001,
+    "asset_id": "2034401",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "前方範囲内の敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 【25％】の確率で防御力DOWN【{[DEFENCEDOWN.RATE_PERCENT]} / {[DEFENCEDOWN.DURATION]}秒】を付与"
+  },
+  {
+    "id": 20345010001,
+    "asset_id": "2034501",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "前方範囲内の敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 【25％】の確率で防御力DOWN【{[DEFENCEDOWN.RATE_PERCENT]} / {[DEFENCEDOWN.DURATION]}秒】を付与"
+  },
+  {
+    "id": 20460010001,
+    "asset_id": "2046001",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を中心とした範囲内にいる敵全体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 攻撃力DOWN【{[PRJCTL.LAND.ATTACKDOWN.RATE_PERCENT]} / {[PRJCTL.LAND.ATTACKDOWN.DURATION]}秒】を付与"
+  },
+  {
+    "id": 20461010001,
+    "asset_id": "2046101",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を中心とした範囲内にいる敵全体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 攻撃力DOWN【{[PRJCTL.LAND.ATTACKDOWN.RATE_PERCENT]} / {[PRJCTL.LAND.ATTACKDOWN.DURATION]}秒】を付与"
+  },
+  {
+    "id": 20462010001,
+    "asset_id": "2046201",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を中心とした範囲内にいる敵全体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 攻撃力DOWN【{[PRJCTL.LAND.ATTACKDOWN.RATE_PERCENT]} / {[PRJCTL.LAND.ATTACKDOWN.DURATION]}秒】を付与"
+  },
+  {
+    "id": 20463010001,
+    "asset_id": "2046301",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を中心とした範囲内にいる敵全体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 攻撃力DOWN【{[PRJCTL.LAND.ATTACKDOWN.RATE_PERCENT]} / {[PRJCTL.LAND.ATTACKDOWN.DURATION]}秒】を付与"
+  },
+  {
+    "id": 20464010001,
+    "asset_id": "2046401",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を中心とした範囲内にいる敵全体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 攻撃力DOWN【{[PRJCTL.LAND.ATTACKDOWN.RATE_PERCENT]} / {[PRJCTL.LAND.ATTACKDOWN.DURATION]}秒】を付与"
+  },
+  {
+    "id": 20465010001,
+    "asset_id": "2046501",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を中心とした範囲内にいる敵全体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 攻撃力DOWN【{[PRJCTL.LAND.ATTACKDOWN.RATE_PERCENT]} / {[PRJCTL.LAND.ATTACKDOWN.DURATION]}秒】を付与"
+  },
+  {
+    "id": 20310010001,
+    "asset_id": "2031001",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "ランダムな敵1体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT:1]}】ダメージを与え、行動間隔増加【{[PRJCTL.LAND.ACTIONCOOLTIMEDOWN.RATE_PERCENT:1]} / {[PRJCTL.LAND.ACTIONCOOLTIMEDOWN.DURATION:1]}秒】を付与する攻撃を3回行う"
+  },
+  {
+    "id": 20310010002,
+    "asset_id": "2031001",
+    "ai_id": "0",
+    "skill_type": 20,
+    "timeline": "Skill01",
+    "name": "スパイダーウィップ",
+    "description": "敵1体を中心とした範囲内にいる敵全体に【6HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 攻撃力DOWN【{[ATTACKDOWN.RATE_PERCENT]} / {[ATTACKDOWN.DURATION]}秒】を付与 / 防御力DOWN【{[DEFENCEDOWN.RATE_PERCENT]} / {[DEFENCEDOWN.DURATION]}秒】を付与 / ノックバック（小）"
+  },
+  {
+    "id": 20311010001,
+    "asset_id": "2031101",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "ランダムな敵1体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT:1]}】ダメージを与え、行動間隔増加【{[PRJCTL.LAND.ACTIONCOOLTIMEDOWN.RATE_PERCENT:1]} / {[PRJCTL.LAND.ACTIONCOOLTIMEDOWN.DURATION:1]}秒】を付与する攻撃を3回行う"
+  },
+  {
+    "id": 20311010002,
+    "asset_id": "2031101",
+    "ai_id": "0",
+    "skill_type": 20,
+    "timeline": "Skill01",
+    "name": "スパイダーウィップ",
+    "description": "敵1体を中心とした範囲内にいる敵全体に【6HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 攻撃力DOWN【{[ATTACKDOWN.RATE_PERCENT]} / {[ATTACKDOWN.DURATION]}秒】を付与 / 防御力DOWN【{[DEFENCEDOWN.RATE_PERCENT]} / {[DEFENCEDOWN.DURATION]}秒】を付与 / ノックバック（小）"
+  },
+  {
+    "id": 20312010001,
+    "asset_id": "2031201",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "ランダムな敵1体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT:1]}】ダメージを与え、行動間隔増加【{[PRJCTL.LAND.ACTIONCOOLTIMEDOWN.RATE_PERCENT:1]} / {[PRJCTL.LAND.ACTIONCOOLTIMEDOWN.DURATION:1]}秒】を付与する攻撃を3回行う"
+  },
+  {
+    "id": 20312010002,
+    "asset_id": "2031201",
+    "ai_id": "0",
+    "skill_type": 20,
+    "timeline": "Skill01",
+    "name": "スパイダーウィップ",
+    "description": "敵1体を中心とした範囲内にいる敵全体に【6HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 攻撃力DOWN【{[ATTACKDOWN.RATE_PERCENT]} / {[ATTACKDOWN.DURATION]}秒】を付与 / 防御力DOWN【{[DEFENCEDOWN.RATE_PERCENT]} / {[DEFENCEDOWN.DURATION]}秒】を付与 / ノックバック（小）"
+  },
+  {
+    "id": 20313010001,
+    "asset_id": "2031301",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "ランダムな敵1体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT:1]}】ダメージを与え、行動間隔増加【{[PRJCTL.LAND.ACTIONCOOLTIMEDOWN.RATE_PERCENT:1]} / {[PRJCTL.LAND.ACTIONCOOLTIMEDOWN.DURATION:1]}秒】を付与する攻撃を3回行う"
+  },
+  {
+    "id": 20313010002,
+    "asset_id": "2031301",
+    "ai_id": "0",
+    "skill_type": 20,
+    "timeline": "Skill01",
+    "name": "スパイダーウィップ",
+    "description": "敵1体を中心とした範囲内にいる敵全体に【6HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 攻撃力DOWN【{[ATTACKDOWN.RATE_PERCENT]} / {[ATTACKDOWN.DURATION]}秒】を付与 / 防御力DOWN【{[DEFENCEDOWN.RATE_PERCENT]} / {[DEFENCEDOWN.DURATION]}秒】を付与 / ノックバック（小）"
+  },
+  {
+    "id": 20314010001,
+    "asset_id": "2031401",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "ランダムな敵1体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT:1]}】ダメージを与え、行動間隔増加【{[PRJCTL.LAND.ACTIONCOOLTIMEDOWN.RATE_PERCENT:1]} / {[PRJCTL.LAND.ACTIONCOOLTIMEDOWN.DURATION:1]}秒】を付与する攻撃を3回行う"
+  },
+  {
+    "id": 20314010002,
+    "asset_id": "2031401",
+    "ai_id": "0",
+    "skill_type": 20,
+    "timeline": "Skill01",
+    "name": "スパイダーウィップ",
+    "description": "敵1体を中心とした範囲内にいる敵全体に【6HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 攻撃力DOWN【{[ATTACKDOWN.RATE_PERCENT]} / {[ATTACKDOWN.DURATION]}秒】を付与 / 防御力DOWN【{[DEFENCEDOWN.RATE_PERCENT]} / {[DEFENCEDOWN.DURATION]}秒】を付与 / ノックバック（小）"
+  },
+  {
+    "id": 20315010001,
+    "asset_id": "2031501",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "ランダムな敵1体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT:1]}】ダメージを与え、行動間隔増加【{[PRJCTL.LAND.ACTIONCOOLTIMEDOWN.RATE_PERCENT:1]} / {[PRJCTL.LAND.ACTIONCOOLTIMEDOWN.DURATION:1]}秒】を付与する攻撃を3回行う"
+  },
+  {
+    "id": 20315010002,
+    "asset_id": "2031501",
+    "ai_id": "0",
+    "skill_type": 20,
+    "timeline": "Skill01",
+    "name": "スパイダーウィップ",
+    "description": "敵1体を中心とした範囲内にいる敵全体に【6HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 攻撃力DOWN【{[ATTACKDOWN.RATE_PERCENT]} / {[ATTACKDOWN.DURATION]}秒】を付与 / 防御力DOWN【{[DEFENCEDOWN.RATE_PERCENT]} / {[DEFENCEDOWN.DURATION]}秒】を付与 / ノックバック（小）"
+  },
+  {
+    "id": 20211020101,
+    "asset_id": "2021102",
+    "ai_id": "1",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "ランダムな敵キャラクター1体を中心とした範囲内にいる敵全体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 炎上【{[PRJCTL.LAND.ABNORMAL.DURATION]}秒 / 成功率:{[PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20211020102,
+    "asset_id": "2021102",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "BurnHeart",
+    "name": "バーンハート",
+    "description": "自身の業火Lvが炎上状態の敵の数に応じて増加 / マナを吸収させることで増加量が減少する\n\n業火：Lvに応じて攻撃力・防御力・弱体耐性が上昇する状態"
+  },
+  {
+    "id": 20211020103,
+    "asset_id": "2021102",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Inferno",
+    "name": "インフェルノ",
+    "description": "前方範囲内の敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 炎上【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与 / ノックバック（小）"
+  },
+  {
+    "id": 20211020104,
+    "asset_id": "2021102",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "FireRain",
+    "name": "ファイアレイン",
+    "description": "ランダムな敵{[TARGET_COUNT]}体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20211020105,
+    "asset_id": "2021102",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "FlameCure",
+    "name": "フレームキュア",
+    "description": "炎上状態の敵の数に応じて自身のHPを回復 / 対象に付与されている紋章を10個消去"
+  },
+  {
+    "id": 20211020106,
+    "asset_id": "2021102",
+    "ai_id": "1",
+    "skill_type": 40,
+    "timeline": "AssaultSkill",
+    "name": "プルガトリオ",
+    "description": "敵全体に【10HIT / 合計最大HP{[DAMAGE.HP_RATIO_PERCENT]}】ダメージ / 【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 炎上【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】 / ノックバック（中）"
+  },
+  {
+    "id": 20211020201,
+    "asset_id": "2021102",
+    "ai_id": "2",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "ランダムな敵キャラクター1体を中心とした範囲内にいる敵全体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 炎上【{[PRJCTL.LAND.ABNORMAL.DURATION]}秒 / 成功率:{[PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20211020202,
+    "asset_id": "2021102",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "BurnHeart",
+    "name": "バーンハート",
+    "description": "自身の業火Lvが炎上状態の敵の数に応じて増加 / マナを吸収させることで増加量が減少する\n\n業火：Lvに応じて攻撃力・防御力・弱体耐性が上昇する状態"
+  },
+  {
+    "id": 20211020203,
+    "asset_id": "2021102",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Inferno",
+    "name": "インフェルノ",
+    "description": "前方範囲内の敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 炎上【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与 / ノックバック（小）"
+  },
+  {
+    "id": 20211020204,
+    "asset_id": "2021102",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "FireRain",
+    "name": "ファイアレイン",
+    "description": "ランダムな敵{[TARGET_COUNT]}体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20211020205,
+    "asset_id": "2021102",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "FlameCure",
+    "name": "フレームキュア",
+    "description": "炎上状態の敵の数に応じて自身のHPを回復 / 対象に付与されている紋章を10個消去"
+  },
+  {
+    "id": 20211020206,
+    "asset_id": "2021102",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "TimetoNightmare",
+    "name": "タイムトゥナイトメア",
+    "description": "自身の業火Lvを減少 / 減少した数に応じて「彷徨える者たち」を召喚 / 一定時間後に吸収した数に応じて自身に業火・被ダメージ減少・会心率UP・会心ダメージ倍率UPを付与\n\n「彷徨える者たち」を召喚している間、自身は行動を行わず、ダメージを受けない"
+  },
+  {
+    "id": 20211020207,
+    "asset_id": "2021102",
+    "ai_id": "2",
+    "skill_type": 40,
+    "timeline": "AssaultSkill",
+    "name": "プルガトリオ",
+    "description": "敵全体に【10HIT / 合計最大HP{[DAMAGE.HP_RATIO_PERCENT]}】ダメージ / 【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 炎上【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】 / ノックバック（中）"
+  },
+  {
+    "id": 20211020301,
+    "asset_id": "2021102",
+    "ai_id": "3",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "ランダムな敵キャラクター1体を中心とした範囲内にいる敵全体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 炎上【{[PRJCTL.LAND.ABNORMAL.DURATION]}秒 / 成功率:{[PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20211020302,
+    "asset_id": "2021102",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "BurnHeart",
+    "name": "バーンハート",
+    "description": "自身の業火Lvが炎上状態の敵の数に応じて増加 / マナを吸収させることで増加量が減少する\n\n業火：Lvに応じて攻撃力・防御力・弱体耐性が上昇する状態"
+  },
+  {
+    "id": 20211020303,
+    "asset_id": "2021102",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Inferno",
+    "name": "インフェルノ",
+    "description": "前方範囲内の敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 炎上【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与 / ノックバック（小）"
+  },
+  {
+    "id": 20211020304,
+    "asset_id": "2021102",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "FireRain",
+    "name": "ファイアレイン",
+    "description": "ランダムな敵{[TARGET_COUNT]}体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20211020305,
+    "asset_id": "2021102",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "FlameCure",
+    "name": "フレームキュア",
+    "description": "炎上状態の敵の数に応じて自身のHPを回復 / 対象に付与されている紋章を10個消去"
+  },
+  {
+    "id": 20211020306,
+    "asset_id": "2021102",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "TimetoNightmare",
+    "name": "タイムトゥナイトメア",
+    "description": "自身の業火Lvを減少 / 減少した数に応じて「彷徨える者たち」を召喚 / 一定時間後に吸収した数に応じて自身に業火・被ダメージ減少・会心率UP・会心ダメージ倍率UPを付与\n\n「彷徨える者たち」を召喚している間、自身は行動を行わず、ダメージを受けない"
+  },
+  {
+    "id": 20211020307,
+    "asset_id": "2021102",
+    "ai_id": "3",
+    "skill_type": 40,
+    "timeline": "AssaultSkill",
+    "name": "プルガトリオ",
+    "description": "敵全体に【10HIT / 合計最大HP{[DAMAGE.HP_RATIO_PERCENT]}】ダメージ / 【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 炎上【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】 / ノックバック（中）"
   }
 ]

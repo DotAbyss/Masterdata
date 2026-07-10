@@ -496,6 +496,22 @@
     "order": 2
   },
   {
+    "id": 120001901,
+    "m_character_id": 1200019,
+    "asset_id": "Ability_ConditionAttack_01",
+    "name": "砂空を舞う魔族",
+    "ability_no": 10162,
+    "order": 1
+  },
+  {
+    "id": 120001902,
+    "m_character_id": 1200019,
+    "asset_id": "Ability_Attack_01",
+    "name": "太古の秘術",
+    "ability_no": 10163,
+    "order": 2
+  },
+  {
     "id": 130000101,
     "m_character_id": 1300001,
     "asset_id": "Ability_SpecialAttack_01",
@@ -952,6 +968,30 @@
     "order": 3
   },
   {
+    "id": 130002701,
+    "m_character_id": 1300027,
+    "asset_id": "Ability_SpecialAttack_01",
+    "name": "水霊の癒し",
+    "ability_no": 10074,
+    "order": 1
+  },
+  {
+    "id": 130002702,
+    "m_character_id": 1300027,
+    "asset_id": "Ability_Defense_01",
+    "name": "精霊の弓",
+    "ability_no": 10075,
+    "order": 2
+  },
+  {
+    "id": 130002703,
+    "m_character_id": 1300027,
+    "asset_id": "Ability_ConditionResist_01",
+    "name": "アクアヴェール",
+    "ability_no": 10076,
+    "order": 3
+  },
+  {
     "id": 130002901,
     "m_character_id": 1300029,
     "asset_id": "Ability_SpecialAttack_01",
@@ -1093,6 +1133,54 @@
     "asset_id": "Ability_Attack_01",
     "name": "不朽の光明",
     "ability_no": 10161,
+    "order": 3
+  },
+  {
+    "id": 130003501,
+    "m_character_id": 1300035,
+    "asset_id": "Ability_Attack_01",
+    "name": "ぶち上がり☆デビルスカイ",
+    "ability_no": 10164,
+    "order": 1
+  },
+  {
+    "id": 130003502,
+    "m_character_id": 1300035,
+    "asset_id": "Ability_ConditionAttack_01",
+    "name": "つらたん呪縛",
+    "ability_no": 10165,
+    "order": 2
+  },
+  {
+    "id": 130003503,
+    "m_character_id": 1300035,
+    "asset_id": "Ability_Manatype_Grant",
+    "name": "おけまるトラップ",
+    "ability_no": 10166,
+    "order": 3
+  },
+  {
+    "id": 130003701,
+    "m_character_id": 1300037,
+    "asset_id": "Ability_SpecialAttack_01",
+    "name": "星詠み",
+    "ability_no": 10167,
+    "order": 1
+  },
+  {
+    "id": 130003702,
+    "m_character_id": 1300037,
+    "asset_id": "Ability_Attack_01",
+    "name": "スターオラクル",
+    "ability_no": 10168,
+    "order": 2
+  },
+  {
+    "id": 130003703,
+    "m_character_id": 1300037,
+    "asset_id": "Ability_Attack_01",
+    "name": "星の煌めき",
+    "ability_no": 10169,
     "order": 3
   },
   {

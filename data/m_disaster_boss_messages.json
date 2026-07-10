@@ -390,5 +390,45 @@
     "prefab_id": "DotNovelCharaIcon300201000",
     "icon_face_type": 0,
     "message": "特殊な個体が出現しています！"
+  },
+  {
+    "id": 2300,
+    "m_disaster_boss_id": 2021102,
+    "message_type": 1,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "煉獄の厄災の討伐依頼が発行されています！"
+  },
+  {
+    "id": 2301,
+    "m_disaster_boss_id": 2021102,
+    "message_type": 2,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "なんて禍々しい炎……"
+  },
+  {
+    "id": 2303,
+    "m_disaster_boss_id": 2021102,
+    "message_type": 4,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "煉獄の厄災、迎撃されました！"
+  },
+  {
+    "id": 2304,
+    "m_disaster_boss_id": 2021102,
+    "message_type": 5,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "煉獄の厄災、消滅しました…"
+  },
+  {
+    "id": 2305,
+    "m_disaster_boss_id": 2021102,
+    "message_type": 6,
+    "prefab_id": "DotNovelCharaIcon300201000",
+    "icon_face_type": 0,
+    "message": "特殊な個体が出現しています！"
   }
 ]

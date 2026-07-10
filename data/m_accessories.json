@@ -2193,6 +2193,23 @@
     "mana_type": 3
   },
   {
+    "id": 40010340,
+    "asset_id": "43003005",
+    "name": "煉獄のモニュメント",
+    "group_no": 100004,
+    "rank": 3,
+    "rarity": 4,
+    "up_parameter_type": 8,
+    "basic_parameter": 8,
+    "min_parameter": 0,
+    "max_parameter": 6,
+    "lottery_interval": 1,
+    "base_power": 1000,
+    "mileage": 500,
+    "flavor_text": "煉獄の厄災を解析して作られた護符\nその厄災に抵抗する力を秘めている。",
+    "mana_type": 2
+  },
+  {
     "id": 37020340,
     "asset_id": "43003006",
     "name": "飢餓のタリスマン",
@@ -2295,6 +2312,23 @@
     "mana_type": 3
   },
   {
+    "id": 40010440,
+    "asset_id": "43003005",
+    "name": "煉獄のモニュメント",
+    "group_no": 100004,
+    "rank": 4,
+    "rarity": 4,
+    "up_parameter_type": 8,
+    "basic_parameter": 12,
+    "min_parameter": 0,
+    "max_parameter": 8,
+    "lottery_interval": 1,
+    "base_power": 1000,
+    "mileage": 500,
+    "flavor_text": "煉獄の厄災を解析して作られた護符\nその厄災に抵抗する力を秘めている。",
+    "mana_type": 2
+  },
+  {
     "id": 37020440,
     "asset_id": "43003006",
     "name": "飢餓のタリスマン",
@@ -2395,6 +2429,23 @@
     "mileage": 500,
     "flavor_text": "天使の厄災を解析して作られた護符\nその厄災に抵抗する力を秘めている。",
     "mana_type": 3
+  },
+  {
+    "id": 40010540,
+    "asset_id": "43003005",
+    "name": "煉獄のモニュメント",
+    "group_no": 100004,
+    "rank": 5,
+    "rarity": 4,
+    "up_parameter_type": 8,
+    "basic_parameter": 16,
+    "min_parameter": 0,
+    "max_parameter": 10,
+    "lottery_interval": 1,
+    "base_power": 1000,
+    "mileage": 500,
+    "flavor_text": "煉獄の厄災を解析して作られた護符\nその厄災に抵抗する力を秘めている。",
+    "mana_type": 2
   },
   {
     "id": 37020540,

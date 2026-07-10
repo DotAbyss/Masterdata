@@ -636,5 +636,49 @@
     "m_tavern_card_effect_id_1": 200004,
     "m_tavern_card_effect_id_2": 0,
     "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 12000190,
+    "m_character_id": 1200019,
+    "m_character_skin_id": 120001902,
+    "name": "アイシャの提案",
+    "effect_type": 3,
+    "description": "次ターンの営業カードが必ず「料理」関連のものになる。\n全てのスタッフの満足度+5%",
+    "m_tavern_card_effect_id_1": 500002,
+    "m_tavern_card_effect_id_2": 400002,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 13000350,
+    "m_character_id": 1300035,
+    "m_character_skin_id": 130003502,
+    "name": "リエラの提案",
+    "effect_type": 1,
+    "description": "評価がGreat以上のスタッフの満足度+50%",
+    "m_tavern_card_effect_id_1": 200002,
+    "m_tavern_card_effect_id_2": 0,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 13000270,
+    "m_character_id": 1300027,
+    "m_character_skin_id": 130002702,
+    "name": "フィオナの提案",
+    "effect_type": 1,
+    "description": "全てのスタッフの満足度+20%",
+    "m_tavern_card_effect_id_1": 400001,
+    "m_tavern_card_effect_id_2": 0,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 13000370,
+    "m_character_id": 1300037,
+    "m_character_skin_id": 130003702,
+    "name": "クリスティの提案",
+    "effect_type": 2,
+    "description": "ランダムな「ペルディオン」の\nスタッフ最大2体に「料理」を付与。\nそれらのスタッフの満足度+40%",
+    "m_tavern_card_effect_id_1": 101006,
+    "m_tavern_card_effect_id_2": 401009,
+    "m_tavern_card_effect_id_3": 0
   }
 ]

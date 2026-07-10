@@ -1953,6 +1953,69 @@
     "effect_param": 10
   },
   {
+    "id": 120001901,
+    "m_character_id": 1200019,
+    "limit_break_count": 1,
+    "effect_type": 2,
+    "effect_param": 2
+  },
+  {
+    "id": 120001902,
+    "m_character_id": 1200019,
+    "limit_break_count": 2,
+    "effect_type": 2,
+    "effect_param": 3
+  },
+  {
+    "id": 120001903,
+    "m_character_id": 1200019,
+    "limit_break_count": 3,
+    "effect_type": 2,
+    "effect_param": 4
+  },
+  {
+    "id": 120001904,
+    "m_character_id": 1200019,
+    "limit_break_count": 4,
+    "effect_type": 2,
+    "effect_param": 5
+  },
+  {
+    "id": 120001905,
+    "m_character_id": 1200019,
+    "limit_break_count": 5,
+    "effect_type": 2,
+    "effect_param": 6
+  },
+  {
+    "id": 120001906,
+    "m_character_id": 1200019,
+    "limit_break_count": 6,
+    "effect_type": 2,
+    "effect_param": 7
+  },
+  {
+    "id": 120001907,
+    "m_character_id": 1200019,
+    "limit_break_count": 7,
+    "effect_type": 2,
+    "effect_param": 8
+  },
+  {
+    "id": 120001908,
+    "m_character_id": 1200019,
+    "limit_break_count": 8,
+    "effect_type": 2,
+    "effect_param": 9
+  },
+  {
+    "id": 120001909,
+    "m_character_id": 1200019,
+    "limit_break_count": 9,
+    "effect_type": 2,
+    "effect_param": 10
+  },
+  {
     "id": 130000101,
     "m_character_id": 1300001,
     "limit_break_count": 1,
@@ -3948,6 +4011,111 @@
     "effect_param": 10
   },
   {
+    "id": 130002701,
+    "m_character_id": 1300027,
+    "limit_break_count": 1,
+    "effect_type": 2,
+    "effect_param": 2
+  },
+  {
+    "id": 130002702,
+    "m_character_id": 1300027,
+    "limit_break_count": 1,
+    "effect_type": 1,
+    "effect_param": 130002701
+  },
+  {
+    "id": 130002703,
+    "m_character_id": 1300027,
+    "limit_break_count": 1,
+    "effect_type": 1,
+    "effect_param": 130002702
+  },
+  {
+    "id": 130002704,
+    "m_character_id": 1300027,
+    "limit_break_count": 2,
+    "effect_type": 1,
+    "effect_param": 130002703
+  },
+  {
+    "id": 130002705,
+    "m_character_id": 1300027,
+    "limit_break_count": 2,
+    "effect_type": 2,
+    "effect_param": 3
+  },
+  {
+    "id": 130002706,
+    "m_character_id": 1300027,
+    "limit_break_count": 3,
+    "effect_type": 1,
+    "effect_param": 130002701
+  },
+  {
+    "id": 130002707,
+    "m_character_id": 1300027,
+    "limit_break_count": 3,
+    "effect_type": 2,
+    "effect_param": 4
+  },
+  {
+    "id": 130002708,
+    "m_character_id": 1300027,
+    "limit_break_count": 4,
+    "effect_type": 1,
+    "effect_param": 130002702
+  },
+  {
+    "id": 130002709,
+    "m_character_id": 1300027,
+    "limit_break_count": 4,
+    "effect_type": 2,
+    "effect_param": 5
+  },
+  {
+    "id": 130002710,
+    "m_character_id": 1300027,
+    "limit_break_count": 4,
+    "effect_type": 1,
+    "effect_param": 130002703
+  },
+  {
+    "id": 130002712,
+    "m_character_id": 1300027,
+    "limit_break_count": 5,
+    "effect_type": 2,
+    "effect_param": 6
+  },
+  {
+    "id": 130002714,
+    "m_character_id": 1300027,
+    "limit_break_count": 6,
+    "effect_type": 2,
+    "effect_param": 7
+  },
+  {
+    "id": 130002716,
+    "m_character_id": 1300027,
+    "limit_break_count": 7,
+    "effect_type": 2,
+    "effect_param": 8
+  },
+  {
+    "id": 130002718,
+    "m_character_id": 1300027,
+    "limit_break_count": 8,
+    "effect_type": 2,
+    "effect_param": 9
+  },
+  {
+    "id": 130002719,
+    "m_character_id": 1300027,
+    "limit_break_count": 9,
+    "effect_type": 2,
+    "effect_param": 10
+  },
+  {
     "id": 130002901,
     "m_character_id": 1300029,
     "limit_break_count": 1,
@@ -4573,6 +4741,216 @@
   {
     "id": 130003419,
     "m_character_id": 1300034,
+    "limit_break_count": 9,
+    "effect_type": 2,
+    "effect_param": 10
+  },
+  {
+    "id": 130003501,
+    "m_character_id": 1300035,
+    "limit_break_count": 1,
+    "effect_type": 2,
+    "effect_param": 2
+  },
+  {
+    "id": 130003502,
+    "m_character_id": 1300035,
+    "limit_break_count": 1,
+    "effect_type": 1,
+    "effect_param": 130003501
+  },
+  {
+    "id": 130003503,
+    "m_character_id": 1300035,
+    "limit_break_count": 1,
+    "effect_type": 1,
+    "effect_param": 130003502
+  },
+  {
+    "id": 130003504,
+    "m_character_id": 1300035,
+    "limit_break_count": 2,
+    "effect_type": 1,
+    "effect_param": 130003503
+  },
+  {
+    "id": 130003505,
+    "m_character_id": 1300035,
+    "limit_break_count": 2,
+    "effect_type": 2,
+    "effect_param": 3
+  },
+  {
+    "id": 130003506,
+    "m_character_id": 1300035,
+    "limit_break_count": 3,
+    "effect_type": 1,
+    "effect_param": 130003501
+  },
+  {
+    "id": 130003507,
+    "m_character_id": 1300035,
+    "limit_break_count": 3,
+    "effect_type": 2,
+    "effect_param": 4
+  },
+  {
+    "id": 130003508,
+    "m_character_id": 1300035,
+    "limit_break_count": 4,
+    "effect_type": 1,
+    "effect_param": 130003502
+  },
+  {
+    "id": 130003509,
+    "m_character_id": 1300035,
+    "limit_break_count": 4,
+    "effect_type": 2,
+    "effect_param": 5
+  },
+  {
+    "id": 130003510,
+    "m_character_id": 1300035,
+    "limit_break_count": 4,
+    "effect_type": 1,
+    "effect_param": 130003503
+  },
+  {
+    "id": 130003512,
+    "m_character_id": 1300035,
+    "limit_break_count": 5,
+    "effect_type": 2,
+    "effect_param": 6
+  },
+  {
+    "id": 130003514,
+    "m_character_id": 1300035,
+    "limit_break_count": 6,
+    "effect_type": 2,
+    "effect_param": 7
+  },
+  {
+    "id": 130003516,
+    "m_character_id": 1300035,
+    "limit_break_count": 7,
+    "effect_type": 2,
+    "effect_param": 8
+  },
+  {
+    "id": 130003518,
+    "m_character_id": 1300035,
+    "limit_break_count": 8,
+    "effect_type": 2,
+    "effect_param": 9
+  },
+  {
+    "id": 130003519,
+    "m_character_id": 1300035,
+    "limit_break_count": 9,
+    "effect_type": 2,
+    "effect_param": 10
+  },
+  {
+    "id": 130003701,
+    "m_character_id": 1300037,
+    "limit_break_count": 1,
+    "effect_type": 2,
+    "effect_param": 2
+  },
+  {
+    "id": 130003702,
+    "m_character_id": 1300037,
+    "limit_break_count": 1,
+    "effect_type": 1,
+    "effect_param": 130003701
+  },
+  {
+    "id": 130003703,
+    "m_character_id": 1300037,
+    "limit_break_count": 1,
+    "effect_type": 1,
+    "effect_param": 130003702
+  },
+  {
+    "id": 130003704,
+    "m_character_id": 1300037,
+    "limit_break_count": 2,
+    "effect_type": 1,
+    "effect_param": 130003703
+  },
+  {
+    "id": 130003705,
+    "m_character_id": 1300037,
+    "limit_break_count": 2,
+    "effect_type": 2,
+    "effect_param": 3
+  },
+  {
+    "id": 130003706,
+    "m_character_id": 1300037,
+    "limit_break_count": 3,
+    "effect_type": 1,
+    "effect_param": 130003701
+  },
+  {
+    "id": 130003707,
+    "m_character_id": 1300037,
+    "limit_break_count": 3,
+    "effect_type": 2,
+    "effect_param": 4
+  },
+  {
+    "id": 130003708,
+    "m_character_id": 1300037,
+    "limit_break_count": 4,
+    "effect_type": 1,
+    "effect_param": 130003702
+  },
+  {
+    "id": 130003709,
+    "m_character_id": 1300037,
+    "limit_break_count": 4,
+    "effect_type": 2,
+    "effect_param": 5
+  },
+  {
+    "id": 130003710,
+    "m_character_id": 1300037,
+    "limit_break_count": 4,
+    "effect_type": 1,
+    "effect_param": 130003703
+  },
+  {
+    "id": 130003712,
+    "m_character_id": 1300037,
+    "limit_break_count": 5,
+    "effect_type": 2,
+    "effect_param": 6
+  },
+  {
+    "id": 130003714,
+    "m_character_id": 1300037,
+    "limit_break_count": 6,
+    "effect_type": 2,
+    "effect_param": 7
+  },
+  {
+    "id": 130003716,
+    "m_character_id": 1300037,
+    "limit_break_count": 7,
+    "effect_type": 2,
+    "effect_param": 8
+  },
+  {
+    "id": 130003718,
+    "m_character_id": 1300037,
+    "limit_break_count": 8,
+    "effect_type": 2,
+    "effect_param": 9
+  },
+  {
+    "id": 130003719,
+    "m_character_id": 1300037,
     "limit_break_count": 9,
     "effect_type": 2,
     "effect_param": 10

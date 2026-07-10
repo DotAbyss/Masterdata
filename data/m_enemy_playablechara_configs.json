@@ -1,13 +1,428 @@
 [
   {
-    "id": 1001,
-    "m_enemy_id": 4100101001,
+    "id": 1,
+    "m_enemy_id": 4101,
+    "m_character_id": 1100001
+  },
+  {
+    "id": 2,
+    "m_enemy_id": 4102,
+    "m_character_id": 1100002
+  },
+  {
+    "id": 3,
+    "m_enemy_id": 4103,
+    "m_character_id": 1100003
+  },
+  {
+    "id": 4,
+    "m_enemy_id": 4104,
+    "m_character_id": 1100004
+  },
+  {
+    "id": 5,
+    "m_enemy_id": 4105,
+    "m_character_id": 1100005
+  },
+  {
+    "id": 6,
+    "m_enemy_id": 4106,
+    "m_character_id": 1100006
+  },
+  {
+    "id": 7,
+    "m_enemy_id": 4107,
+    "m_character_id": 1100007
+  },
+  {
+    "id": 8,
+    "m_enemy_id": 4108,
+    "m_character_id": 1100008
+  },
+  {
+    "id": 9,
+    "m_enemy_id": 4109,
+    "m_character_id": 1100009
+  },
+  {
+    "id": 10,
+    "m_enemy_id": 4110,
+    "m_character_id": 1100010
+  },
+  {
+    "id": 11,
+    "m_enemy_id": 4111,
+    "m_character_id": 1100011
+  },
+  {
+    "id": 12,
+    "m_enemy_id": 4112,
+    "m_character_id": 1100012
+  },
+  {
+    "id": 13,
+    "m_enemy_id": 4113,
+    "m_character_id": 1100013
+  },
+  {
+    "id": 14,
+    "m_enemy_id": 4114,
+    "m_character_id": 1100014
+  },
+  {
+    "id": 15,
+    "m_enemy_id": 4115,
+    "m_character_id": 1100015
+  },
+  {
+    "id": 16,
+    "m_enemy_id": 4116,
+    "m_character_id": 1100016
+  },
+  {
+    "id": 17,
+    "m_enemy_id": 4117,
+    "m_character_id": 1200001
+  },
+  {
+    "id": 18,
+    "m_enemy_id": 4118,
+    "m_character_id": 1200002
+  },
+  {
+    "id": 19,
+    "m_enemy_id": 4119,
+    "m_character_id": 1200003
+  },
+  {
+    "id": 20,
+    "m_enemy_id": 4120,
+    "m_character_id": 1200004
+  },
+  {
+    "id": 21,
+    "m_enemy_id": 4121,
+    "m_character_id": 1200005
+  },
+  {
+    "id": 22,
+    "m_enemy_id": 4122,
+    "m_character_id": 1200006
+  },
+  {
+    "id": 23,
+    "m_enemy_id": 4123,
+    "m_character_id": 1200007
+  },
+  {
+    "id": 24,
+    "m_enemy_id": 4124,
+    "m_character_id": 1200008
+  },
+  {
+    "id": 25,
+    "m_enemy_id": 4125,
+    "m_character_id": 1200009
+  },
+  {
+    "id": 26,
+    "m_enemy_id": 4126,
+    "m_character_id": 1200010
+  },
+  {
+    "id": 27,
+    "m_enemy_id": 4127,
+    "m_character_id": 1200011
+  },
+  {
+    "id": 28,
+    "m_enemy_id": 4128,
+    "m_character_id": 1200012
+  },
+  {
+    "id": 29,
+    "m_enemy_id": 4129,
+    "m_character_id": 1200013
+  },
+  {
+    "id": 30,
+    "m_enemy_id": 4130,
+    "m_character_id": 1200014
+  },
+  {
+    "id": 31,
+    "m_enemy_id": 4131,
+    "m_character_id": 1200015
+  },
+  {
+    "id": 32,
+    "m_enemy_id": 4132,
+    "m_character_id": 1200016
+  },
+  {
+    "id": 33,
+    "m_enemy_id": 4133,
+    "m_character_id": 1200017
+  },
+  {
+    "id": 34,
+    "m_enemy_id": 4134,
+    "m_character_id": 1200018
+  },
+  {
+    "id": 35,
+    "m_enemy_id": 4135,
+    "m_character_id": 1200019
+  },
+  {
+    "id": 36,
+    "m_enemy_id": 4136,
+    "m_character_id": 1200020
+  },
+  {
+    "id": 37,
+    "m_enemy_id": 4137,
+    "m_character_id": 1300001
+  },
+  {
+    "id": 38,
+    "m_enemy_id": 4138,
+    "m_character_id": 1300002
+  },
+  {
+    "id": 39,
+    "m_enemy_id": 4139,
+    "m_character_id": 1300003
+  },
+  {
+    "id": 40,
+    "m_enemy_id": 4140,
+    "m_character_id": 1300004
+  },
+  {
+    "id": 41,
+    "m_enemy_id": 4141,
+    "m_character_id": 1300005
+  },
+  {
+    "id": 42,
+    "m_enemy_id": 4142,
+    "m_character_id": 1300006
+  },
+  {
+    "id": 43,
+    "m_enemy_id": 4143,
+    "m_character_id": 1300007
+  },
+  {
+    "id": 44,
+    "m_enemy_id": 4144,
+    "m_character_id": 1300008
+  },
+  {
+    "id": 45,
+    "m_enemy_id": 4145,
+    "m_character_id": 1300009
+  },
+  {
+    "id": 46,
+    "m_enemy_id": 4146,
+    "m_character_id": 1300010
+  },
+  {
+    "id": 47,
+    "m_enemy_id": 4147,
+    "m_character_id": 1300011
+  },
+  {
+    "id": 48,
+    "m_enemy_id": 4148,
+    "m_character_id": 1300012
+  },
+  {
+    "id": 49,
+    "m_enemy_id": 4149,
+    "m_character_id": 1300013
+  },
+  {
+    "id": 50,
+    "m_enemy_id": 4150,
+    "m_character_id": 1300014
+  },
+  {
+    "id": 51,
+    "m_enemy_id": 4151,
+    "m_character_id": 1300015
+  },
+  {
+    "id": 52,
+    "m_enemy_id": 4152,
+    "m_character_id": 1300016
+  },
+  {
+    "id": 53,
+    "m_enemy_id": 4153,
+    "m_character_id": 1300017
+  },
+  {
+    "id": 54,
+    "m_enemy_id": 4154,
+    "m_character_id": 1300018
+  },
+  {
+    "id": 55,
+    "m_enemy_id": 4155,
+    "m_character_id": 1300019
+  },
+  {
+    "id": 56,
+    "m_enemy_id": 4156,
+    "m_character_id": 1300020
+  },
+  {
+    "id": 57,
+    "m_enemy_id": 4157,
+    "m_character_id": 1300021
+  },
+  {
+    "id": 58,
+    "m_enemy_id": 4158,
+    "m_character_id": 1300022
+  },
+  {
+    "id": 59,
+    "m_enemy_id": 4159,
+    "m_character_id": 1300023
+  },
+  {
+    "id": 60,
+    "m_enemy_id": 4160,
+    "m_character_id": 1300024
+  },
+  {
+    "id": 61,
+    "m_enemy_id": 4161,
     "m_character_id": 1300025
   },
   {
-    "id": 1002,
-    "m_enemy_id": 4100101002,
-    "m_character_id": 1300013
+    "id": 62,
+    "m_enemy_id": 4162,
+    "m_character_id": 1300026
+  },
+  {
+    "id": 63,
+    "m_enemy_id": 4163,
+    "m_character_id": 1300027
+  },
+  {
+    "id": 64,
+    "m_enemy_id": 4164,
+    "m_character_id": 1300028
+  },
+  {
+    "id": 65,
+    "m_enemy_id": 4165,
+    "m_character_id": 1300029
+  },
+  {
+    "id": 66,
+    "m_enemy_id": 4166,
+    "m_character_id": 1300030
+  },
+  {
+    "id": 67,
+    "m_enemy_id": 4167,
+    "m_character_id": 1300031
+  },
+  {
+    "id": 68,
+    "m_enemy_id": 4168,
+    "m_character_id": 1300032
+  },
+  {
+    "id": 69,
+    "m_enemy_id": 4169,
+    "m_character_id": 1300033
+  },
+  {
+    "id": 70,
+    "m_enemy_id": 4170,
+    "m_character_id": 1300034
+  },
+  {
+    "id": 71,
+    "m_enemy_id": 4171,
+    "m_character_id": 1300035
+  },
+  {
+    "id": 72,
+    "m_enemy_id": 4172,
+    "m_character_id": 1300036
+  },
+  {
+    "id": 73,
+    "m_enemy_id": 4173,
+    "m_character_id": 1300037
+  },
+  {
+    "id": 74,
+    "m_enemy_id": 4174,
+    "m_character_id": 1300038
+  },
+  {
+    "id": 75,
+    "m_enemy_id": 4175,
+    "m_character_id": 1300039
+  },
+  {
+    "id": 76,
+    "m_enemy_id": 4176,
+    "m_character_id": 1300040
+  },
+  {
+    "id": 77,
+    "m_enemy_id": 4177,
+    "m_character_id": 1300041
+  },
+  {
+    "id": 78,
+    "m_enemy_id": 4178,
+    "m_character_id": 1300042
+  },
+  {
+    "id": 79,
+    "m_enemy_id": 4179,
+    "m_character_id": 1300043
+  },
+  {
+    "id": 80,
+    "m_enemy_id": 4180,
+    "m_character_id": 1300044
+  },
+  {
+    "id": 81,
+    "m_enemy_id": 4181,
+    "m_character_id": 1300045
+  },
+  {
+    "id": 82,
+    "m_enemy_id": 4182,
+    "m_character_id": 1300046
+  },
+  {
+    "id": 83,
+    "m_enemy_id": 4183,
+    "m_character_id": 1300047
+  },
+  {
+    "id": 84,
+    "m_enemy_id": 4184,
+    "m_character_id": 1300048
+  },
+  {
+    "id": 1001,
+    "m_enemy_id": 4100101001,
+    "m_character_id": 1300027
   },
   {
     "id": 1003,
@@ -22,7 +437,7 @@
   {
     "id": 1005,
     "m_enemy_id": 4100102001,
-    "m_character_id": 1300025
+    "m_character_id": 1300027
   },
   {
     "id": 1006,
@@ -32,7 +447,7 @@
   {
     "id": 1007,
     "m_enemy_id": 4100102003,
-    "m_character_id": 1300013
+    "m_character_id": 1300037
   },
   {
     "id": 1008,
@@ -52,7 +467,7 @@
   {
     "id": 1011,
     "m_enemy_id": 4100103001,
-    "m_character_id": 1300025
+    "m_character_id": 1300027
   },
   {
     "id": 1012,
@@ -67,7 +482,7 @@
   {
     "id": 1014,
     "m_enemy_id": 4100103004,
-    "m_character_id": 1300013
+    "m_character_id": 1300037
   },
   {
     "id": 1015,
@@ -92,7 +507,7 @@
   {
     "id": 1019,
     "m_enemy_id": 4100104001,
-    "m_character_id": 1300025
+    "m_character_id": 1300027
   },
   {
     "id": 1020,
@@ -107,7 +522,7 @@
   {
     "id": 1022,
     "m_enemy_id": 4100104004,
-    "m_character_id": 1300013
+    "m_character_id": 1300037
   },
   {
     "id": 1023,
@@ -288,5 +703,345 @@
     "id": 1058,
     "m_enemy_id": 4100107010,
     "m_character_id": 1200003
+  },
+  {
+    "id": 410110101,
+    "m_enemy_id": 410110101,
+    "m_character_id": 1300027
+  },
+  {
+    "id": 410110201,
+    "m_enemy_id": 410110201,
+    "m_character_id": 1300027
+  },
+  {
+    "id": 410110301,
+    "m_enemy_id": 410110301,
+    "m_character_id": 1300027
+  },
+  {
+    "id": 410110401,
+    "m_enemy_id": 410110401,
+    "m_character_id": 1300027
+  },
+  {
+    "id": 410110501,
+    "m_enemy_id": 410110501,
+    "m_character_id": 1300037
+  },
+  {
+    "id": 410110601,
+    "m_enemy_id": 410110601,
+    "m_character_id": 1300037
+  },
+  {
+    "id": 410110701,
+    "m_enemy_id": 410110701,
+    "m_character_id": 1300037
+  },
+  {
+    "id": 410110801,
+    "m_enemy_id": 410110801,
+    "m_character_id": 1300037
+  },
+  {
+    "id": 410120101,
+    "m_enemy_id": 410120101,
+    "m_character_id": 1200006
+  },
+  {
+    "id": 410120102,
+    "m_enemy_id": 410120102,
+    "m_character_id": 1200015
+  },
+  {
+    "id": 410120103,
+    "m_enemy_id": 410120103,
+    "m_character_id": 1200018
+  },
+  {
+    "id": 410120104,
+    "m_enemy_id": 410120104,
+    "m_character_id": 1100002
+  },
+  {
+    "id": 410120105,
+    "m_enemy_id": 410120105,
+    "m_character_id": 1100006
+  },
+  {
+    "id": 410120106,
+    "m_enemy_id": 410120106,
+    "m_character_id": 1100012
+  },
+  {
+    "id": 410120107,
+    "m_enemy_id": 410120107,
+    "m_character_id": 1300027
+  },
+  {
+    "id": 410120108,
+    "m_enemy_id": 410120108,
+    "m_character_id": 1200003
+  },
+  {
+    "id": 410120109,
+    "m_enemy_id": 410120109,
+    "m_character_id": 1200014
+  },
+  {
+    "id": 410120110,
+    "m_enemy_id": 410120110,
+    "m_character_id": 1100009
+  },
+  {
+    "id": 410120201,
+    "m_enemy_id": 410120201,
+    "m_character_id": 1200006
+  },
+  {
+    "id": 410120202,
+    "m_enemy_id": 410120202,
+    "m_character_id": 1300016
+  },
+  {
+    "id": 410120203,
+    "m_enemy_id": 410120203,
+    "m_character_id": 1200018
+  },
+  {
+    "id": 410120204,
+    "m_enemy_id": 410120204,
+    "m_character_id": 1100002
+  },
+  {
+    "id": 410120205,
+    "m_enemy_id": 410120205,
+    "m_character_id": 1300031
+  },
+  {
+    "id": 410120206,
+    "m_enemy_id": 410120206,
+    "m_character_id": 1100012
+  },
+  {
+    "id": 410120207,
+    "m_enemy_id": 410120207,
+    "m_character_id": 1300027
+  },
+  {
+    "id": 410120208,
+    "m_enemy_id": 410120208,
+    "m_character_id": 1200003
+  },
+  {
+    "id": 410120209,
+    "m_enemy_id": 410120209,
+    "m_character_id": 1200014
+  },
+  {
+    "id": 410120210,
+    "m_enemy_id": 410120210,
+    "m_character_id": 1300032
+  },
+  {
+    "id": 410120301,
+    "m_enemy_id": 410120301,
+    "m_character_id": 1300029
+  },
+  {
+    "id": 410120302,
+    "m_enemy_id": 410120302,
+    "m_character_id": 1300016
+  },
+  {
+    "id": 410120303,
+    "m_enemy_id": 410120303,
+    "m_character_id": 1300001
+  },
+  {
+    "id": 410120304,
+    "m_enemy_id": 410120304,
+    "m_character_id": 1300009
+  },
+  {
+    "id": 410120305,
+    "m_enemy_id": 410120305,
+    "m_character_id": 1300031
+  },
+  {
+    "id": 410120306,
+    "m_enemy_id": 410120306,
+    "m_character_id": 1300007
+  },
+  {
+    "id": 410120307,
+    "m_enemy_id": 410120307,
+    "m_character_id": 1300027
+  },
+  {
+    "id": 410120308,
+    "m_enemy_id": 410120308,
+    "m_character_id": 1300006
+  },
+  {
+    "id": 410120309,
+    "m_enemy_id": 410120309,
+    "m_character_id": 1300041
+  },
+  {
+    "id": 410120310,
+    "m_enemy_id": 410120310,
+    "m_character_id": 1300032
+  },
+  {
+    "id": 410120401,
+    "m_enemy_id": 410120401,
+    "m_character_id": 1200001
+  },
+  {
+    "id": 410120402,
+    "m_enemy_id": 410120402,
+    "m_character_id": 1200016
+  },
+  {
+    "id": 410120403,
+    "m_enemy_id": 410120403,
+    "m_character_id": 1200006
+  },
+  {
+    "id": 410120404,
+    "m_enemy_id": 410120404,
+    "m_character_id": 1200011
+  },
+  {
+    "id": 410120405,
+    "m_enemy_id": 410120405,
+    "m_character_id": 1200019
+  },
+  {
+    "id": 410120406,
+    "m_enemy_id": 410120406,
+    "m_character_id": 1300027
+  },
+  {
+    "id": 410120407,
+    "m_enemy_id": 410120407,
+    "m_character_id": 1300037
+  },
+  {
+    "id": 410120408,
+    "m_enemy_id": 410120408,
+    "m_character_id": 1200003
+  },
+  {
+    "id": 410120409,
+    "m_enemy_id": 410120409,
+    "m_character_id": 1200004
+  },
+  {
+    "id": 410120410,
+    "m_enemy_id": 410120410,
+    "m_character_id": 1200014
+  },
+  {
+    "id": 410120501,
+    "m_enemy_id": 410120501,
+    "m_character_id": 1200001
+  },
+  {
+    "id": 410120502,
+    "m_enemy_id": 410120502,
+    "m_character_id": 1300020
+  },
+  {
+    "id": 410120503,
+    "m_enemy_id": 410120503,
+    "m_character_id": 1200006
+  },
+  {
+    "id": 410120504,
+    "m_enemy_id": 410120504,
+    "m_character_id": 1300031
+  },
+  {
+    "id": 410120505,
+    "m_enemy_id": 410120505,
+    "m_character_id": 1200019
+  },
+  {
+    "id": 410120506,
+    "m_enemy_id": 410120506,
+    "m_character_id": 1300027
+  },
+  {
+    "id": 410120507,
+    "m_enemy_id": 410120507,
+    "m_character_id": 1300037
+  },
+  {
+    "id": 410120508,
+    "m_enemy_id": 410120508,
+    "m_character_id": 1300023
+  },
+  {
+    "id": 410120509,
+    "m_enemy_id": 410120509,
+    "m_character_id": 1200004
+  },
+  {
+    "id": 410120510,
+    "m_enemy_id": 410120510,
+    "m_character_id": 1200014
+  },
+  {
+    "id": 410120601,
+    "m_enemy_id": 410120601,
+    "m_character_id": 1300029
+  },
+  {
+    "id": 410120602,
+    "m_enemy_id": 410120602,
+    "m_character_id": 1300020
+  },
+  {
+    "id": 410120603,
+    "m_enemy_id": 410120603,
+    "m_character_id": 1300030
+  },
+  {
+    "id": 410120604,
+    "m_enemy_id": 410120604,
+    "m_character_id": 1300031
+  },
+  {
+    "id": 410120605,
+    "m_enemy_id": 410120605,
+    "m_character_id": 1300010
+  },
+  {
+    "id": 410120606,
+    "m_enemy_id": 410120606,
+    "m_character_id": 1300027
+  },
+  {
+    "id": 410120607,
+    "m_enemy_id": 410120607,
+    "m_character_id": 1300037
+  },
+  {
+    "id": 410120608,
+    "m_enemy_id": 410120608,
+    "m_character_id": 1300023
+  },
+  {
+    "id": 410120609,
+    "m_enemy_id": 410120609,
+    "m_character_id": 1300041
+  },
+  {
+    "id": 410120610,
+    "m_enemy_id": 410120610,
+    "m_character_id": 1300006
   }
 ]

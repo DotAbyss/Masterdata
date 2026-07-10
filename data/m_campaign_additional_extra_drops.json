@@ -34,5 +34,11 @@
     "m_campaign_id": 5,
     "effective_target": 6,
     "additional_probability": 100
+  },
+  {
+    "id": 7,
+    "m_campaign_id": 7,
+    "effective_target": 2,
+    "additional_probability": 1000
   }
 ]

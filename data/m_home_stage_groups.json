@@ -35,8 +35,32 @@
     "id": 6,
     "target_scene": 4,
     "param": 115,
-    "display_order": 1,
+    "display_order": 2,
     "start_at": "2026-07-05 10:00:00",
     "end_at": "2026-07-12 4:59:59"
+  },
+  {
+    "id": 7,
+    "target_scene": 4,
+    "param": 118,
+    "display_order": 1,
+    "start_at": "2026-07-10 13:00:00",
+    "end_at": "2026-07-20 4:59:59"
+  },
+  {
+    "id": 8,
+    "target_scene": 4,
+    "param": 119,
+    "display_order": 1,
+    "start_at": "2026-07-17 13:00:00",
+    "end_at": "2026-07-27 4:59:59"
+  },
+  {
+    "id": 9,
+    "target_scene": 4,
+    "param": 119,
+    "display_order": 1,
+    "start_at": "2026-07-24 13:00:00",
+    "end_at": "2026-08-02 4:59:59"
   }
 ]

@@ -189,6 +189,13 @@
     "m_attribute_tag_group_group_id": 14
   },
   {
+    "id": 2021000,
+    "name": "煉獄の厄災",
+    "job_group_type": 9002,
+    "species_type": 4,
+    "m_attribute_tag_group_group_id": 19
+  },
+  {
     "id": 2022000,
     "name": "氷河の厄災",
     "job_group_type": 9002,
@@ -238,11 +245,32 @@
     "m_attribute_tag_group_group_id": 16
   },
   {
+    "id": 2031000,
+    "name": "アラクネ",
+    "job_group_type": 2031,
+    "species_type": 3,
+    "m_attribute_tag_group_group_id": 20
+  },
+  {
+    "id": 2034000,
+    "name": "ゴースト",
+    "job_group_type": 2034,
+    "species_type": 6,
+    "m_attribute_tag_group_group_id": 21
+  },
+  {
     "id": 2038000,
     "name": "採掘目標",
     "job_group_type": 2038,
     "species_type": 3,
     "m_attribute_tag_group_group_id": 17
+  },
+  {
+    "id": 2039000,
+    "name": "彷徨える者たち",
+    "job_group_type": 2039,
+    "species_type": 6,
+    "m_attribute_tag_group_group_id": 19
   },
   {
     "id": 2040000,
@@ -257,5 +285,12 @@
     "job_group_type": 2006,
     "species_type": 5,
     "m_attribute_tag_group_group_id": 6
+  },
+  {
+    "id": 2046000,
+    "name": "ガーゴイル",
+    "job_group_type": 2046,
+    "species_type": 3,
+    "m_attribute_tag_group_group_id": 22
   }
 ]

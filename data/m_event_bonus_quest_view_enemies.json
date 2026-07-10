@@ -1,1 +1,2354 @@
-null
+[
+  {
+    "id": 100,
+    "m_event_bonus_quest_stage_id": 60000201,
+    "m_enemy_id": 480020101,
+    "is_boss": 0,
+    "asset_id": "2005401"
+  },
+  {
+    "id": 101,
+    "m_event_bonus_quest_stage_id": 60000201,
+    "m_enemy_id": 480020102,
+    "is_boss": 0,
+    "asset_id": "2006401"
+  },
+  {
+    "id": 102,
+    "m_event_bonus_quest_stage_id": 60000201,
+    "m_enemy_id": 480020103,
+    "is_boss": 0,
+    "asset_id": "2007401"
+  },
+  {
+    "id": 103,
+    "m_event_bonus_quest_stage_id": 60000201,
+    "m_enemy_id": 480020104,
+    "is_boss": 0,
+    "asset_id": "2002001"
+  },
+  {
+    "id": 104,
+    "m_event_bonus_quest_stage_id": 60000201,
+    "m_enemy_id": 480020105,
+    "is_boss": 0,
+    "asset_id": "2004001"
+  },
+  {
+    "id": 105,
+    "m_event_bonus_quest_stage_id": 60000201,
+    "m_enemy_id": 480020106,
+    "is_boss": 0,
+    "asset_id": "2001001"
+  },
+  {
+    "id": 106,
+    "m_event_bonus_quest_stage_id": 60000201,
+    "m_enemy_id": 480020107,
+    "is_boss": 0,
+    "asset_id": "2008401"
+  },
+  {
+    "id": 107,
+    "m_event_bonus_quest_stage_id": 60000201,
+    "m_enemy_id": 480020108,
+    "is_boss": 0,
+    "asset_id": "2003401"
+  },
+  {
+    "id": 108,
+    "m_event_bonus_quest_stage_id": 60000201,
+    "m_enemy_id": 480020109,
+    "is_boss": 0,
+    "asset_id": "2031401"
+  },
+  {
+    "id": 109,
+    "m_event_bonus_quest_stage_id": 60000201,
+    "m_enemy_id": 480020111,
+    "is_boss": 0,
+    "asset_id": "2006001"
+  },
+  {
+    "id": 110,
+    "m_event_bonus_quest_stage_id": 60000201,
+    "m_enemy_id": 480020112,
+    "is_boss": 0,
+    "asset_id": "2034001"
+  },
+  {
+    "id": 111,
+    "m_event_bonus_quest_stage_id": 60000201,
+    "m_enemy_id": 480020113,
+    "is_boss": 0,
+    "asset_id": "2034401"
+  },
+  {
+    "id": 112,
+    "m_event_bonus_quest_stage_id": 60000201,
+    "m_enemy_id": 480020115,
+    "is_boss": 0,
+    "asset_id": "2003001"
+  },
+  {
+    "id": 113,
+    "m_event_bonus_quest_stage_id": 60000201,
+    "m_enemy_id": 480020116,
+    "is_boss": 0,
+    "asset_id": "2046001"
+  },
+  {
+    "id": 114,
+    "m_event_bonus_quest_stage_id": 60000201,
+    "m_enemy_id": 480020117,
+    "is_boss": 0,
+    "asset_id": "2046401"
+  },
+  {
+    "id": 115,
+    "m_event_bonus_quest_stage_id": 60000201,
+    "m_enemy_id": 480020118,
+    "is_boss": 1,
+    "asset_id": "2017401"
+  },
+  {
+    "id": 200,
+    "m_event_bonus_quest_stage_id": 60000202,
+    "m_enemy_id": 480020101,
+    "is_boss": 0,
+    "asset_id": "2005401"
+  },
+  {
+    "id": 201,
+    "m_event_bonus_quest_stage_id": 60000202,
+    "m_enemy_id": 480020102,
+    "is_boss": 0,
+    "asset_id": "2006401"
+  },
+  {
+    "id": 202,
+    "m_event_bonus_quest_stage_id": 60000202,
+    "m_enemy_id": 480020103,
+    "is_boss": 0,
+    "asset_id": "2007401"
+  },
+  {
+    "id": 203,
+    "m_event_bonus_quest_stage_id": 60000202,
+    "m_enemy_id": 480020104,
+    "is_boss": 0,
+    "asset_id": "2002001"
+  },
+  {
+    "id": 204,
+    "m_event_bonus_quest_stage_id": 60000202,
+    "m_enemy_id": 480020105,
+    "is_boss": 0,
+    "asset_id": "2004001"
+  },
+  {
+    "id": 205,
+    "m_event_bonus_quest_stage_id": 60000202,
+    "m_enemy_id": 480020106,
+    "is_boss": 0,
+    "asset_id": "2001001"
+  },
+  {
+    "id": 206,
+    "m_event_bonus_quest_stage_id": 60000202,
+    "m_enemy_id": 480020107,
+    "is_boss": 0,
+    "asset_id": "2008401"
+  },
+  {
+    "id": 207,
+    "m_event_bonus_quest_stage_id": 60000202,
+    "m_enemy_id": 480020108,
+    "is_boss": 0,
+    "asset_id": "2003401"
+  },
+  {
+    "id": 208,
+    "m_event_bonus_quest_stage_id": 60000202,
+    "m_enemy_id": 480020109,
+    "is_boss": 0,
+    "asset_id": "2031401"
+  },
+  {
+    "id": 209,
+    "m_event_bonus_quest_stage_id": 60000202,
+    "m_enemy_id": 480020111,
+    "is_boss": 0,
+    "asset_id": "2006001"
+  },
+  {
+    "id": 210,
+    "m_event_bonus_quest_stage_id": 60000202,
+    "m_enemy_id": 480020112,
+    "is_boss": 0,
+    "asset_id": "2034001"
+  },
+  {
+    "id": 211,
+    "m_event_bonus_quest_stage_id": 60000202,
+    "m_enemy_id": 480020113,
+    "is_boss": 0,
+    "asset_id": "2034401"
+  },
+  {
+    "id": 212,
+    "m_event_bonus_quest_stage_id": 60000202,
+    "m_enemy_id": 480020115,
+    "is_boss": 0,
+    "asset_id": "2003001"
+  },
+  {
+    "id": 213,
+    "m_event_bonus_quest_stage_id": 60000202,
+    "m_enemy_id": 480020116,
+    "is_boss": 0,
+    "asset_id": "2046001"
+  },
+  {
+    "id": 214,
+    "m_event_bonus_quest_stage_id": 60000202,
+    "m_enemy_id": 480020117,
+    "is_boss": 0,
+    "asset_id": "2046401"
+  },
+  {
+    "id": 215,
+    "m_event_bonus_quest_stage_id": 60000202,
+    "m_enemy_id": 480020118,
+    "is_boss": 1,
+    "asset_id": "2017401"
+  },
+  {
+    "id": 300,
+    "m_event_bonus_quest_stage_id": 60000203,
+    "m_enemy_id": 480020101,
+    "is_boss": 0,
+    "asset_id": "2005401"
+  },
+  {
+    "id": 301,
+    "m_event_bonus_quest_stage_id": 60000203,
+    "m_enemy_id": 480020102,
+    "is_boss": 0,
+    "asset_id": "2006401"
+  },
+  {
+    "id": 302,
+    "m_event_bonus_quest_stage_id": 60000203,
+    "m_enemy_id": 480020103,
+    "is_boss": 0,
+    "asset_id": "2007401"
+  },
+  {
+    "id": 303,
+    "m_event_bonus_quest_stage_id": 60000203,
+    "m_enemy_id": 480020104,
+    "is_boss": 0,
+    "asset_id": "2002001"
+  },
+  {
+    "id": 304,
+    "m_event_bonus_quest_stage_id": 60000203,
+    "m_enemy_id": 480020105,
+    "is_boss": 0,
+    "asset_id": "2004001"
+  },
+  {
+    "id": 305,
+    "m_event_bonus_quest_stage_id": 60000203,
+    "m_enemy_id": 480020106,
+    "is_boss": 0,
+    "asset_id": "2001001"
+  },
+  {
+    "id": 306,
+    "m_event_bonus_quest_stage_id": 60000203,
+    "m_enemy_id": 480020107,
+    "is_boss": 0,
+    "asset_id": "2008401"
+  },
+  {
+    "id": 307,
+    "m_event_bonus_quest_stage_id": 60000203,
+    "m_enemy_id": 480020108,
+    "is_boss": 0,
+    "asset_id": "2003401"
+  },
+  {
+    "id": 308,
+    "m_event_bonus_quest_stage_id": 60000203,
+    "m_enemy_id": 480020109,
+    "is_boss": 0,
+    "asset_id": "2031401"
+  },
+  {
+    "id": 309,
+    "m_event_bonus_quest_stage_id": 60000203,
+    "m_enemy_id": 480020111,
+    "is_boss": 0,
+    "asset_id": "2006001"
+  },
+  {
+    "id": 310,
+    "m_event_bonus_quest_stage_id": 60000203,
+    "m_enemy_id": 480020112,
+    "is_boss": 0,
+    "asset_id": "2034001"
+  },
+  {
+    "id": 311,
+    "m_event_bonus_quest_stage_id": 60000203,
+    "m_enemy_id": 480020113,
+    "is_boss": 0,
+    "asset_id": "2034401"
+  },
+  {
+    "id": 312,
+    "m_event_bonus_quest_stage_id": 60000203,
+    "m_enemy_id": 480020115,
+    "is_boss": 0,
+    "asset_id": "2003001"
+  },
+  {
+    "id": 313,
+    "m_event_bonus_quest_stage_id": 60000203,
+    "m_enemy_id": 480020116,
+    "is_boss": 0,
+    "asset_id": "2046001"
+  },
+  {
+    "id": 314,
+    "m_event_bonus_quest_stage_id": 60000203,
+    "m_enemy_id": 480020117,
+    "is_boss": 0,
+    "asset_id": "2046401"
+  },
+  {
+    "id": 315,
+    "m_event_bonus_quest_stage_id": 60000203,
+    "m_enemy_id": 480020118,
+    "is_boss": 1,
+    "asset_id": "2017401"
+  },
+  {
+    "id": 400,
+    "m_event_bonus_quest_stage_id": 60000204,
+    "m_enemy_id": 480020201,
+    "is_boss": 0,
+    "asset_id": "2005401"
+  },
+  {
+    "id": 401,
+    "m_event_bonus_quest_stage_id": 60000204,
+    "m_enemy_id": 480020202,
+    "is_boss": 0,
+    "asset_id": "2006401"
+  },
+  {
+    "id": 402,
+    "m_event_bonus_quest_stage_id": 60000204,
+    "m_enemy_id": 480020203,
+    "is_boss": 0,
+    "asset_id": "2007401"
+  },
+  {
+    "id": 403,
+    "m_event_bonus_quest_stage_id": 60000204,
+    "m_enemy_id": 480020204,
+    "is_boss": 0,
+    "asset_id": "2002001"
+  },
+  {
+    "id": 404,
+    "m_event_bonus_quest_stage_id": 60000204,
+    "m_enemy_id": 480020205,
+    "is_boss": 0,
+    "asset_id": "2004001"
+  },
+  {
+    "id": 405,
+    "m_event_bonus_quest_stage_id": 60000204,
+    "m_enemy_id": 480020206,
+    "is_boss": 0,
+    "asset_id": "2001001"
+  },
+  {
+    "id": 406,
+    "m_event_bonus_quest_stage_id": 60000204,
+    "m_enemy_id": 480020207,
+    "is_boss": 0,
+    "asset_id": "2008401"
+  },
+  {
+    "id": 407,
+    "m_event_bonus_quest_stage_id": 60000204,
+    "m_enemy_id": 480020208,
+    "is_boss": 0,
+    "asset_id": "2003401"
+  },
+  {
+    "id": 408,
+    "m_event_bonus_quest_stage_id": 60000204,
+    "m_enemy_id": 480020209,
+    "is_boss": 0,
+    "asset_id": "2031401"
+  },
+  {
+    "id": 409,
+    "m_event_bonus_quest_stage_id": 60000204,
+    "m_enemy_id": 480020211,
+    "is_boss": 0,
+    "asset_id": "2006001"
+  },
+  {
+    "id": 410,
+    "m_event_bonus_quest_stage_id": 60000204,
+    "m_enemy_id": 480020212,
+    "is_boss": 0,
+    "asset_id": "2034001"
+  },
+  {
+    "id": 411,
+    "m_event_bonus_quest_stage_id": 60000204,
+    "m_enemy_id": 480020213,
+    "is_boss": 0,
+    "asset_id": "2034401"
+  },
+  {
+    "id": 412,
+    "m_event_bonus_quest_stage_id": 60000204,
+    "m_enemy_id": 480020215,
+    "is_boss": 0,
+    "asset_id": "2003001"
+  },
+  {
+    "id": 413,
+    "m_event_bonus_quest_stage_id": 60000204,
+    "m_enemy_id": 480020216,
+    "is_boss": 0,
+    "asset_id": "2046001"
+  },
+  {
+    "id": 414,
+    "m_event_bonus_quest_stage_id": 60000204,
+    "m_enemy_id": 480020217,
+    "is_boss": 0,
+    "asset_id": "2046401"
+  },
+  {
+    "id": 415,
+    "m_event_bonus_quest_stage_id": 60000204,
+    "m_enemy_id": 480020218,
+    "is_boss": 1,
+    "asset_id": "2017401"
+  },
+  {
+    "id": 500,
+    "m_event_bonus_quest_stage_id": 60000205,
+    "m_enemy_id": 480020201,
+    "is_boss": 0,
+    "asset_id": "2005401"
+  },
+  {
+    "id": 501,
+    "m_event_bonus_quest_stage_id": 60000205,
+    "m_enemy_id": 480020202,
+    "is_boss": 0,
+    "asset_id": "2006401"
+  },
+  {
+    "id": 502,
+    "m_event_bonus_quest_stage_id": 60000205,
+    "m_enemy_id": 480020203,
+    "is_boss": 0,
+    "asset_id": "2007401"
+  },
+  {
+    "id": 503,
+    "m_event_bonus_quest_stage_id": 60000205,
+    "m_enemy_id": 480020204,
+    "is_boss": 0,
+    "asset_id": "2002001"
+  },
+  {
+    "id": 504,
+    "m_event_bonus_quest_stage_id": 60000205,
+    "m_enemy_id": 480020205,
+    "is_boss": 0,
+    "asset_id": "2004001"
+  },
+  {
+    "id": 505,
+    "m_event_bonus_quest_stage_id": 60000205,
+    "m_enemy_id": 480020206,
+    "is_boss": 0,
+    "asset_id": "2001001"
+  },
+  {
+    "id": 506,
+    "m_event_bonus_quest_stage_id": 60000205,
+    "m_enemy_id": 480020207,
+    "is_boss": 0,
+    "asset_id": "2008401"
+  },
+  {
+    "id": 507,
+    "m_event_bonus_quest_stage_id": 60000205,
+    "m_enemy_id": 480020208,
+    "is_boss": 0,
+    "asset_id": "2003401"
+  },
+  {
+    "id": 508,
+    "m_event_bonus_quest_stage_id": 60000205,
+    "m_enemy_id": 480020209,
+    "is_boss": 0,
+    "asset_id": "2031401"
+  },
+  {
+    "id": 509,
+    "m_event_bonus_quest_stage_id": 60000205,
+    "m_enemy_id": 480020211,
+    "is_boss": 0,
+    "asset_id": "2006001"
+  },
+  {
+    "id": 510,
+    "m_event_bonus_quest_stage_id": 60000205,
+    "m_enemy_id": 480020212,
+    "is_boss": 0,
+    "asset_id": "2034001"
+  },
+  {
+    "id": 511,
+    "m_event_bonus_quest_stage_id": 60000205,
+    "m_enemy_id": 480020213,
+    "is_boss": 0,
+    "asset_id": "2034401"
+  },
+  {
+    "id": 512,
+    "m_event_bonus_quest_stage_id": 60000205,
+    "m_enemy_id": 480020215,
+    "is_boss": 0,
+    "asset_id": "2003001"
+  },
+  {
+    "id": 513,
+    "m_event_bonus_quest_stage_id": 60000205,
+    "m_enemy_id": 480020216,
+    "is_boss": 0,
+    "asset_id": "2046001"
+  },
+  {
+    "id": 514,
+    "m_event_bonus_quest_stage_id": 60000205,
+    "m_enemy_id": 480020217,
+    "is_boss": 0,
+    "asset_id": "2046401"
+  },
+  {
+    "id": 515,
+    "m_event_bonus_quest_stage_id": 60000205,
+    "m_enemy_id": 480020218,
+    "is_boss": 1,
+    "asset_id": "2017401"
+  },
+  {
+    "id": 600,
+    "m_event_bonus_quest_stage_id": 60000206,
+    "m_enemy_id": 480020201,
+    "is_boss": 0,
+    "asset_id": "2005401"
+  },
+  {
+    "id": 601,
+    "m_event_bonus_quest_stage_id": 60000206,
+    "m_enemy_id": 480020202,
+    "is_boss": 0,
+    "asset_id": "2006401"
+  },
+  {
+    "id": 602,
+    "m_event_bonus_quest_stage_id": 60000206,
+    "m_enemy_id": 480020203,
+    "is_boss": 0,
+    "asset_id": "2007401"
+  },
+  {
+    "id": 603,
+    "m_event_bonus_quest_stage_id": 60000206,
+    "m_enemy_id": 480020204,
+    "is_boss": 0,
+    "asset_id": "2002001"
+  },
+  {
+    "id": 604,
+    "m_event_bonus_quest_stage_id": 60000206,
+    "m_enemy_id": 480020205,
+    "is_boss": 0,
+    "asset_id": "2004001"
+  },
+  {
+    "id": 605,
+    "m_event_bonus_quest_stage_id": 60000206,
+    "m_enemy_id": 480020206,
+    "is_boss": 0,
+    "asset_id": "2001001"
+  },
+  {
+    "id": 606,
+    "m_event_bonus_quest_stage_id": 60000206,
+    "m_enemy_id": 480020207,
+    "is_boss": 0,
+    "asset_id": "2008401"
+  },
+  {
+    "id": 607,
+    "m_event_bonus_quest_stage_id": 60000206,
+    "m_enemy_id": 480020208,
+    "is_boss": 0,
+    "asset_id": "2003401"
+  },
+  {
+    "id": 608,
+    "m_event_bonus_quest_stage_id": 60000206,
+    "m_enemy_id": 480020209,
+    "is_boss": 0,
+    "asset_id": "2031401"
+  },
+  {
+    "id": 609,
+    "m_event_bonus_quest_stage_id": 60000206,
+    "m_enemy_id": 480020211,
+    "is_boss": 0,
+    "asset_id": "2006001"
+  },
+  {
+    "id": 610,
+    "m_event_bonus_quest_stage_id": 60000206,
+    "m_enemy_id": 480020212,
+    "is_boss": 0,
+    "asset_id": "2034001"
+  },
+  {
+    "id": 611,
+    "m_event_bonus_quest_stage_id": 60000206,
+    "m_enemy_id": 480020213,
+    "is_boss": 0,
+    "asset_id": "2034401"
+  },
+  {
+    "id": 612,
+    "m_event_bonus_quest_stage_id": 60000206,
+    "m_enemy_id": 480020215,
+    "is_boss": 0,
+    "asset_id": "2003001"
+  },
+  {
+    "id": 613,
+    "m_event_bonus_quest_stage_id": 60000206,
+    "m_enemy_id": 480020216,
+    "is_boss": 0,
+    "asset_id": "2046001"
+  },
+  {
+    "id": 614,
+    "m_event_bonus_quest_stage_id": 60000206,
+    "m_enemy_id": 480020217,
+    "is_boss": 0,
+    "asset_id": "2046401"
+  },
+  {
+    "id": 615,
+    "m_event_bonus_quest_stage_id": 60000206,
+    "m_enemy_id": 480020218,
+    "is_boss": 1,
+    "asset_id": "2017401"
+  },
+  {
+    "id": 700,
+    "m_event_bonus_quest_stage_id": 60000207,
+    "m_enemy_id": 480020201,
+    "is_boss": 0,
+    "asset_id": "2005401"
+  },
+  {
+    "id": 701,
+    "m_event_bonus_quest_stage_id": 60000207,
+    "m_enemy_id": 480020202,
+    "is_boss": 0,
+    "asset_id": "2006401"
+  },
+  {
+    "id": 702,
+    "m_event_bonus_quest_stage_id": 60000207,
+    "m_enemy_id": 480020203,
+    "is_boss": 0,
+    "asset_id": "2007401"
+  },
+  {
+    "id": 703,
+    "m_event_bonus_quest_stage_id": 60000207,
+    "m_enemy_id": 480020204,
+    "is_boss": 0,
+    "asset_id": "2002001"
+  },
+  {
+    "id": 704,
+    "m_event_bonus_quest_stage_id": 60000207,
+    "m_enemy_id": 480020205,
+    "is_boss": 0,
+    "asset_id": "2004001"
+  },
+  {
+    "id": 705,
+    "m_event_bonus_quest_stage_id": 60000207,
+    "m_enemy_id": 480020206,
+    "is_boss": 0,
+    "asset_id": "2001001"
+  },
+  {
+    "id": 706,
+    "m_event_bonus_quest_stage_id": 60000207,
+    "m_enemy_id": 480020207,
+    "is_boss": 0,
+    "asset_id": "2008401"
+  },
+  {
+    "id": 707,
+    "m_event_bonus_quest_stage_id": 60000207,
+    "m_enemy_id": 480020208,
+    "is_boss": 0,
+    "asset_id": "2003401"
+  },
+  {
+    "id": 708,
+    "m_event_bonus_quest_stage_id": 60000207,
+    "m_enemy_id": 480020209,
+    "is_boss": 0,
+    "asset_id": "2031401"
+  },
+  {
+    "id": 709,
+    "m_event_bonus_quest_stage_id": 60000207,
+    "m_enemy_id": 480020211,
+    "is_boss": 0,
+    "asset_id": "2006001"
+  },
+  {
+    "id": 710,
+    "m_event_bonus_quest_stage_id": 60000207,
+    "m_enemy_id": 480020212,
+    "is_boss": 0,
+    "asset_id": "2034001"
+  },
+  {
+    "id": 711,
+    "m_event_bonus_quest_stage_id": 60000207,
+    "m_enemy_id": 480020213,
+    "is_boss": 0,
+    "asset_id": "2034401"
+  },
+  {
+    "id": 712,
+    "m_event_bonus_quest_stage_id": 60000207,
+    "m_enemy_id": 480020215,
+    "is_boss": 0,
+    "asset_id": "2003001"
+  },
+  {
+    "id": 713,
+    "m_event_bonus_quest_stage_id": 60000207,
+    "m_enemy_id": 480020216,
+    "is_boss": 0,
+    "asset_id": "2046001"
+  },
+  {
+    "id": 714,
+    "m_event_bonus_quest_stage_id": 60000207,
+    "m_enemy_id": 480020217,
+    "is_boss": 0,
+    "asset_id": "2046401"
+  },
+  {
+    "id": 715,
+    "m_event_bonus_quest_stage_id": 60000207,
+    "m_enemy_id": 480020218,
+    "is_boss": 1,
+    "asset_id": "2017401"
+  },
+  {
+    "id": 800,
+    "m_event_bonus_quest_stage_id": 60000208,
+    "m_enemy_id": 480020301,
+    "is_boss": 0,
+    "asset_id": "2005401"
+  },
+  {
+    "id": 801,
+    "m_event_bonus_quest_stage_id": 60000208,
+    "m_enemy_id": 480020302,
+    "is_boss": 0,
+    "asset_id": "2006401"
+  },
+  {
+    "id": 802,
+    "m_event_bonus_quest_stage_id": 60000208,
+    "m_enemy_id": 480020303,
+    "is_boss": 0,
+    "asset_id": "2007401"
+  },
+  {
+    "id": 803,
+    "m_event_bonus_quest_stage_id": 60000208,
+    "m_enemy_id": 480020304,
+    "is_boss": 0,
+    "asset_id": "2002001"
+  },
+  {
+    "id": 804,
+    "m_event_bonus_quest_stage_id": 60000208,
+    "m_enemy_id": 480020305,
+    "is_boss": 0,
+    "asset_id": "2004001"
+  },
+  {
+    "id": 805,
+    "m_event_bonus_quest_stage_id": 60000208,
+    "m_enemy_id": 480020306,
+    "is_boss": 0,
+    "asset_id": "2001001"
+  },
+  {
+    "id": 806,
+    "m_event_bonus_quest_stage_id": 60000208,
+    "m_enemy_id": 480020307,
+    "is_boss": 0,
+    "asset_id": "2008401"
+  },
+  {
+    "id": 807,
+    "m_event_bonus_quest_stage_id": 60000208,
+    "m_enemy_id": 480020308,
+    "is_boss": 0,
+    "asset_id": "2003401"
+  },
+  {
+    "id": 808,
+    "m_event_bonus_quest_stage_id": 60000208,
+    "m_enemy_id": 480020309,
+    "is_boss": 0,
+    "asset_id": "2031401"
+  },
+  {
+    "id": 809,
+    "m_event_bonus_quest_stage_id": 60000208,
+    "m_enemy_id": 480020311,
+    "is_boss": 0,
+    "asset_id": "2006001"
+  },
+  {
+    "id": 810,
+    "m_event_bonus_quest_stage_id": 60000208,
+    "m_enemy_id": 480020312,
+    "is_boss": 0,
+    "asset_id": "2034001"
+  },
+  {
+    "id": 811,
+    "m_event_bonus_quest_stage_id": 60000208,
+    "m_enemy_id": 480020313,
+    "is_boss": 0,
+    "asset_id": "2034401"
+  },
+  {
+    "id": 812,
+    "m_event_bonus_quest_stage_id": 60000208,
+    "m_enemy_id": 480020315,
+    "is_boss": 0,
+    "asset_id": "2003001"
+  },
+  {
+    "id": 813,
+    "m_event_bonus_quest_stage_id": 60000208,
+    "m_enemy_id": 480020316,
+    "is_boss": 0,
+    "asset_id": "2046001"
+  },
+  {
+    "id": 814,
+    "m_event_bonus_quest_stage_id": 60000208,
+    "m_enemy_id": 480020317,
+    "is_boss": 0,
+    "asset_id": "2046401"
+  },
+  {
+    "id": 815,
+    "m_event_bonus_quest_stage_id": 60000208,
+    "m_enemy_id": 480020318,
+    "is_boss": 1,
+    "asset_id": "2017401"
+  },
+  {
+    "id": 900,
+    "m_event_bonus_quest_stage_id": 60000209,
+    "m_enemy_id": 480020301,
+    "is_boss": 0,
+    "asset_id": "2005401"
+  },
+  {
+    "id": 901,
+    "m_event_bonus_quest_stage_id": 60000209,
+    "m_enemy_id": 480020302,
+    "is_boss": 0,
+    "asset_id": "2006401"
+  },
+  {
+    "id": 902,
+    "m_event_bonus_quest_stage_id": 60000209,
+    "m_enemy_id": 480020303,
+    "is_boss": 0,
+    "asset_id": "2007401"
+  },
+  {
+    "id": 903,
+    "m_event_bonus_quest_stage_id": 60000209,
+    "m_enemy_id": 480020304,
+    "is_boss": 0,
+    "asset_id": "2002001"
+  },
+  {
+    "id": 904,
+    "m_event_bonus_quest_stage_id": 60000209,
+    "m_enemy_id": 480020305,
+    "is_boss": 0,
+    "asset_id": "2004001"
+  },
+  {
+    "id": 905,
+    "m_event_bonus_quest_stage_id": 60000209,
+    "m_enemy_id": 480020306,
+    "is_boss": 0,
+    "asset_id": "2001001"
+  },
+  {
+    "id": 906,
+    "m_event_bonus_quest_stage_id": 60000209,
+    "m_enemy_id": 480020307,
+    "is_boss": 0,
+    "asset_id": "2008401"
+  },
+  {
+    "id": 907,
+    "m_event_bonus_quest_stage_id": 60000209,
+    "m_enemy_id": 480020308,
+    "is_boss": 0,
+    "asset_id": "2003401"
+  },
+  {
+    "id": 908,
+    "m_event_bonus_quest_stage_id": 60000209,
+    "m_enemy_id": 480020309,
+    "is_boss": 0,
+    "asset_id": "2031401"
+  },
+  {
+    "id": 909,
+    "m_event_bonus_quest_stage_id": 60000209,
+    "m_enemy_id": 480020311,
+    "is_boss": 0,
+    "asset_id": "2006001"
+  },
+  {
+    "id": 910,
+    "m_event_bonus_quest_stage_id": 60000209,
+    "m_enemy_id": 480020312,
+    "is_boss": 0,
+    "asset_id": "2034001"
+  },
+  {
+    "id": 911,
+    "m_event_bonus_quest_stage_id": 60000209,
+    "m_enemy_id": 480020313,
+    "is_boss": 0,
+    "asset_id": "2034401"
+  },
+  {
+    "id": 912,
+    "m_event_bonus_quest_stage_id": 60000209,
+    "m_enemy_id": 480020315,
+    "is_boss": 0,
+    "asset_id": "2003001"
+  },
+  {
+    "id": 913,
+    "m_event_bonus_quest_stage_id": 60000209,
+    "m_enemy_id": 480020316,
+    "is_boss": 0,
+    "asset_id": "2046001"
+  },
+  {
+    "id": 914,
+    "m_event_bonus_quest_stage_id": 60000209,
+    "m_enemy_id": 480020317,
+    "is_boss": 0,
+    "asset_id": "2046401"
+  },
+  {
+    "id": 915,
+    "m_event_bonus_quest_stage_id": 60000209,
+    "m_enemy_id": 480020318,
+    "is_boss": 1,
+    "asset_id": "2017401"
+  },
+  {
+    "id": 1000,
+    "m_event_bonus_quest_stage_id": 60000210,
+    "m_enemy_id": 480020301,
+    "is_boss": 0,
+    "asset_id": "2005401"
+  },
+  {
+    "id": 1001,
+    "m_event_bonus_quest_stage_id": 60000210,
+    "m_enemy_id": 480020302,
+    "is_boss": 0,
+    "asset_id": "2006401"
+  },
+  {
+    "id": 1002,
+    "m_event_bonus_quest_stage_id": 60000210,
+    "m_enemy_id": 480020303,
+    "is_boss": 0,
+    "asset_id": "2007401"
+  },
+  {
+    "id": 1003,
+    "m_event_bonus_quest_stage_id": 60000210,
+    "m_enemy_id": 480020304,
+    "is_boss": 0,
+    "asset_id": "2002001"
+  },
+  {
+    "id": 1004,
+    "m_event_bonus_quest_stage_id": 60000210,
+    "m_enemy_id": 480020305,
+    "is_boss": 0,
+    "asset_id": "2004001"
+  },
+  {
+    "id": 1005,
+    "m_event_bonus_quest_stage_id": 60000210,
+    "m_enemy_id": 480020306,
+    "is_boss": 0,
+    "asset_id": "2001001"
+  },
+  {
+    "id": 1006,
+    "m_event_bonus_quest_stage_id": 60000210,
+    "m_enemy_id": 480020307,
+    "is_boss": 0,
+    "asset_id": "2008401"
+  },
+  {
+    "id": 1007,
+    "m_event_bonus_quest_stage_id": 60000210,
+    "m_enemy_id": 480020308,
+    "is_boss": 0,
+    "asset_id": "2003401"
+  },
+  {
+    "id": 1008,
+    "m_event_bonus_quest_stage_id": 60000210,
+    "m_enemy_id": 480020309,
+    "is_boss": 0,
+    "asset_id": "2031401"
+  },
+  {
+    "id": 1009,
+    "m_event_bonus_quest_stage_id": 60000210,
+    "m_enemy_id": 480020311,
+    "is_boss": 0,
+    "asset_id": "2006001"
+  },
+  {
+    "id": 1010,
+    "m_event_bonus_quest_stage_id": 60000210,
+    "m_enemy_id": 480020312,
+    "is_boss": 0,
+    "asset_id": "2034001"
+  },
+  {
+    "id": 1011,
+    "m_event_bonus_quest_stage_id": 60000210,
+    "m_enemy_id": 480020313,
+    "is_boss": 0,
+    "asset_id": "2034401"
+  },
+  {
+    "id": 1012,
+    "m_event_bonus_quest_stage_id": 60000210,
+    "m_enemy_id": 480020315,
+    "is_boss": 0,
+    "asset_id": "2003001"
+  },
+  {
+    "id": 1013,
+    "m_event_bonus_quest_stage_id": 60000210,
+    "m_enemy_id": 480020316,
+    "is_boss": 0,
+    "asset_id": "2046001"
+  },
+  {
+    "id": 1014,
+    "m_event_bonus_quest_stage_id": 60000210,
+    "m_enemy_id": 480020317,
+    "is_boss": 0,
+    "asset_id": "2046401"
+  },
+  {
+    "id": 1015,
+    "m_event_bonus_quest_stage_id": 60000210,
+    "m_enemy_id": 480020318,
+    "is_boss": 1,
+    "asset_id": "2017401"
+  },
+  {
+    "id": 1100,
+    "m_event_bonus_quest_stage_id": 60000211,
+    "m_enemy_id": 480020301,
+    "is_boss": 0,
+    "asset_id": "2005401"
+  },
+  {
+    "id": 1101,
+    "m_event_bonus_quest_stage_id": 60000211,
+    "m_enemy_id": 480020302,
+    "is_boss": 0,
+    "asset_id": "2006401"
+  },
+  {
+    "id": 1102,
+    "m_event_bonus_quest_stage_id": 60000211,
+    "m_enemy_id": 480020303,
+    "is_boss": 0,
+    "asset_id": "2007401"
+  },
+  {
+    "id": 1103,
+    "m_event_bonus_quest_stage_id": 60000211,
+    "m_enemy_id": 480020304,
+    "is_boss": 0,
+    "asset_id": "2002001"
+  },
+  {
+    "id": 1104,
+    "m_event_bonus_quest_stage_id": 60000211,
+    "m_enemy_id": 480020305,
+    "is_boss": 0,
+    "asset_id": "2004001"
+  },
+  {
+    "id": 1105,
+    "m_event_bonus_quest_stage_id": 60000211,
+    "m_enemy_id": 480020306,
+    "is_boss": 0,
+    "asset_id": "2001001"
+  },
+  {
+    "id": 1106,
+    "m_event_bonus_quest_stage_id": 60000211,
+    "m_enemy_id": 480020307,
+    "is_boss": 0,
+    "asset_id": "2008401"
+  },
+  {
+    "id": 1107,
+    "m_event_bonus_quest_stage_id": 60000211,
+    "m_enemy_id": 480020308,
+    "is_boss": 0,
+    "asset_id": "2003401"
+  },
+  {
+    "id": 1108,
+    "m_event_bonus_quest_stage_id": 60000211,
+    "m_enemy_id": 480020309,
+    "is_boss": 0,
+    "asset_id": "2031401"
+  },
+  {
+    "id": 1109,
+    "m_event_bonus_quest_stage_id": 60000211,
+    "m_enemy_id": 480020311,
+    "is_boss": 0,
+    "asset_id": "2006001"
+  },
+  {
+    "id": 1110,
+    "m_event_bonus_quest_stage_id": 60000211,
+    "m_enemy_id": 480020312,
+    "is_boss": 0,
+    "asset_id": "2034001"
+  },
+  {
+    "id": 1111,
+    "m_event_bonus_quest_stage_id": 60000211,
+    "m_enemy_id": 480020313,
+    "is_boss": 0,
+    "asset_id": "2034401"
+  },
+  {
+    "id": 1112,
+    "m_event_bonus_quest_stage_id": 60000211,
+    "m_enemy_id": 480020315,
+    "is_boss": 0,
+    "asset_id": "2003001"
+  },
+  {
+    "id": 1113,
+    "m_event_bonus_quest_stage_id": 60000211,
+    "m_enemy_id": 480020316,
+    "is_boss": 0,
+    "asset_id": "2046001"
+  },
+  {
+    "id": 1114,
+    "m_event_bonus_quest_stage_id": 60000211,
+    "m_enemy_id": 480020317,
+    "is_boss": 0,
+    "asset_id": "2046401"
+  },
+  {
+    "id": 1115,
+    "m_event_bonus_quest_stage_id": 60000211,
+    "m_enemy_id": 480020318,
+    "is_boss": 1,
+    "asset_id": "2017401"
+  },
+  {
+    "id": 1200,
+    "m_event_bonus_quest_stage_id": 60000212,
+    "m_enemy_id": 480020301,
+    "is_boss": 0,
+    "asset_id": "2005401"
+  },
+  {
+    "id": 1201,
+    "m_event_bonus_quest_stage_id": 60000212,
+    "m_enemy_id": 480020302,
+    "is_boss": 0,
+    "asset_id": "2006401"
+  },
+  {
+    "id": 1202,
+    "m_event_bonus_quest_stage_id": 60000212,
+    "m_enemy_id": 480020303,
+    "is_boss": 0,
+    "asset_id": "2007401"
+  },
+  {
+    "id": 1203,
+    "m_event_bonus_quest_stage_id": 60000212,
+    "m_enemy_id": 480020304,
+    "is_boss": 0,
+    "asset_id": "2002001"
+  },
+  {
+    "id": 1204,
+    "m_event_bonus_quest_stage_id": 60000212,
+    "m_enemy_id": 480020305,
+    "is_boss": 0,
+    "asset_id": "2004001"
+  },
+  {
+    "id": 1205,
+    "m_event_bonus_quest_stage_id": 60000212,
+    "m_enemy_id": 480020306,
+    "is_boss": 0,
+    "asset_id": "2001001"
+  },
+  {
+    "id": 1206,
+    "m_event_bonus_quest_stage_id": 60000212,
+    "m_enemy_id": 480020307,
+    "is_boss": 0,
+    "asset_id": "2008401"
+  },
+  {
+    "id": 1207,
+    "m_event_bonus_quest_stage_id": 60000212,
+    "m_enemy_id": 480020308,
+    "is_boss": 0,
+    "asset_id": "2003401"
+  },
+  {
+    "id": 1208,
+    "m_event_bonus_quest_stage_id": 60000212,
+    "m_enemy_id": 480020309,
+    "is_boss": 0,
+    "asset_id": "2031401"
+  },
+  {
+    "id": 1209,
+    "m_event_bonus_quest_stage_id": 60000212,
+    "m_enemy_id": 480020311,
+    "is_boss": 0,
+    "asset_id": "2006001"
+  },
+  {
+    "id": 1210,
+    "m_event_bonus_quest_stage_id": 60000212,
+    "m_enemy_id": 480020312,
+    "is_boss": 0,
+    "asset_id": "2034001"
+  },
+  {
+    "id": 1211,
+    "m_event_bonus_quest_stage_id": 60000212,
+    "m_enemy_id": 480020313,
+    "is_boss": 0,
+    "asset_id": "2034401"
+  },
+  {
+    "id": 1212,
+    "m_event_bonus_quest_stage_id": 60000212,
+    "m_enemy_id": 480020315,
+    "is_boss": 0,
+    "asset_id": "2003001"
+  },
+  {
+    "id": 1213,
+    "m_event_bonus_quest_stage_id": 60000212,
+    "m_enemy_id": 480020316,
+    "is_boss": 0,
+    "asset_id": "2046001"
+  },
+  {
+    "id": 1214,
+    "m_event_bonus_quest_stage_id": 60000212,
+    "m_enemy_id": 480020317,
+    "is_boss": 0,
+    "asset_id": "2046401"
+  },
+  {
+    "id": 1215,
+    "m_event_bonus_quest_stage_id": 60000212,
+    "m_enemy_id": 480020318,
+    "is_boss": 1,
+    "asset_id": "2017401"
+  },
+  {
+    "id": 1300,
+    "m_event_bonus_quest_stage_id": 60000213,
+    "m_enemy_id": 480020301,
+    "is_boss": 0,
+    "asset_id": "2005401"
+  },
+  {
+    "id": 1301,
+    "m_event_bonus_quest_stage_id": 60000213,
+    "m_enemy_id": 480020302,
+    "is_boss": 0,
+    "asset_id": "2006401"
+  },
+  {
+    "id": 1302,
+    "m_event_bonus_quest_stage_id": 60000213,
+    "m_enemy_id": 480020303,
+    "is_boss": 0,
+    "asset_id": "2007401"
+  },
+  {
+    "id": 1303,
+    "m_event_bonus_quest_stage_id": 60000213,
+    "m_enemy_id": 480020304,
+    "is_boss": 0,
+    "asset_id": "2002001"
+  },
+  {
+    "id": 1304,
+    "m_event_bonus_quest_stage_id": 60000213,
+    "m_enemy_id": 480020305,
+    "is_boss": 0,
+    "asset_id": "2004001"
+  },
+  {
+    "id": 1305,
+    "m_event_bonus_quest_stage_id": 60000213,
+    "m_enemy_id": 480020306,
+    "is_boss": 0,
+    "asset_id": "2001001"
+  },
+  {
+    "id": 1306,
+    "m_event_bonus_quest_stage_id": 60000213,
+    "m_enemy_id": 480020307,
+    "is_boss": 0,
+    "asset_id": "2008401"
+  },
+  {
+    "id": 1307,
+    "m_event_bonus_quest_stage_id": 60000213,
+    "m_enemy_id": 480020308,
+    "is_boss": 0,
+    "asset_id": "2003401"
+  },
+  {
+    "id": 1308,
+    "m_event_bonus_quest_stage_id": 60000213,
+    "m_enemy_id": 480020309,
+    "is_boss": 0,
+    "asset_id": "2031401"
+  },
+  {
+    "id": 1309,
+    "m_event_bonus_quest_stage_id": 60000213,
+    "m_enemy_id": 480020311,
+    "is_boss": 0,
+    "asset_id": "2006001"
+  },
+  {
+    "id": 1310,
+    "m_event_bonus_quest_stage_id": 60000213,
+    "m_enemy_id": 480020312,
+    "is_boss": 0,
+    "asset_id": "2034001"
+  },
+  {
+    "id": 1311,
+    "m_event_bonus_quest_stage_id": 60000213,
+    "m_enemy_id": 480020313,
+    "is_boss": 0,
+    "asset_id": "2034401"
+  },
+  {
+    "id": 1312,
+    "m_event_bonus_quest_stage_id": 60000213,
+    "m_enemy_id": 480020315,
+    "is_boss": 0,
+    "asset_id": "2003001"
+  },
+  {
+    "id": 1313,
+    "m_event_bonus_quest_stage_id": 60000213,
+    "m_enemy_id": 480020316,
+    "is_boss": 0,
+    "asset_id": "2046001"
+  },
+  {
+    "id": 1314,
+    "m_event_bonus_quest_stage_id": 60000213,
+    "m_enemy_id": 480020317,
+    "is_boss": 0,
+    "asset_id": "2046401"
+  },
+  {
+    "id": 1315,
+    "m_event_bonus_quest_stage_id": 60000213,
+    "m_enemy_id": 480020318,
+    "is_boss": 1,
+    "asset_id": "2017401"
+  },
+  {
+    "id": 1400,
+    "m_event_bonus_quest_stage_id": 60000214,
+    "m_enemy_id": 480020301,
+    "is_boss": 0,
+    "asset_id": "2005401"
+  },
+  {
+    "id": 1401,
+    "m_event_bonus_quest_stage_id": 60000214,
+    "m_enemy_id": 480020302,
+    "is_boss": 0,
+    "asset_id": "2006401"
+  },
+  {
+    "id": 1402,
+    "m_event_bonus_quest_stage_id": 60000214,
+    "m_enemy_id": 480020303,
+    "is_boss": 0,
+    "asset_id": "2007401"
+  },
+  {
+    "id": 1403,
+    "m_event_bonus_quest_stage_id": 60000214,
+    "m_enemy_id": 480020304,
+    "is_boss": 0,
+    "asset_id": "2002001"
+  },
+  {
+    "id": 1404,
+    "m_event_bonus_quest_stage_id": 60000214,
+    "m_enemy_id": 480020305,
+    "is_boss": 0,
+    "asset_id": "2004001"
+  },
+  {
+    "id": 1405,
+    "m_event_bonus_quest_stage_id": 60000214,
+    "m_enemy_id": 480020306,
+    "is_boss": 0,
+    "asset_id": "2001001"
+  },
+  {
+    "id": 1406,
+    "m_event_bonus_quest_stage_id": 60000214,
+    "m_enemy_id": 480020307,
+    "is_boss": 0,
+    "asset_id": "2008401"
+  },
+  {
+    "id": 1407,
+    "m_event_bonus_quest_stage_id": 60000214,
+    "m_enemy_id": 480020308,
+    "is_boss": 0,
+    "asset_id": "2003401"
+  },
+  {
+    "id": 1408,
+    "m_event_bonus_quest_stage_id": 60000214,
+    "m_enemy_id": 480020309,
+    "is_boss": 0,
+    "asset_id": "2031401"
+  },
+  {
+    "id": 1409,
+    "m_event_bonus_quest_stage_id": 60000214,
+    "m_enemy_id": 480020311,
+    "is_boss": 0,
+    "asset_id": "2006001"
+  },
+  {
+    "id": 1410,
+    "m_event_bonus_quest_stage_id": 60000214,
+    "m_enemy_id": 480020312,
+    "is_boss": 0,
+    "asset_id": "2034001"
+  },
+  {
+    "id": 1411,
+    "m_event_bonus_quest_stage_id": 60000214,
+    "m_enemy_id": 480020313,
+    "is_boss": 0,
+    "asset_id": "2034401"
+  },
+  {
+    "id": 1412,
+    "m_event_bonus_quest_stage_id": 60000214,
+    "m_enemy_id": 480020315,
+    "is_boss": 0,
+    "asset_id": "2003001"
+  },
+  {
+    "id": 1413,
+    "m_event_bonus_quest_stage_id": 60000214,
+    "m_enemy_id": 480020316,
+    "is_boss": 0,
+    "asset_id": "2046001"
+  },
+  {
+    "id": 1414,
+    "m_event_bonus_quest_stage_id": 60000214,
+    "m_enemy_id": 480020317,
+    "is_boss": 0,
+    "asset_id": "2046401"
+  },
+  {
+    "id": 1415,
+    "m_event_bonus_quest_stage_id": 60000214,
+    "m_enemy_id": 480020318,
+    "is_boss": 1,
+    "asset_id": "2017401"
+  },
+  {
+    "id": 1500,
+    "m_event_bonus_quest_stage_id": 60000215,
+    "m_enemy_id": 480020401,
+    "is_boss": 0,
+    "asset_id": "2005401"
+  },
+  {
+    "id": 1501,
+    "m_event_bonus_quest_stage_id": 60000215,
+    "m_enemy_id": 480020402,
+    "is_boss": 0,
+    "asset_id": "2006401"
+  },
+  {
+    "id": 1502,
+    "m_event_bonus_quest_stage_id": 60000215,
+    "m_enemy_id": 480020403,
+    "is_boss": 0,
+    "asset_id": "2007401"
+  },
+  {
+    "id": 1503,
+    "m_event_bonus_quest_stage_id": 60000215,
+    "m_enemy_id": 480020404,
+    "is_boss": 0,
+    "asset_id": "2002001"
+  },
+  {
+    "id": 1504,
+    "m_event_bonus_quest_stage_id": 60000215,
+    "m_enemy_id": 480020405,
+    "is_boss": 0,
+    "asset_id": "2004001"
+  },
+  {
+    "id": 1505,
+    "m_event_bonus_quest_stage_id": 60000215,
+    "m_enemy_id": 480020406,
+    "is_boss": 0,
+    "asset_id": "2001001"
+  },
+  {
+    "id": 1506,
+    "m_event_bonus_quest_stage_id": 60000215,
+    "m_enemy_id": 480020407,
+    "is_boss": 0,
+    "asset_id": "2008401"
+  },
+  {
+    "id": 1507,
+    "m_event_bonus_quest_stage_id": 60000215,
+    "m_enemy_id": 480020408,
+    "is_boss": 0,
+    "asset_id": "2003401"
+  },
+  {
+    "id": 1508,
+    "m_event_bonus_quest_stage_id": 60000215,
+    "m_enemy_id": 480020409,
+    "is_boss": 0,
+    "asset_id": "2031401"
+  },
+  {
+    "id": 1509,
+    "m_event_bonus_quest_stage_id": 60000215,
+    "m_enemy_id": 480020411,
+    "is_boss": 0,
+    "asset_id": "2006001"
+  },
+  {
+    "id": 1510,
+    "m_event_bonus_quest_stage_id": 60000215,
+    "m_enemy_id": 480020412,
+    "is_boss": 0,
+    "asset_id": "2034001"
+  },
+  {
+    "id": 1511,
+    "m_event_bonus_quest_stage_id": 60000215,
+    "m_enemy_id": 480020413,
+    "is_boss": 0,
+    "asset_id": "2034401"
+  },
+  {
+    "id": 1512,
+    "m_event_bonus_quest_stage_id": 60000215,
+    "m_enemy_id": 480020415,
+    "is_boss": 0,
+    "asset_id": "2003001"
+  },
+  {
+    "id": 1513,
+    "m_event_bonus_quest_stage_id": 60000215,
+    "m_enemy_id": 480020416,
+    "is_boss": 0,
+    "asset_id": "2046001"
+  },
+  {
+    "id": 1514,
+    "m_event_bonus_quest_stage_id": 60000215,
+    "m_enemy_id": 480020417,
+    "is_boss": 0,
+    "asset_id": "2046401"
+  },
+  {
+    "id": 1515,
+    "m_event_bonus_quest_stage_id": 60000215,
+    "m_enemy_id": 480020418,
+    "is_boss": 1,
+    "asset_id": "2017401"
+  },
+  {
+    "id": 1600,
+    "m_event_bonus_quest_stage_id": 60000216,
+    "m_enemy_id": 480020401,
+    "is_boss": 0,
+    "asset_id": "2005401"
+  },
+  {
+    "id": 1601,
+    "m_event_bonus_quest_stage_id": 60000216,
+    "m_enemy_id": 480020402,
+    "is_boss": 0,
+    "asset_id": "2006401"
+  },
+  {
+    "id": 1602,
+    "m_event_bonus_quest_stage_id": 60000216,
+    "m_enemy_id": 480020403,
+    "is_boss": 0,
+    "asset_id": "2007401"
+  },
+  {
+    "id": 1603,
+    "m_event_bonus_quest_stage_id": 60000216,
+    "m_enemy_id": 480020404,
+    "is_boss": 0,
+    "asset_id": "2002001"
+  },
+  {
+    "id": 1604,
+    "m_event_bonus_quest_stage_id": 60000216,
+    "m_enemy_id": 480020405,
+    "is_boss": 0,
+    "asset_id": "2004001"
+  },
+  {
+    "id": 1605,
+    "m_event_bonus_quest_stage_id": 60000216,
+    "m_enemy_id": 480020406,
+    "is_boss": 0,
+    "asset_id": "2001001"
+  },
+  {
+    "id": 1606,
+    "m_event_bonus_quest_stage_id": 60000216,
+    "m_enemy_id": 480020407,
+    "is_boss": 0,
+    "asset_id": "2008401"
+  },
+  {
+    "id": 1607,
+    "m_event_bonus_quest_stage_id": 60000216,
+    "m_enemy_id": 480020408,
+    "is_boss": 0,
+    "asset_id": "2003401"
+  },
+  {
+    "id": 1608,
+    "m_event_bonus_quest_stage_id": 60000216,
+    "m_enemy_id": 480020409,
+    "is_boss": 0,
+    "asset_id": "2031401"
+  },
+  {
+    "id": 1609,
+    "m_event_bonus_quest_stage_id": 60000216,
+    "m_enemy_id": 480020411,
+    "is_boss": 0,
+    "asset_id": "2006001"
+  },
+  {
+    "id": 1610,
+    "m_event_bonus_quest_stage_id": 60000216,
+    "m_enemy_id": 480020412,
+    "is_boss": 0,
+    "asset_id": "2034001"
+  },
+  {
+    "id": 1611,
+    "m_event_bonus_quest_stage_id": 60000216,
+    "m_enemy_id": 480020413,
+    "is_boss": 0,
+    "asset_id": "2034401"
+  },
+  {
+    "id": 1612,
+    "m_event_bonus_quest_stage_id": 60000216,
+    "m_enemy_id": 480020415,
+    "is_boss": 0,
+    "asset_id": "2003001"
+  },
+  {
+    "id": 1613,
+    "m_event_bonus_quest_stage_id": 60000216,
+    "m_enemy_id": 480020416,
+    "is_boss": 0,
+    "asset_id": "2046001"
+  },
+  {
+    "id": 1614,
+    "m_event_bonus_quest_stage_id": 60000216,
+    "m_enemy_id": 480020417,
+    "is_boss": 0,
+    "asset_id": "2046401"
+  },
+  {
+    "id": 1615,
+    "m_event_bonus_quest_stage_id": 60000216,
+    "m_enemy_id": 480020418,
+    "is_boss": 1,
+    "asset_id": "2017401"
+  },
+  {
+    "id": 1700,
+    "m_event_bonus_quest_stage_id": 60000217,
+    "m_enemy_id": 480020401,
+    "is_boss": 0,
+    "asset_id": "2005401"
+  },
+  {
+    "id": 1701,
+    "m_event_bonus_quest_stage_id": 60000217,
+    "m_enemy_id": 480020402,
+    "is_boss": 0,
+    "asset_id": "2006401"
+  },
+  {
+    "id": 1702,
+    "m_event_bonus_quest_stage_id": 60000217,
+    "m_enemy_id": 480020403,
+    "is_boss": 0,
+    "asset_id": "2007401"
+  },
+  {
+    "id": 1703,
+    "m_event_bonus_quest_stage_id": 60000217,
+    "m_enemy_id": 480020404,
+    "is_boss": 0,
+    "asset_id": "2002001"
+  },
+  {
+    "id": 1704,
+    "m_event_bonus_quest_stage_id": 60000217,
+    "m_enemy_id": 480020405,
+    "is_boss": 0,
+    "asset_id": "2004001"
+  },
+  {
+    "id": 1705,
+    "m_event_bonus_quest_stage_id": 60000217,
+    "m_enemy_id": 480020406,
+    "is_boss": 0,
+    "asset_id": "2001001"
+  },
+  {
+    "id": 1706,
+    "m_event_bonus_quest_stage_id": 60000217,
+    "m_enemy_id": 480020407,
+    "is_boss": 0,
+    "asset_id": "2008401"
+  },
+  {
+    "id": 1707,
+    "m_event_bonus_quest_stage_id": 60000217,
+    "m_enemy_id": 480020408,
+    "is_boss": 0,
+    "asset_id": "2003401"
+  },
+  {
+    "id": 1708,
+    "m_event_bonus_quest_stage_id": 60000217,
+    "m_enemy_id": 480020409,
+    "is_boss": 0,
+    "asset_id": "2031401"
+  },
+  {
+    "id": 1709,
+    "m_event_bonus_quest_stage_id": 60000217,
+    "m_enemy_id": 480020411,
+    "is_boss": 0,
+    "asset_id": "2006001"
+  },
+  {
+    "id": 1710,
+    "m_event_bonus_quest_stage_id": 60000217,
+    "m_enemy_id": 480020412,
+    "is_boss": 0,
+    "asset_id": "2034001"
+  },
+  {
+    "id": 1711,
+    "m_event_bonus_quest_stage_id": 60000217,
+    "m_enemy_id": 480020413,
+    "is_boss": 0,
+    "asset_id": "2034401"
+  },
+  {
+    "id": 1712,
+    "m_event_bonus_quest_stage_id": 60000217,
+    "m_enemy_id": 480020415,
+    "is_boss": 0,
+    "asset_id": "2003001"
+  },
+  {
+    "id": 1713,
+    "m_event_bonus_quest_stage_id": 60000217,
+    "m_enemy_id": 480020416,
+    "is_boss": 0,
+    "asset_id": "2046001"
+  },
+  {
+    "id": 1714,
+    "m_event_bonus_quest_stage_id": 60000217,
+    "m_enemy_id": 480020417,
+    "is_boss": 0,
+    "asset_id": "2046401"
+  },
+  {
+    "id": 1715,
+    "m_event_bonus_quest_stage_id": 60000217,
+    "m_enemy_id": 480020418,
+    "is_boss": 1,
+    "asset_id": "2017401"
+  },
+  {
+    "id": 1800,
+    "m_event_bonus_quest_stage_id": 60000218,
+    "m_enemy_id": 480020401,
+    "is_boss": 0,
+    "asset_id": "2005401"
+  },
+  {
+    "id": 1801,
+    "m_event_bonus_quest_stage_id": 60000218,
+    "m_enemy_id": 480020402,
+    "is_boss": 0,
+    "asset_id": "2006401"
+  },
+  {
+    "id": 1802,
+    "m_event_bonus_quest_stage_id": 60000218,
+    "m_enemy_id": 480020403,
+    "is_boss": 0,
+    "asset_id": "2007401"
+  },
+  {
+    "id": 1803,
+    "m_event_bonus_quest_stage_id": 60000218,
+    "m_enemy_id": 480020404,
+    "is_boss": 0,
+    "asset_id": "2002001"
+  },
+  {
+    "id": 1804,
+    "m_event_bonus_quest_stage_id": 60000218,
+    "m_enemy_id": 480020405,
+    "is_boss": 0,
+    "asset_id": "2004001"
+  },
+  {
+    "id": 1805,
+    "m_event_bonus_quest_stage_id": 60000218,
+    "m_enemy_id": 480020406,
+    "is_boss": 0,
+    "asset_id": "2001001"
+  },
+  {
+    "id": 1806,
+    "m_event_bonus_quest_stage_id": 60000218,
+    "m_enemy_id": 480020407,
+    "is_boss": 0,
+    "asset_id": "2008401"
+  },
+  {
+    "id": 1807,
+    "m_event_bonus_quest_stage_id": 60000218,
+    "m_enemy_id": 480020408,
+    "is_boss": 0,
+    "asset_id": "2003401"
+  },
+  {
+    "id": 1808,
+    "m_event_bonus_quest_stage_id": 60000218,
+    "m_enemy_id": 480020409,
+    "is_boss": 0,
+    "asset_id": "2031401"
+  },
+  {
+    "id": 1809,
+    "m_event_bonus_quest_stage_id": 60000218,
+    "m_enemy_id": 480020411,
+    "is_boss": 0,
+    "asset_id": "2006001"
+  },
+  {
+    "id": 1810,
+    "m_event_bonus_quest_stage_id": 60000218,
+    "m_enemy_id": 480020412,
+    "is_boss": 0,
+    "asset_id": "2034001"
+  },
+  {
+    "id": 1811,
+    "m_event_bonus_quest_stage_id": 60000218,
+    "m_enemy_id": 480020413,
+    "is_boss": 0,
+    "asset_id": "2034401"
+  },
+  {
+    "id": 1812,
+    "m_event_bonus_quest_stage_id": 60000218,
+    "m_enemy_id": 480020415,
+    "is_boss": 0,
+    "asset_id": "2003001"
+  },
+  {
+    "id": 1813,
+    "m_event_bonus_quest_stage_id": 60000218,
+    "m_enemy_id": 480020416,
+    "is_boss": 0,
+    "asset_id": "2046001"
+  },
+  {
+    "id": 1814,
+    "m_event_bonus_quest_stage_id": 60000218,
+    "m_enemy_id": 480020417,
+    "is_boss": 0,
+    "asset_id": "2046401"
+  },
+  {
+    "id": 1815,
+    "m_event_bonus_quest_stage_id": 60000218,
+    "m_enemy_id": 480020418,
+    "is_boss": 1,
+    "asset_id": "2017401"
+  },
+  {
+    "id": 1900,
+    "m_event_bonus_quest_stage_id": 60000219,
+    "m_enemy_id": 480020401,
+    "is_boss": 0,
+    "asset_id": "2005401"
+  },
+  {
+    "id": 1901,
+    "m_event_bonus_quest_stage_id": 60000219,
+    "m_enemy_id": 480020402,
+    "is_boss": 0,
+    "asset_id": "2006401"
+  },
+  {
+    "id": 1902,
+    "m_event_bonus_quest_stage_id": 60000219,
+    "m_enemy_id": 480020403,
+    "is_boss": 0,
+    "asset_id": "2007401"
+  },
+  {
+    "id": 1903,
+    "m_event_bonus_quest_stage_id": 60000219,
+    "m_enemy_id": 480020404,
+    "is_boss": 0,
+    "asset_id": "2002001"
+  },
+  {
+    "id": 1904,
+    "m_event_bonus_quest_stage_id": 60000219,
+    "m_enemy_id": 480020405,
+    "is_boss": 0,
+    "asset_id": "2004001"
+  },
+  {
+    "id": 1905,
+    "m_event_bonus_quest_stage_id": 60000219,
+    "m_enemy_id": 480020406,
+    "is_boss": 0,
+    "asset_id": "2001001"
+  },
+  {
+    "id": 1906,
+    "m_event_bonus_quest_stage_id": 60000219,
+    "m_enemy_id": 480020407,
+    "is_boss": 0,
+    "asset_id": "2008401"
+  },
+  {
+    "id": 1907,
+    "m_event_bonus_quest_stage_id": 60000219,
+    "m_enemy_id": 480020408,
+    "is_boss": 0,
+    "asset_id": "2003401"
+  },
+  {
+    "id": 1908,
+    "m_event_bonus_quest_stage_id": 60000219,
+    "m_enemy_id": 480020409,
+    "is_boss": 0,
+    "asset_id": "2031401"
+  },
+  {
+    "id": 1909,
+    "m_event_bonus_quest_stage_id": 60000219,
+    "m_enemy_id": 480020411,
+    "is_boss": 0,
+    "asset_id": "2006001"
+  },
+  {
+    "id": 1910,
+    "m_event_bonus_quest_stage_id": 60000219,
+    "m_enemy_id": 480020412,
+    "is_boss": 0,
+    "asset_id": "2034001"
+  },
+  {
+    "id": 1911,
+    "m_event_bonus_quest_stage_id": 60000219,
+    "m_enemy_id": 480020413,
+    "is_boss": 0,
+    "asset_id": "2034401"
+  },
+  {
+    "id": 1912,
+    "m_event_bonus_quest_stage_id": 60000219,
+    "m_enemy_id": 480020415,
+    "is_boss": 0,
+    "asset_id": "2003001"
+  },
+  {
+    "id": 1913,
+    "m_event_bonus_quest_stage_id": 60000219,
+    "m_enemy_id": 480020416,
+    "is_boss": 0,
+    "asset_id": "2046001"
+  },
+  {
+    "id": 1914,
+    "m_event_bonus_quest_stage_id": 60000219,
+    "m_enemy_id": 480020417,
+    "is_boss": 0,
+    "asset_id": "2046401"
+  },
+  {
+    "id": 1915,
+    "m_event_bonus_quest_stage_id": 60000219,
+    "m_enemy_id": 480020418,
+    "is_boss": 1,
+    "asset_id": "2017401"
+  },
+  {
+    "id": 2000,
+    "m_event_bonus_quest_stage_id": 60000220,
+    "m_enemy_id": 480020401,
+    "is_boss": 0,
+    "asset_id": "2005401"
+  },
+  {
+    "id": 2001,
+    "m_event_bonus_quest_stage_id": 60000220,
+    "m_enemy_id": 480020402,
+    "is_boss": 0,
+    "asset_id": "2006401"
+  },
+  {
+    "id": 2002,
+    "m_event_bonus_quest_stage_id": 60000220,
+    "m_enemy_id": 480020403,
+    "is_boss": 0,
+    "asset_id": "2007401"
+  },
+  {
+    "id": 2003,
+    "m_event_bonus_quest_stage_id": 60000220,
+    "m_enemy_id": 480020404,
+    "is_boss": 0,
+    "asset_id": "2002001"
+  },
+  {
+    "id": 2004,
+    "m_event_bonus_quest_stage_id": 60000220,
+    "m_enemy_id": 480020405,
+    "is_boss": 0,
+    "asset_id": "2004001"
+  },
+  {
+    "id": 2005,
+    "m_event_bonus_quest_stage_id": 60000220,
+    "m_enemy_id": 480020406,
+    "is_boss": 0,
+    "asset_id": "2001001"
+  },
+  {
+    "id": 2006,
+    "m_event_bonus_quest_stage_id": 60000220,
+    "m_enemy_id": 480020407,
+    "is_boss": 0,
+    "asset_id": "2008401"
+  },
+  {
+    "id": 2007,
+    "m_event_bonus_quest_stage_id": 60000220,
+    "m_enemy_id": 480020408,
+    "is_boss": 0,
+    "asset_id": "2003401"
+  },
+  {
+    "id": 2008,
+    "m_event_bonus_quest_stage_id": 60000220,
+    "m_enemy_id": 480020409,
+    "is_boss": 0,
+    "asset_id": "2031401"
+  },
+  {
+    "id": 2009,
+    "m_event_bonus_quest_stage_id": 60000220,
+    "m_enemy_id": 480020411,
+    "is_boss": 0,
+    "asset_id": "2006001"
+  },
+  {
+    "id": 2010,
+    "m_event_bonus_quest_stage_id": 60000220,
+    "m_enemy_id": 480020412,
+    "is_boss": 0,
+    "asset_id": "2034001"
+  },
+  {
+    "id": 2011,
+    "m_event_bonus_quest_stage_id": 60000220,
+    "m_enemy_id": 480020413,
+    "is_boss": 0,
+    "asset_id": "2034401"
+  },
+  {
+    "id": 2012,
+    "m_event_bonus_quest_stage_id": 60000220,
+    "m_enemy_id": 480020415,
+    "is_boss": 0,
+    "asset_id": "2003001"
+  },
+  {
+    "id": 2013,
+    "m_event_bonus_quest_stage_id": 60000220,
+    "m_enemy_id": 480020416,
+    "is_boss": 0,
+    "asset_id": "2046001"
+  },
+  {
+    "id": 2014,
+    "m_event_bonus_quest_stage_id": 60000220,
+    "m_enemy_id": 480020417,
+    "is_boss": 0,
+    "asset_id": "2046401"
+  },
+  {
+    "id": 2015,
+    "m_event_bonus_quest_stage_id": 60000220,
+    "m_enemy_id": 480020418,
+    "is_boss": 1,
+    "asset_id": "2017401"
+  },
+  {
+    "id": 2100,
+    "m_event_bonus_quest_stage_id": 60000221,
+    "m_enemy_id": 480020401,
+    "is_boss": 0,
+    "asset_id": "2005401"
+  },
+  {
+    "id": 2101,
+    "m_event_bonus_quest_stage_id": 60000221,
+    "m_enemy_id": 480020402,
+    "is_boss": 0,
+    "asset_id": "2006401"
+  },
+  {
+    "id": 2102,
+    "m_event_bonus_quest_stage_id": 60000221,
+    "m_enemy_id": 480020403,
+    "is_boss": 0,
+    "asset_id": "2007401"
+  },
+  {
+    "id": 2103,
+    "m_event_bonus_quest_stage_id": 60000221,
+    "m_enemy_id": 480020404,
+    "is_boss": 0,
+    "asset_id": "2002001"
+  },
+  {
+    "id": 2104,
+    "m_event_bonus_quest_stage_id": 60000221,
+    "m_enemy_id": 480020405,
+    "is_boss": 0,
+    "asset_id": "2004001"
+  },
+  {
+    "id": 2105,
+    "m_event_bonus_quest_stage_id": 60000221,
+    "m_enemy_id": 480020406,
+    "is_boss": 0,
+    "asset_id": "2001001"
+  },
+  {
+    "id": 2106,
+    "m_event_bonus_quest_stage_id": 60000221,
+    "m_enemy_id": 480020407,
+    "is_boss": 0,
+    "asset_id": "2008401"
+  },
+  {
+    "id": 2107,
+    "m_event_bonus_quest_stage_id": 60000221,
+    "m_enemy_id": 480020408,
+    "is_boss": 0,
+    "asset_id": "2003401"
+  },
+  {
+    "id": 2108,
+    "m_event_bonus_quest_stage_id": 60000221,
+    "m_enemy_id": 480020409,
+    "is_boss": 0,
+    "asset_id": "2031401"
+  },
+  {
+    "id": 2109,
+    "m_event_bonus_quest_stage_id": 60000221,
+    "m_enemy_id": 480020411,
+    "is_boss": 0,
+    "asset_id": "2006001"
+  },
+  {
+    "id": 2110,
+    "m_event_bonus_quest_stage_id": 60000221,
+    "m_enemy_id": 480020412,
+    "is_boss": 0,
+    "asset_id": "2034001"
+  },
+  {
+    "id": 2111,
+    "m_event_bonus_quest_stage_id": 60000221,
+    "m_enemy_id": 480020413,
+    "is_boss": 0,
+    "asset_id": "2034401"
+  },
+  {
+    "id": 2112,
+    "m_event_bonus_quest_stage_id": 60000221,
+    "m_enemy_id": 480020415,
+    "is_boss": 0,
+    "asset_id": "2003001"
+  },
+  {
+    "id": 2113,
+    "m_event_bonus_quest_stage_id": 60000221,
+    "m_enemy_id": 480020416,
+    "is_boss": 0,
+    "asset_id": "2046001"
+  },
+  {
+    "id": 2114,
+    "m_event_bonus_quest_stage_id": 60000221,
+    "m_enemy_id": 480020417,
+    "is_boss": 0,
+    "asset_id": "2046401"
+  },
+  {
+    "id": 2115,
+    "m_event_bonus_quest_stage_id": 60000221,
+    "m_enemy_id": 480020418,
+    "is_boss": 1,
+    "asset_id": "2017401"
+  }
+]

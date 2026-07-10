@@ -308,16 +308,16 @@
     "name": "行動間隔UP",
     "nameEN": "Action CoolTime Up",
     "limit": 0,
-    "icon_asset_id": "",
-    "description": "行動間隔が{0}上昇する状態"
+    "icon_asset_id": "ActionCoolTime_UP",
+    "description": "行動間隔が{0}短縮される状態"
   },
   {
     "id": 131,
     "name": "行動間隔DOWN",
     "nameEN": "Action CoolTime Down",
     "limit": 0,
-    "icon_asset_id": "",
-    "description": "行動間隔が{0}減少する状態"
+    "icon_asset_id": "ActionCoolTime_DOWN",
+    "description": "行動間隔が{0}延長される状態"
   },
   {
     "id": 140,
@@ -382,6 +382,22 @@
     "limit": 0,
     "icon_asset_id": "Manacharge_Reinforce",
     "description": "マナチャージ量が上昇する"
+  },
+  {
+    "id": 200,
+    "name": "弱体耐性UP",
+    "nameEN": "Debuff Resistance Up",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "弱体効果への耐性が{0}上昇する状態"
+  },
+  {
+    "id": 201,
+    "name": "弱体耐性DOWN",
+    "nameEN": "Debuff Resistance Down",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "弱体効果への耐性が{0}減少する状態"
   },
   {
     "id": 501,
@@ -950,6 +966,14 @@
     "limit": 0,
     "icon_asset_id": "Holy",
     "description": "Lvに応じて時間経過でHPが回復する状態\n（会心ダメージを受けるとLvが減少）"
+  },
+  {
+    "id": 40001,
+    "name": "業火",
+    "nameEN": "Hellfire",
+    "limit": 0,
+    "icon_asset_id": "Fireworks",
+    "description": "Lvに応じて強化された状態"
   },
   {
     "id": 10000001,

@@ -477,6 +477,222 @@
     "pickup": 1
   },
   {
+    "id": 801,
+    "m_login_bonus_sheet_id": 8,
+    "index": 1,
+    "content_type": 30,
+    "content_id": 170001,
+    "amount": 5,
+    "pickup": 0
+  },
+  {
+    "id": 802,
+    "m_login_bonus_sheet_id": 8,
+    "index": 2,
+    "content_type": 30,
+    "content_id": 150000,
+    "amount": 3,
+    "pickup": 0
+  },
+  {
+    "id": 803,
+    "m_login_bonus_sheet_id": 8,
+    "index": 3,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 1000,
+    "pickup": 1
+  },
+  {
+    "id": 804,
+    "m_login_bonus_sheet_id": 8,
+    "index": 4,
+    "content_type": 30,
+    "content_id": 140011,
+    "amount": 10,
+    "pickup": 0
+  },
+  {
+    "id": 805,
+    "m_login_bonus_sheet_id": 8,
+    "index": 5,
+    "content_type": 30,
+    "content_id": 140013,
+    "amount": 10,
+    "pickup": 0
+  },
+  {
+    "id": 806,
+    "m_login_bonus_sheet_id": 8,
+    "index": 6,
+    "content_type": 30,
+    "content_id": 160011,
+    "amount": 50,
+    "pickup": 1
+  },
+  {
+    "id": 807,
+    "m_login_bonus_sheet_id": 8,
+    "index": 7,
+    "content_type": 30,
+    "content_id": 140012,
+    "amount": 10,
+    "pickup": 0
+  },
+  {
+    "id": 808,
+    "m_login_bonus_sheet_id": 8,
+    "index": 8,
+    "content_type": 30,
+    "content_id": 140014,
+    "amount": 10,
+    "pickup": 0
+  },
+  {
+    "id": 809,
+    "m_login_bonus_sheet_id": 8,
+    "index": 9,
+    "content_type": 30,
+    "content_id": 140015,
+    "amount": 10,
+    "pickup": 0
+  },
+  {
+    "id": 810,
+    "m_login_bonus_sheet_id": 8,
+    "index": 10,
+    "content_type": 30,
+    "content_id": 170001,
+    "amount": 5,
+    "pickup": 0
+  },
+  {
+    "id": 901,
+    "m_login_bonus_sheet_id": 9,
+    "index": 1,
+    "content_type": 30,
+    "content_id": 150000,
+    "amount": 3,
+    "pickup": 0
+  },
+  {
+    "id": 902,
+    "m_login_bonus_sheet_id": 9,
+    "index": 2,
+    "content_type": 30,
+    "content_id": 150000,
+    "amount": 3,
+    "pickup": 0
+  },
+  {
+    "id": 903,
+    "m_login_bonus_sheet_id": 9,
+    "index": 3,
+    "content_type": 30,
+    "content_id": 150000,
+    "amount": 3,
+    "pickup": 0
+  },
+  {
+    "id": 904,
+    "m_login_bonus_sheet_id": 9,
+    "index": 4,
+    "content_type": 54,
+    "content_id": 6001,
+    "amount": 500,
+    "pickup": 0
+  },
+  {
+    "id": 905,
+    "m_login_bonus_sheet_id": 9,
+    "index": 5,
+    "content_type": 30,
+    "content_id": 140001,
+    "amount": 20,
+    "pickup": 0
+  },
+  {
+    "id": 906,
+    "m_login_bonus_sheet_id": 9,
+    "index": 6,
+    "content_type": 30,
+    "content_id": 160011,
+    "amount": 50,
+    "pickup": 0
+  },
+  {
+    "id": 907,
+    "m_login_bonus_sheet_id": 9,
+    "index": 7,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 500,
+    "pickup": 1
+  },
+  {
+    "id": 1001,
+    "m_login_bonus_sheet_id": 10,
+    "index": 1,
+    "content_type": 30,
+    "content_id": 150000,
+    "amount": 2,
+    "pickup": 0
+  },
+  {
+    "id": 1002,
+    "m_login_bonus_sheet_id": 10,
+    "index": 2,
+    "content_type": 54,
+    "content_id": 5001,
+    "amount": 250,
+    "pickup": 0
+  },
+  {
+    "id": 1003,
+    "m_login_bonus_sheet_id": 10,
+    "index": 3,
+    "content_type": 30,
+    "content_id": 150001,
+    "amount": 2,
+    "pickup": 0
+  },
+  {
+    "id": 1004,
+    "m_login_bonus_sheet_id": 10,
+    "index": 4,
+    "content_type": 30,
+    "content_id": 140001,
+    "amount": 10,
+    "pickup": 0
+  },
+  {
+    "id": 1005,
+    "m_login_bonus_sheet_id": 10,
+    "index": 5,
+    "content_type": 54,
+    "content_id": 5000,
+    "amount": 250,
+    "pickup": 0
+  },
+  {
+    "id": 1006,
+    "m_login_bonus_sheet_id": 10,
+    "index": 6,
+    "content_type": 30,
+    "content_id": 150000,
+    "amount": 2,
+    "pickup": 0
+  },
+  {
+    "id": 1007,
+    "m_login_bonus_sheet_id": 10,
+    "index": 7,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 500,
+    "pickup": 1
+  },
+  {
     "id": 10001,
     "m_login_bonus_sheet_id": 10001,
     "index": 1,

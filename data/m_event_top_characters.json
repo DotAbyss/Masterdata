@@ -234,6 +234,24 @@
     "serif_type": 0
   },
   {
+    "id": 60000201,
+    "m_event_id": 600002,
+    "m_character_id": 1300035,
+    "character_asset_id": "106901000G",
+    "position": 0,
+    "serif": "",
+    "serif_type": 0
+  },
+  {
+    "id": 60000202,
+    "m_event_id": 600002,
+    "m_character_id": 1200019,
+    "character_asset_id": "107101000G",
+    "position": 0,
+    "serif": "",
+    "serif_type": 0
+  },
+  {
     "id": 30,
     "m_event_id": 100001,
     "m_character_id": 1300023,
@@ -267,6 +285,24 @@
     "character_asset_id": "300601000",
     "position": 1,
     "serif": "ソフィアが信頼する人物……\nその手並み拝見させてもらうぞ",
+    "serif_type": 0
+  },
+  {
+    "id": 33,
+    "m_event_id": 500001,
+    "m_character_id": 1300027,
+    "character_asset_id": "105601000G",
+    "position": 0,
+    "serif": "ヘンリエッタ台詞",
+    "serif_type": 0
+  },
+  {
+    "id": 34,
+    "m_event_id": 500001,
+    "m_character_id": 1300037,
+    "character_asset_id": "107201000G",
+    "position": 1,
+    "serif": "アシュリー台詞",
     "serif_type": 0
   }
 ]

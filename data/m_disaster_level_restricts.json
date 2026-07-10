@@ -22,5 +22,13 @@
     "restrict_type": 3,
     "restrict_param_1": 1060505,
     "restrict_param_2": 0
+  },
+  {
+    "id": 4,
+    "disaster_level": 18,
+    "description": "7章クリアで大厄災出現",
+    "restrict_type": 3,
+    "restrict_param_1": 1070505,
+    "restrict_param_2": 0
   }
 ]

@@ -612,6 +612,66 @@
     "m_building_skill_effect_description_id": 34
   },
   {
+    "id": 3000250,
+    "m_building_skill_level_id": 300025,
+    "description": "すべてのキャラの最大HP+0.2%",
+    "group_id": 100,
+    "param_type": 400,
+    "param_1": 0,
+    "param_2": 1,
+    "param_3": 2,
+    "event_type": 0,
+    "m_building_skill_effect_description_id": 34
+  },
+  {
+    "id": 3000260,
+    "m_building_skill_level_id": 300026,
+    "description": "すべてのキャラの最大HP+0.2%",
+    "group_id": 100,
+    "param_type": 400,
+    "param_1": 0,
+    "param_2": 1,
+    "param_3": 2,
+    "event_type": 0,
+    "m_building_skill_effect_description_id": 34
+  },
+  {
+    "id": 3000270,
+    "m_building_skill_level_id": 300027,
+    "description": "すべてのキャラの最大HP+0.2%",
+    "group_id": 100,
+    "param_type": 400,
+    "param_1": 0,
+    "param_2": 1,
+    "param_3": 2,
+    "event_type": 0,
+    "m_building_skill_effect_description_id": 34
+  },
+  {
+    "id": 3000280,
+    "m_building_skill_level_id": 300028,
+    "description": "すべてのキャラの最大HP+0.2%",
+    "group_id": 100,
+    "param_type": 400,
+    "param_1": 0,
+    "param_2": 1,
+    "param_3": 2,
+    "event_type": 0,
+    "m_building_skill_effect_description_id": 34
+  },
+  {
+    "id": 3000290,
+    "m_building_skill_level_id": 300029,
+    "description": "すべてのキャラの最大HP+0.2%",
+    "group_id": 100,
+    "param_type": 400,
+    "param_1": 0,
+    "param_2": 1,
+    "param_3": 2,
+    "event_type": 0,
+    "m_building_skill_effect_description_id": 34
+  },
+  {
     "id": 3001000,
     "m_building_skill_level_id": 300100,
     "description": "すべてのキャラの攻撃力＋0.2％",
@@ -912,6 +972,66 @@
     "m_building_skill_effect_description_id": 35
   },
   {
+    "id": 3001250,
+    "m_building_skill_level_id": 300125,
+    "description": "すべてのキャラの攻撃力＋0.2％",
+    "group_id": 300,
+    "param_type": 400,
+    "param_1": 0,
+    "param_2": 2,
+    "param_3": 2,
+    "event_type": 0,
+    "m_building_skill_effect_description_id": 35
+  },
+  {
+    "id": 3001260,
+    "m_building_skill_level_id": 300126,
+    "description": "すべてのキャラの攻撃力＋0.2％",
+    "group_id": 300,
+    "param_type": 400,
+    "param_1": 0,
+    "param_2": 2,
+    "param_3": 2,
+    "event_type": 0,
+    "m_building_skill_effect_description_id": 35
+  },
+  {
+    "id": 3001270,
+    "m_building_skill_level_id": 300127,
+    "description": "すべてのキャラの攻撃力＋0.2％",
+    "group_id": 300,
+    "param_type": 400,
+    "param_1": 0,
+    "param_2": 2,
+    "param_3": 2,
+    "event_type": 0,
+    "m_building_skill_effect_description_id": 35
+  },
+  {
+    "id": 3001280,
+    "m_building_skill_level_id": 300128,
+    "description": "すべてのキャラの攻撃力＋0.2％",
+    "group_id": 300,
+    "param_type": 400,
+    "param_1": 0,
+    "param_2": 2,
+    "param_3": 2,
+    "event_type": 0,
+    "m_building_skill_effect_description_id": 35
+  },
+  {
+    "id": 3001290,
+    "m_building_skill_level_id": 300129,
+    "description": "すべてのキャラの攻撃力＋0.2％",
+    "group_id": 300,
+    "param_type": 400,
+    "param_1": 0,
+    "param_2": 2,
+    "param_3": 2,
+    "event_type": 0,
+    "m_building_skill_effect_description_id": 35
+  },
+  {
     "id": 3002000,
     "m_building_skill_level_id": 300200,
     "description": "すべてのキャラの防御力＋0.2％",
@@ -1202,6 +1322,66 @@
   {
     "id": 3002240,
     "m_building_skill_level_id": 300224,
+    "description": "すべてのキャラの防御力＋0.2％",
+    "group_id": 300,
+    "param_type": 400,
+    "param_1": 0,
+    "param_2": 3,
+    "param_3": 2,
+    "event_type": 0,
+    "m_building_skill_effect_description_id": 36
+  },
+  {
+    "id": 3002250,
+    "m_building_skill_level_id": 300225,
+    "description": "すべてのキャラの防御力＋0.2％",
+    "group_id": 300,
+    "param_type": 400,
+    "param_1": 0,
+    "param_2": 3,
+    "param_3": 2,
+    "event_type": 0,
+    "m_building_skill_effect_description_id": 36
+  },
+  {
+    "id": 3002260,
+    "m_building_skill_level_id": 300226,
+    "description": "すべてのキャラの防御力＋0.2％",
+    "group_id": 300,
+    "param_type": 400,
+    "param_1": 0,
+    "param_2": 3,
+    "param_3": 2,
+    "event_type": 0,
+    "m_building_skill_effect_description_id": 36
+  },
+  {
+    "id": 3002270,
+    "m_building_skill_level_id": 300227,
+    "description": "すべてのキャラの防御力＋0.2％",
+    "group_id": 300,
+    "param_type": 400,
+    "param_1": 0,
+    "param_2": 3,
+    "param_3": 2,
+    "event_type": 0,
+    "m_building_skill_effect_description_id": 36
+  },
+  {
+    "id": 3002280,
+    "m_building_skill_level_id": 300228,
+    "description": "すべてのキャラの防御力＋0.2％",
+    "group_id": 300,
+    "param_type": 400,
+    "param_1": 0,
+    "param_2": 3,
+    "param_3": 2,
+    "event_type": 0,
+    "m_building_skill_effect_description_id": 36
+  },
+  {
+    "id": 3002290,
+    "m_building_skill_level_id": 300229,
     "description": "すべてのキャラの防御力＋0.2％",
     "group_id": 300,
     "param_type": 400,
@@ -2578,5 +2758,29 @@
     "param_3": 0,
     "event_type": 100,
     "m_building_skill_effect_description_id": 31
+  },
+  {
+    "id": 10001100,
+    "m_building_skill_level_id": 1000200,
+    "description": "【活力】のマナクリスタルを獲得",
+    "group_id": 1100,
+    "param_type": 600,
+    "param_1": 304,
+    "param_2": 0,
+    "param_3": 0,
+    "event_type": 70,
+    "m_building_skill_effect_description_id": 61
+  },
+  {
+    "id": 10001101,
+    "m_building_skill_level_id": 1000201,
+    "description": "【虚空】のマナクリスタルを獲得",
+    "group_id": 1100,
+    "param_type": 600,
+    "param_1": 204,
+    "param_2": 0,
+    "param_3": 0,
+    "event_type": 70,
+    "m_building_skill_effect_description_id": 62
   }
 ]

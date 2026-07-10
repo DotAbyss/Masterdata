@@ -21,11 +21,25 @@
     "bg_asset_id": "abg20200b"
   },
   {
+    "id": 50000101,
+    "m_event_id": 500001,
+    "tips_asset_id": "1030002",
+    "logo_asset_id": "1030002",
+    "bg_asset_id": "Functionbg012"
+  },
+  {
     "id": 60000101,
     "m_event_id": 600001,
     "tips_asset_id": "1040001",
     "logo_asset_id": "1040001",
     "bg_asset_id": "abg11101a"
+  },
+  {
+    "id": 60000201,
+    "m_event_id": 600002,
+    "tips_asset_id": "1040002",
+    "logo_asset_id": "1040000",
+    "bg_asset_id": "abg11200a"
   },
   {
     "id": 80000101,
