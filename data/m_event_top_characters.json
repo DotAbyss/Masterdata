@@ -217,6 +217,24 @@
   },
   {
     "id": 27,
+    "m_event_id": 500001,
+    "m_character_id": 1300027,
+    "character_asset_id": "105601000G",
+    "position": 0,
+    "serif": "ヘンリエッタ台詞",
+    "serif_type": 0
+  },
+  {
+    "id": 28,
+    "m_event_id": 500001,
+    "m_character_id": 1300037,
+    "character_asset_id": "107201000G",
+    "position": 1,
+    "serif": "アシュリー台詞",
+    "serif_type": 0
+  },
+  {
+    "id": 30,
     "m_event_id": 600001,
     "m_character_id": 1300010,
     "character_asset_id": "101001000G",
@@ -225,7 +243,7 @@
     "serif_type": 0
   },
   {
-    "id": 28,
+    "id": 31,
     "m_event_id": 600001,
     "m_character_id": 1300001,
     "character_asset_id": "100901000G",
@@ -249,15 +267,6 @@
     "character_asset_id": "107101000G",
     "position": 0,
     "serif": "",
-    "serif_type": 0
-  },
-  {
-    "id": 30,
-    "m_event_id": 100001,
-    "m_character_id": 1300023,
-    "character_asset_id": "102801000G",
-    "position": 1,
-    "serif": "セリフ1\nセリフ1\nセリフ1",
     "serif_type": 0
   },
   {
@@ -288,21 +297,12 @@
     "serif_type": 0
   },
   {
-    "id": 33,
-    "m_event_id": 500001,
-    "m_character_id": 1300027,
-    "character_asset_id": "105601000G",
-    "position": 0,
-    "serif": "ヘンリエッタ台詞",
-    "serif_type": 0
-  },
-  {
-    "id": 34,
-    "m_event_id": 500001,
-    "m_character_id": 1300037,
-    "character_asset_id": "107201000G",
+    "id": 44,
+    "m_event_id": 100001,
+    "m_character_id": 1300023,
+    "character_asset_id": "102801000G",
     "position": 1,
-    "serif": "アシュリー台詞",
+    "serif": "セリフ1\nセリフ1\nセリフ1",
     "serif_type": 0
   }
 ]

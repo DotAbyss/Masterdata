@@ -497,27 +497,6 @@
     "asset_id": "105601000G"
   },
   {
-    "id": 907,
-    "m_event_hunt_quest_id": 201,
-    "m_enemy_id": 410120108,
-    "is_boss": 0,
-    "asset_id": "100301000G"
-  },
-  {
-    "id": 908,
-    "m_event_hunt_quest_id": 201,
-    "m_enemy_id": 410120109,
-    "is_boss": 0,
-    "asset_id": "104301000G"
-  },
-  {
-    "id": 909,
-    "m_event_hunt_quest_id": 201,
-    "m_enemy_id": 410120110,
-    "is_boss": 0,
-    "asset_id": "105001000G"
-  },
-  {
     "id": 1000,
     "m_event_hunt_quest_id": 202,
     "m_enemy_id": 410120201,
@@ -565,27 +544,6 @@
     "m_enemy_id": 410120207,
     "is_boss": 1,
     "asset_id": "105601000G"
-  },
-  {
-    "id": 1007,
-    "m_event_hunt_quest_id": 202,
-    "m_enemy_id": 410120208,
-    "is_boss": 0,
-    "asset_id": "100301000G"
-  },
-  {
-    "id": 1008,
-    "m_event_hunt_quest_id": 202,
-    "m_enemy_id": 410120209,
-    "is_boss": 0,
-    "asset_id": "104301000G"
-  },
-  {
-    "id": 1009,
-    "m_event_hunt_quest_id": 202,
-    "m_enemy_id": 410120210,
-    "is_boss": 0,
-    "asset_id": "106301000G"
   },
   {
     "id": 1100,
@@ -637,27 +595,6 @@
     "asset_id": "105601000G"
   },
   {
-    "id": 1107,
-    "m_event_hunt_quest_id": 203,
-    "m_enemy_id": 410120308,
-    "is_boss": 0,
-    "asset_id": "101801000G"
-  },
-  {
-    "id": 1108,
-    "m_event_hunt_quest_id": 203,
-    "m_enemy_id": 410120309,
-    "is_boss": 0,
-    "asset_id": "107701000G"
-  },
-  {
-    "id": 1109,
-    "m_event_hunt_quest_id": 203,
-    "m_enemy_id": 410120310,
-    "is_boss": 0,
-    "asset_id": "106301000G"
-  },
-  {
     "id": 1200,
     "m_event_hunt_quest_id": 204,
     "m_enemy_id": 410120401,
@@ -690,7 +627,7 @@
     "m_event_hunt_quest_id": 204,
     "m_enemy_id": 410120405,
     "is_boss": 0,
-    "asset_id": "107101000G"
+    "asset_id": "105301000G"
   },
   {
     "id": 1205,
@@ -705,27 +642,6 @@
     "m_enemy_id": 410120407,
     "is_boss": 0,
     "asset_id": "107201000G"
-  },
-  {
-    "id": 1207,
-    "m_event_hunt_quest_id": 204,
-    "m_enemy_id": 410120408,
-    "is_boss": 0,
-    "asset_id": "100301000G"
-  },
-  {
-    "id": 1208,
-    "m_event_hunt_quest_id": 204,
-    "m_enemy_id": 410120409,
-    "is_boss": 0,
-    "asset_id": "103201000G"
-  },
-  {
-    "id": 1209,
-    "m_event_hunt_quest_id": 204,
-    "m_enemy_id": 410120410,
-    "is_boss": 0,
-    "asset_id": "104301000G"
   },
   {
     "id": 1300,
@@ -760,7 +676,7 @@
     "m_event_hunt_quest_id": 205,
     "m_enemy_id": 410120505,
     "is_boss": 0,
-    "asset_id": "107101000G"
+    "asset_id": "105301000G"
   },
   {
     "id": 1305,
@@ -775,27 +691,6 @@
     "m_enemy_id": 410120507,
     "is_boss": 0,
     "asset_id": "107201000G"
-  },
-  {
-    "id": 1307,
-    "m_event_hunt_quest_id": 205,
-    "m_enemy_id": 410120508,
-    "is_boss": 0,
-    "asset_id": "102801000G"
-  },
-  {
-    "id": 1308,
-    "m_event_hunt_quest_id": 205,
-    "m_enemy_id": 410120509,
-    "is_boss": 0,
-    "asset_id": "103201000G"
-  },
-  {
-    "id": 1309,
-    "m_event_hunt_quest_id": 205,
-    "m_enemy_id": 410120510,
-    "is_boss": 0,
-    "asset_id": "104301000G"
   },
   {
     "id": 1400,
@@ -845,26 +740,5 @@
     "m_enemy_id": 410120607,
     "is_boss": 0,
     "asset_id": "107201000G"
-  },
-  {
-    "id": 1407,
-    "m_event_hunt_quest_id": 206,
-    "m_enemy_id": 410120608,
-    "is_boss": 0,
-    "asset_id": "102801000G"
-  },
-  {
-    "id": 1408,
-    "m_event_hunt_quest_id": 206,
-    "m_enemy_id": 410120609,
-    "is_boss": 0,
-    "asset_id": "107701000G"
-  },
-  {
-    "id": 1409,
-    "m_event_hunt_quest_id": 206,
-    "m_enemy_id": 410120610,
-    "is_boss": 0,
-    "asset_id": "101801000G"
   }
 ]

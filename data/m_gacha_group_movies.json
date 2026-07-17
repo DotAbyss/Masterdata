@@ -178,5 +178,41 @@
     "story_flavor_2": "誰にでも優しいギャル",
     "ntr_flag_3": 0,
     "story_flavor_3": "どろどろに溶け合う２人"
+  },
+  {
+    "id": 12,
+    "m_gacha_group_id": 119,
+    "m_character_id": 1300027,
+    "display_order": 1,
+    "movie_normal": "gacha_top_105601000_normal",
+    "movie_r18": "gacha_top_105601000_r18",
+    "adult_telop_duration": 4000,
+    "normal_telop_duration": 5500,
+    "skill_name": "スピリットサークル\t\t\t\t\t\t\t\t\t\t",
+    "skill_flavor": "最も近い敵を中心とした範囲内にいる\u003cgradient=\"GachaSkillColorGrad\"\u003e敵全体に\u003c/gradient\u003e\n\u003cgradient=\"GachaSkillColorGrad\"\u003eダメージを与え、 自身に紋章：情熱を付与！\u003c/gradient\u003e",
+    "ntr_flag_1": 0,
+    "story_flavor_1": "フィオナを治してください",
+    "ntr_flag_2": 1,
+    "story_flavor_2": "フィオナ、お役に立ちます！",
+    "ntr_flag_3": 0,
+    "story_flavor_3": "えっちな子でごめんなさい"
+  },
+  {
+    "id": 13,
+    "m_gacha_group_id": 119,
+    "m_character_id": 1300037,
+    "display_order": 2,
+    "movie_normal": "gacha_top_107201000_normal",
+    "movie_r18": "gacha_top_107201000_r18",
+    "adult_telop_duration": 4000,
+    "normal_telop_duration": 5500,
+    "skill_name": "スターリーレイン",
+    "skill_flavor": "自身にステラレコードを付与し、\n\u003cgradient=\"GachaSkillColorGrad\"\u003e 敵全体にダメージ\u003c/gradient\u003e を与える！",
+    "ntr_flag_1": 0,
+    "story_flavor_1": "優しさを重ねて",
+    "ntr_flag_2": 1,
+    "story_flavor_2": "星の導き",
+    "ntr_flag_3": 0,
+    "story_flavor_3": "見つめ合いながら"
   }
 ]

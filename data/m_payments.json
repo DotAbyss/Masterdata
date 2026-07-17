@@ -1366,7 +1366,7 @@
     "m_payment_dmm_product_id": 110001,
     "m_payment_googleplay_product_id": 110001,
     "m_payment_appstore_product_id": 110001,
-    "m_payment_charge_center_product_id": 110001,
+    "m_payment_charge_center_product_id": 0,
     "is_free": 0
   },
   {
@@ -1376,7 +1376,27 @@
     "m_payment_dmm_product_id": 110002,
     "m_payment_googleplay_product_id": 110002,
     "m_payment_appstore_product_id": 110002,
-    "m_payment_charge_center_product_id": 110002,
+    "m_payment_charge_center_product_id": 0,
+    "is_free": 0
+  },
+  {
+    "id": 110003,
+    "payment_type": 1,
+    "master_id": 110003,
+    "m_payment_dmm_product_id": 110003,
+    "m_payment_googleplay_product_id": 110003,
+    "m_payment_appstore_product_id": 110003,
+    "m_payment_charge_center_product_id": 0,
+    "is_free": 0
+  },
+  {
+    "id": 110004,
+    "payment_type": 1,
+    "master_id": 110004,
+    "m_payment_dmm_product_id": 110004,
+    "m_payment_googleplay_product_id": 110004,
+    "m_payment_appstore_product_id": 110004,
+    "m_payment_charge_center_product_id": 0,
     "is_free": 0
   },
   {
@@ -2796,6 +2816,46 @@
     "m_payment_dmm_product_id": 260047,
     "m_payment_googleplay_product_id": 260047,
     "m_payment_appstore_product_id": 260047,
+    "m_payment_charge_center_product_id": 0,
+    "is_free": 0
+  },
+  {
+    "id": 260048,
+    "payment_type": 2,
+    "master_id": 260048,
+    "m_payment_dmm_product_id": 260048,
+    "m_payment_googleplay_product_id": 260048,
+    "m_payment_appstore_product_id": 260048,
+    "m_payment_charge_center_product_id": 0,
+    "is_free": 0
+  },
+  {
+    "id": 260049,
+    "payment_type": 2,
+    "master_id": 260049,
+    "m_payment_dmm_product_id": 260049,
+    "m_payment_googleplay_product_id": 260049,
+    "m_payment_appstore_product_id": 260049,
+    "m_payment_charge_center_product_id": 0,
+    "is_free": 0
+  },
+  {
+    "id": 260050,
+    "payment_type": 2,
+    "master_id": 260050,
+    "m_payment_dmm_product_id": 260050,
+    "m_payment_googleplay_product_id": 260050,
+    "m_payment_appstore_product_id": 260050,
+    "m_payment_charge_center_product_id": 0,
+    "is_free": 0
+  },
+  {
+    "id": 260051,
+    "payment_type": 2,
+    "master_id": 260051,
+    "m_payment_dmm_product_id": 260051,
+    "m_payment_googleplay_product_id": 260051,
+    "m_payment_appstore_product_id": 260051,
     "m_payment_charge_center_product_id": 0,
     "is_free": 0
   }

@@ -1,12 +1,5 @@
 [
   {
-    "id": 10000101,
-    "m_event_id": 100001,
-    "tips_asset_id": "1070004",
-    "logo_asset_id": "1070001",
-    "bg_asset_id": "abg14900a"
-  },
-  {
     "id": 30000101,
     "m_event_id": 300001,
     "tips_asset_id": "1020001",
@@ -47,5 +40,12 @@
     "tips_asset_id": "1090002",
     "logo_asset_id": "1090002",
     "bg_asset_id": "abg10100a"
+  },
+  {
+    "id": 10000101,
+    "m_event_id": 100001,
+    "tips_asset_id": "1070004",
+    "logo_asset_id": "1070001",
+    "bg_asset_id": "abg14900a"
   }
 ]

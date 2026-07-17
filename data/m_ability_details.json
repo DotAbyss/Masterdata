@@ -1844,7 +1844,7 @@
     "ability_no": 10014,
     "ability_awake_level": 0,
     "level": 1,
-    "description": "通常攻撃が2HIT攻撃になる / 自身の現在HP割合が低いほど自身のスキル与ダメージが【{2%}】上昇",
+    "description": "自身の現在HP割合が高いほど自身がスキルで与えるダメージが最大【{2.5%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【2HIT / 合計{100%}】ダメージに変化",
     "awake_description": ""
   },
   {
@@ -1852,7 +1852,7 @@
     "ability_no": 10014,
     "ability_awake_level": 0,
     "level": 2,
-    "description": "通常攻撃が2HIT攻撃になる / 自身の現在HP割合が低いほど自身のスキル与ダメージが【{2.5%}】上昇",
+    "description": "自身の現在HP割合が高いほど自身がスキルで与えるダメージが最大【{4.3%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【2HIT / 合計{101.6%}】ダメージに変化",
     "awake_description": ""
   },
   {
@@ -1860,7 +1860,7 @@
     "ability_no": 10014,
     "ability_awake_level": 0,
     "level": 3,
-    "description": "通常攻撃が2HIT攻撃になる / 自身の現在HP割合が低いほど自身のスキル与ダメージが【{7.5%}】上昇",
+    "description": "自身の現在HP割合が高いほど自身がスキルで与えるダメージが最大【{6.2%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【2HIT / 合計{103.3%}】ダメージに変化",
     "awake_description": ""
   },
   {
@@ -1868,7 +1868,7 @@
     "ability_no": 10014,
     "ability_awake_level": 0,
     "level": 4,
-    "description": "通常攻撃が2HIT攻撃になる / 自身の現在HP割合が低いほど自身のスキル与ダメージが【{10%}】上昇",
+    "description": "自身の現在HP割合が高いほど自身がスキルで与えるダメージが最大【{8.1%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【2HIT / 合計{105%}】ダメージに変化",
     "awake_description": ""
   },
   {
@@ -1876,7 +1876,7 @@
     "ability_no": 10014,
     "ability_awake_level": 0,
     "level": 5,
-    "description": "通常攻撃が2HIT攻撃になる / 自身の現在HP割合が低いほど自身のスキル与ダメージが【{12.5%}】上昇",
+    "description": "自身の現在HP割合が高いほど自身がスキルで与えるダメージが最大【{11.8%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【2HIT / 合計{108.3%}】ダメージに変化",
     "awake_description": ""
   },
   {
@@ -1884,7 +1884,7 @@
     "ability_no": 10014,
     "ability_awake_level": 0,
     "level": 6,
-    "description": "通常攻撃が2HIT攻撃になる / 自身の現在HP割合が低いほど自身のスキル与ダメージが【{15%}】上昇",
+    "description": "自身の現在HP割合が高いほど自身がスキルで与えるダメージが最大【{13.7%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【2HIT / 合計{110%}】ダメージに変化",
     "awake_description": ""
   },
   {
@@ -1892,7 +1892,7 @@
     "ability_no": 10014,
     "ability_awake_level": 0,
     "level": 7,
-    "description": "通常攻撃が2HIT攻撃になる / 自身の現在HP割合が低いほど自身のスキル与ダメージが【{17.5%}】上昇",
+    "description": "自身の現在HP割合が高いほど自身がスキルで与えるダメージが最大【{15.6%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【2HIT / 合計{111.6%}】ダメージに変化",
     "awake_description": ""
   },
   {
@@ -1900,7 +1900,7 @@
     "ability_no": 10014,
     "ability_awake_level": 0,
     "level": 8,
-    "description": "通常攻撃が2HIT攻撃になる / 自身の現在HP割合が低いほど自身のスキル与ダメージが【{20%}】上昇",
+    "description": "自身の現在HP割合が高いほど自身がスキルで与えるダメージが最大【{19.3%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【2HIT / 合計{115%}】ダメージに変化",
     "awake_description": ""
   },
   {
@@ -1908,7 +1908,7 @@
     "ability_no": 10014,
     "ability_awake_level": 0,
     "level": 9,
-    "description": "通常攻撃が2HIT攻撃になる / 自身の現在HP割合が低いほど自身のスキル与ダメージが【{22.5%}】上昇",
+    "description": "自身の現在HP割合が高いほど自身がスキルで与えるダメージが最大【{21.2%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【2HIT / 合計{116.6%}】ダメージに変化",
     "awake_description": ""
   },
   {
@@ -1916,7 +1916,7 @@
     "ability_no": 10014,
     "ability_awake_level": 0,
     "level": 10,
-    "description": "通常攻撃が2HIT攻撃になる / 自身の現在HP割合が低いほど自身のスキル与ダメージが【{25%}】上昇",
+    "description": "自身の現在HP割合が高いほど自身がスキルで与えるダメージが最大【{25%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【2HIT / 合計{120%}】ダメージに変化",
     "awake_description": ""
   },
   {
@@ -1924,167 +1924,167 @@
     "ability_no": 10014,
     "ability_awake_level": 1,
     "level": 1,
-    "description": "通常攻撃が2HIT攻撃になる / 自身の現在HP割合が低いほど自身のスキル与ダメージが【{2%}】上昇",
-    "awake_description": "通常攻撃をするたびに自身のスキルチャージ効率が【{1%}】上昇【累積 / 最大30％】"
+    "description": "自身の現在HP割合が高いほど自身がスキルで与えるダメージが最大【{2.5%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【2HIT / 合計{100%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
   },
   {
     "id": 1001412,
     "ability_no": 10014,
     "ability_awake_level": 1,
     "level": 2,
-    "description": "通常攻撃が2HIT攻撃になる / 自身の現在HP割合が低いほど自身のスキル与ダメージが【{2.5%}】上昇",
-    "awake_description": "通常攻撃をするたびに自身のスキルチャージ効率が【{1%}】上昇【累積 / 最大30％】"
+    "description": "自身の現在HP割合が高いほど自身がスキルで与えるダメージが最大【{4.3%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【2HIT / 合計{101.6%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
   },
   {
     "id": 1001413,
     "ability_no": 10014,
     "ability_awake_level": 1,
     "level": 3,
-    "description": "通常攻撃が2HIT攻撃になる / 自身の現在HP割合が低いほど自身のスキル与ダメージが【{7.5%}】上昇",
-    "awake_description": "通常攻撃をするたびに自身のスキルチャージ効率が【{1%}】上昇【累積 / 最大30％】"
+    "description": "自身の現在HP割合が高いほど自身がスキルで与えるダメージが最大【{6.2%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【2HIT / 合計{103.3%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
   },
   {
     "id": 1001414,
     "ability_no": 10014,
     "ability_awake_level": 1,
     "level": 4,
-    "description": "通常攻撃が2HIT攻撃になる / 自身の現在HP割合が低いほど自身のスキル与ダメージが【{10%}】上昇",
-    "awake_description": "通常攻撃をするたびに自身のスキルチャージ効率が【{1%}】上昇【累積 / 最大30％】"
+    "description": "自身の現在HP割合が高いほど自身がスキルで与えるダメージが最大【{8.1%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【2HIT / 合計{105%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
   },
   {
     "id": 1001415,
     "ability_no": 10014,
     "ability_awake_level": 1,
     "level": 5,
-    "description": "通常攻撃が2HIT攻撃になる / 自身の現在HP割合が低いほど自身のスキル与ダメージが【{12.5%}】上昇",
-    "awake_description": "通常攻撃をするたびに自身のスキルチャージ効率が【{1%}】上昇【累積 / 最大30％】"
+    "description": "自身の現在HP割合が高いほど自身がスキルで与えるダメージが最大【{11.8%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【2HIT / 合計{108.3%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
   },
   {
     "id": 1001416,
     "ability_no": 10014,
     "ability_awake_level": 1,
     "level": 6,
-    "description": "通常攻撃が2HIT攻撃になる / 自身の現在HP割合が低いほど自身のスキル与ダメージが【{15%}】上昇",
-    "awake_description": "通常攻撃をするたびに自身のスキルチャージ効率が【{1%}】上昇【累積 / 最大30％】"
+    "description": "自身の現在HP割合が高いほど自身がスキルで与えるダメージが最大【{13.7%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【2HIT / 合計{110%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
   },
   {
     "id": 1001417,
     "ability_no": 10014,
     "ability_awake_level": 1,
     "level": 7,
-    "description": "通常攻撃が2HIT攻撃になる / 自身の現在HP割合が低いほど自身のスキル与ダメージが【{17.5%}】上昇",
-    "awake_description": "通常攻撃をするたびに自身のスキルチャージ効率が【{1%}】上昇【累積 / 最大30％】"
+    "description": "自身の現在HP割合が高いほど自身がスキルで与えるダメージが最大【{15.6%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【2HIT / 合計{111.6%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
   },
   {
     "id": 1001418,
     "ability_no": 10014,
     "ability_awake_level": 1,
     "level": 8,
-    "description": "通常攻撃が2HIT攻撃になる / 自身の現在HP割合が低いほど自身のスキル与ダメージが【{20%}】上昇",
-    "awake_description": "通常攻撃をするたびに自身のスキルチャージ効率が【{1%}】上昇【累積 / 最大30％】"
+    "description": "自身の現在HP割合が高いほど自身がスキルで与えるダメージが最大【{19.3%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【2HIT / 合計{115%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
   },
   {
     "id": 1001419,
     "ability_no": 10014,
     "ability_awake_level": 1,
     "level": 9,
-    "description": "通常攻撃が2HIT攻撃になる / 自身の現在HP割合が低いほど自身のスキル与ダメージが【{22.5%}】上昇",
-    "awake_description": "通常攻撃をするたびに自身のスキルチャージ効率が【{1%}】上昇【累積 / 最大30％】"
+    "description": "自身の現在HP割合が高いほど自身がスキルで与えるダメージが最大【{21.2%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【2HIT / 合計{116.6%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
   },
   {
     "id": 1001420,
     "ability_no": 10014,
     "ability_awake_level": 1,
     "level": 10,
-    "description": "通常攻撃が2HIT攻撃になる / 自身の現在HP割合が低いほど自身のスキル与ダメージが【{25%}】上昇",
-    "awake_description": "通常攻撃をするたびに自身のスキルチャージ効率が【{1%}】上昇【累積 / 最大30％】"
+    "description": "自身の現在HP割合が高いほど自身がスキルで与えるダメージが最大【{25%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【2HIT / 合計{120%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
   },
   {
     "id": 1001421,
     "ability_no": 10014,
     "ability_awake_level": 2,
     "level": 1,
-    "description": "通常攻撃が2HIT攻撃になる / 自身の現在HP割合が低いほど自身のスキル与ダメージが【{2%}】上昇",
-    "awake_description": "通常攻撃をするたびに自身のスキルチャージ効率が【{2%}】上昇【累積 / 最大30％】"
+    "description": "自身の現在HP割合が高いほど自身がスキルで与えるダメージが最大【{2.5%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【2HIT / 合計{100%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
   },
   {
     "id": 1001422,
     "ability_no": 10014,
     "ability_awake_level": 2,
     "level": 2,
-    "description": "通常攻撃が2HIT攻撃になる / 自身の現在HP割合が低いほど自身のスキル与ダメージが【{2.5%}】上昇",
-    "awake_description": "通常攻撃をするたびに自身のスキルチャージ効率が【{2%}】上昇【累積 / 最大30％】"
+    "description": "自身の現在HP割合が高いほど自身がスキルで与えるダメージが最大【{4.3%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【2HIT / 合計{101.6%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
   },
   {
     "id": 1001423,
     "ability_no": 10014,
     "ability_awake_level": 2,
     "level": 3,
-    "description": "通常攻撃が2HIT攻撃になる / 自身の現在HP割合が低いほど自身のスキル与ダメージが【{7.5%}】上昇",
-    "awake_description": "通常攻撃をするたびに自身のスキルチャージ効率が【{2%}】上昇【累積 / 最大30％】"
+    "description": "自身の現在HP割合が高いほど自身がスキルで与えるダメージが最大【{6.2%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【2HIT / 合計{103.3%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
   },
   {
     "id": 1001424,
     "ability_no": 10014,
     "ability_awake_level": 2,
     "level": 4,
-    "description": "通常攻撃が2HIT攻撃になる / 自身の現在HP割合が低いほど自身のスキル与ダメージが【{10%}】上昇",
-    "awake_description": "通常攻撃をするたびに自身のスキルチャージ効率が【{2%}】上昇【累積 / 最大30％】"
+    "description": "自身の現在HP割合が高いほど自身がスキルで与えるダメージが最大【{8.1%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【2HIT / 合計{105%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
   },
   {
     "id": 1001425,
     "ability_no": 10014,
     "ability_awake_level": 2,
     "level": 5,
-    "description": "通常攻撃が2HIT攻撃になる / 自身の現在HP割合が低いほど自身のスキル与ダメージが【{12.5%}】上昇",
-    "awake_description": "通常攻撃をするたびに自身のスキルチャージ効率が【{2%}】上昇【累積 / 最大30％】"
+    "description": "自身の現在HP割合が高いほど自身がスキルで与えるダメージが最大【{11.8%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【2HIT / 合計{108.3%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
   },
   {
     "id": 1001426,
     "ability_no": 10014,
     "ability_awake_level": 2,
     "level": 6,
-    "description": "通常攻撃が2HIT攻撃になる / 自身の現在HP割合が低いほど自身のスキル与ダメージが【{15%}】上昇",
-    "awake_description": "通常攻撃をするたびに自身のスキルチャージ効率が【{2%}】上昇【累積 / 最大30％】"
+    "description": "自身の現在HP割合が高いほど自身がスキルで与えるダメージが最大【{13.7%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【2HIT / 合計{110%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
   },
   {
     "id": 1001427,
     "ability_no": 10014,
     "ability_awake_level": 2,
     "level": 7,
-    "description": "通常攻撃が2HIT攻撃になる / 自身の現在HP割合が低いほど自身のスキル与ダメージが【{17.5%}】上昇",
-    "awake_description": "通常攻撃をするたびに自身のスキルチャージ効率が【{2%}】上昇【累積 / 最大30％】"
+    "description": "自身の現在HP割合が高いほど自身がスキルで与えるダメージが最大【{15.6%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【2HIT / 合計{111.6%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
   },
   {
     "id": 1001428,
     "ability_no": 10014,
     "ability_awake_level": 2,
     "level": 8,
-    "description": "通常攻撃が2HIT攻撃になる / 自身の現在HP割合が低いほど自身のスキル与ダメージが【{20%}】上昇",
-    "awake_description": "通常攻撃をするたびに自身のスキルチャージ効率が【{2%}】上昇【累積 / 最大30％】"
+    "description": "自身の現在HP割合が高いほど自身がスキルで与えるダメージが最大【{19.3%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【2HIT / 合計{115%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
   },
   {
     "id": 1001429,
     "ability_no": 10014,
     "ability_awake_level": 2,
     "level": 9,
-    "description": "通常攻撃が2HIT攻撃になる / 自身の現在HP割合が低いほど自身のスキル与ダメージが【{22.5%}】上昇",
-    "awake_description": "通常攻撃をするたびに自身のスキルチャージ効率が【{2%}】上昇【累積 / 最大30％】"
+    "description": "自身の現在HP割合が高いほど自身がスキルで与えるダメージが最大【{21.2%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【2HIT / 合計{116.6%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
   },
   {
     "id": 1001430,
     "ability_no": 10014,
     "ability_awake_level": 2,
     "level": 10,
-    "description": "通常攻撃が2HIT攻撃になる / 自身の現在HP割合が低いほど自身のスキル与ダメージが【{25%}】上昇",
-    "awake_description": "通常攻撃をするたびに自身のスキルチャージ効率が【{2%}】上昇【累積 / 最大30％】"
+    "description": "自身の現在HP割合が高いほど自身がスキルで与えるダメージが最大【{25%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【2HIT / 合計{120%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
   },
   {
     "id": 1001501,
     "ability_no": 10015,
     "ability_awake_level": 0,
     "level": 1,
-    "description": "自身の最大HPが【{2%}】上昇",
+    "description": "自身の最大HPが【{4%}】上昇",
     "awake_description": ""
   },
   {
@@ -2092,7 +2092,7 @@
     "ability_no": 10015,
     "ability_awake_level": 0,
     "level": 2,
-    "description": "自身の最大HPが【{4%}】上昇",
+    "description": "自身の最大HPが【{7%}】上昇",
     "awake_description": ""
   },
   {
@@ -2100,7 +2100,7 @@
     "ability_no": 10015,
     "ability_awake_level": 0,
     "level": 3,
-    "description": "自身の最大HPが【{6%}】上昇",
+    "description": "自身の最大HPが【{10%}】上昇",
     "awake_description": ""
   },
   {
@@ -2108,7 +2108,7 @@
     "ability_no": 10015,
     "ability_awake_level": 0,
     "level": 4,
-    "description": "自身の最大HPが【{8%}】上昇",
+    "description": "自身の最大HPが【{13%}】上昇",
     "awake_description": ""
   },
   {
@@ -2116,7 +2116,7 @@
     "ability_no": 10015,
     "ability_awake_level": 0,
     "level": 5,
-    "description": "自身の最大HPが【{10%}】上昇",
+    "description": "自身の最大HPが【{19%}】上昇",
     "awake_description": ""
   },
   {
@@ -2124,7 +2124,7 @@
     "ability_no": 10015,
     "ability_awake_level": 0,
     "level": 6,
-    "description": "自身の最大HPが【{12%}】上昇",
+    "description": "自身の最大HPが【{22%}】上昇",
     "awake_description": ""
   },
   {
@@ -2132,7 +2132,7 @@
     "ability_no": 10015,
     "ability_awake_level": 0,
     "level": 7,
-    "description": "自身の最大HPが【{14%}】上昇",
+    "description": "自身の最大HPが【{25%}】上昇",
     "awake_description": ""
   },
   {
@@ -2140,7 +2140,7 @@
     "ability_no": 10015,
     "ability_awake_level": 0,
     "level": 8,
-    "description": "自身の最大HPが【{16%}】上昇",
+    "description": "自身の最大HPが【{31%}】上昇",
     "awake_description": ""
   },
   {
@@ -2148,7 +2148,7 @@
     "ability_no": 10015,
     "ability_awake_level": 0,
     "level": 9,
-    "description": "自身の最大HPが【{18%}】上昇",
+    "description": "自身の最大HPが【{34%}】上昇",
     "awake_description": ""
   },
   {
@@ -2156,7 +2156,7 @@
     "ability_no": 10015,
     "ability_awake_level": 0,
     "level": 10,
-    "description": "自身の最大HPが【{20%}】上昇",
+    "description": "自身の最大HPが【{40%}】上昇",
     "awake_description": ""
   },
   {
@@ -2164,167 +2164,167 @@
     "ability_no": 10015,
     "ability_awake_level": 1,
     "level": 1,
-    "description": "自身の最大HPが【{2%}】上昇",
-    "awake_description": "最大HPが追加で【{4％}】上昇"
+    "description": "自身の最大HPが【{4%}】上昇",
+    "awake_description": "自身の会心ダメージが【{12.5%}】上昇"
   },
   {
     "id": 1001512,
     "ability_no": 10015,
     "ability_awake_level": 1,
     "level": 2,
-    "description": "自身の最大HPが【{4%}】上昇",
-    "awake_description": "最大HPが追加で【{4％}】上昇"
+    "description": "自身の最大HPが【{7%}】上昇",
+    "awake_description": "自身の会心ダメージが【{12.5%}】上昇"
   },
   {
     "id": 1001513,
     "ability_no": 10015,
     "ability_awake_level": 1,
     "level": 3,
-    "description": "自身の最大HPが【{6%}】上昇",
-    "awake_description": "最大HPが追加で【{4％}】上昇"
+    "description": "自身の最大HPが【{10%}】上昇",
+    "awake_description": "自身の会心ダメージが【{12.5%}】上昇"
   },
   {
     "id": 1001514,
     "ability_no": 10015,
     "ability_awake_level": 1,
     "level": 4,
-    "description": "自身の最大HPが【{8%}】上昇",
-    "awake_description": "最大HPが追加で【{4％}】上昇"
+    "description": "自身の最大HPが【{13%}】上昇",
+    "awake_description": "自身の会心ダメージが【{12.5%}】上昇"
   },
   {
     "id": 1001515,
     "ability_no": 10015,
     "ability_awake_level": 1,
     "level": 5,
-    "description": "自身の最大HPが【{10%}】上昇",
-    "awake_description": "最大HPが追加で【{4％}】上昇"
+    "description": "自身の最大HPが【{19%}】上昇",
+    "awake_description": "自身の会心ダメージが【{12.5%}】上昇"
   },
   {
     "id": 1001516,
     "ability_no": 10015,
     "ability_awake_level": 1,
     "level": 6,
-    "description": "自身の最大HPが【{12%}】上昇",
-    "awake_description": "最大HPが追加で【{4％}】上昇"
+    "description": "自身の最大HPが【{22%}】上昇",
+    "awake_description": "自身の会心ダメージが【{12.5%}】上昇"
   },
   {
     "id": 1001517,
     "ability_no": 10015,
     "ability_awake_level": 1,
     "level": 7,
-    "description": "自身の最大HPが【{14%}】上昇",
-    "awake_description": "最大HPが追加で【{4％}】上昇"
+    "description": "自身の最大HPが【{25%}】上昇",
+    "awake_description": "自身の会心ダメージが【{12.5%}】上昇"
   },
   {
     "id": 1001518,
     "ability_no": 10015,
     "ability_awake_level": 1,
     "level": 8,
-    "description": "自身の最大HPが【{16%}】上昇",
-    "awake_description": "最大HPが追加で【{4％}】上昇"
+    "description": "自身の最大HPが【{31%}】上昇",
+    "awake_description": "自身の会心ダメージが【{12.5%}】上昇"
   },
   {
     "id": 1001519,
     "ability_no": 10015,
     "ability_awake_level": 1,
     "level": 9,
-    "description": "自身の最大HPが【{18%}】上昇",
-    "awake_description": "最大HPが追加で【{4％}】上昇"
+    "description": "自身の最大HPが【{34%}】上昇",
+    "awake_description": "自身の会心ダメージが【{12.5%}】上昇"
   },
   {
     "id": 1001520,
     "ability_no": 10015,
     "ability_awake_level": 1,
     "level": 10,
-    "description": "自身の最大HPが【{20%}】上昇",
-    "awake_description": "最大HPが追加で【{4％}】上昇"
+    "description": "自身の最大HPが【{40%}】上昇",
+    "awake_description": "自身の会心ダメージが【{12.5%}】上昇"
   },
   {
     "id": 1001521,
     "ability_no": 10015,
     "ability_awake_level": 2,
     "level": 1,
-    "description": "自身の最大HPが【{2%}】上昇",
-    "awake_description": "最大HPが追加で【{8％}】上昇"
+    "description": "自身の最大HPが【{4%}】上昇",
+    "awake_description": "自身の会心ダメージが【{23.7%}】上昇"
   },
   {
     "id": 1001522,
     "ability_no": 10015,
     "ability_awake_level": 2,
     "level": 2,
-    "description": "自身の最大HPが【{4%}】上昇",
-    "awake_description": "最大HPが追加で【{8％}】上昇"
+    "description": "自身の最大HPが【{7%}】上昇",
+    "awake_description": "自身の会心ダメージが【{23.7%}】上昇"
   },
   {
     "id": 1001523,
     "ability_no": 10015,
     "ability_awake_level": 2,
     "level": 3,
-    "description": "自身の最大HPが【{6%}】上昇",
-    "awake_description": "最大HPが追加で【{8％}】上昇"
+    "description": "自身の最大HPが【{10%}】上昇",
+    "awake_description": "自身の会心ダメージが【{23.7%}】上昇"
   },
   {
     "id": 1001524,
     "ability_no": 10015,
     "ability_awake_level": 2,
     "level": 4,
-    "description": "自身の最大HPが【{8%}】上昇",
-    "awake_description": "最大HPが追加で【{8％}】上昇"
+    "description": "自身の最大HPが【{13%}】上昇",
+    "awake_description": "自身の会心ダメージが【{23.7%}】上昇"
   },
   {
     "id": 1001525,
     "ability_no": 10015,
     "ability_awake_level": 2,
     "level": 5,
-    "description": "自身の最大HPが【{10%}】上昇",
-    "awake_description": "最大HPが追加で【{8％}】上昇"
+    "description": "自身の最大HPが【{19%}】上昇",
+    "awake_description": "自身の会心ダメージが【{23.7%}】上昇"
   },
   {
     "id": 1001526,
     "ability_no": 10015,
     "ability_awake_level": 2,
     "level": 6,
-    "description": "自身の最大HPが【{12%}】上昇",
-    "awake_description": "最大HPが追加で【{8％}】上昇"
+    "description": "自身の最大HPが【{22%}】上昇",
+    "awake_description": "自身の会心ダメージが【{23.7%}】上昇"
   },
   {
     "id": 1001527,
     "ability_no": 10015,
     "ability_awake_level": 2,
     "level": 7,
-    "description": "自身の最大HPが【{14%}】上昇",
-    "awake_description": "最大HPが追加で【{8％}】上昇"
+    "description": "自身の最大HPが【{25%}】上昇",
+    "awake_description": "自身の会心ダメージが【{23.7%}】上昇"
   },
   {
     "id": 1001528,
     "ability_no": 10015,
     "ability_awake_level": 2,
     "level": 8,
-    "description": "自身の最大HPが【{16%}】上昇",
-    "awake_description": "最大HPが追加で【{8％}】上昇"
+    "description": "自身の最大HPが【{31%}】上昇",
+    "awake_description": "自身の会心ダメージが【{23.7%}】上昇"
   },
   {
     "id": 1001529,
     "ability_no": 10015,
     "ability_awake_level": 2,
     "level": 9,
-    "description": "自身の最大HPが【{18%}】上昇",
-    "awake_description": "最大HPが追加で【{8％}】上昇"
+    "description": "自身の最大HPが【{34%}】上昇",
+    "awake_description": "自身の会心ダメージが【{23.7%}】上昇"
   },
   {
     "id": 1001530,
     "ability_no": 10015,
     "ability_awake_level": 2,
     "level": 10,
-    "description": "自身の最大HPが【{20%}】上昇",
-    "awake_description": "最大HPが追加で【{8％}】上昇"
+    "description": "自身の最大HPが【{40%}】上昇",
+    "awake_description": "自身の会心ダメージが【{23.7%}】上昇"
   },
   {
     "id": 1001601,
     "ability_no": 10016,
     "ability_awake_level": 0,
     "level": 1,
-    "description": "自身の攻撃力が【{2%}】上昇",
+    "description": "紋章：情熱が5以上のとき、自身のスキルチャージ効率が【{15%}】上昇",
     "awake_description": ""
   },
   {
@@ -2332,7 +2332,7 @@
     "ability_no": 10016,
     "ability_awake_level": 0,
     "level": 2,
-    "description": "自身の攻撃力が【{4%}】上昇",
+    "description": "紋章：情熱が5以上のとき、自身のスキルチャージ効率が【{15.4%}】上昇",
     "awake_description": ""
   },
   {
@@ -2340,7 +2340,7 @@
     "ability_no": 10016,
     "ability_awake_level": 0,
     "level": 3,
-    "description": "自身の攻撃力が【{6%}】上昇",
+    "description": "紋章：情熱が5以上のとき、自身のスキルチャージ効率が【{15.8%}】上昇",
     "awake_description": ""
   },
   {
@@ -2348,7 +2348,7 @@
     "ability_no": 10016,
     "ability_awake_level": 0,
     "level": 4,
-    "description": "自身の攻撃力が【{8%}】上昇",
+    "description": "紋章：情熱が5以上のとき、自身のスキルチャージ効率が【{16.2%}】上昇",
     "awake_description": ""
   },
   {
@@ -2356,7 +2356,7 @@
     "ability_no": 10016,
     "ability_awake_level": 0,
     "level": 5,
-    "description": "自身の攻撃力が【{10%}】上昇",
+    "description": "紋章：情熱が5以上のとき、自身のスキルチャージ効率が【{17%}】上昇",
     "awake_description": ""
   },
   {
@@ -2364,7 +2364,7 @@
     "ability_no": 10016,
     "ability_awake_level": 0,
     "level": 6,
-    "description": "自身の攻撃力が【{12%}】上昇",
+    "description": "紋章：情熱が5以上のとき、自身のスキルチャージ効率が【{17.5%}】上昇",
     "awake_description": ""
   },
   {
@@ -2372,7 +2372,7 @@
     "ability_no": 10016,
     "ability_awake_level": 0,
     "level": 7,
-    "description": "自身の攻撃力が【{14%}】上昇",
+    "description": "紋章：情熱が5以上のとき、自身のスキルチャージ効率が【{17.9%}】上昇",
     "awake_description": ""
   },
   {
@@ -2380,7 +2380,7 @@
     "ability_no": 10016,
     "ability_awake_level": 0,
     "level": 8,
-    "description": "自身の攻撃力が【{16%}】上昇",
+    "description": "紋章：情熱が5以上のとき、自身のスキルチャージ効率が【{18.7%}】上昇",
     "awake_description": ""
   },
   {
@@ -2388,7 +2388,7 @@
     "ability_no": 10016,
     "ability_awake_level": 0,
     "level": 9,
-    "description": "自身の攻撃力が【{18%}】上昇",
+    "description": "紋章：情熱が5以上のとき、自身のスキルチャージ効率が【{19.1%}】上昇",
     "awake_description": ""
   },
   {
@@ -2396,7 +2396,7 @@
     "ability_no": 10016,
     "ability_awake_level": 0,
     "level": 10,
-    "description": "自身の攻撃力が【{20%}】上昇",
+    "description": "紋章：情熱が5以上のとき、自身のスキルチャージ効率が【{20%}】上昇",
     "awake_description": ""
   },
   {
@@ -2404,160 +2404,160 @@
     "ability_no": 10016,
     "ability_awake_level": 1,
     "level": 1,
-    "description": "自身の攻撃力が【{2%}】上昇",
-    "awake_description": "前衛の味方全員の攻撃力が【{4%}】上昇"
+    "description": "紋章：情熱が5以上のとき、自身のスキルチャージ効率が【{15%}】上昇",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{1}】付与"
   },
   {
     "id": 1001612,
     "ability_no": 10016,
     "ability_awake_level": 1,
     "level": 2,
-    "description": "自身の攻撃力が【{4%}】上昇",
-    "awake_description": "前衛の味方全員の攻撃力が【{4%}】上昇"
+    "description": "紋章：情熱が5以上のとき、自身のスキルチャージ効率が【{15.4%}】上昇",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{1}】付与"
   },
   {
     "id": 1001613,
     "ability_no": 10016,
     "ability_awake_level": 1,
     "level": 3,
-    "description": "自身の攻撃力が【{6%}】上昇",
-    "awake_description": "前衛の味方全員の攻撃力が【{4%}】上昇"
+    "description": "紋章：情熱が5以上のとき、自身のスキルチャージ効率が【{15.8%}】上昇",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{1}】付与"
   },
   {
     "id": 1001614,
     "ability_no": 10016,
     "ability_awake_level": 1,
     "level": 4,
-    "description": "自身の攻撃力が【{8%}】上昇",
-    "awake_description": "前衛の味方全員の攻撃力が【{4%}】上昇"
+    "description": "紋章：情熱が5以上のとき、自身のスキルチャージ効率が【{16.2%}】上昇",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{1}】付与"
   },
   {
     "id": 1001615,
     "ability_no": 10016,
     "ability_awake_level": 1,
     "level": 5,
-    "description": "自身の攻撃力が【{10%}】上昇",
-    "awake_description": "前衛の味方全員の攻撃力が【{4%}】上昇"
+    "description": "紋章：情熱が5以上のとき、自身のスキルチャージ効率が【{17%}】上昇",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{1}】付与"
   },
   {
     "id": 1001616,
     "ability_no": 10016,
     "ability_awake_level": 1,
     "level": 6,
-    "description": "自身の攻撃力が【{12%}】上昇",
-    "awake_description": "前衛の味方全員の攻撃力が【{4%}】上昇"
+    "description": "紋章：情熱が5以上のとき、自身のスキルチャージ効率が【{17.5%}】上昇",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{1}】付与"
   },
   {
     "id": 1001617,
     "ability_no": 10016,
     "ability_awake_level": 1,
     "level": 7,
-    "description": "自身の攻撃力が【{14%}】上昇",
-    "awake_description": "前衛の味方全員の攻撃力が【{4%}】上昇"
+    "description": "紋章：情熱が5以上のとき、自身のスキルチャージ効率が【{17.9%}】上昇",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{1}】付与"
   },
   {
     "id": 1001618,
     "ability_no": 10016,
     "ability_awake_level": 1,
     "level": 8,
-    "description": "自身の攻撃力が【{16%}】上昇",
-    "awake_description": "前衛の味方全員の攻撃力が【{4%}】上昇"
+    "description": "紋章：情熱が5以上のとき、自身のスキルチャージ効率が【{18.7%}】上昇",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{1}】付与"
   },
   {
     "id": 1001619,
     "ability_no": 10016,
     "ability_awake_level": 1,
     "level": 9,
-    "description": "自身の攻撃力が【{18%}】上昇",
-    "awake_description": "前衛の味方全員の攻撃力が【{4%}】上昇"
+    "description": "紋章：情熱が5以上のとき、自身のスキルチャージ効率が【{19.1%}】上昇",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{1}】付与"
   },
   {
     "id": 1001620,
     "ability_no": 10016,
     "ability_awake_level": 1,
     "level": 10,
-    "description": "自身の攻撃力が【{20%}】上昇",
-    "awake_description": "前衛の味方全員の攻撃力が【{4%}】上昇"
+    "description": "紋章：情熱が5以上のとき、自身のスキルチャージ効率が【{20%}】上昇",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{1}】付与"
   },
   {
     "id": 1001621,
     "ability_no": 10016,
     "ability_awake_level": 2,
     "level": 1,
-    "description": "自身の攻撃力が【{2%}】上昇",
-    "awake_description": "前衛の味方全員の攻撃力が【{8%}】上昇"
+    "description": "紋章：情熱が5以上のとき、自身のスキルチャージ効率が【{15%}】上昇",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{2}】付与"
   },
   {
     "id": 1001622,
     "ability_no": 10016,
     "ability_awake_level": 2,
     "level": 2,
-    "description": "自身の攻撃力が【{4%}】上昇",
-    "awake_description": "前衛の味方全員の攻撃力が【{8%}】上昇"
+    "description": "紋章：情熱が5以上のとき、自身のスキルチャージ効率が【{15.4%}】上昇",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{2}】付与"
   },
   {
     "id": 1001623,
     "ability_no": 10016,
     "ability_awake_level": 2,
     "level": 3,
-    "description": "自身の攻撃力が【{6%}】上昇",
-    "awake_description": "前衛の味方全員の攻撃力が【{8%}】上昇"
+    "description": "紋章：情熱が5以上のとき、自身のスキルチャージ効率が【{15.8%}】上昇",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{2}】付与"
   },
   {
     "id": 1001624,
     "ability_no": 10016,
     "ability_awake_level": 2,
     "level": 4,
-    "description": "自身の攻撃力が【{8%}】上昇",
-    "awake_description": "前衛の味方全員の攻撃力が【{8%}】上昇"
+    "description": "紋章：情熱が5以上のとき、自身のスキルチャージ効率が【{16.2%}】上昇",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{2}】付与"
   },
   {
     "id": 1001625,
     "ability_no": 10016,
     "ability_awake_level": 2,
     "level": 5,
-    "description": "自身の攻撃力が【{10%}】上昇",
-    "awake_description": "前衛の味方全員の攻撃力が【{8%}】上昇"
+    "description": "紋章：情熱が5以上のとき、自身のスキルチャージ効率が【{17%}】上昇",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{2}】付与"
   },
   {
     "id": 1001626,
     "ability_no": 10016,
     "ability_awake_level": 2,
     "level": 6,
-    "description": "自身の攻撃力が【{12%}】上昇",
-    "awake_description": "前衛の味方全員の攻撃力が【{8%}】上昇"
+    "description": "紋章：情熱が5以上のとき、自身のスキルチャージ効率が【{17.5%}】上昇",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{2}】付与"
   },
   {
     "id": 1001627,
     "ability_no": 10016,
     "ability_awake_level": 2,
     "level": 7,
-    "description": "自身の攻撃力が【{14%}】上昇",
-    "awake_description": "前衛の味方全員の攻撃力が【{8%}】上昇"
+    "description": "紋章：情熱が5以上のとき、自身のスキルチャージ効率が【{17.9%}】上昇",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{2}】付与"
   },
   {
     "id": 1001628,
     "ability_no": 10016,
     "ability_awake_level": 2,
     "level": 8,
-    "description": "自身の攻撃力が【{16%}】上昇",
-    "awake_description": "前衛の味方全員の攻撃力が【{8%}】上昇"
+    "description": "紋章：情熱が5以上のとき、自身のスキルチャージ効率が【{18.7%}】上昇",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{2}】付与"
   },
   {
     "id": 1001629,
     "ability_no": 10016,
     "ability_awake_level": 2,
     "level": 9,
-    "description": "自身の攻撃力が【{18%}】上昇",
-    "awake_description": "前衛の味方全員の攻撃力が【{8%}】上昇"
+    "description": "紋章：情熱が5以上のとき、自身のスキルチャージ効率が【{19.1%}】上昇",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{2}】付与"
   },
   {
     "id": 1001630,
     "ability_no": 10016,
     "ability_awake_level": 2,
     "level": 10,
-    "description": "自身の攻撃力が【{20%}】上昇",
-    "awake_description": "前衛の味方全員の攻撃力が【{8%}】上昇"
+    "description": "紋章：情熱が5以上のとき、自身のスキルチャージ効率が【{20%}】上昇",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{2}】付与"
   },
   {
     "id": 1001701,
@@ -30120,6 +30120,726 @@
     "awake_description": ""
   },
   {
+    "id": 4000101,
+    "ability_no": 40001,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "自身のスキルチャージ効率が【{5%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 4000102,
+    "ability_no": 40001,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "自身のスキルチャージ効率が【{9.5%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 4000103,
+    "ability_no": 40001,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "",
+    "awake_description": ""
+  },
+  {
+    "id": 4000104,
+    "ability_no": 40001,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "",
+    "awake_description": ""
+  },
+  {
+    "id": 4000105,
+    "ability_no": 40001,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "",
+    "awake_description": ""
+  },
+  {
+    "id": 4000106,
+    "ability_no": 40001,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "",
+    "awake_description": ""
+  },
+  {
+    "id": 4000107,
+    "ability_no": 40001,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "",
+    "awake_description": ""
+  },
+  {
+    "id": 4000108,
+    "ability_no": 40001,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "",
+    "awake_description": ""
+  },
+  {
+    "id": 4000109,
+    "ability_no": 40001,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "",
+    "awake_description": ""
+  },
+  {
+    "id": 4000110,
+    "ability_no": 40001,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "",
+    "awake_description": ""
+  },
+  {
+    "id": 4000201,
+    "ability_no": 40002,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "自身のスキルチャージ効率が【{1%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 4000202,
+    "ability_no": 40002,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "自身のスキルチャージ効率が【{1.7%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 4000203,
+    "ability_no": 40002,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "自身のスキルチャージ効率が【{2.5%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 4000204,
+    "ability_no": 40002,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "自身のスキルチャージ効率が【{3.2%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 4000205,
+    "ability_no": 40002,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "自身のスキルチャージ効率が【{4.7%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 4000206,
+    "ability_no": 40002,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "自身のスキルチャージ効率が【{5.5%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 4000207,
+    "ability_no": 40002,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "自身のスキルチャージ効率が【{6.2%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 4000208,
+    "ability_no": 40002,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "自身のスキルチャージ効率が【{7.7%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 4000209,
+    "ability_no": 40002,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "自身のスキルチャージ効率が【{8.5%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 4000210,
+    "ability_no": 40002,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "自身のスキルチャージ効率が【{10%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 4000301,
+    "ability_no": 40003,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "自身の攻撃範囲が【100%】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 4000302,
+    "ability_no": 40003,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "自身の攻撃範囲が【100%】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 4000303,
+    "ability_no": 40003,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "自身の攻撃範囲が【100%】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 4000304,
+    "ability_no": 40003,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "自身の攻撃範囲が【100%】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 4000305,
+    "ability_no": 40003,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "自身の攻撃範囲が【100%】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 4000306,
+    "ability_no": 40003,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "自身の攻撃範囲が【100%】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 4000307,
+    "ability_no": 40003,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "自身の攻撃範囲が【100%】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 4000308,
+    "ability_no": 40003,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "自身の攻撃範囲が【100%】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 4000309,
+    "ability_no": 40003,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "自身の攻撃範囲が【100%】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 4000310,
+    "ability_no": 40003,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "自身の攻撃範囲が【100%】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 5000101,
+    "ability_no": 50001,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "通常行動を4回行うと次回の行動時に特殊攻撃を行う",
+    "awake_description": ""
+  },
+  {
+    "id": 5000102,
+    "ability_no": 50001,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "通常行動を3回行うと次回の行動時に特殊攻撃を行う",
+    "awake_description": ""
+  },
+  {
+    "id": 5000103,
+    "ability_no": 50001,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "通常行動を2回行うと次回の行動時に特殊攻撃を行う",
+    "awake_description": ""
+  },
+  {
+    "id": 5000104,
+    "ability_no": 50001,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "通常行動を2回行うと次回の行動時に特殊攻撃を行う",
+    "awake_description": ""
+  },
+  {
+    "id": 5000105,
+    "ability_no": 50001,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "通常行動を2回行うと次回の行動時に特殊攻撃を行う",
+    "awake_description": ""
+  },
+  {
+    "id": 5000106,
+    "ability_no": 50001,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "通常行動を2回行うと次回の行動時に特殊攻撃を行う",
+    "awake_description": ""
+  },
+  {
+    "id": 5000107,
+    "ability_no": 50001,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "通常行動を2回行うと次回の行動時に特殊攻撃を行う",
+    "awake_description": ""
+  },
+  {
+    "id": 5000108,
+    "ability_no": 50001,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "通常行動を2回行うと次回の行動時に特殊攻撃を行う",
+    "awake_description": ""
+  },
+  {
+    "id": 5000109,
+    "ability_no": 50001,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "通常行動を2回行うと次回の行動時に特殊攻撃を行う",
+    "awake_description": ""
+  },
+  {
+    "id": 5000110,
+    "ability_no": 50001,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "通常行動を2回行うと次回の行動時に特殊攻撃を行う",
+    "awake_description": ""
+  },
+  {
+    "id": 5000201,
+    "ability_no": 50002,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "トロッコを狙いやすい",
+    "awake_description": ""
+  },
+  {
+    "id": 5000202,
+    "ability_no": 50002,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "トロッコを狙いやすい",
+    "awake_description": ""
+  },
+  {
+    "id": 5000203,
+    "ability_no": 50002,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "トロッコを狙いやすい",
+    "awake_description": ""
+  },
+  {
+    "id": 5000204,
+    "ability_no": 50002,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "トロッコを狙いやすい",
+    "awake_description": ""
+  },
+  {
+    "id": 5000205,
+    "ability_no": 50002,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "トロッコを狙いやすい",
+    "awake_description": ""
+  },
+  {
+    "id": 5000206,
+    "ability_no": 50002,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "トロッコを狙いやすい",
+    "awake_description": ""
+  },
+  {
+    "id": 5000207,
+    "ability_no": 50002,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "トロッコを狙いやすい",
+    "awake_description": ""
+  },
+  {
+    "id": 5000208,
+    "ability_no": 50002,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "トロッコを狙いやすい",
+    "awake_description": ""
+  },
+  {
+    "id": 5000209,
+    "ability_no": 50002,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "トロッコを狙いやすい",
+    "awake_description": ""
+  },
+  {
+    "id": 5000210,
+    "ability_no": 50002,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "トロッコを狙いやすい",
+    "awake_description": ""
+  },
+  {
+    "id": 5000301,
+    "ability_no": 50003,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "戦闘開始時、自身の信仰Lvが【{1}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 5000302,
+    "ability_no": 50003,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "戦闘開始時、自身の信仰Lvが【{2}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 5000303,
+    "ability_no": 50003,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "戦闘開始時、自身の信仰Lvが【{3}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 5000304,
+    "ability_no": 50003,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "戦闘開始時、自身の信仰Lvが【{4}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 5000305,
+    "ability_no": 50003,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "戦闘開始時、自身の信仰Lvが【{5}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 5000306,
+    "ability_no": 50003,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "戦闘開始時、自身の信仰Lvが【{6}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 5000307,
+    "ability_no": 50003,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "戦闘開始時、自身の信仰Lvが【{7}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 5000308,
+    "ability_no": 50003,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "戦闘開始時、自身の信仰Lvが【{8}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 5000309,
+    "ability_no": 50003,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "戦闘開始時、自身の信仰Lvが【{9}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 5000310,
+    "ability_no": 50003,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "戦闘開始時、自身の信仰Lvが【{10}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 5000401,
+    "ability_no": 50004,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "戦闘開始時、自身の業火Lvが【{1}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 5000402,
+    "ability_no": 50004,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "戦闘開始時、自身の業火Lvが【{2}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 5000403,
+    "ability_no": 50004,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "戦闘開始時、自身の業火Lvが【{3}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 5000404,
+    "ability_no": 50004,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "戦闘開始時、自身の業火Lvが【{4}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 5000405,
+    "ability_no": 50004,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "戦闘開始時、自身の業火Lvが【{5}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 5000406,
+    "ability_no": 50004,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "戦闘開始時、自身の業火Lvが【{6}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 5000407,
+    "ability_no": 50004,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "戦闘開始時、自身の業火Lvが【{7}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 5000408,
+    "ability_no": 50004,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "戦闘開始時、自身の業火Lvが【{8}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 5000409,
+    "ability_no": 50004,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "戦闘開始時、自身の業火Lvが【{9}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 5000410,
+    "ability_no": 50004,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "戦闘開始時、自身の業火Lvが【{10}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 5000501,
+    "ability_no": 50005,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "通常攻撃による被ダメージが【{10%}】減少",
+    "awake_description": ""
+  },
+  {
+    "id": 5000502,
+    "ability_no": 50005,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "通常攻撃による被ダメージが【{20%}】減少",
+    "awake_description": ""
+  },
+  {
+    "id": 5000503,
+    "ability_no": 50005,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "通常攻撃による被ダメージが【{30%}】減少",
+    "awake_description": ""
+  },
+  {
+    "id": 5000504,
+    "ability_no": 50005,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "通常攻撃による被ダメージが【{40%}】減少",
+    "awake_description": ""
+  },
+  {
+    "id": 5000505,
+    "ability_no": 50005,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "通常攻撃による被ダメージが【{50%}】減少",
+    "awake_description": ""
+  },
+  {
+    "id": 5000506,
+    "ability_no": 50005,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "通常攻撃による被ダメージが【{60%}】減少",
+    "awake_description": ""
+  },
+  {
+    "id": 5000507,
+    "ability_no": 50005,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "通常攻撃による被ダメージが【{70%}】減少",
+    "awake_description": ""
+  },
+  {
+    "id": 5000508,
+    "ability_no": 50005,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "通常攻撃による被ダメージが【{80%}】減少",
+    "awake_description": ""
+  },
+  {
+    "id": 5000509,
+    "ability_no": 50005,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "通常攻撃による被ダメージが【{90%}】減少",
+    "awake_description": ""
+  },
+  {
+    "id": 5000510,
+    "ability_no": 50005,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "通常攻撃による被ダメージが【{100%}】減少",
+    "awake_description": ""
+  },
+  {
+    "id": 5000601,
+    "ability_no": 50006,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "スキルによる被ダメージが【{10%}】減少",
+    "awake_description": ""
+  },
+  {
+    "id": 5000602,
+    "ability_no": 50006,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "スキルによる被ダメージが【{20%}】減少",
+    "awake_description": ""
+  },
+  {
+    "id": 5000603,
+    "ability_no": 50006,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "スキルによる被ダメージが【{30%}】減少",
+    "awake_description": ""
+  },
+  {
+    "id": 5000604,
+    "ability_no": 50006,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "スキルによる被ダメージが【{40%}】減少",
+    "awake_description": ""
+  },
+  {
+    "id": 5000605,
+    "ability_no": 50006,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "スキルによる被ダメージが【{50%}】減少",
+    "awake_description": ""
+  },
+  {
+    "id": 5000606,
+    "ability_no": 50006,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "スキルによる被ダメージが【{60%}】減少",
+    "awake_description": ""
+  },
+  {
+    "id": 5000607,
+    "ability_no": 50006,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "スキルによる被ダメージが【{70%}】減少",
+    "awake_description": ""
+  },
+  {
+    "id": 5000608,
+    "ability_no": 50006,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "スキルによる被ダメージが【{80%}】減少",
+    "awake_description": ""
+  },
+  {
+    "id": 5000609,
+    "ability_no": 50006,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "スキルによる被ダメージが【{90%}】減少",
+    "awake_description": ""
+  },
+  {
+    "id": 5000610,
+    "ability_no": 50006,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "スキルによる被ダメージが【{100%}】減少",
+    "awake_description": ""
+  },
+  {
     "id": 9000101,
     "ability_no": 90001,
     "ability_awake_level": 0,
@@ -31237,6 +31957,406 @@
     "ability_awake_level": 0,
     "level": 10,
     "description": "10秒ごとに敵全体が自身の最大HP【25％】分の回復",
+    "awake_description": ""
+  },
+  {
+    "id": 9001501,
+    "ability_no": 90015,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "味方全体の会心率が【10％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001502,
+    "ability_no": 90015,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "味方全体の会心率が【20％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001503,
+    "ability_no": 90015,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "味方全体の会心率が【30％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001504,
+    "ability_no": 90015,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "味方全体の会心率が【40％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001505,
+    "ability_no": 90015,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "味方全体の会心率が【50％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001506,
+    "ability_no": 90015,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "味方全体の会心率が【60％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001507,
+    "ability_no": 90015,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "味方全体の会心率が【70％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001508,
+    "ability_no": 90015,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "味方全体の会心率が【80％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001509,
+    "ability_no": 90015,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "味方全体の会心率が【90％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001510,
+    "ability_no": 90015,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "味方全体の会心率が【100％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001601,
+    "ability_no": 90016,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "味方全体の会心ダメージ倍率が【20％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001602,
+    "ability_no": 90016,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "味方全体の会心ダメージ倍率が【40％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001603,
+    "ability_no": 90016,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "味方全体の会心ダメージ倍率が【60％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001604,
+    "ability_no": 90016,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "味方全体の会心ダメージ倍率が【80％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001605,
+    "ability_no": 90016,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "味方全体の会心ダメージ倍率が【100％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001606,
+    "ability_no": 90016,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "味方全体の会心ダメージ倍率が【120％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001607,
+    "ability_no": 90016,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "味方全体の会心ダメージ倍率が【140％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001608,
+    "ability_no": 90016,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "味方全体の会心ダメージ倍率が【160％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001609,
+    "ability_no": 90016,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "味方全体の会心ダメージ倍率が【180％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001610,
+    "ability_no": 90016,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "味方全体の会心ダメージ倍率が【200％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001701,
+    "ability_no": 90017,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "味方全体の回避率が【6％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001702,
+    "ability_no": 90017,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "味方全体の回避率が【12％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001703,
+    "ability_no": 90017,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "味方全体の回避率が【18％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001704,
+    "ability_no": 90017,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "味方全体の回避率が【24％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001705,
+    "ability_no": 90017,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "味方全体の回避率が【30％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001706,
+    "ability_no": 90017,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "味方全体の回避率が【36％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001707,
+    "ability_no": 90017,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "味方全体の回避率が【42％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001708,
+    "ability_no": 90017,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "味方全体の回避率が【48％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001709,
+    "ability_no": 90017,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "味方全体の回避率が【54％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001710,
+    "ability_no": 90017,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "味方全体の回避率が【60％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001801,
+    "ability_no": 90018,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "味方全体のスキルチャージ効率が【10％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001802,
+    "ability_no": 90018,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "味方全体のスキルチャージ効率が【20％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001803,
+    "ability_no": 90018,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "味方全体のスキルチャージ効率が【30％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001804,
+    "ability_no": 90018,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "味方全体のスキルチャージ効率が【40％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001805,
+    "ability_no": 90018,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "味方全体のスキルチャージ効率が【50％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001806,
+    "ability_no": 90018,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "味方全体のスキルチャージ効率が【60％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001807,
+    "ability_no": 90018,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "味方全体のスキルチャージ効率が【70％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001808,
+    "ability_no": 90018,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "味方全体のスキルチャージ効率が【80％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001809,
+    "ability_no": 90018,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "味方全体のスキルチャージ効率が【90％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001810,
+    "ability_no": 90018,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "味方全体のスキルチャージ効率が【100％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001901,
+    "ability_no": 90019,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "味方全体が付与する状態異常の確率が【10％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001902,
+    "ability_no": 90019,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "味方全体が付与する状態異常の確率が【20％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001903,
+    "ability_no": 90019,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "味方全体が付与する状態異常の確率が【30％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001904,
+    "ability_no": 90019,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "味方全体が付与する状態異常の確率が【40％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001905,
+    "ability_no": 90019,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "味方全体が付与する状態異常の確率が【50％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001906,
+    "ability_no": 90019,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "味方全体が付与する状態異常の確率が【60％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001907,
+    "ability_no": 90019,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "味方全体が付与する状態異常の確率が【70％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001908,
+    "ability_no": 90019,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "味方全体が付与する状態異常の確率が【80％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001909,
+    "ability_no": 90019,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "味方全体が付与する状態異常の確率が【90％】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 9001910,
+    "ability_no": 90019,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "味方全体が付与する状態異常の確率が【100％】上昇",
     "awake_description": ""
   },
   {
