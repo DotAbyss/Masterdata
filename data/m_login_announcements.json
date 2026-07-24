@@ -288,5 +288,55 @@
     "begin_at": "2026-07-23 5:00:00",
     "end_at": "2026-07-27 4:59:59",
     "has_r18": 0
+  },
+  {
+    "id": 37,
+    "title": "コトノピックアップガチャ",
+    "display_priority": 260,
+    "display_order": 260,
+    "asset_id": "7010003",
+    "begin_at": "2026-07-24 13:00:00",
+    "end_at": "2026-08-03 4:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 38,
+    "title": "特別トレーニングwithコトノ",
+    "display_priority": 262,
+    "display_order": 262,
+    "asset_id": "1060001_1",
+    "begin_at": "2026-07-24 13:00:00",
+    "end_at": "2026-08-03 4:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 39,
+    "title": "第2回クリスタルハント　",
+    "display_priority": 263,
+    "display_order": 263,
+    "asset_id": "1070003",
+    "begin_at": "2026-07-29 10:00:00",
+    "end_at": "2026-08-03 4:59:59",
+    "has_r18": 0
+  },
+  {
+    "id": 40,
+    "title": "凶化厄災戦　氷河",
+    "display_priority": 264,
+    "display_order": 264,
+    "asset_id": "1050001_1",
+    "begin_at": "2026-07-29 10:00:00",
+    "end_at": "2026-08-03 4:59:59",
+    "has_r18": 0
+  },
+  {
+    "id": 45,
+    "title": "アーカイブピックアップSSR確定ガチャ～26/06期～",
+    "display_priority": 261,
+    "display_order": 261,
+    "asset_id": "7030006",
+    "begin_at": "2026-07-24 13:00:00",
+    "end_at": "2026-08-10 12:59:59",
+    "has_r18": 1
   }
 ]

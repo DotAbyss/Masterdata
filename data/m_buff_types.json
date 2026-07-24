@@ -40,6 +40,14 @@
     "description": "攻撃力が{0}減少する状態 "
   },
   {
+    "id": 14,
+    "name": "攻撃力UP2",
+    "nameEN": "Attack Up",
+    "limit": 0,
+    "icon_asset_id": "Attack_UP",
+    "description": "攻撃力が50%上昇する状態"
+  },
+  {
     "id": 20,
     "name": "防御力UP",
     "nameEN": "Defence Up",
@@ -917,7 +925,7 @@
     "nameEN": "IceArmor",
     "limit": 0,
     "icon_asset_id": "IceArmor",
-    "description": "Lvに応じて攻撃力と防御力が上昇する状態\n（一定値以上のダメージを受けると減少）"
+    "description": "Lvに応じてパラメータが上昇する状態\n（一定値以上のダメージを受けると減少）"
   },
   {
     "id": 10003,

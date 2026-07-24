@@ -68,5 +68,19 @@
     "sub_category_id": 7,
     "category_text": "鏡影の回廊",
     "display_order_desc": 5
+  },
+  {
+    "id": 11,
+    "category": 2,
+    "sub_category_id": 8,
+    "category_text": "特別強化トレーニング",
+    "display_order_desc": 6
+  },
+  {
+    "id": 12,
+    "category": 2,
+    "sub_category_id": 9,
+    "category_text": "凶化厄災開催記念",
+    "display_order_desc": 7
   }
 ]

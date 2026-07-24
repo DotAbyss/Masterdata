@@ -1,1 +1,149 @@
-null
+[
+  {
+    "id": 100,
+    "m_event_training_stage_id": 90000102,
+    "m_enemy_id": 460010101,
+    "is_boss": 1,
+    "asset_id": "2009201"
+  },
+  {
+    "id": 101,
+    "m_event_training_stage_id": 90000102,
+    "m_enemy_id": 460010102,
+    "is_boss": 0,
+    "asset_id": "2010201"
+  },
+  {
+    "id": 102,
+    "m_event_training_stage_id": 90000102,
+    "m_enemy_id": 460010103,
+    "is_boss": 0,
+    "asset_id": "2011201"
+  },
+  {
+    "id": 103,
+    "m_event_training_stage_id": 90000102,
+    "m_enemy_id": 460010104,
+    "is_boss": 0,
+    "asset_id": "2012201"
+  },
+  {
+    "id": 104,
+    "m_event_training_stage_id": 90000102,
+    "m_enemy_id": 460010105,
+    "is_boss": 0,
+    "asset_id": "2013201"
+  },
+  {
+    "id": 105,
+    "m_event_training_stage_id": 90000102,
+    "m_enemy_id": 460010106,
+    "is_boss": 0,
+    "asset_id": "2028201"
+  },
+  {
+    "id": 106,
+    "m_event_training_stage_id": 90000102,
+    "m_enemy_id": 460010107,
+    "is_boss": 0,
+    "asset_id": "2029201"
+  },
+  {
+    "id": 200,
+    "m_event_training_stage_id": 90000103,
+    "m_enemy_id": 460010201,
+    "is_boss": 1,
+    "asset_id": "2009201"
+  },
+  {
+    "id": 201,
+    "m_event_training_stage_id": 90000103,
+    "m_enemy_id": 460010202,
+    "is_boss": 0,
+    "asset_id": "2010201"
+  },
+  {
+    "id": 202,
+    "m_event_training_stage_id": 90000103,
+    "m_enemy_id": 460010203,
+    "is_boss": 0,
+    "asset_id": "2011201"
+  },
+  {
+    "id": 203,
+    "m_event_training_stage_id": 90000103,
+    "m_enemy_id": 460010204,
+    "is_boss": 0,
+    "asset_id": "2012201"
+  },
+  {
+    "id": 204,
+    "m_event_training_stage_id": 90000103,
+    "m_enemy_id": 460010205,
+    "is_boss": 0,
+    "asset_id": "2013201"
+  },
+  {
+    "id": 205,
+    "m_event_training_stage_id": 90000103,
+    "m_enemy_id": 460010206,
+    "is_boss": 0,
+    "asset_id": "2028201"
+  },
+  {
+    "id": 206,
+    "m_event_training_stage_id": 90000103,
+    "m_enemy_id": 460010207,
+    "is_boss": 0,
+    "asset_id": "2029201"
+  },
+  {
+    "id": 300,
+    "m_event_training_stage_id": 90000104,
+    "m_enemy_id": 460010301,
+    "is_boss": 1,
+    "asset_id": "2009201"
+  },
+  {
+    "id": 301,
+    "m_event_training_stage_id": 90000104,
+    "m_enemy_id": 460010302,
+    "is_boss": 0,
+    "asset_id": "2010201"
+  },
+  {
+    "id": 302,
+    "m_event_training_stage_id": 90000104,
+    "m_enemy_id": 460010303,
+    "is_boss": 0,
+    "asset_id": "2011201"
+  },
+  {
+    "id": 303,
+    "m_event_training_stage_id": 90000104,
+    "m_enemy_id": 460010304,
+    "is_boss": 0,
+    "asset_id": "2012201"
+  },
+  {
+    "id": 304,
+    "m_event_training_stage_id": 90000104,
+    "m_enemy_id": 460010305,
+    "is_boss": 0,
+    "asset_id": "2013201"
+  },
+  {
+    "id": 305,
+    "m_event_training_stage_id": 90000104,
+    "m_enemy_id": 460010306,
+    "is_boss": 0,
+    "asset_id": "2028201"
+  },
+  {
+    "id": 306,
+    "m_event_training_stage_id": 90000104,
+    "m_enemy_id": 460010307,
+    "is_boss": 0,
+    "asset_id": "2029201"
+  }
+]

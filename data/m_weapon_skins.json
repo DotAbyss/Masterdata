@@ -180,6 +180,21 @@
     "display_order": 2
   },
   {
+    "id": 130000201,
+    "weapon_type": 1020,
+    "rarity": 2,
+    "name": "散華の太刀",
+    "description": "ホウライの伝統を継ぐ、散華の如き刃文を持つ太刀。\n千本桜を舞わせる一閃は、視界の全てを瞬時に断つ。\n美しくも残酷な刃の輝きは、戦場を桜色に染め上げる。",
+    "m_character_id": 1300002,
+    "is_default": 0,
+    "is_paid": 1,
+    "bonus_bond_point": 0,
+    "is_collabo": 0,
+    "released_at": "2026-07-24 13:00:00",
+    "asset_id": "41024002",
+    "display_order": 2
+  },
+  {
     "id": 130000301,
     "weapon_type": 1050,
     "rarity": 2,

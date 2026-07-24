@@ -1088,6 +1088,38 @@
     "display_order": 1
   },
   {
+    "id": 130000201,
+    "m_character_id": 1300002,
+    "type": 1,
+    "rarity": 1,
+    "name": "コトノ基本コスチューム",
+    "description": "コトノの基本コスチュームです。",
+    "serif": "我が名はコトノ。この剣と共に\n身命を捧げ、お仕えいたします",
+    "is_default": 1,
+    "bonus_bond_point": 0,
+    "is_collabo": 0,
+    "released_at": "2024-01-01 00:00:00",
+    "asset_id": "101101000G",
+    "bg_asset_id": "abg10100a",
+    "display_order": 1
+  },
+  {
+    "id": 130000202,
+    "m_character_id": 1300002,
+    "type": 2,
+    "rarity": 1,
+    "name": "コトノおしごと時基本コスチューム",
+    "description": "コトノの基本コスチュームです。",
+    "serif": "我が名はコトノ。この剣と共に\n身命を捧げ、お仕えいたします",
+    "is_default": 1,
+    "bonus_bond_point": 0,
+    "is_collabo": 0,
+    "released_at": "2024-01-01 00:00:00",
+    "asset_id": "101101000X",
+    "bg_asset_id": "abg10100a",
+    "display_order": 1
+  },
+  {
     "id": 130000301,
     "m_character_id": 1300003,
     "type": 1,

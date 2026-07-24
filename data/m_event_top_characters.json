@@ -297,10 +297,46 @@
     "serif_type": 0
   },
   {
+    "id": 40,
+    "m_event_id": 900001,
+    "m_character_id": 1300002,
+    "character_asset_id": "101101000G",
+    "position": 1,
+    "serif": "いざ、鍛錬と参りましょう",
+    "serif_type": 0
+  },
+  {
+    "id": 41,
+    "m_event_id": 900001,
+    "m_character_id": 1300002,
+    "character_asset_id": "101101000G",
+    "position": 1,
+    "serif": "この剣、我が主君のために",
+    "serif_type": 0
+  },
+  {
+    "id": 42,
+    "m_event_id": 900001,
+    "m_character_id": 1300002,
+    "character_asset_id": "101101000G",
+    "position": 1,
+    "serif": "特別手当、出ませんかね",
+    "serif_type": 0
+  },
+  {
     "id": 44,
     "m_event_id": 100001,
     "m_character_id": 1300023,
     "character_asset_id": "102801000G",
+    "position": 1,
+    "serif": "セリフ1\nセリフ1\nセリフ1",
+    "serif_type": 0
+  },
+  {
+    "id": 45,
+    "m_event_id": 100002,
+    "m_character_id": 1200003,
+    "character_asset_id": "100301000G",
     "position": 1,
     "serif": "セリフ1\nセリフ1\nセリフ1",
     "serif_type": 0

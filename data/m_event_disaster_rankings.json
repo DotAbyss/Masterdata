@@ -1,1 +1,79 @@
-null
+[
+  {
+    "id": 1050001001,
+    "m_event_id": 1050001,
+    "reward_type": 1,
+    "range_to": 1,
+    "reward_group_id": 1001
+  },
+  {
+    "id": 1050001002,
+    "m_event_id": 1050001,
+    "reward_type": 1,
+    "range_to": 2,
+    "reward_group_id": 1002
+  },
+  {
+    "id": 1050001003,
+    "m_event_id": 1050001,
+    "reward_type": 1,
+    "range_to": 3,
+    "reward_group_id": 1003
+  },
+  {
+    "id": 1050001004,
+    "m_event_id": 1050001,
+    "reward_type": 1,
+    "range_to": 50,
+    "reward_group_id": 1004
+  },
+  {
+    "id": 1050001005,
+    "m_event_id": 1050001,
+    "reward_type": 1,
+    "range_to": 100,
+    "reward_group_id": 1005
+  },
+  {
+    "id": 1050001006,
+    "m_event_id": 1050001,
+    "reward_type": 2,
+    "range_to": 100,
+    "reward_group_id": 1100
+  },
+  {
+    "id": 1050001007,
+    "m_event_id": 1050001,
+    "reward_type": 2,
+    "range_to": 1000,
+    "reward_group_id": 1101
+  },
+  {
+    "id": 1050001008,
+    "m_event_id": 1050001,
+    "reward_type": 2,
+    "range_to": 2500,
+    "reward_group_id": 1102
+  },
+  {
+    "id": 1050001009,
+    "m_event_id": 1050001,
+    "reward_type": 2,
+    "range_to": 5000,
+    "reward_group_id": 1103
+  },
+  {
+    "id": 1050001010,
+    "m_event_id": 1050001,
+    "reward_type": 2,
+    "range_to": 7500,
+    "reward_group_id": 1104
+  },
+  {
+    "id": 1050001011,
+    "m_event_id": 1050001,
+    "reward_type": 2,
+    "range_to": 10000,
+    "reward_group_id": 1105
+  }
+]

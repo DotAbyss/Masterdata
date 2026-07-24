@@ -70,6 +70,13 @@
     "limit_point": 7
   },
   {
+    "id": 11,
+    "m_login_bonus_id": 11,
+    "sheet_no": 1,
+    "next_sheet_no": 0,
+    "limit_point": 7
+  },
+  {
     "id": 10001,
     "m_login_bonus_id": 10001,
     "sheet_no": 1,
@@ -93,6 +100,13 @@
   {
     "id": 10004,
     "m_login_bonus_id": 10004,
+    "sheet_no": 1,
+    "next_sheet_no": 0,
+    "limit_point": 5
+  },
+  {
+    "id": 10005,
+    "m_login_bonus_id": 10005,
     "sheet_no": 1,
     "next_sheet_no": 0,
     "limit_point": 5

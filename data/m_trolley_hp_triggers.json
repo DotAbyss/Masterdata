@@ -52,5 +52,59 @@
     "m_mine_stage_id": 44001331,
     "trigger_hp_ratio_permille": 250,
     "stun_milli_sec": 5000
+  },
+  {
+    "id": 4400211101,
+    "m_mine_stage_id": 44002111,
+    "trigger_hp_ratio_permille": 500,
+    "stun_milli_sec": 5000
+  },
+  {
+    "id": 4400212101,
+    "m_mine_stage_id": 44002121,
+    "trigger_hp_ratio_permille": 500,
+    "stun_milli_sec": 5000
+  },
+  {
+    "id": 4400221101,
+    "m_mine_stage_id": 44002211,
+    "trigger_hp_ratio_permille": 500,
+    "stun_milli_sec": 5000
+  },
+  {
+    "id": 4400222101,
+    "m_mine_stage_id": 44002221,
+    "trigger_hp_ratio_permille": 500,
+    "stun_milli_sec": 5000
+  },
+  {
+    "id": 4400231101,
+    "m_mine_stage_id": 44002311,
+    "trigger_hp_ratio_permille": 500,
+    "stun_milli_sec": 5000
+  },
+  {
+    "id": 4400232101,
+    "m_mine_stage_id": 44002321,
+    "trigger_hp_ratio_permille": 500,
+    "stun_milli_sec": 5000
+  },
+  {
+    "id": 4400233101,
+    "m_mine_stage_id": 44002331,
+    "trigger_hp_ratio_permille": 750,
+    "stun_milli_sec": 5000
+  },
+  {
+    "id": 4400233102,
+    "m_mine_stage_id": 44002331,
+    "trigger_hp_ratio_permille": 500,
+    "stun_milli_sec": 5000
+  },
+  {
+    "id": 4400233103,
+    "m_mine_stage_id": 44002331,
+    "trigger_hp_ratio_permille": 250,
+    "stun_milli_sec": 5000
   }
 ]

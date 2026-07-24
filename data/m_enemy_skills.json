@@ -1197,16 +1197,16 @@
     "description": "一定時間ごとに範囲内の敵全体に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 被ダメージした対象に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
   },
   {
-    "id": 20222010102,
+    "id": 20222010103,
     "asset_id": "2022201",
     "ai_id": "1",
     "skill_type": 20,
     "timeline": "Skill001A",
     "name": "フリーズブレス",
-    "description": "自身の氷鎧Lvが1上昇 / 前方範囲内の敵全体に【5HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 凍結状態の敵に対してダメージが上昇 / ヒットした防衛設備に行動間隔増加【{[ACTIONCOOLTIMEUP.RATE_PERCENT]} / {[ACTIONCOOLTIMEUP.DURATION]}秒】を付与\n\n氷鎧：Lvに応じて攻撃力と防御力が上昇する状態。一撃で一定以上のダメージを受けるとLvが減少する"
+    "description": "自身の氷鎧Lvが1上昇 / 前方範囲内の敵全体に【5HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 凍結状態の敵に対してダメージが上昇 / ヒットした防衛設備に行動間隔増加【{[ACTIONCOOLTIMEDOWN.RATE_PERCENT]} / {[ACTIONCOOLTIMEDOWN.DURATION]}秒】を付与\n\n氷鎧：Lvに応じて攻撃力と防御力が上昇する状態。一撃で一定以上のダメージを受けるとLvが減少する"
   },
   {
-    "id": 20222010103,
+    "id": 20222010104,
     "asset_id": "2022201",
     "ai_id": "1",
     "skill_type": 20,
@@ -1215,7 +1215,7 @@
     "description": "ランダムなフロント3体を対象に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT:1]}】ダメージ"
   },
   {
-    "id": 20222010104,
+    "id": 20222010105,
     "asset_id": "2022201",
     "ai_id": "1",
     "skill_type": 20,
@@ -1224,7 +1224,7 @@
     "description": "敵キャラクター全体に【1HIT / {[BUFF_STACK_LINKED_DAMAGE.BASE_PERMILLE]}】ダメージ / 自身の氷鎧Lvに応じてダメージが上昇 / 被ダメージした対象に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
   },
   {
-    "id": 20222010105,
+    "id": 20222010106,
     "asset_id": "2022201",
     "ai_id": "1",
     "skill_type": 20,
@@ -1233,7 +1233,7 @@
     "description": "フィールドにブリザードを発生させる\n\nブリザード：凍結耐性が25%減少 / 行動時に最大HP3%分のダメージを受ける / 防衛設備の行動間隔が30%増加"
   },
   {
-    "id": 20222010106,
+    "id": 20222010107,
     "asset_id": "2022201",
     "ai_id": "1",
     "skill_type": 20,
@@ -1251,16 +1251,16 @@
     "description": "一定時間ごとに範囲内の敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 被ダメージした対象に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
   },
   {
-    "id": 20222010202,
+    "id": 20222010203,
     "asset_id": "2022201",
     "ai_id": "2",
     "skill_type": 20,
     "timeline": "Skill001A",
     "name": "フリーズブレス",
-    "description": "自身の氷鎧Lvが1上昇 / 前方範囲内の敵全体に【5HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 凍結状態の敵に対してダメージが上昇 / ヒットした防衛設備に行動間隔増加【{[ACTIONCOOLTIMEUP.RATE_PERCENT]} / {[ACTIONCOOLTIMEUP.DURATION]}秒】を付与\n\n氷鎧：Lvに応じて攻撃力と防御力が上昇する状態。一撃で一定以上のダメージを受けるとLvが減少する"
+    "description": "自身の氷鎧Lvが1上昇 / 前方範囲内の敵全体に【5HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 凍結状態の敵に対してダメージが上昇 / ヒットした防衛設備に行動間隔増加【{[ACTIONCOOLTIMEDOWN.RATE_PERCENT]} / {[ACTIONCOOLTIMEDOWN.DURATION]}秒】を付与\n\n氷鎧：Lvに応じて攻撃力と防御力が上昇する状態。一撃で一定以上のダメージを受けるとLvが減少する"
   },
   {
-    "id": 20222010203,
+    "id": 20222010204,
     "asset_id": "2022201",
     "ai_id": "2",
     "skill_type": 20,
@@ -1269,7 +1269,7 @@
     "description": "ランダムなフロント3体を対象に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT:1]}】ダメージ"
   },
   {
-    "id": 20222010204,
+    "id": 20222010205,
     "asset_id": "2022201",
     "ai_id": "2",
     "skill_type": 20,
@@ -1278,7 +1278,7 @@
     "description": "敵キャラクター全体に【1HIT / 合計{[BUFF_STACK_LINKED_DAMAGE.BASE_PERMILLE]}】ダメージ / 自身の氷鎧Lvに応じてダメージが上昇 / 被ダメージした対象に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
   },
   {
-    "id": 20222010205,
+    "id": 20222010206,
     "asset_id": "2022201",
     "ai_id": "2",
     "skill_type": 20,
@@ -1287,7 +1287,7 @@
     "description": "フィールドにブリザードを発生させる\n\nブリザード：凍結耐性が25%減少 / 行動時に最大HP3%分のダメージを受ける / 防衛設備の行動間隔が30%増加"
   },
   {
-    "id": 20222010206,
+    "id": 20222010207,
     "asset_id": "2022201",
     "ai_id": "2",
     "skill_type": 20,
@@ -1296,7 +1296,7 @@
     "description": "敵キャラクター全体に【7HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 対象に凍結が付与されている場合、その残り時間分の氷獄を付与\n\n氷獄：行動ができない状態"
   },
   {
-    "id": 20222010207,
+    "id": 20222010208,
     "asset_id": "2022201",
     "ai_id": "2",
     "skill_type": 20,
@@ -1305,7 +1305,7 @@
     "description": "自身の氷鎧Lvが5上昇"
   },
   {
-    "id": 20222010208,
+    "id": 20222010209,
     "asset_id": "2022201",
     "ai_id": "2",
     "skill_type": 40,
@@ -1323,16 +1323,16 @@
     "description": "一定時間ごとに範囲内の敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 被ダメージした対象に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
   },
   {
-    "id": 20222010302,
+    "id": 20222010303,
     "asset_id": "2022201",
     "ai_id": "3",
     "skill_type": 20,
     "timeline": "Skill001A",
     "name": "フリーズブレス",
-    "description": "自身の氷鎧Lvが2上昇 / 前方範囲内の敵全体に【5HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 凍結状態の敵に対してダメージが上昇 / ヒットした防衛設備に行動間隔増加【{[ACTIONCOOLTIMEUP.RATE_PERCENT]} / {[ACTIONCOOLTIMEUP.DURATION]}秒】を付与\n\n氷鎧：Lvに応じて攻撃力と防御力が上昇する状態。一撃で一定以上のダメージを受けるとLvが減少する"
+    "description": "自身の氷鎧Lvが2上昇 / 前方範囲内の敵全体に【5HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 凍結状態の敵に対してダメージが上昇 / ヒットした防衛設備に行動間隔増加【{[ACTIONCOOLTIMEDOWN.RATE_PERCENT]} / {[ACTIONCOOLTIMEDOWN.DURATION]}秒】を付与\n\n氷鎧：Lvに応じて攻撃力と防御力が上昇する状態。一撃で一定以上のダメージを受けるとLvが減少する"
   },
   {
-    "id": 20222010303,
+    "id": 20222010304,
     "asset_id": "2022201",
     "ai_id": "3",
     "skill_type": 20,
@@ -1341,7 +1341,7 @@
     "description": "ランダムなフロント3体を対象に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT:1]}】ダメージ"
   },
   {
-    "id": 20222010304,
+    "id": 20222010305,
     "asset_id": "2022201",
     "ai_id": "3",
     "skill_type": 20,
@@ -1350,7 +1350,7 @@
     "description": "敵キャラクター全体に【1HIT / 合計{[BUFF_STACK_LINKED_DAMAGE.BASE_PERMILLE]}】ダメージ / 自身の氷鎧Lvに応じてダメージが上昇 / 被ダメージした対象に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
   },
   {
-    "id": 20222010305,
+    "id": 20222010306,
     "asset_id": "2022201",
     "ai_id": "3",
     "skill_type": 20,
@@ -1359,7 +1359,7 @@
     "description": "フィールドにブリザードを発生させる\n\nブリザード：凍結耐性が25%減少 / 行動時に最大HP3%分のダメージを受ける / 防衛設備の行動間隔が30%増加"
   },
   {
-    "id": 20222010306,
+    "id": 20222010307,
     "asset_id": "2022201",
     "ai_id": "3",
     "skill_type": 20,
@@ -1368,7 +1368,7 @@
     "description": "敵キャラクター全体に【7HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 対象に凍結が付与されている場合、その残り時間分の氷獄を付与\n\n氷獄：行動ができない状態"
   },
   {
-    "id": 20222010307,
+    "id": 20222010308,
     "asset_id": "2022201",
     "ai_id": "3",
     "skill_type": 20,
@@ -1377,7 +1377,7 @@
     "description": "自身の氷鎧Lvが5上昇"
   },
   {
-    "id": 20222010308,
+    "id": 20222010309,
     "asset_id": "2022201",
     "ai_id": "3",
     "skill_type": 40,
@@ -1395,16 +1395,16 @@
     "description": "一定時間ごとに範囲内の敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 被ダメージした対象に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
   },
   {
-    "id": 20222010402,
+    "id": 20222010403,
     "asset_id": "2022201",
     "ai_id": "4",
     "skill_type": 20,
     "timeline": "Skill001A",
     "name": "フリーズブレス",
-    "description": "自身の氷鎧Lvが3上昇 / 前方範囲内の敵全体に【5HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 凍結状態の敵に対してダメージが上昇 / ヒットした防衛設備に行動間隔増加【{[ACTIONCOOLTIMEUP.RATE_PERCENT]} / {[ACTIONCOOLTIMEUP.DURATION]}秒】を付与\n\n氷鎧：Lvに応じて攻撃力と防御力が上昇する状態。一撃で一定以上のダメージを受けるとLvが減少する"
+    "description": "自身の氷鎧Lvが3上昇 / 前方範囲内の敵全体に【5HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 凍結状態の敵に対してダメージが上昇 / ヒットした防衛設備に行動間隔増加【{[ACTIONCOOLTIMEDOWN.RATE_PERCENT]} / {[ACTIONCOOLTIMEDOWN.DURATION]}秒】を付与\n\n氷鎧：Lvに応じて攻撃力と防御力が上昇する状態。一撃で一定以上のダメージを受けるとLvが減少する"
   },
   {
-    "id": 20222010403,
+    "id": 20222010404,
     "asset_id": "2022201",
     "ai_id": "4",
     "skill_type": 20,
@@ -1413,7 +1413,7 @@
     "description": "ランダムなフロント3体を対象に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT:1]}】ダメージ"
   },
   {
-    "id": 20222010404,
+    "id": 20222010405,
     "asset_id": "2022201",
     "ai_id": "4",
     "skill_type": 20,
@@ -1422,7 +1422,7 @@
     "description": "敵キャラクター全体に【1HIT / 合計{[BUFF_STACK_LINKED_DAMAGE.BASE_PERMILLE]}】ダメージ / 自身の氷鎧Lvに応じてダメージが上昇 / 被ダメージした対象に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
   },
   {
-    "id": 20222010405,
+    "id": 20222010406,
     "asset_id": "2022201",
     "ai_id": "4",
     "skill_type": 20,
@@ -1431,7 +1431,7 @@
     "description": "フィールドにブリザードを発生させる\n\nブリザード：凍結耐性が25%減少 / 行動時に最大HP3%分のダメージを受ける / 防衛設備の行動間隔が30%増加"
   },
   {
-    "id": 20222010406,
+    "id": 20222010407,
     "asset_id": "2022201",
     "ai_id": "4",
     "skill_type": 20,
@@ -1440,7 +1440,7 @@
     "description": "敵キャラクター全体に【7HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 対象に凍結が付与されている場合、その残り時間分の氷獄を付与\n\n氷獄：行動ができない状態"
   },
   {
-    "id": 20222010407,
+    "id": 20222010408,
     "asset_id": "2022201",
     "ai_id": "4",
     "skill_type": 20,
@@ -1449,7 +1449,7 @@
     "description": "自身の氷鎧Lvが5上昇 / 自身に通常攻撃被ダメージ減少【50% / 20秒】を付与"
   },
   {
-    "id": 20222010408,
+    "id": 20222010409,
     "asset_id": "2022201",
     "ai_id": "4",
     "skill_type": 40,
@@ -3508,5 +3508,410 @@
     "timeline": "AssaultSkill",
     "name": "プルガトリオ",
     "description": "敵全体に【10HIT / 合計最大HP{[DAMAGE.HP_RATIO_PERCENT]}】ダメージ / 【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 炎上【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】 / ノックバック（中）"
+  },
+  {
+    "id": 20402010101,
+    "asset_id": "2040201",
+    "ai_id": "1",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "一定時間ごとに範囲内の敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20402010102,
+    "asset_id": "2040201",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "フリーズブレス",
+    "description": "自身の氷鎧Lvが1上昇 / 前方範囲内の敵全体に【5HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 凍結状態の敵に対してダメージが上昇 / ヒットした防衛設備に行動間隔増加【{[ACTIONCOOLTIMEDOWN.RATE_PERCENT]} / {[ACTIONCOOLTIMEDOWN.DURATION]}秒】を付与\n\n氷鎧：Lvに応じて攻撃力と防御力が上昇し、被ダメージが減少する状態。一撃で一定以上のダメージを受けるとLvが減少する"
+  },
+  {
+    "id": 20402010103,
+    "asset_id": "2040201",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "アイシクルスラスト",
+    "description": "ランダムなフロント3体を対象に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT:1]}】ダメージ"
+  },
+  {
+    "id": 20402010104,
+    "asset_id": "2040201",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill003A",
+    "name": "アイスエイジ",
+    "description": "敵キャラクター全体に【1HIT / 合計{[BUFF_STACK_LINKED_DAMAGE.BASE_PERMILLE]}】ダメージ / 自身の氷鎧Lvに応じてダメージが上昇 / 凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20402010105,
+    "asset_id": "2040201",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill003B",
+    "name": "ブリザード",
+    "description": "フィールドにブリザードを発生させる\n\nブリザード：凍結耐性が25%減少 / 行動時に最大HP3%分のダメージを受ける / 防衛設備の行動間隔が30%増加"
+  },
+  {
+    "id": 20402010106,
+    "asset_id": "2040201",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill003C",
+    "name": "パーマフロスト",
+    "description": "敵キャラクター全体に【7HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 対象に凍結が付与されている場合、その残り時間分の氷獄を付与\n\n氷獄：行動ができない状態"
+  },
+  {
+    "id": 20402010107,
+    "asset_id": "2040201",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Skill004",
+    "name": "アイスバーグライズ",
+    "description": "自身の氷牙Lvが5上昇 / 範囲内の敵全体に【{[DAMAGE.HIT_COUNT]}HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（中） / ヒットした対象のHPに対して与えたダメージが少ないほど氷牙Lvが減少\n\n氷牙：Lvに応じて与ダメージが上昇する状態"
+  },
+  {
+    "id": 20402010108,
+    "asset_id": "2040201",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Appeal002",
+    "name": "ホワイトアウト",
+    "description": "自身の氷鎧Lvが5上昇"
+  },
+  {
+    "id": 20402010109,
+    "asset_id": "2040201",
+    "ai_id": "1",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "アイスフォール",
+    "description": "範囲内の敵全体に【10HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20402010201,
+    "asset_id": "2040201",
+    "ai_id": "2",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "一定時間ごとに範囲内の敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20402010202,
+    "asset_id": "2040201",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "フリーズブレス",
+    "description": "自身の氷鎧Lvが3上昇 / 前方範囲内の敵全体に【5HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 凍結状態の敵に対してダメージが上昇 / ヒットした防衛設備に行動間隔増加【{[ACTIONCOOLTIMEDOWN.RATE_PERCENT]} / {[ACTIONCOOLTIMEDOWN.DURATION]}秒】を付与\n\n氷鎧：Lvに応じて攻撃力と防御力が上昇し、被ダメージが減少する状態。一撃で一定以上のダメージを受けるとLvが減少する"
+  },
+  {
+    "id": 20402010203,
+    "asset_id": "2040201",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "アイシクルスラスト",
+    "description": "ランダムなフロント3体を対象に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT:1]}】ダメージ"
+  },
+  {
+    "id": 20402010204,
+    "asset_id": "2040201",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Skill003A",
+    "name": "アイスエイジ",
+    "description": "敵キャラクター全体に【1HIT / 合計{[BUFF_STACK_LINKED_DAMAGE.BASE_PERMILLE]}】ダメージ / 自身の氷鎧Lvに応じてダメージが上昇 / 凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20402010205,
+    "asset_id": "2040201",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Skill003B",
+    "name": "ブリザード",
+    "description": "フィールドにブリザードを発生させる\n\nブリザード：凍結耐性が50%減少 / 行動時に最大HP4%分のダメージを受ける / 防衛設備の行動間隔が30%増加"
+  },
+  {
+    "id": 20402010206,
+    "asset_id": "2040201",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Skill003C",
+    "name": "パーマフロスト",
+    "description": "敵キャラクター全体に【7HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 対象に凍結が付与されている場合、その残り時間分の氷獄を付与\n\n氷獄：行動ができない状態"
+  },
+  {
+    "id": 20402010207,
+    "asset_id": "2040201",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Skill004",
+    "name": "アイスバーグライズ",
+    "description": "自身の氷牙Lvが5上昇 / 範囲内の敵全体に【{[DAMAGE.HIT_COUNT]}HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（中） / ヒットした対象のHPに対して与えたダメージが少ないほど氷牙Lvが減少\n\n氷牙：Lvに応じて与ダメージが上昇する状態"
+  },
+  {
+    "id": 20402010208,
+    "asset_id": "2040201",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Appeal002",
+    "name": "ホワイトアウト",
+    "description": "自身の氷鎧Lvが5上昇"
+  },
+  {
+    "id": 20402010209,
+    "asset_id": "2040201",
+    "ai_id": "2",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "アイスフォール",
+    "description": "範囲内の敵全体に【10HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20402010301,
+    "asset_id": "2040201",
+    "ai_id": "3",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "一定時間ごとに範囲内の敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20402010302,
+    "asset_id": "2040201",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "フリーズブレス",
+    "description": "自身の氷鎧Lvが3上昇 / 前方範囲内の敵全体に【5HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 凍結状態の敵に対してダメージが上昇 / ヒットした防衛設備に行動間隔増加【{[ACTIONCOOLTIMEDOWN.RATE_PERCENT]} / {[ACTIONCOOLTIMEDOWN.DURATION]}秒】を付与\n\n氷鎧：Lvに応じて攻撃力と防御力が上昇し、被ダメージが減少する状態。一撃で一定以上のダメージを受けるとLvが減少する"
+  },
+  {
+    "id": 20402010303,
+    "asset_id": "2040201",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "アイシクルスラスト",
+    "description": "ランダムなフロント3体を対象に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT:1]}】ダメージ"
+  },
+  {
+    "id": 20402010304,
+    "asset_id": "2040201",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Skill003A",
+    "name": "アイスエイジ",
+    "description": "敵キャラクター全体に【1HIT / 合計{[BUFF_STACK_LINKED_DAMAGE.BASE_PERMILLE]}】ダメージ / 自身の氷鎧Lvに応じてダメージが上昇 / 凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20402010305,
+    "asset_id": "2040201",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Skill003B",
+    "name": "ブリザード",
+    "description": "フィールドにブリザードを発生させる\n\nブリザード：凍結耐性が80%減少 / 行動時に最大HP5%分のダメージを受ける / 防衛設備の行動間隔が30%増加"
+  },
+  {
+    "id": 20402010306,
+    "asset_id": "2040201",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Skill003C",
+    "name": "パーマフロスト",
+    "description": "敵キャラクター全体に【7HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 対象に凍結が付与されている場合、その残り時間分の氷獄を付与\n\n氷獄：行動ができない状態"
+  },
+  {
+    "id": 20402010307,
+    "asset_id": "2040201",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Skill004",
+    "name": "アイスバーグライズ",
+    "description": "自身の氷牙Lvが5上昇 / 範囲内の敵全体に【{[DAMAGE.HIT_COUNT]}HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（中） / ヒットした対象のHPに対して与えたダメージが少ないほど氷牙Lvが減少\n\n氷牙：Lvに応じて与ダメージが上昇する状態"
+  },
+  {
+    "id": 20402010308,
+    "asset_id": "2040201",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Appeal002",
+    "name": "ホワイトアウト",
+    "description": "自身の氷鎧Lvが5上昇 / 自身に通常攻撃被ダメージ減少【{[TAKENNORMALSPECIALDAMAGEDOWN.FIXED_PERCENT]} / {[TAKENNORMALSPECIALDAMAGEDOWN.DURATION]}秒】を付与"
+  },
+  {
+    "id": 20402010309,
+    "asset_id": "2040201",
+    "ai_id": "3",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "アイスフォール",
+    "description": "範囲内の敵全体に【10HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20402010401,
+    "asset_id": "2040201",
+    "ai_id": "4",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "一定時間ごとに範囲内の敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20402010402,
+    "asset_id": "2040201",
+    "ai_id": "4",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "フリーズブレス",
+    "description": "自身の氷鎧Lvが3上昇 / 前方範囲内の敵全体に【5HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 凍結状態の敵に対してダメージが上昇 / ヒットした防衛設備に行動間隔増加【{[ACTIONCOOLTIMEDOWN.RATE_PERCENT]} / {[ACTIONCOOLTIMEDOWN.DURATION]}秒】を付与\n\n氷鎧：Lvに応じて攻撃力と防御力が上昇し、被ダメージが減少する状態。一撃で一定以上のダメージを受けるとLvが減少する"
+  },
+  {
+    "id": 20402010403,
+    "asset_id": "2040201",
+    "ai_id": "4",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "アイシクルスラスト",
+    "description": "ランダムなフロント3体を対象に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT:1]}】ダメージ"
+  },
+  {
+    "id": 20402010404,
+    "asset_id": "2040201",
+    "ai_id": "4",
+    "skill_type": 20,
+    "timeline": "Skill003A",
+    "name": "アイスエイジ",
+    "description": "敵キャラクター全体に【1HIT / 合計{[BUFF_STACK_LINKED_DAMAGE.BASE_PERMILLE]}】ダメージ / 自身の氷鎧Lvに応じてダメージが上昇 / 凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20402010405,
+    "asset_id": "2040201",
+    "ai_id": "4",
+    "skill_type": 20,
+    "timeline": "Skill003B",
+    "name": "ブリザード",
+    "description": "フィールドにブリザードを発生させる\n\nブリザード：凍結耐性が100%減少 / 行動時に最大HP5%分のダメージを受ける / 防衛設備の行動間隔が30%増加"
+  },
+  {
+    "id": 20402010406,
+    "asset_id": "2040201",
+    "ai_id": "4",
+    "skill_type": 20,
+    "timeline": "Skill003C",
+    "name": "パーマフロスト",
+    "description": "敵キャラクター全体に【7HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 対象に凍結が付与されている場合、その残り時間分の氷獄を付与\n\n氷獄：行動ができない状態"
+  },
+  {
+    "id": 20402010407,
+    "asset_id": "2040201",
+    "ai_id": "4",
+    "skill_type": 20,
+    "timeline": "Skill004",
+    "name": "アイスバーグライズ",
+    "description": "自身の氷牙Lvが5上昇 / 範囲内の敵全体に【{[DAMAGE.HIT_COUNT]}HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（中） / ヒットした対象のHPに対して与えたダメージが少ないほど氷牙Lvが減少\n\n氷牙：Lvに応じて与ダメージが上昇する状態"
+  },
+  {
+    "id": 20402010408,
+    "asset_id": "2040201",
+    "ai_id": "4",
+    "skill_type": 20,
+    "timeline": "Appeal002",
+    "name": "ホワイトアウト",
+    "description": "自身の氷鎧Lvが5上昇 / 自身に通常攻撃被ダメージ減少【{[TAKENNORMALSPECIALDAMAGEDOWN.FIXED_PERCENT]} / {[TAKENNORMALSPECIALDAMAGEDOWN.DURATION]}秒】を付与"
+  },
+  {
+    "id": 20402010409,
+    "asset_id": "2040201",
+    "ai_id": "4",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "アイスフォール",
+    "description": "範囲内の敵全体に【10HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20402010501,
+    "asset_id": "2040201",
+    "ai_id": "5",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "一定時間ごとに範囲内の敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20402010502,
+    "asset_id": "2040201",
+    "ai_id": "5",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "フリーズブレス",
+    "description": "自身の氷鎧Lvが3上昇 / 前方範囲内の敵全体に【5HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 凍結状態の敵に対してダメージが上昇 / ヒットした防衛設備に行動間隔増加【{[ACTIONCOOLTIMEDOWN.RATE_PERCENT]} / {[ACTIONCOOLTIMEDOWN.DURATION]}秒】を付与\n\n氷鎧：Lvに応じて攻撃力と防御力が上昇し、被ダメージが減少する状態。一撃で一定以上のダメージを受けるとLvが減少する"
+  },
+  {
+    "id": 20402010503,
+    "asset_id": "2040201",
+    "ai_id": "5",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "アイシクルスラスト",
+    "description": "ランダムなフロント3体を対象に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT:1]}】ダメージ"
+  },
+  {
+    "id": 20402010504,
+    "asset_id": "2040201",
+    "ai_id": "5",
+    "skill_type": 20,
+    "timeline": "Skill003A",
+    "name": "アイスエイジ",
+    "description": "敵キャラクター全体に【1HIT / 合計{[BUFF_STACK_LINKED_DAMAGE.BASE_PERMILLE]}】ダメージ / 自身の氷鎧Lvに応じてダメージが上昇 / 凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20402010505,
+    "asset_id": "2040201",
+    "ai_id": "5",
+    "skill_type": 20,
+    "timeline": "Skill003B",
+    "name": "ブリザード",
+    "description": "フィールドにブリザードを発生させる\n\nブリザード：凍結耐性が100%減少 / 行動時に最大HP5%分のダメージを受ける / 防衛設備の行動間隔が30%増加"
+  },
+  {
+    "id": 20402010506,
+    "asset_id": "2040201",
+    "ai_id": "5",
+    "skill_type": 20,
+    "timeline": "Skill003C",
+    "name": "パーマフロスト",
+    "description": "敵キャラクター全体に【7HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 対象に凍結が付与されている場合、その残り時間分の氷獄を付与\n\n氷獄：行動ができない状態"
+  },
+  {
+    "id": 20402010507,
+    "asset_id": "2040201",
+    "ai_id": "5",
+    "skill_type": 20,
+    "timeline": "Skill004",
+    "name": "アイスバーグライズ",
+    "description": "自身の氷牙Lvが5上昇 / 範囲内の敵全体に【{[DAMAGE.HIT_COUNT]}HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（中） / ヒットした対象のHPに対して与えたダメージが少ないほど氷牙Lvが減少\n\n氷牙：Lvに応じて与ダメージが上昇する状態"
+  },
+  {
+    "id": 20402010508,
+    "asset_id": "2040201",
+    "ai_id": "5",
+    "skill_type": 20,
+    "timeline": "Appeal002",
+    "name": "ホワイトアウト",
+    "description": "自身の氷鎧Lvが5上昇 / 自身に通常攻撃被ダメージ減少【{[TAKENNORMALSPECIALDAMAGEDOWN.FIXED_PERCENT]} / {[TAKENNORMALSPECIALDAMAGEDOWN.DURATION]}秒】を付与"
+  },
+  {
+    "id": 20402010509,
+    "asset_id": "2040201",
+    "ai_id": "5",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "アイスフォール",
+    "description": "範囲内の敵全体に【10HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
   }
 ]

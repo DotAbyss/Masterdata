@@ -1,1 +1,26 @@
-null
+[
+  {
+    "id": 1,
+    "m_event_disaster_quest_id": 102,
+    "m_event_disaster_quest_id_restrict": 101,
+    "description": "難易度NORMALをクリアで解放"
+  },
+  {
+    "id": 2,
+    "m_event_disaster_quest_id": 103,
+    "m_event_disaster_quest_id_restrict": 102,
+    "description": "難易度HARDをクリアで解放"
+  },
+  {
+    "id": 3,
+    "m_event_disaster_quest_id": 201,
+    "m_event_disaster_quest_id_restrict": 102,
+    "description": "イベントステージ 難易度HARDをクリアで解放"
+  },
+  {
+    "id": 4,
+    "m_event_disaster_quest_id": 202,
+    "m_event_disaster_quest_id_restrict": 102,
+    "description": "イベントステージ 難易度HARDをクリアで解放"
+  }
+]

@@ -1,1 +1,38 @@
-null
+[
+  {
+    "id": 90000101,
+    "m_event_id": 900001,
+    "name": "有備無患の師範代コトノ",
+    "type": 1,
+    "difficulty": 1,
+    "display_order": 1,
+    "release_condition_m_event_training_stage_ids": ""
+  },
+  {
+    "id": 90000102,
+    "m_event_id": 900001,
+    "name": "特別強化トレーニング！1",
+    "type": 2,
+    "difficulty": 1,
+    "display_order": 1,
+    "release_condition_m_event_training_stage_ids": "90000101"
+  },
+  {
+    "id": 90000103,
+    "m_event_id": 900001,
+    "name": "特別強化トレーニング！2",
+    "type": 2,
+    "difficulty": 2,
+    "display_order": 2,
+    "release_condition_m_event_training_stage_ids": "90000102"
+  },
+  {
+    "id": 90000104,
+    "m_event_id": 900001,
+    "name": "特別強化トレーニング！3",
+    "type": 2,
+    "difficulty": 3,
+    "display_order": 3,
+    "release_condition_m_event_training_stage_ids": "90000103"
+  }
+]

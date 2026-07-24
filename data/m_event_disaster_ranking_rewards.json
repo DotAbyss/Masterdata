@@ -1,1 +1,268 @@
-null
+[
+  {
+    "id": 105000100,
+    "reward_group_id": 1001,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 1500
+  },
+  {
+    "id": 105000101,
+    "reward_group_id": 1001,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 600
+  },
+  {
+    "id": 105000102,
+    "reward_group_id": 1001,
+    "content_type": 190,
+    "content_id": 200002,
+    "amount": 1
+  },
+  {
+    "id": 105000103,
+    "reward_group_id": 1001,
+    "content_type": 190,
+    "content_id": 200001,
+    "amount": 1
+  },
+  {
+    "id": 105000200,
+    "reward_group_id": 1002,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 1500
+  },
+  {
+    "id": 105000201,
+    "reward_group_id": 1002,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 500
+  },
+  {
+    "id": 105000202,
+    "reward_group_id": 1002,
+    "content_type": 190,
+    "content_id": 200002,
+    "amount": 1
+  },
+  {
+    "id": 105000203,
+    "reward_group_id": 1002,
+    "content_type": 190,
+    "content_id": 200001,
+    "amount": 1
+  },
+  {
+    "id": 105000300,
+    "reward_group_id": 1003,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 1500
+  },
+  {
+    "id": 105000301,
+    "reward_group_id": 1003,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 400
+  },
+  {
+    "id": 105000302,
+    "reward_group_id": 1003,
+    "content_type": 190,
+    "content_id": 200002,
+    "amount": 1
+  },
+  {
+    "id": 105000303,
+    "reward_group_id": 1003,
+    "content_type": 190,
+    "content_id": 200001,
+    "amount": 1
+  },
+  {
+    "id": 105000400,
+    "reward_group_id": 1004,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 1500
+  },
+  {
+    "id": 105000401,
+    "reward_group_id": 1004,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 350
+  },
+  {
+    "id": 105000402,
+    "reward_group_id": 1004,
+    "content_type": 190,
+    "content_id": 200002,
+    "amount": 1
+  },
+  {
+    "id": 105000403,
+    "reward_group_id": 1004,
+    "content_type": 190,
+    "content_id": 200001,
+    "amount": 1
+  },
+  {
+    "id": 105000500,
+    "reward_group_id": 1005,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 1500
+  },
+  {
+    "id": 105000501,
+    "reward_group_id": 1005,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 300
+  },
+  {
+    "id": 105000502,
+    "reward_group_id": 1005,
+    "content_type": 190,
+    "content_id": 200002,
+    "amount": 1
+  },
+  {
+    "id": 105000503,
+    "reward_group_id": 1005,
+    "content_type": 190,
+    "content_id": 200001,
+    "amount": 1
+  },
+  {
+    "id": 105001001,
+    "reward_group_id": 1100,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 1500
+  },
+  {
+    "id": 105001002,
+    "reward_group_id": 1100,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 250
+  },
+  {
+    "id": 105001003,
+    "reward_group_id": 1100,
+    "content_type": 190,
+    "content_id": 200002,
+    "amount": 1
+  },
+  {
+    "id": 105001004,
+    "reward_group_id": 1100,
+    "content_type": 190,
+    "content_id": 200001,
+    "amount": 1
+  },
+  {
+    "id": 105001011,
+    "reward_group_id": 1101,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 1500
+  },
+  {
+    "id": 105001012,
+    "reward_group_id": 1101,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 200
+  },
+  {
+    "id": 105001013,
+    "reward_group_id": 1101,
+    "content_type": 190,
+    "content_id": 200002,
+    "amount": 1
+  },
+  {
+    "id": 105001014,
+    "reward_group_id": 1101,
+    "content_type": 190,
+    "content_id": 200001,
+    "amount": 1
+  },
+  {
+    "id": 105001021,
+    "reward_group_id": 1102,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 1500
+  },
+  {
+    "id": 105001022,
+    "reward_group_id": 1102,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 150
+  },
+  {
+    "id": 105001023,
+    "reward_group_id": 1102,
+    "content_type": 190,
+    "content_id": 200001,
+    "amount": 1
+  },
+  {
+    "id": 105001031,
+    "reward_group_id": 1103,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 1500
+  },
+  {
+    "id": 105001032,
+    "reward_group_id": 1103,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 100
+  },
+  {
+    "id": 105001033,
+    "reward_group_id": 1103,
+    "content_type": 190,
+    "content_id": 200001,
+    "amount": 1
+  },
+  {
+    "id": 105001041,
+    "reward_group_id": 1104,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 1500
+  },
+  {
+    "id": 105001042,
+    "reward_group_id": 1104,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 50
+  },
+  {
+    "id": 105001043,
+    "reward_group_id": 1104,
+    "content_type": 190,
+    "content_id": 200001,
+    "amount": 1
+  },
+  {
+    "id": 105001051,
+    "reward_group_id": 1105,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 1500
+  }
+]

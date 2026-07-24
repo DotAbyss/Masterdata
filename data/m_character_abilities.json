@@ -536,6 +536,30 @@
     "order": 3
   },
   {
+    "id": 130000201,
+    "m_character_id": 1300002,
+    "asset_id": "Ability_SpecialAttack_01",
+    "name": "不退転ノ極意",
+    "ability_no": 10014,
+    "order": 1
+  },
+  {
+    "id": 130000202,
+    "m_character_id": 1300002,
+    "asset_id": "Ability_Defense_01",
+    "name": "大業物ノ息吹",
+    "ability_no": 10015,
+    "order": 2
+  },
+  {
+    "id": 130000203,
+    "m_character_id": 1300002,
+    "asset_id": "Ability_Manatype_Grant",
+    "name": "鋭刃ノ鼓舞",
+    "ability_no": 10016,
+    "order": 3
+  },
+  {
     "id": 130000301,
     "m_character_id": 1300003,
     "asset_id": "Ability_SpecialAttack_01",

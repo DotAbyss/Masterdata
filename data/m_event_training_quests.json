@@ -1,1 +1,50 @@
-null
+[
+  {
+    "id": 90000101,
+    "m_event_training_stage_id": 90000102,
+    "recommended_power": 16674,
+    "stage_type": 1,
+    "stage_id": 4600101,
+    "stage_effect_no": 0,
+    "image_id": "30002",
+    "bgm_id": "30000",
+    "m_fixed_party_id": 0,
+    "m_ally_id_1": 0,
+    "m_ally_id_2": 0,
+    "suggest_elements": "4",
+    "time_limit": 240,
+    "m_party_restriction_group_no": 0
+  },
+  {
+    "id": 90000102,
+    "m_event_training_stage_id": 90000103,
+    "recommended_power": 27233,
+    "stage_type": 1,
+    "stage_id": 4600102,
+    "stage_effect_no": 0,
+    "image_id": "30002",
+    "bgm_id": "30000",
+    "m_fixed_party_id": 0,
+    "m_ally_id_1": 0,
+    "m_ally_id_2": 0,
+    "suggest_elements": "4",
+    "time_limit": 240,
+    "m_party_restriction_group_no": 0
+  },
+  {
+    "id": 90000103,
+    "m_event_training_stage_id": 90000104,
+    "recommended_power": 44751,
+    "stage_type": 1,
+    "stage_id": 4600103,
+    "stage_effect_no": 0,
+    "image_id": "30002",
+    "bgm_id": "30000",
+    "m_fixed_party_id": 0,
+    "m_ally_id_1": 0,
+    "m_ally_id_2": 0,
+    "suggest_elements": "4",
+    "time_limit": 240,
+    "m_party_restriction_group_no": 0
+  }
+]

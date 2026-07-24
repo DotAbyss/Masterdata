@@ -630,7 +630,7 @@
     "id": 13000060,
     "m_character_id": 1300006,
     "m_character_skin_id": 130000602,
-    "name": "グラティアの提案",
+    "name": "グラディアの提案",
     "effect_type": 1,
     "description": "評価がGood以上のスタッフの満足度+30%",
     "m_tavern_card_effect_id_1": 200004,
@@ -679,6 +679,17 @@
     "description": "ランダムな「ペルディオン」の\nスタッフ最大2体に「料理」を付与。\nそれらのスタッフの満足度+40%",
     "m_tavern_card_effect_id_1": 101006,
     "m_tavern_card_effect_id_2": 401009,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 13000020,
+    "m_character_id": 1300002,
+    "m_character_skin_id": 130000202,
+    "name": "コトノの提案",
+    "effect_type": 2,
+    "description": "ランダムな「千国連合」の\nスタッフ最大3体に「料理」を付与。\nそれらのスタッフの満足度+20%",
+    "m_tavern_card_effect_id_1": 102012,
+    "m_tavern_card_effect_id_2": 401007,
     "m_tavern_card_effect_id_3": 0
   }
 ]

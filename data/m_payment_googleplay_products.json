@@ -869,6 +869,160 @@
     "has_r18": 1
   },
   {
+    "id": 10086,
+    "store_product_id": "com.exnoa.abyss.lm_401",
+    "currency_amount": 9600,
+    "price": 12000,
+    "m_payment_pack_pack_id": 10086,
+    "name": "19200 アビスジェムパック",
+    "asset_id": "5010324",
+    "description": "[有償]アビスジェム×9600\n▼以下おまけ\n[無償]アビスジェム×9600",
+    "has_r18": 1
+  },
+  {
+    "id": 10087,
+    "store_product_id": "com.exnoa.abyss.lm_402",
+    "currency_amount": 4800,
+    "price": 6000,
+    "m_payment_pack_pack_id": 10087,
+    "name": "9600 アビスジェムパック",
+    "asset_id": "5010325",
+    "description": "[有償]アビスジェム×4800\n▼以下おまけ\n[無償]アビスジェム×4800",
+    "has_r18": 1
+  },
+  {
+    "id": 10088,
+    "store_product_id": "com.exnoa.abyss.lm_403",
+    "currency_amount": 2400,
+    "price": 3000,
+    "m_payment_pack_pack_id": 10088,
+    "name": "4800 アビスジェムパック",
+    "asset_id": "5010326",
+    "description": "[有償]アビスジェム×2400\n▼以下おまけ\n[無償]アビスジェム×2400",
+    "has_r18": 1
+  },
+  {
+    "id": 10089,
+    "store_product_id": "com.exnoa.abyss.lm_404",
+    "currency_amount": 1600,
+    "price": 2000,
+    "m_payment_pack_pack_id": 10089,
+    "name": "3200 アビスジェムパック",
+    "asset_id": "5010327",
+    "description": "[有償]アビスジェム×1600\n▼以下おまけ\n[無償]アビスジェム×1600",
+    "has_r18": 1
+  },
+  {
+    "id": 10090,
+    "store_product_id": "com.exnoa.abyss.lm_405",
+    "currency_amount": 800,
+    "price": 1000,
+    "m_payment_pack_pack_id": 10090,
+    "name": "1600 アビスジェムパック",
+    "asset_id": "5010328",
+    "description": "[有償]アビスジェム×800\n▼以下おまけ\n[無償]アビスジェム×800",
+    "has_r18": 1
+  },
+  {
+    "id": 10091,
+    "store_product_id": "com.exnoa.abyss.lm_406",
+    "currency_amount": 800,
+    "price": 1000,
+    "m_payment_pack_pack_id": 10091,
+    "name": "コトノ武器スキンパック",
+    "asset_id": "5010329",
+    "description": "[有償]アビスジェム×800\n▼以下おまけ\n[無償]アビスジェム×300\nコトノ専用武器スキン「散華の太刀」×1\n絆の追憶(能力強化)×1\nプレミアムガチャチケット×5\n\n注意事項）\n・コトノを獲得した後に\n　この武器スキンに着せ替えできるようになります。\n・本スキンは販売期間終了後に\n　今後再登場する可能性があります。",
+    "has_r18": 1
+  },
+  {
+    "id": 10092,
+    "store_product_id": "com.exnoa.abyss.lm_407",
+    "currency_amount": 2400,
+    "price": 3000,
+    "m_payment_pack_pack_id": 10092,
+    "name": "コトノスキル強化パック",
+    "asset_id": "5010330",
+    "description": "[有償]アビスジェム×2400\n▼以下おまけ\n[無償]アビスジェム×900\n特級技能元素（万能）×1\n初級技能元素(土)×60\n初級技能元素(フロント)×60\n中級技能元素(土)×30\n中級技能元素(フロント)×30\n上級技能元素(土)×15\n上級技能元素(フロント)×15",
+    "has_r18": 1
+  },
+  {
+    "id": 10093,
+    "store_product_id": "com.exnoa.abyss.lm_408",
+    "currency_amount": 4000,
+    "price": 5000,
+    "m_payment_pack_pack_id": 10093,
+    "name": "限界突破応援パック",
+    "asset_id": "5010331",
+    "description": "[有償]アビスジェム×4000\n▼以下おまけ\n【凸】純真結晶引換券(ルクスノヴァ除く)×40",
+    "has_r18": 1
+  },
+  {
+    "id": 10094,
+    "store_product_id": "com.exnoa.abyss.lm_409",
+    "currency_amount": 1200,
+    "price": 1500,
+    "m_payment_pack_pack_id": 10094,
+    "name": "深淵挑戦パック",
+    "asset_id": "5010332",
+    "description": "[有償]アビスジェム×1200\n▼以下おまけ\n[無償]アビスジェム×300\n鑑定レンズ「装備」×20\nゲートキー「深淵」×5",
+    "has_r18": 1
+  },
+  {
+    "id": 10095,
+    "store_product_id": "com.exnoa.abyss.lm_410",
+    "currency_amount": 800,
+    "price": 1000,
+    "m_payment_pack_pack_id": 10095,
+    "name": "絆Lv強化パック",
+    "asset_id": "5010333",
+    "description": "[有償]アビスジェム×800\n▼以下おまけ\n[無償]アビスジェム×300\nうれしいプレゼント×40\n深・絆の追憶(能力強化)×1\nキャラ経験値セット(1時間)×5\nゴールドセット(1時間)×5　\n記憶の欠片セット(1時間)×5",
+    "has_r18": 1
+  },
+  {
+    "id": 10096,
+    "store_product_id": "com.exnoa.abyss.lm_411",
+    "currency_amount": 4000,
+    "price": 5000,
+    "m_payment_pack_pack_id": 10096,
+    "name": "【SSR確定】探索者の証・大勲パック",
+    "asset_id": "5010334",
+    "description": "[有償]アビスジェム×4000\n▼以下おまけ\n【SSR確定】探索者の証・大勲×50",
+    "has_r18": 1
+  },
+  {
+    "id": 10097,
+    "store_product_id": "com.exnoa.abyss.lm_412",
+    "currency_amount": 1200,
+    "price": 1500,
+    "m_payment_pack_pack_id": 10097,
+    "name": "凶化厄災開催記念！アビリティ強化パック",
+    "asset_id": "5010335",
+    "description": "[有償]アビスジェム×1200\n▼以下おまけ\n特級技能元素（万能）×1\n選べる初級技能元素BOX×30　\n選べる中級技能元素BOX×30　\n選べる上級技能元素BOX×30",
+    "has_r18": 1
+  },
+  {
+    "id": 10098,
+    "store_product_id": "com.exnoa.abyss.lm_413",
+    "currency_amount": 800,
+    "price": 1000,
+    "m_payment_pack_pack_id": 10098,
+    "name": "絆の追憶パック",
+    "asset_id": "5010336",
+    "description": "[有償]アビスジェム×800\n▼以下おまけ\n[無償]アビスジェム×300\n深・絆の追憶(能力強化)×2\n絆の追憶(能力強化)×1",
+    "has_r18": 1
+  },
+  {
+    "id": 10099,
+    "store_product_id": "com.exnoa.abyss.lm_414",
+    "currency_amount": 1200,
+    "price": 1500,
+    "m_payment_pack_pack_id": 10099,
+    "name": "選べる親愛度アイテムBOXパック",
+    "asset_id": "5010337",
+    "description": "[有償]アビスジェム×1200\n▼以下おまけ\n[無償]アビスジェム×450\n選べる親愛度アイテムBOX×100",
+    "has_r18": 1
+  },
+  {
     "id": 20001,
     "store_product_id": "com.exnoa.abyss.sub_00001",
     "currency_amount": 800,
@@ -1460,6 +1614,17 @@
     "name": "応援スタミナ5日間ログインパス【後半】",
     "asset_id": "5010323",
     "description": "[有償]アビスジェム×640\n▼以下おまけ\n毎日初回ログイン時に\n・［無償］アビスジェム×350\n・スタミナ回復薬(中)×2\n・スタミナ回復薬(小)×2\n・迎撃戦許可証×1\n・ゲートキー「深淵」×1\n\n※おまけは最大で5日間分獲得できます。\n※1日目はログインパスを購入した直後に獲得できます。\n※2日目～5日目は毎日初回ログイン時に獲得できます。\n※ログインパス報酬の受取期間は購入後、10日間となります。おまけ報酬をすべて獲得された場合、受取期間が残っている場合でもおまけ報酬は獲得できません。",
+    "has_r18": 1
+  },
+  {
+    "id": 110005,
+    "store_product_id": "com.exnoa.abyss.ps_005",
+    "currency_amount": 640,
+    "price": 800,
+    "m_payment_pack_pack_id": 110005,
+    "name": "挑戦券5日間ログインパス",
+    "asset_id": "5010338",
+    "description": "[有償]アビスジェム×640\n▼以下おまけ\n期間中(最大5日間)毎日初回ログイン時に\n・［無償］アビスジェム×350\n・スタミナ回復薬(中)×2\n・迎撃戦許可証×1\n・追加営業許可証「ルディアのお店」×1\n・ゲートキー「深淵」×1\n\n※おまけは最大で5日間分獲得できます。\n※1日目はログインパスを購入した直後に獲得できます。\n※2日目～5日目は毎日初回ログイン時に獲得できます。\n※ログインパス報酬の受取期間は購入後、10日間となります。おまけ報酬をすべて獲得された場合、受取期間が残っている場合でもおまけ報酬は獲得できません。",
     "has_r18": 1
   },
   {
@@ -3066,6 +3231,127 @@
     "name": "イベント後半ボスステージクリア記念！",
     "asset_id": "5010301",
     "description": "[有償]アビスジェム×1200\n▼以下おまけ\n[無償]アビスジェム×1200\n【凸】純真結晶引換券(ルクスノヴァ除く)×10\n【SSR確定】探索者の証・大勲×5",
+    "has_r18": 0
+  },
+  {
+    "id": 260052,
+    "store_product_id": "com.exnoa.abyss_pssev_400",
+    "currency_amount": 4000,
+    "price": 5000,
+    "m_payment_pack_pack_id": 260052,
+    "name": "コトノ獲得記念\n【コトノ限界突破アイテム付き！】",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×4000\n▼以下おまけ\n[無償]アビスジェム×4000\nコトノの純真結晶×1\n初級技能元素(土)×60\n初級技能元素(フロント)×60\n中級技能元素(土)×30\n中級技能元素(フロント)×30\n上級技能元素(土)×15\n上級技能元素(フロント)×15",
+    "has_r18": 0
+  },
+  {
+    "id": 260053,
+    "store_product_id": "com.exnoa.abyss_pssev_401",
+    "currency_amount": 4000,
+    "price": 5000,
+    "m_payment_pack_pack_id": 260053,
+    "name": "コトノマナ覚醒応援！\n【コトノ限界突破アイテム付き！】",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×4000\n▼以下おまけ\n[無償]アビスジェム×4000\nコトノの純真結晶×1\n【凸】純真結晶引換券(ルクスノヴァ除く)×10",
+    "has_r18": 0
+  },
+  {
+    "id": 260054,
+    "store_product_id": "com.exnoa.abyss_pssev_402",
+    "currency_amount": 1200,
+    "price": 1500,
+    "m_payment_pack_pack_id": 260054,
+    "name": "イベントプレイ感謝！",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×1200\n▼以下おまけ\n[無償]アビスジェム×1200\nピックアップガチャチケット×5",
+    "has_r18": 0
+  },
+  {
+    "id": 260055,
+    "store_product_id": "com.exnoa.abyss_pssev_403",
+    "currency_amount": 1200,
+    "price": 1500,
+    "m_payment_pack_pack_id": 260055,
+    "name": "凶化厄災 -氷河- Normalクリア記念！",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×1200\n▼以下おまけ\n[無償]アビスジェム×1200\n【凸】純真結晶引換券(ルクスノヴァ除く)×10\n【SSR確定】探索者の証・大勲×5",
+    "has_r18": 0
+  },
+  {
+    "id": 260056,
+    "store_product_id": "com.exnoa.abyss_pssev_404",
+    "currency_amount": 1200,
+    "price": 1500,
+    "m_payment_pack_pack_id": 260056,
+    "name": "凶化厄災 -氷河- Hardクリア記念！",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×1200\n▼以下おまけ\n[無償]アビスジェム×1200\n【凸】純真結晶引換券(ルクスノヴァ除く)×10\n【SSR確定】探索者の証・大勲×5",
+    "has_r18": 0
+  },
+  {
+    "id": 260057,
+    "store_product_id": "com.exnoa.abyss_pssev_405",
+    "currency_amount": 1600,
+    "price": 2000,
+    "m_payment_pack_pack_id": 260057,
+    "name": "凶化厄災 -氷河- Very Hardクリア記念！",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×1600\n▼以下おまけ\n[無償]アビスジェム×1600\n【凸】純真結晶引換券(ルクスノヴァ除く)×20\n【SSR確定】探索者の証・大勲×10",
+    "has_r18": 0
+  },
+  {
+    "id": 260058,
+    "store_product_id": "com.exnoa.abyss_pssev_406",
+    "currency_amount": 1600,
+    "price": 2000,
+    "m_payment_pack_pack_id": 260058,
+    "name": "凶化厄災 -氷河- Chaosクリア記念！",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×1600\n▼以下おまけ\n[無償]アビスジェム×1600\n【凸】純真結晶引換券(ルクスノヴァ除く)×20\n【SSR確定】探索者の証・大勲×10",
+    "has_r18": 0
+  },
+  {
+    "id": 260060,
+    "store_product_id": "com.exnoa.abyss_pssev_408",
+    "currency_amount": 1200,
+    "price": 1500,
+    "m_payment_pack_pack_id": 260060,
+    "name": "クリスタルハント1クリア記念！",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×1200\n▼以下おまけ\n[無償]アビスジェム×1200\n【凸】純真結晶引換券(ルクスノヴァ除く)×10\n【SSR確定】探索者の証・大勲×5",
+    "has_r18": 0
+  },
+  {
+    "id": 260061,
+    "store_product_id": "com.exnoa.abyss_pssev_409",
+    "currency_amount": 1200,
+    "price": 1500,
+    "m_payment_pack_pack_id": 260061,
+    "name": "クリスタルハント3クリア記念！",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×1200\n▼以下おまけ\n[無償]アビスジェム×1200\n【凸】純真結晶引換券(ルクスノヴァ除く)×10\n【SSR確定】探索者の証・大勲×5",
+    "has_r18": 0
+  },
+  {
+    "id": 260062,
+    "store_product_id": "com.exnoa.abyss_pssev_410",
+    "currency_amount": 1600,
+    "price": 2000,
+    "m_payment_pack_pack_id": 260062,
+    "name": "クリスタルハント5クリア記念！",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×1600\n▼以下おまけ\n[無償]アビスジェム×1600\n【凸】純真結晶引換券(ルクスノヴァ除く)×20\n【SSR確定】探索者の証・大勲×10",
+    "has_r18": 0
+  },
+  {
+    "id": 260063,
+    "store_product_id": "com.exnoa.abyss_pssev_411",
+    "currency_amount": 1600,
+    "price": 2000,
+    "m_payment_pack_pack_id": 260063,
+    "name": "クリスタルハント7クリア記念！",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×1600\n▼以下おまけ\n[無償]アビスジェム×1600\n【凸】純真結晶引換券(ルクスノヴァ除く)×20\n【SSR確定】探索者の証・大勲×10",
     "has_r18": 0
   }
 ]

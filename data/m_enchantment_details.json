@@ -592,7 +592,7 @@
     "enchantment_no": 1028,
     "asset_id": "Unique",
     "name": "フォレストの権能：マント",
-    "description": "FC発動時、15秒間自身の攻撃力【{1}%】UP【累積 / 最大50％】"
+    "description": "FC発動時、15秒間自身の攻撃力【50%】UP【累積 / 最大50％】"
   },
   {
     "id": 86,
@@ -1454,5 +1454,12 @@
     "asset_id": "Hp",
     "name": "HP上昇",
     "description": "HP【{1}%】上昇"
+  },
+  {
+    "id": 218,
+    "enchantment_no": 1043,
+    "asset_id": "Unique",
+    "name": "海洋神の権能：ピッケル",
+    "description": "30秒に1回、水属性の味方全体に紋章：情熱を【{1}】付与"
   }
 ]

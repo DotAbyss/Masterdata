@@ -1,1 +1,212 @@
-null
+[
+  {
+    "id": 100,
+    "m_event_disaster_quest_id": 101,
+    "m_enemy_id": 420010101,
+    "is_boss": 1,
+    "asset_id": "2040201"
+  },
+  {
+    "id": 101,
+    "m_event_disaster_quest_id": 101,
+    "m_enemy_id": 420010102,
+    "is_boss": 0,
+    "asset_id": "2002201"
+  },
+  {
+    "id": 102,
+    "m_event_disaster_quest_id": 101,
+    "m_enemy_id": 420010103,
+    "is_boss": 0,
+    "asset_id": "2005201"
+  },
+  {
+    "id": 103,
+    "m_event_disaster_quest_id": 101,
+    "m_enemy_id": 420010106,
+    "is_boss": 0,
+    "asset_id": "2004201"
+  },
+  {
+    "id": 104,
+    "m_event_disaster_quest_id": 101,
+    "m_enemy_id": 420010107,
+    "is_boss": 0,
+    "asset_id": "2008201"
+  },
+  {
+    "id": 105,
+    "m_event_disaster_quest_id": 101,
+    "m_enemy_id": 420010108,
+    "is_boss": 0,
+    "asset_id": "2007201"
+  },
+  {
+    "id": 200,
+    "m_event_disaster_quest_id": 102,
+    "m_enemy_id": 420010201,
+    "is_boss": 1,
+    "asset_id": "2040201"
+  },
+  {
+    "id": 201,
+    "m_event_disaster_quest_id": 102,
+    "m_enemy_id": 420010202,
+    "is_boss": 0,
+    "asset_id": "2002201"
+  },
+  {
+    "id": 202,
+    "m_event_disaster_quest_id": 102,
+    "m_enemy_id": 420010203,
+    "is_boss": 0,
+    "asset_id": "2005201"
+  },
+  {
+    "id": 203,
+    "m_event_disaster_quest_id": 102,
+    "m_enemy_id": 420010206,
+    "is_boss": 0,
+    "asset_id": "2004201"
+  },
+  {
+    "id": 204,
+    "m_event_disaster_quest_id": 102,
+    "m_enemy_id": 420010207,
+    "is_boss": 0,
+    "asset_id": "2008201"
+  },
+  {
+    "id": 205,
+    "m_event_disaster_quest_id": 102,
+    "m_enemy_id": 420010208,
+    "is_boss": 0,
+    "asset_id": "2007201"
+  },
+  {
+    "id": 300,
+    "m_event_disaster_quest_id": 103,
+    "m_enemy_id": 420010301,
+    "is_boss": 1,
+    "asset_id": "2040201"
+  },
+  {
+    "id": 301,
+    "m_event_disaster_quest_id": 103,
+    "m_enemy_id": 420010302,
+    "is_boss": 0,
+    "asset_id": "2002201"
+  },
+  {
+    "id": 302,
+    "m_event_disaster_quest_id": 103,
+    "m_enemy_id": 420010303,
+    "is_boss": 0,
+    "asset_id": "2005201"
+  },
+  {
+    "id": 303,
+    "m_event_disaster_quest_id": 103,
+    "m_enemy_id": 420010307,
+    "is_boss": 0,
+    "asset_id": "2008201"
+  },
+  {
+    "id": 304,
+    "m_event_disaster_quest_id": 103,
+    "m_enemy_id": 420010308,
+    "is_boss": 0,
+    "asset_id": "2007201"
+  },
+  {
+    "id": 305,
+    "m_event_disaster_quest_id": 103,
+    "m_enemy_id": 420010312,
+    "is_boss": 0,
+    "asset_id": "2034201"
+  },
+  {
+    "id": 400,
+    "m_event_disaster_quest_id": 201,
+    "m_enemy_id": 420010401,
+    "is_boss": 1,
+    "asset_id": "2040201"
+  },
+  {
+    "id": 401,
+    "m_event_disaster_quest_id": 201,
+    "m_enemy_id": 420010402,
+    "is_boss": 0,
+    "asset_id": "2002201"
+  },
+  {
+    "id": 402,
+    "m_event_disaster_quest_id": 201,
+    "m_enemy_id": 420010403,
+    "is_boss": 0,
+    "asset_id": "2005201"
+  },
+  {
+    "id": 403,
+    "m_event_disaster_quest_id": 201,
+    "m_enemy_id": 420010407,
+    "is_boss": 0,
+    "asset_id": "2008201"
+  },
+  {
+    "id": 404,
+    "m_event_disaster_quest_id": 201,
+    "m_enemy_id": 420010408,
+    "is_boss": 0,
+    "asset_id": "2007201"
+  },
+  {
+    "id": 405,
+    "m_event_disaster_quest_id": 201,
+    "m_enemy_id": 420010412,
+    "is_boss": 0,
+    "asset_id": "2034201"
+  },
+  {
+    "id": 500,
+    "m_event_disaster_quest_id": 202,
+    "m_enemy_id": 420010501,
+    "is_boss": 1,
+    "asset_id": "2040201"
+  },
+  {
+    "id": 501,
+    "m_event_disaster_quest_id": 202,
+    "m_enemy_id": 420010502,
+    "is_boss": 0,
+    "asset_id": "2002201"
+  },
+  {
+    "id": 502,
+    "m_event_disaster_quest_id": 202,
+    "m_enemy_id": 420010503,
+    "is_boss": 0,
+    "asset_id": "2005201"
+  },
+  {
+    "id": 503,
+    "m_event_disaster_quest_id": 202,
+    "m_enemy_id": 420010507,
+    "is_boss": 0,
+    "asset_id": "2008201"
+  },
+  {
+    "id": 504,
+    "m_event_disaster_quest_id": 202,
+    "m_enemy_id": 420010508,
+    "is_boss": 0,
+    "asset_id": "2007201"
+  },
+  {
+    "id": 505,
+    "m_event_disaster_quest_id": 202,
+    "m_enemy_id": 420010512,
+    "is_boss": 0,
+    "asset_id": "2034201"
+  }
+]

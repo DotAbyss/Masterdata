@@ -305,7 +305,7 @@
     "m_character_id": 1200006,
     "trigger_type": 30,
     "name": "水の型・逆袈裟",
-    "description": "ダメージ倍率が【{[DAMAGE.DAMAGE_PERCENT]}】に変化 / 紋章：情熱が5以上のとき、自身に最大HP【{[ZEAL.RECOVER.HEAL_PERCENT]}】分の回復"
+    "description": "さらに防御力DOWN【{[DEFENCEDOWN.RATE_PERCENT]} / 15秒】を付与 / ダメージ倍率が【{[DAMAGE.DAMAGE_PERCENT]}】に変化 / 紋章：情熱が5以上のとき、自身に最大HP【{[ZEAL.RECOVER.HEAL_PERCENT]}】分の回復"
   },
   {
     "id": 1200008000,
@@ -368,7 +368,7 @@
     "m_character_id": 1200014,
     "trigger_type": 20,
     "name": "マジカルスモーキング",
-    "description": "味方全体に攻撃力UP【{[ATTACKUP.RATE_PERCENT]} / 15秒】を付与 / 自身に紋章：情熱を【1】付与"
+    "description": "味方全体に攻撃力UP【{[ATTACKUP1.RATE_PERCENT]} / 15秒】を付与 / 自身に紋章：情熱を【1】付与"
   },
   {
     "id": 1200014001,
@@ -460,6 +460,20 @@
     "trigger_type": 30,
     "name": "バーニングロンド",
     "description": "ダメージ倍率が【{[DAMAGE.DAMAGE_PERCENT]}】に上昇 / 紋章：情熱が5以上のとき、自身のスキルを【{[ZEAL.SKILL_CHARGE.CHARGE_VALUE]}】チャージ"
+  },
+  {
+    "id": 1300002000,
+    "m_character_id": 1300002,
+    "trigger_type": 20,
+    "name": "一目千両桜",
+    "description": "自身の前方範囲内にいる敵全体に【9HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 自身に紋章：情熱を【1】付与"
+  },
+  {
+    "id": 1300002001,
+    "m_character_id": 1300002,
+    "trigger_type": 30,
+    "name": "一目千両桜",
+    "description": "さらに自身に自身の最大HP【{[BARRIER.RATE]}】分のバリア【15秒】を付与 / 紋章：情熱が5以上のとき、自身にスキルチャージ効率UP【20% / {[ZEALOVER.SKILLCHARGEQUANTITYUP.DURATION]秒}】を付与"
   },
   {
     "id": 1300003000,

@@ -1,1 +1,66 @@
-null
+[
+  {
+    "id": 20000110101,
+    "m_event_disaster_quest_id": 101,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 100,
+    "is_first_reward": 1
+  },
+  {
+    "id": 20000110102,
+    "m_event_disaster_quest_id": 101,
+    "content_type": 90,
+    "content_id": 38020340,
+    "amount": 1,
+    "is_first_reward": 0
+  },
+  {
+    "id": 20000110201,
+    "m_event_disaster_quest_id": 102,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 100,
+    "is_first_reward": 1
+  },
+  {
+    "id": 20000110202,
+    "m_event_disaster_quest_id": 102,
+    "content_type": 90,
+    "content_id": 38020340,
+    "amount": 1,
+    "is_first_reward": 0
+  },
+  {
+    "id": 20000110301,
+    "m_event_disaster_quest_id": 103,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 100,
+    "is_first_reward": 1
+  },
+  {
+    "id": 20000110302,
+    "m_event_disaster_quest_id": 103,
+    "content_type": 190,
+    "content_id": 10002,
+    "amount": 1,
+    "is_first_reward": 1
+  },
+  {
+    "id": 20000110303,
+    "m_event_disaster_quest_id": 103,
+    "content_type": 90,
+    "content_id": 38020440,
+    "amount": 1,
+    "is_first_reward": 0
+  },
+  {
+    "id": 20000120101,
+    "m_event_disaster_quest_id": 201,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 100,
+    "is_first_reward": 1
+  }
+]
