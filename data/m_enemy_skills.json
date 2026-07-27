@@ -3060,54 +3060,54 @@
     "description": "敵全体に【{[DAMAGE.HIT_COUNT]}HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（大） / 対象に魅了【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
   },
   {
-    "id": 20380010101,
+    "id": 20380010001,
     "asset_id": "2038001",
-    "ai_id": "1",
+    "ai_id": "0",
     "skill_type": 20,
     "timeline": "Skill001",
     "name": "叫喚",
     "description": "助けを呼ぶ"
   },
   {
-    "id": 20381010101,
+    "id": 20381010001,
     "asset_id": "2038101",
-    "ai_id": "1",
+    "ai_id": "0",
     "skill_type": 20,
     "timeline": "Skill001",
     "name": "叫喚",
     "description": "助けを呼ぶ"
   },
   {
-    "id": 20382010101,
+    "id": 20382010001,
     "asset_id": "2038201",
-    "ai_id": "1",
+    "ai_id": "0",
     "skill_type": 20,
     "timeline": "Skill001",
     "name": "叫喚",
     "description": "助けを呼ぶ"
   },
   {
-    "id": 20383010101,
+    "id": 20383010001,
     "asset_id": "2038301",
-    "ai_id": "1",
+    "ai_id": "0",
     "skill_type": 20,
     "timeline": "Skill001",
     "name": "叫喚",
     "description": "助けを呼ぶ"
   },
   {
-    "id": 20384010101,
+    "id": 20384010001,
     "asset_id": "2038401",
-    "ai_id": "1",
+    "ai_id": "0",
     "skill_type": 20,
     "timeline": "Skill001",
     "name": "叫喚",
     "description": "助けを呼ぶ"
   },
   {
-    "id": 20385010101,
+    "id": 20385010001,
     "asset_id": "2038501",
-    "ai_id": "1",
+    "ai_id": "0",
     "skill_type": 20,
     "timeline": "Skill001",
     "name": "叫喚",
