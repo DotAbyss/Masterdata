@@ -5164,5 +5164,215 @@
     "limit_break_count": 9,
     "effect_type": 2,
     "effect_param": 10
+  },
+  {
+    "id": 130004901,
+    "m_character_id": 1300049,
+    "limit_break_count": 1,
+    "effect_type": 2,
+    "effect_param": 2
+  },
+  {
+    "id": 130004902,
+    "m_character_id": 1300049,
+    "limit_break_count": 1,
+    "effect_type": 1,
+    "effect_param": 130004901
+  },
+  {
+    "id": 130004903,
+    "m_character_id": 1300049,
+    "limit_break_count": 1,
+    "effect_type": 1,
+    "effect_param": 130004902
+  },
+  {
+    "id": 130004904,
+    "m_character_id": 1300049,
+    "limit_break_count": 2,
+    "effect_type": 1,
+    "effect_param": 130004903
+  },
+  {
+    "id": 130004905,
+    "m_character_id": 1300049,
+    "limit_break_count": 2,
+    "effect_type": 2,
+    "effect_param": 3
+  },
+  {
+    "id": 130004906,
+    "m_character_id": 1300049,
+    "limit_break_count": 3,
+    "effect_type": 1,
+    "effect_param": 130004901
+  },
+  {
+    "id": 130004907,
+    "m_character_id": 1300049,
+    "limit_break_count": 3,
+    "effect_type": 2,
+    "effect_param": 4
+  },
+  {
+    "id": 130004908,
+    "m_character_id": 1300049,
+    "limit_break_count": 4,
+    "effect_type": 1,
+    "effect_param": 130004902
+  },
+  {
+    "id": 130004909,
+    "m_character_id": 1300049,
+    "limit_break_count": 4,
+    "effect_type": 2,
+    "effect_param": 5
+  },
+  {
+    "id": 130004910,
+    "m_character_id": 1300049,
+    "limit_break_count": 4,
+    "effect_type": 1,
+    "effect_param": 130004903
+  },
+  {
+    "id": 130004912,
+    "m_character_id": 1300049,
+    "limit_break_count": 5,
+    "effect_type": 2,
+    "effect_param": 6
+  },
+  {
+    "id": 130004914,
+    "m_character_id": 1300049,
+    "limit_break_count": 6,
+    "effect_type": 2,
+    "effect_param": 7
+  },
+  {
+    "id": 130004916,
+    "m_character_id": 1300049,
+    "limit_break_count": 7,
+    "effect_type": 2,
+    "effect_param": 8
+  },
+  {
+    "id": 130004918,
+    "m_character_id": 1300049,
+    "limit_break_count": 8,
+    "effect_type": 2,
+    "effect_param": 9
+  },
+  {
+    "id": 130004919,
+    "m_character_id": 1300049,
+    "limit_break_count": 9,
+    "effect_type": 2,
+    "effect_param": 10
+  },
+  {
+    "id": 130005001,
+    "m_character_id": 1300050,
+    "limit_break_count": 1,
+    "effect_type": 2,
+    "effect_param": 2
+  },
+  {
+    "id": 130005002,
+    "m_character_id": 1300050,
+    "limit_break_count": 1,
+    "effect_type": 1,
+    "effect_param": 130005001
+  },
+  {
+    "id": 130005003,
+    "m_character_id": 1300050,
+    "limit_break_count": 1,
+    "effect_type": 1,
+    "effect_param": 130005002
+  },
+  {
+    "id": 130005004,
+    "m_character_id": 1300050,
+    "limit_break_count": 2,
+    "effect_type": 1,
+    "effect_param": 130005003
+  },
+  {
+    "id": 130005005,
+    "m_character_id": 1300050,
+    "limit_break_count": 2,
+    "effect_type": 2,
+    "effect_param": 3
+  },
+  {
+    "id": 130005006,
+    "m_character_id": 1300050,
+    "limit_break_count": 3,
+    "effect_type": 1,
+    "effect_param": 130005001
+  },
+  {
+    "id": 130005007,
+    "m_character_id": 1300050,
+    "limit_break_count": 3,
+    "effect_type": 2,
+    "effect_param": 4
+  },
+  {
+    "id": 130005008,
+    "m_character_id": 1300050,
+    "limit_break_count": 4,
+    "effect_type": 1,
+    "effect_param": 130005002
+  },
+  {
+    "id": 130005009,
+    "m_character_id": 1300050,
+    "limit_break_count": 4,
+    "effect_type": 2,
+    "effect_param": 5
+  },
+  {
+    "id": 130005010,
+    "m_character_id": 1300050,
+    "limit_break_count": 4,
+    "effect_type": 1,
+    "effect_param": 130005003
+  },
+  {
+    "id": 130005012,
+    "m_character_id": 1300050,
+    "limit_break_count": 5,
+    "effect_type": 2,
+    "effect_param": 6
+  },
+  {
+    "id": 130005014,
+    "m_character_id": 1300050,
+    "limit_break_count": 6,
+    "effect_type": 2,
+    "effect_param": 7
+  },
+  {
+    "id": 130005016,
+    "m_character_id": 1300050,
+    "limit_break_count": 7,
+    "effect_type": 2,
+    "effect_param": 8
+  },
+  {
+    "id": 130005018,
+    "m_character_id": 1300050,
+    "limit_break_count": 8,
+    "effect_type": 2,
+    "effect_param": 9
+  },
+  {
+    "id": 130005019,
+    "m_character_id": 1300050,
+    "limit_break_count": 9,
+    "effect_type": 2,
+    "effect_param": 10
   }
 ]

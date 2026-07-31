@@ -1230,5 +1230,53 @@
     "name": "トレジャーハンター",
     "ability_no": 10158,
     "order": 3
+  },
+  {
+    "id": 130004901,
+    "m_character_id": 1300049,
+    "asset_id": "Ability_SpecialAttack_01",
+    "name": "バシャバシャ・フロート",
+    "ability_no": 10170,
+    "order": 1
+  },
+  {
+    "id": 130004902,
+    "m_character_id": 1300049,
+    "asset_id": "Ability_Attack_01",
+    "name": "サマーサバイバー",
+    "ability_no": 10171,
+    "order": 2
+  },
+  {
+    "id": 130004903,
+    "m_character_id": 1300049,
+    "asset_id": "Ability_Attack_01",
+    "name": "常夏の野生解放",
+    "ability_no": 10172,
+    "order": 3
+  },
+  {
+    "id": 130005001,
+    "m_character_id": 1300050,
+    "asset_id": "Ability_SpecialAttack_01",
+    "name": "バブルショット",
+    "ability_no": 10173,
+    "order": 1
+  },
+  {
+    "id": 130005002,
+    "m_character_id": 1300050,
+    "asset_id": "Ability_Attack_01",
+    "name": "マリン・クリンナップ",
+    "ability_no": 10174,
+    "order": 2
+  },
+  {
+    "id": 130005003,
+    "m_character_id": 1300050,
+    "asset_id": "Ability_Critical_01",
+    "name": "波濤のメイド戦術",
+    "ability_no": 10175,
+    "order": 3
   }
 ]

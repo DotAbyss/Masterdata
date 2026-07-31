@@ -138,5 +138,25 @@
     "pos_x": -13,
     "pos_z": -28,
     "direction_type": 0
+  },
+  {
+    "id": 17,
+    "m_home_stage_group_id": 11,
+    "m_character_id": 1300049,
+    "m_character_skin_id": 130004901,
+    "serif": "夏だよ、ご主人さまっ！\nクルルと一緒にたっっくさん遊ぼうね♪",
+    "pos_x": 45,
+    "pos_z": -50,
+    "direction_type": 0
+  },
+  {
+    "id": 18,
+    "m_home_stage_group_id": 11,
+    "m_character_id": 1300050,
+    "m_character_skin_id": 130005001,
+    "serif": "水着メイド・ニナとの夏のバカンス――\n心ゆくまでご堪能ください、御主人様",
+    "pos_x": -45,
+    "pos_z": 35,
+    "direction_type": 1
   }
 ]

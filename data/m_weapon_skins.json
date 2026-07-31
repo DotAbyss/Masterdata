@@ -525,6 +525,36 @@
     "display_order": 2
   },
   {
+    "id": 130004901,
+    "weapon_type": 1020,
+    "rarity": 2,
+    "name": "クジラ・フロート",
+    "description": "ホノカが作成した対水棲モンスター用の武器の１つ。\nクルルが愛用し、戦闘時にはその驚異的な弾力性で、\n敵をビーチの彼方へと吹き飛ばす。",
+    "m_character_id": 1300049,
+    "is_default": 0,
+    "is_paid": 1,
+    "bonus_bond_point": 0,
+    "is_collabo": 0,
+    "released_at": "2026-07-31 13:00:00",
+    "asset_id": "41024015",
+    "display_order": 2
+  },
+  {
+    "id": 130005001,
+    "weapon_type": 1040,
+    "rarity": 2,
+    "name": "マルチスプラッシュボウ",
+    "description": "ホノカが作成した対水棲モンスター用の武器の１つ。\n弓型の高水圧の水鉄砲で、\n多彩な攻撃が可能なニナ愛用の遠距離武器。",
+    "m_character_id": 1300050,
+    "is_default": 0,
+    "is_paid": 1,
+    "bonus_bond_point": 0,
+    "is_collabo": 0,
+    "released_at": "2026-07-31 13:00:00",
+    "asset_id": "41054014",
+    "display_order": 2
+  },
+  {
     "id": 900000001,
     "weapon_type": 1080,
     "rarity": 2,

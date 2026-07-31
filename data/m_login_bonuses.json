@@ -132,6 +132,30 @@
     "end_at": "2026-08-03 4:59:59"
   },
   {
+    "id": 12,
+    "login_type": 1,
+    "bonus_type": 2,
+    "condition_type": 0,
+    "condition_value": 0,
+    "display_priority": 12,
+    "display_order": 12,
+    "expire_days": 0,
+    "begin_at": "2026-07-31 13:00:00",
+    "end_at": "2026-08-10 4:59:59"
+  },
+  {
+    "id": 13,
+    "login_type": 1,
+    "bonus_type": 2,
+    "condition_type": 0,
+    "condition_value": 0,
+    "display_priority": 13,
+    "display_order": 13,
+    "expire_days": 0,
+    "begin_at": "2026-07-31 16:00:00",
+    "end_at": "2026-08-29 4:59:59"
+  },
+  {
     "id": 10001,
     "login_type": 1,
     "bonus_type": 91,
@@ -181,6 +205,42 @@
   },
   {
     "id": 10005,
+    "login_type": 1,
+    "bonus_type": 91,
+    "condition_type": 0,
+    "condition_value": 0,
+    "display_priority": 3,
+    "display_order": 3,
+    "expire_days": 10,
+    "begin_at": "2026-04-13 15:00:00",
+    "end_at": "2040-12-31 23:59:59"
+  },
+  {
+    "id": 10006,
+    "login_type": 1,
+    "bonus_type": 91,
+    "condition_type": 0,
+    "condition_value": 0,
+    "display_priority": 3,
+    "display_order": 3,
+    "expire_days": 10,
+    "begin_at": "2026-04-13 15:00:00",
+    "end_at": "2040-12-31 23:59:59"
+  },
+  {
+    "id": 10007,
+    "login_type": 1,
+    "bonus_type": 91,
+    "condition_type": 0,
+    "condition_value": 0,
+    "display_priority": 3,
+    "display_order": 3,
+    "expire_days": 10,
+    "begin_at": "2026-04-13 15:00:00",
+    "end_at": "2040-12-31 23:59:59"
+  },
+  {
+    "id": 10008,
     "login_type": 1,
     "bonus_type": 91,
     "condition_type": 0,

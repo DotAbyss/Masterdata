@@ -691,5 +691,27 @@
     "m_tavern_card_effect_id_1": 102012,
     "m_tavern_card_effect_id_2": 401007,
     "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 13000490,
+    "m_character_id": 1300049,
+    "m_character_skin_id": 130004902,
+    "name": "【水着】クルルの提案",
+    "effect_type": 2,
+    "description": "ランダムな「千国連合」の\nスタッフ最大3体に「ドリンク」を付与。\nそれらのスタッフの満足度+20%",
+    "m_tavern_card_effect_id_1": 102010,
+    "m_tavern_card_effect_id_2": 401007,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 13000500,
+    "m_character_id": 1300050,
+    "m_character_skin_id": 130005002,
+    "name": "【水着】ニナの提案",
+    "effect_type": 2,
+    "description": "ランダムな「ペルディオン」の\nスタッフ最大3体に「接客」を付与。\nそれらのスタッフの満足度+20%",
+    "m_tavern_card_effect_id_1": 102005,
+    "m_tavern_card_effect_id_2": 401005,
+    "m_tavern_card_effect_id_3": 0
   }
 ]

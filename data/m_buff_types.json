@@ -45,7 +45,7 @@
     "nameEN": "Attack Up",
     "limit": 0,
     "icon_asset_id": "Attack_UP",
-    "description": "攻撃力が50%上昇する状態"
+    "description": "攻撃力が{0}上昇する状態"
   },
   {
     "id": 20,
@@ -362,10 +362,10 @@
   {
     "id": 170,
     "name": "特殊行動制御",
-    "nameEN": "StellarRecord",
+    "nameEN": "",
     "limit": 0,
-    "icon_asset_id": "SteraRecord",
-    "description": "ステラレコードの力を得た状態"
+    "icon_asset_id": "",
+    "description": ""
   },
   {
     "id": 180,
@@ -501,7 +501,7 @@
     "nameEN": "Abnormal Resist Probability Up - ALL",
     "limit": 0,
     "icon_asset_id": "StatusCondition_UP",
-    "description": "全状態異常耐性が{0}%上昇する状態"
+    "description": "全状態異常耐性が{0}上昇する状態"
   },
   {
     "id": 1004,
@@ -509,7 +509,7 @@
     "nameEN": "Abnormal Resist Probability Down - ALL",
     "limit": 0,
     "icon_asset_id": "StatusCondition_DOWN",
-    "description": "全状態異常耐性が{0}%減少する状態"
+    "description": "全状態異常耐性が{0}減少する状態"
   },
   {
     "id": 1011,
@@ -533,7 +533,7 @@
     "nameEN": "Abnormal Resist Probability Up - Flame",
     "limit": 0,
     "icon_asset_id": "FlameResist_UP",
-    "description": "炎上耐性が{0}%上昇する状態"
+    "description": "炎上耐性が{0}上昇する状態"
   },
   {
     "id": 1014,
@@ -541,7 +541,15 @@
     "nameEN": "Abnormal Resist Probability Down - Flame",
     "limit": 0,
     "icon_asset_id": "FlameResist_DOWN",
-    "description": "炎上耐性が{0}%減少する状態"
+    "description": "炎上耐性が{0}減少する状態"
+  },
+  {
+    "id": 1015,
+    "name": "炎上耐性DOWN強度UP",
+    "nameEN": "Abnormal Resist Probability Down - Flame Strength Up",
+    "limit": 0,
+    "icon_asset_id": "ResistanceDecreaseBoostFlame",
+    "description": "炎上耐性DOWN強度が{0}%上昇する状態"
   },
   {
     "id": 1021,
@@ -565,7 +573,7 @@
     "nameEN": "Abnormal Resist Probability Up - Frozen",
     "limit": 0,
     "icon_asset_id": "FrozenResist_UP",
-    "description": "凍結耐性が{0}%上昇する状態"
+    "description": "凍結耐性が{0}上昇する状態"
   },
   {
     "id": 1024,
@@ -573,7 +581,15 @@
     "nameEN": "Abnormal Resist Probability Down - Frozen",
     "limit": 0,
     "icon_asset_id": "FrozenResist_DOWN",
-    "description": "凍結耐性が{0}%減少する状態"
+    "description": "凍結耐性が{0}減少する状態"
+  },
+  {
+    "id": 1025,
+    "name": "凍結耐性DOWN強度UP",
+    "nameEN": "Abnormal Resist Probability Down - Frozen Strength Up",
+    "limit": 0,
+    "icon_asset_id": "ResistanceDecreaseBoostFrozen",
+    "description": "凍結耐性DOWN強度が{0}%上昇する状態"
   },
   {
     "id": 1031,
@@ -597,7 +613,7 @@
     "nameEN": "Abnormal Resist Probability Up - Paralysis",
     "limit": 0,
     "icon_asset_id": "ParalysisResist_UP",
-    "description": "麻痺耐性が{0}%上昇する状態"
+    "description": "麻痺耐性が{0}上昇する状態"
   },
   {
     "id": 1034,
@@ -605,7 +621,15 @@
     "nameEN": "Abnormal Resist Probability Down - Paralysis",
     "limit": 0,
     "icon_asset_id": "ParalysisResist_DOWN",
-    "description": "麻痺耐性が{0}%減少する状態"
+    "description": "麻痺耐性が{0}減少する状態"
+  },
+  {
+    "id": 1035,
+    "name": "麻痺耐性DOWN強度UP",
+    "nameEN": "Abnormal Resist Probability Down - Paralysis Strength Up",
+    "limit": 0,
+    "icon_asset_id": "",
+    "description": "麻痺耐性DOWN強度が{0}%上昇する状態"
   },
   {
     "id": 1041,
@@ -629,7 +653,7 @@
     "nameEN": "Abnormal Resist Probability Up - Stone",
     "limit": 0,
     "icon_asset_id": "CuringResist_UP",
-    "description": "石化耐性が{0}%上昇する状態"
+    "description": "石化耐性が{0}上昇する状態"
   },
   {
     "id": 1044,
@@ -637,7 +661,15 @@
     "nameEN": "Abnormal Resist Probability Down - Stone",
     "limit": 0,
     "icon_asset_id": "CuringResist_DOWN",
-    "description": "石化耐性が{0}%減少する状態"
+    "description": "石化耐性が{0}減少する状態"
+  },
+  {
+    "id": 1045,
+    "name": "石化耐性DOWN強度UP",
+    "nameEN": "Abnormal Resist Probability Down - Stone Strength Up",
+    "limit": 0,
+    "icon_asset_id": "ResistanceDecreaseBoostCuring",
+    "description": "石化耐性DOWN強度が{0}%上昇する状態"
   },
   {
     "id": 1051,
@@ -661,7 +693,7 @@
     "nameEN": "Abnormal Resist Probability Up - Charm",
     "limit": 0,
     "icon_asset_id": "CharmResist_UP",
-    "description": "魅了耐性が{0}%上昇する状態"
+    "description": "魅了耐性が{0}上昇する状態"
   },
   {
     "id": 1054,
@@ -669,7 +701,15 @@
     "nameEN": "Abnormal Resist Probability Down - Charm",
     "limit": 0,
     "icon_asset_id": "CharmResist_DOWN",
-    "description": "魅了耐性が{0}%減少する状態"
+    "description": "魅了耐性が{0}減少する状態"
+  },
+  {
+    "id": 1055,
+    "name": "魅了耐性DOWN強度UP",
+    "nameEN": "Abnormal Resist Probability Down - Charm Strength Up",
+    "limit": 0,
+    "icon_asset_id": "ResistanceDecreaseBoostCharm",
+    "description": "魅了耐性DOWN強度が{0}%上昇する状態"
   },
   {
     "id": 1061,
@@ -693,7 +733,7 @@
     "nameEN": "Abnormal Resist Probability Up - Lost",
     "limit": 0,
     "icon_asset_id": "LostMotivationResist_UP",
-    "description": "喪失耐性が{0}%上昇する状態"
+    "description": "喪失耐性が{0}上昇する状態"
   },
   {
     "id": 1064,
@@ -701,7 +741,15 @@
     "nameEN": "Abnormal Resist Probability Down - Lost",
     "limit": 0,
     "icon_asset_id": "LostMotivationResist_DOWN",
-    "description": "喪失耐性が{0}%減少する状態"
+    "description": "喪失耐性が{0}減少する状態"
+  },
+  {
+    "id": 1065,
+    "name": "喪失耐性DOWN強度UP",
+    "nameEN": "Abnormal Resist Probability Down - Lost Strength Up",
+    "limit": 0,
+    "icon_asset_id": "ResistanceDecreaseBoostLostMotivation",
+    "description": "喪失耐性DOWN強度が{0}%上昇する状態"
   },
   {
     "id": 2001,

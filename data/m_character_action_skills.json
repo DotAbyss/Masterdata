@@ -866,5 +866,33 @@
     "trigger_type": 30,
     "name": "えぇい！持ってけドロボー！",
     "description": "対象が3体に変化 / 紋章：情熱が5以上のとき、対象にスキルチャージ効率UP【{[PRJCTL.AOE.ZEAL.SKILLCHARGEQUANTITYUP.RATE_PERCENT]} / 15秒】を付与"
+  },
+  {
+    "id": 1300049000,
+    "m_character_id": 1300049,
+    "trigger_type": 20,
+    "name": "サマースピリット・ホエール",
+    "description": "自身の前方範囲内にいる敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック【Lv3】"
+  },
+  {
+    "id": 1300049001,
+    "m_character_id": 1300049,
+    "trigger_type": 30,
+    "name": "サマースピリット・ホエール",
+    "description": "ダメージ倍率が【{[DAMAGE.DAMAGE_PERCENT]}】に変化  / 自身に紋章：情熱を【2】付与 / 紋章：情熱が5以上のとき、自身にスキル与ダメージUP【20% / {[ZEALOVER.SKILLDAMAGEUP.DURATION]秒}】を付与"
+  },
+  {
+    "id": 1300050000,
+    "m_character_id": 1300050,
+    "trigger_type": 20,
+    "name": "ハイドロ・プレシジョン",
+    "description": "HPが最も高い敵1体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 喪失耐性DOWN【15% / {[PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.DURATION]秒}】を付与 / 自身に紋章：衝撃を【1】付与"
+  },
+  {
+    "id": 1300050001,
+    "m_character_id": 1300050,
+    "trigger_type": 30,
+    "name": "ハイドロ・プレシジョン",
+    "description": "対象に喪失【{[PRJCTL.LAND.ABNORMAL.DURATION]秒} / 成功率:50%】を付与 / 紋章：衝撃を5消費し、味方バック全体に喪失状態の敵に対して与ダメージUP【{[IMPACT.ABNORMALLOSSTARGETDAMAGEUP.RATE_PERCENT]} / 15秒】を付与"
   }
 ]

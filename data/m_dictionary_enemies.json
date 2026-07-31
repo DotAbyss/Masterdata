@@ -1986,5 +1986,19 @@
     "size": 3,
     "quest_type": 2,
     "quest_id": 1070102
+  },
+  {
+    "id": 12001,
+    "asset_id": "2051201",
+    "group_no": 22,
+    "item_no": 144,
+    "priority_order": 1,
+    "title": "セイレーン",
+    "desciption": "古くから船乗りたちに恐れられているモンスター。\n水辺に棲まい美しい歌声で対象を惑わせ操る。\n絶世の美女とされるがそれは歌で見せた幻影である。",
+    "release_at": "2026-06-11 00:00:00",
+    "display_order": 6,
+    "size": 4,
+    "quest_type": 101,
+    "quest_id": 40
   }
 ]

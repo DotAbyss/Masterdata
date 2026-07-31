@@ -104,6 +104,22 @@
     "bonus_ratio": 300
   },
   {
+    "id": 30000301,
+    "m_event_id": 300003,
+    "m_character_id": 1300049,
+    "bonus_content_type": 54,
+    "bonus_content_id": 3002,
+    "bonus_ratio": 300
+  },
+  {
+    "id": 30000302,
+    "m_event_id": 300003,
+    "m_character_id": 1300050,
+    "bonus_content_type": 54,
+    "bonus_content_id": 3002,
+    "bonus_ratio": 300
+  },
+  {
     "id": 50000101,
     "m_event_id": 500001,
     "m_character_id": 1300027,
@@ -133,6 +149,38 @@
     "m_character_id": 1300037,
     "bonus_content_type": 54,
     "bonus_content_id": 5001,
+    "bonus_ratio": 300
+  },
+  {
+    "id": 50000201,
+    "m_event_id": 500002,
+    "m_character_id": 1300051,
+    "bonus_content_type": 54,
+    "bonus_content_id": 5002,
+    "bonus_ratio": 300
+  },
+  {
+    "id": 50000202,
+    "m_event_id": 500002,
+    "m_character_id": 1300051,
+    "bonus_content_type": 54,
+    "bonus_content_id": 5003,
+    "bonus_ratio": 300
+  },
+  {
+    "id": 50000203,
+    "m_event_id": 500002,
+    "m_character_id": 1300052,
+    "bonus_content_type": 54,
+    "bonus_content_id": 5002,
+    "bonus_ratio": 300
+  },
+  {
+    "id": 50000204,
+    "m_event_id": 500002,
+    "m_character_id": 1300052,
+    "bonus_content_type": 54,
+    "bonus_content_id": 5003,
     "bonus_ratio": 300
   },
   {

@@ -216,6 +216,114 @@
     "serif_type": 2
   },
   {
+    "id": 300003001,
+    "m_event_id": 300003,
+    "m_character_id": 1300049,
+    "character_asset_id": "112001000G",
+    "position": 1,
+    "serif": "わぁ～～いっ、うみだ～～っ！\nうみ、うみぃ～～♪\nクルル、犬かきうまいんだよ～！",
+    "serif_type": 1
+  },
+  {
+    "id": 300003002,
+    "m_event_id": 300003,
+    "m_character_id": 1300049,
+    "character_asset_id": "112001000G",
+    "position": 1,
+    "serif": "ニンギョって貝殻でオッパイ\nかくしてる女の子でしょ～？\nホントにいるのかなぁ～？",
+    "serif_type": 1
+  },
+  {
+    "id": 300003003,
+    "m_event_id": 300003,
+    "m_character_id": 1300050,
+    "character_asset_id": "110901000G",
+    "position": 1,
+    "serif": "こ、この装備は、御主人様が海で\n溺れたりした際に、お助けする\n為の装備ですから！",
+    "serif_type": 1
+  },
+  {
+    "id": 300003004,
+    "m_event_id": 300003,
+    "m_character_id": 1300050,
+    "character_asset_id": "110901000G",
+    "position": 1,
+    "serif": "日差しが強いですから、\n御主人様も水分補給は\nマメにしてくださいね",
+    "serif_type": 1
+  },
+  {
+    "id": 300003005,
+    "m_event_id": 300003,
+    "m_character_id": 1300049,
+    "character_asset_id": "112001000G",
+    "position": 1,
+    "serif": "よぉ～～し！　みんなでいくよ！\nドクロ岩へレッツゴーだ！\nヘイリーとヒマリをたすけよう！",
+    "serif_type": 1
+  },
+  {
+    "id": 300003006,
+    "m_event_id": 300003,
+    "m_character_id": 1300049,
+    "character_asset_id": "112001000G",
+    "position": 1,
+    "serif": "クルルが岩の上で見たの\nぜ～～ったいニンギョだよ！\n半分お魚だったもんっ！",
+    "serif_type": 1
+  },
+  {
+    "id": 300003007,
+    "m_event_id": 300003,
+    "m_character_id": 1300050,
+    "character_asset_id": "110901000G",
+    "position": 1,
+    "serif": "御主人様御安心を\nホノカさんが作ったこの武器は\n対水棲モンスター用ですから！",
+    "serif_type": 1
+  },
+  {
+    "id": 300003008,
+    "m_event_id": 300003,
+    "m_character_id": 1300050,
+    "character_asset_id": "110901000G",
+    "position": 1,
+    "serif": "ヒマリさんは絶対に生きています\nわたくしたちの手で\n必ず救い出しましょう！",
+    "serif_type": 1
+  },
+  {
+    "id": 300003009,
+    "m_event_id": 300003,
+    "m_character_id": 1300049,
+    "character_asset_id": "112001000G",
+    "position": 1,
+    "serif": "ホノカやめてよ～～！！\nその辛いのかけないでぇ～～！",
+    "serif_type": 2
+  },
+  {
+    "id": 300003010,
+    "m_event_id": 300003,
+    "m_character_id": 1300049,
+    "character_asset_id": "112001000G",
+    "position": 1,
+    "serif": "今回も楽しかったね～♪\n海でみんなで遊べたし♪\n強い敵もたおしちゃったし♪",
+    "serif_type": 2
+  },
+  {
+    "id": 300003011,
+    "m_event_id": 300003,
+    "m_character_id": 1300050,
+    "character_asset_id": "110901000G",
+    "position": 1,
+    "serif": "もうっ！　御主人様ったら、\nすぐにあぁやって、わたくしを\nからかうんですから……",
+    "serif_type": 2
+  },
+  {
+    "id": 300003012,
+    "m_event_id": 300003,
+    "m_character_id": 1300050,
+    "character_asset_id": "110901000G",
+    "position": 1,
+    "serif": "色々とありましたが、\n海ってすごくいい場所ですね。\nまた、来たいな……",
+    "serif_type": 2
+  },
+  {
     "id": 27,
     "m_event_id": 500001,
     "m_character_id": 1300027,
@@ -294,6 +402,33 @@
     "character_asset_id": "300601000",
     "position": 1,
     "serif": "ソフィアが信頼する人物……\nその手並み拝見させてもらうぞ",
+    "serif_type": 0
+  },
+  {
+    "id": 8000021,
+    "m_event_id": 800002,
+    "m_character_id": 1300002,
+    "character_asset_id": "300701000",
+    "position": 1,
+    "serif": "お姉様も無茶言うわね……\r\n司令官、悪いんだけど\r\nお願い出来るかしら？",
+    "serif_type": 0
+  },
+  {
+    "id": 8000022,
+    "m_event_id": 800002,
+    "m_character_id": 1300002,
+    "character_asset_id": "300701000",
+    "position": 1,
+    "serif": "見定めさせてもらうわ。\n彼がこの世界の命運を託すに\n値する人物かどうか……",
+    "serif_type": 0
+  },
+  {
+    "id": 8000023,
+    "m_event_id": 800002,
+    "m_character_id": 1300002,
+    "character_asset_id": "300701000",
+    "position": 1,
+    "serif": "魔術の発展のためにも\n魔石の解析は重要課題。\n優先的に回していただける？",
     "serif_type": 0
   },
   {

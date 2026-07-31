@@ -20,5 +20,16 @@
     "m_character_skin_id": 300201000,
     "logo_asset_id": "1600002",
     "pickup_reward_level": 50
+  },
+  {
+    "id": 202608,
+    "name": "コスチュームミッションパス",
+    "start_at": "2026-07-31 13:00:00",
+    "end_at": "2026-08-31 04:59:59",
+    "premium_m_payment_lineup_id": 90003,
+    "m_mission_pass_level_max": 50,
+    "m_character_skin_id": 130001603,
+    "logo_asset_id": "",
+    "pickup_reward_level": 50
   }
 ]
