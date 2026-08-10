@@ -179,7 +179,7 @@
     "m_character_id": 1100013,
     "trigger_type": 30,
     "name": "スパーキング・スラッシュ",
-    "description": "ダメージ倍率が【{[DAMAGE.DAMAGE_PERCENT]}】に変化 / 紋章：情熱が5以上のとき、自身のスキルを【{[SKILLCHARGEQUANTITYUP.RATE_PERCENT]}】チャージ"
+    "description": "ダメージ倍率が【{[DAMAGE.DAMAGE_PERCENT]}】に変化 / 紋章：情熱が5以上のとき、自身のスキルを【{[ZEAL.SKILL_CHARGE.CHARGE_VALUE]}】チャージ"
   },
   {
     "id": 1100014000,
@@ -894,5 +894,33 @@
     "trigger_type": 30,
     "name": "ハイドロ・プレシジョン",
     "description": "対象に喪失【{[PRJCTL.LAND.ABNORMAL.DURATION]秒} / 成功率:50%】を付与 / 紋章：衝撃を5消費し、味方バック全体に喪失状態の敵に対して与ダメージUP【{[IMPACT.ABNORMALLOSSTARGETDAMAGEUP.RATE_PERCENT]} / 15秒】を付与"
+  },
+  {
+    "id": 1300051000,
+    "m_character_id": 1300051,
+    "trigger_type": 20,
+    "name": "巻貝百華",
+    "description": "HPが最も低い敵を中心とした範囲内にいる敵全体に対象に炎上【{[PRJCTL.THROW.ABNORMAL.DURATION]秒} / 成功率:50%】を付与 / 【5HIT / 合計{[PRJCTL.THROW.DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 1300051001,
+    "m_character_id": 1300051,
+    "trigger_type": 30,
+    "name": "巻貝百華",
+    "description": "炎上状態の敵に対してダメージ倍率が【{[PRJCTL.THROW.DAMAGE.ENHANCE_0.DAMAGE_PERCENT]}】上昇"
+  },
+  {
+    "id": 1300052000,
+    "m_character_id": 1300052,
+    "trigger_type": 20,
+    "name": "魔眼の解放",
+    "description": "HPが最も高い敵1体に【3HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 継続ダメージ【50% / 15秒】を付与 / 自身に紋章：衝撃を【1】付与"
+  },
+  {
+    "id": 1300052001,
+    "m_character_id": 1300052,
+    "trigger_type": 30,
+    "name": "魔眼の解放",
+    "description": "紋章：衝撃を5消費し、対象に攻撃力DOWN【{[IMPACT.ATTACKDOWN.RATE_PERCENT]} / 15秒】と防御力DOWN【{[IMPACT.DEFENCEDOWN.RATE_PERCENT]} / 15秒】を付与"
   }
 ]

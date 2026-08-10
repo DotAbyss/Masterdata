@@ -25,6 +25,16 @@
     "m_event_currency_id": 5001
   },
   {
+    "id": 5000020,
+    "m_event_id": 500002,
+    "m_event_currency_id": 5002
+  },
+  {
+    "id": 5000021,
+    "m_event_id": 500002,
+    "m_event_currency_id": 5003
+  },
+  {
     "id": 600001,
     "m_event_id": 600001,
     "m_event_currency_id": 6000
@@ -43,6 +53,11 @@
     "id": 100002,
     "m_event_id": 100002,
     "m_event_currency_id": 1001
+  },
+  {
+    "id": 100003,
+    "m_event_id": 100003,
+    "m_event_currency_id": 1002
   },
   {
     "id": 1050001,

@@ -21844,7 +21844,7 @@
     "ability_no": 10108,
     "ability_awake_level": 0,
     "level": 1,
-    "description": "【発動条件】30秒に1回\n【効果】攻撃力が最も高い味方1体に会心率UP【{15% / 15秒】を付与 / 自身に紋章：情熱を【2】付与",
+    "description": "【発動条件】30秒に1回\n【効果】攻撃力が最も高い味方1体に会心率UP【{15%} / 15秒】を付与 / 自身に紋章：情熱を【2】付与",
     "awake_description": ""
   },
   {
@@ -31080,6 +31080,1446 @@
     "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
   },
   {
+    "id": 1017601,
+    "ability_no": 10176,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃がさらに炎上【{15秒} / 成功率:30%】を付与 / 自身に紋章：情熱を【1】付与に変化",
+    "awake_description": ""
+  },
+  {
+    "id": 1017602,
+    "ability_no": 10176,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃がさらに炎上【{15.4秒} / 成功率:30%】を付与 / 自身に紋章：情熱を【1】付与に変化",
+    "awake_description": ""
+  },
+  {
+    "id": 1017603,
+    "ability_no": 10176,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃がさらに炎上【{15.8秒} / 成功率:30%】を付与 / 自身に紋章：情熱を【1】付与に変化",
+    "awake_description": ""
+  },
+  {
+    "id": 1017604,
+    "ability_no": 10176,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃がさらに炎上【{16.2秒} / 成功率:30%】を付与 / 自身に紋章：情熱を【1】付与に変化",
+    "awake_description": ""
+  },
+  {
+    "id": 1017605,
+    "ability_no": 10176,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃がさらに炎上【{17秒} / 成功率:30%】を付与 / 自身に紋章：情熱を【1】付与に変化",
+    "awake_description": ""
+  },
+  {
+    "id": 1017606,
+    "ability_no": 10176,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃がさらに炎上【{17.5秒} / 成功率:30%】を付与 / 自身に紋章：情熱を【1】付与に変化",
+    "awake_description": ""
+  },
+  {
+    "id": 1017607,
+    "ability_no": 10176,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃がさらに炎上【{17.9秒} / 成功率:30%】を付与 / 自身に紋章：情熱を【1】付与に変化",
+    "awake_description": ""
+  },
+  {
+    "id": 1017608,
+    "ability_no": 10176,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃がさらに炎上【{18.7秒} / 成功率:30%】を付与 / 自身に紋章：情熱を【1】付与に変化",
+    "awake_description": ""
+  },
+  {
+    "id": 1017609,
+    "ability_no": 10176,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃がさらに炎上【{19.1秒} / 成功率:30%】を付与 / 自身に紋章：情熱を【1】付与に変化",
+    "awake_description": ""
+  },
+  {
+    "id": 1017610,
+    "ability_no": 10176,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃がさらに炎上【{20秒} / 成功率:30%】を付与 / 自身に紋章：情熱を【1】付与に変化",
+    "awake_description": ""
+  },
+  {
+    "id": 1017611,
+    "ability_no": 10176,
+    "ability_awake_level": 1,
+    "level": 1,
+    "description": "【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃がさらに炎上【{15秒} / 成功率:30%】を付与 / 自身に紋章：情熱を【1】付与に変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1017612,
+    "ability_no": 10176,
+    "ability_awake_level": 1,
+    "level": 2,
+    "description": "【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃がさらに炎上【{15.4秒} / 成功率:30%】を付与 / 自身に紋章：情熱を【1】付与に変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1017613,
+    "ability_no": 10176,
+    "ability_awake_level": 1,
+    "level": 3,
+    "description": "【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃がさらに炎上【{15.8秒} / 成功率:30%】を付与 / 自身に紋章：情熱を【1】付与に変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1017614,
+    "ability_no": 10176,
+    "ability_awake_level": 1,
+    "level": 4,
+    "description": "【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃がさらに炎上【{16.2秒} / 成功率:30%】を付与 / 自身に紋章：情熱を【1】付与に変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1017615,
+    "ability_no": 10176,
+    "ability_awake_level": 1,
+    "level": 5,
+    "description": "【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃がさらに炎上【{17秒} / 成功率:30%】を付与 / 自身に紋章：情熱を【1】付与に変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1017616,
+    "ability_no": 10176,
+    "ability_awake_level": 1,
+    "level": 6,
+    "description": "【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃がさらに炎上【{17.5秒} / 成功率:30%】を付与 / 自身に紋章：情熱を【1】付与に変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1017617,
+    "ability_no": 10176,
+    "ability_awake_level": 1,
+    "level": 7,
+    "description": "【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃がさらに炎上【{17.9秒} / 成功率:30%】を付与 / 自身に紋章：情熱を【1】付与に変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1017618,
+    "ability_no": 10176,
+    "ability_awake_level": 1,
+    "level": 8,
+    "description": "【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃がさらに炎上【{18.7秒} / 成功率:30%】を付与 / 自身に紋章：情熱を【1】付与に変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1017619,
+    "ability_no": 10176,
+    "ability_awake_level": 1,
+    "level": 9,
+    "description": "【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃がさらに炎上【{19.1秒} / 成功率:30%】を付与 / 自身に紋章：情熱を【1】付与に変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1017620,
+    "ability_no": 10176,
+    "ability_awake_level": 1,
+    "level": 10,
+    "description": "【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃がさらに炎上【{20秒} / 成功率:30%】を付与 / 自身に紋章：情熱を【1】付与に変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1017621,
+    "ability_no": 10176,
+    "ability_awake_level": 2,
+    "level": 1,
+    "description": "【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃がさらに炎上【{15秒} / 成功率:30%】を付与 / 自身に紋章：情熱を【1】付与に変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1017622,
+    "ability_no": 10176,
+    "ability_awake_level": 2,
+    "level": 2,
+    "description": "【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃がさらに炎上【{15.4秒} / 成功率:30%】を付与 / 自身に紋章：情熱を【1】付与に変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1017623,
+    "ability_no": 10176,
+    "ability_awake_level": 2,
+    "level": 3,
+    "description": "【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃がさらに炎上【{15.8秒} / 成功率:30%】を付与 / 自身に紋章：情熱を【1】付与に変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1017624,
+    "ability_no": 10176,
+    "ability_awake_level": 2,
+    "level": 4,
+    "description": "【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃がさらに炎上【{16.2秒} / 成功率:30%】を付与 / 自身に紋章：情熱を【1】付与に変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1017625,
+    "ability_no": 10176,
+    "ability_awake_level": 2,
+    "level": 5,
+    "description": "【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃がさらに炎上【{17秒} / 成功率:30%】を付与 / 自身に紋章：情熱を【1】付与に変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1017626,
+    "ability_no": 10176,
+    "ability_awake_level": 2,
+    "level": 6,
+    "description": "【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃がさらに炎上【{17.5秒} / 成功率:30%】を付与 / 自身に紋章：情熱を【1】付与に変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1017627,
+    "ability_no": 10176,
+    "ability_awake_level": 2,
+    "level": 7,
+    "description": "【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃がさらに炎上【{17.9秒} / 成功率:30%】を付与 / 自身に紋章：情熱を【1】付与に変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1017628,
+    "ability_no": 10176,
+    "ability_awake_level": 2,
+    "level": 8,
+    "description": "【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃がさらに炎上【{18.7秒} / 成功率:30%】を付与 / 自身に紋章：情熱を【1】付与に変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1017629,
+    "ability_no": 10176,
+    "ability_awake_level": 2,
+    "level": 9,
+    "description": "【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃がさらに炎上【{19.1秒} / 成功率:30%】を付与 / 自身に紋章：情熱を【1】付与に変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1017630,
+    "ability_no": 10176,
+    "ability_awake_level": 2,
+    "level": 10,
+    "description": "【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃がさらに炎上【{20秒} / 成功率:30%】を付与 / 自身に紋章：情熱を【1】付与に変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1017701,
+    "ability_no": 10177,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "紋章：情熱が5以上のとき、自身が付与する状態異常の確率が【{20%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 1017702,
+    "ability_no": 10177,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "紋章：情熱が5以上のとき、自身が付与する状態異常の確率が【{20.8%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 1017703,
+    "ability_no": 10177,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "紋章：情熱が5以上のとき、自身が付与する状態異常の確率が【{21.6%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 1017704,
+    "ability_no": 10177,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "紋章：情熱が5以上のとき、自身が付与する状態異常の確率が【{22.5%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 1017705,
+    "ability_no": 10177,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "紋章：情熱が5以上のとき、自身が付与する状態異常の確率が【{24.1%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 1017706,
+    "ability_no": 10177,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "紋章：情熱が5以上のとき、自身が付与する状態異常の確率が【{25%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 1017707,
+    "ability_no": 10177,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "紋章：情熱が5以上のとき、自身が付与する状態異常の確率が【{25.8%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 1017708,
+    "ability_no": 10177,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "紋章：情熱が5以上のとき、自身が付与する状態異常の確率が【{27.5%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 1017709,
+    "ability_no": 10177,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "紋章：情熱が5以上のとき、自身が付与する状態異常の確率が【{28.3%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 1017710,
+    "ability_no": 10177,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "紋章：情熱が5以上のとき、自身が付与する状態異常の確率が【{30%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 1017711,
+    "ability_no": 10177,
+    "ability_awake_level": 1,
+    "level": 1,
+    "description": "紋章：情熱が5以上のとき、自身が付与する状態異常の確率が【{20%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{5%}】上昇"
+  },
+  {
+    "id": 1017712,
+    "ability_no": 10177,
+    "ability_awake_level": 1,
+    "level": 2,
+    "description": "紋章：情熱が5以上のとき、自身が付与する状態異常の確率が【{20.8%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{5%}】上昇"
+  },
+  {
+    "id": 1017713,
+    "ability_no": 10177,
+    "ability_awake_level": 1,
+    "level": 3,
+    "description": "紋章：情熱が5以上のとき、自身が付与する状態異常の確率が【{21.6%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{5%}】上昇"
+  },
+  {
+    "id": 1017714,
+    "ability_no": 10177,
+    "ability_awake_level": 1,
+    "level": 4,
+    "description": "紋章：情熱が5以上のとき、自身が付与する状態異常の確率が【{22.5%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{5%}】上昇"
+  },
+  {
+    "id": 1017715,
+    "ability_no": 10177,
+    "ability_awake_level": 1,
+    "level": 5,
+    "description": "紋章：情熱が5以上のとき、自身が付与する状態異常の確率が【{24.1%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{5%}】上昇"
+  },
+  {
+    "id": 1017716,
+    "ability_no": 10177,
+    "ability_awake_level": 1,
+    "level": 6,
+    "description": "紋章：情熱が5以上のとき、自身が付与する状態異常の確率が【{25%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{5%}】上昇"
+  },
+  {
+    "id": 1017717,
+    "ability_no": 10177,
+    "ability_awake_level": 1,
+    "level": 7,
+    "description": "紋章：情熱が5以上のとき、自身が付与する状態異常の確率が【{25.8%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{5%}】上昇"
+  },
+  {
+    "id": 1017718,
+    "ability_no": 10177,
+    "ability_awake_level": 1,
+    "level": 8,
+    "description": "紋章：情熱が5以上のとき、自身が付与する状態異常の確率が【{27.5%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{5%}】上昇"
+  },
+  {
+    "id": 1017719,
+    "ability_no": 10177,
+    "ability_awake_level": 1,
+    "level": 9,
+    "description": "紋章：情熱が5以上のとき、自身が付与する状態異常の確率が【{28.3%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{5%}】上昇"
+  },
+  {
+    "id": 1017720,
+    "ability_no": 10177,
+    "ability_awake_level": 1,
+    "level": 10,
+    "description": "紋章：情熱が5以上のとき、自身が付与する状態異常の確率が【{30%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{5%}】上昇"
+  },
+  {
+    "id": 1017721,
+    "ability_no": 10177,
+    "ability_awake_level": 2,
+    "level": 1,
+    "description": "紋章：情熱が5以上のとき、自身が付与する状態異常の確率が【{20%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{9.5%}】上昇"
+  },
+  {
+    "id": 1017722,
+    "ability_no": 10177,
+    "ability_awake_level": 2,
+    "level": 2,
+    "description": "紋章：情熱が5以上のとき、自身が付与する状態異常の確率が【{20.8%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{9.5%}】上昇"
+  },
+  {
+    "id": 1017723,
+    "ability_no": 10177,
+    "ability_awake_level": 2,
+    "level": 3,
+    "description": "紋章：情熱が5以上のとき、自身が付与する状態異常の確率が【{21.6%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{9.5%}】上昇"
+  },
+  {
+    "id": 1017724,
+    "ability_no": 10177,
+    "ability_awake_level": 2,
+    "level": 4,
+    "description": "紋章：情熱が5以上のとき、自身が付与する状態異常の確率が【{22.5%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{9.5%}】上昇"
+  },
+  {
+    "id": 1017725,
+    "ability_no": 10177,
+    "ability_awake_level": 2,
+    "level": 5,
+    "description": "紋章：情熱が5以上のとき、自身が付与する状態異常の確率が【{24.1%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{9.5%}】上昇"
+  },
+  {
+    "id": 1017726,
+    "ability_no": 10177,
+    "ability_awake_level": 2,
+    "level": 6,
+    "description": "紋章：情熱が5以上のとき、自身が付与する状態異常の確率が【{25%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{9.5%}】上昇"
+  },
+  {
+    "id": 1017727,
+    "ability_no": 10177,
+    "ability_awake_level": 2,
+    "level": 7,
+    "description": "紋章：情熱が5以上のとき、自身が付与する状態異常の確率が【{25.8%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{9.5%}】上昇"
+  },
+  {
+    "id": 1017728,
+    "ability_no": 10177,
+    "ability_awake_level": 2,
+    "level": 8,
+    "description": "紋章：情熱が5以上のとき、自身が付与する状態異常の確率が【{27.5%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{9.5%}】上昇"
+  },
+  {
+    "id": 1017729,
+    "ability_no": 10177,
+    "ability_awake_level": 2,
+    "level": 9,
+    "description": "紋章：情熱が5以上のとき、自身が付与する状態異常の確率が【{28.3%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{9.5%}】上昇"
+  },
+  {
+    "id": 1017730,
+    "ability_no": 10177,
+    "ability_awake_level": 2,
+    "level": 10,
+    "description": "紋章：情熱が5以上のとき、自身が付与する状態異常の確率が【{30%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{9.5%}】上昇"
+  },
+  {
+    "id": 1017801,
+    "ability_no": 10178,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "自身に紋章：情熱が付与されたとき、自身に炎上状態の敵に対して与ダメージUP【{0.4%}】を付与【累積 / 最大20%】",
+    "awake_description": ""
+  },
+  {
+    "id": 1017802,
+    "ability_no": 10178,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "自身に紋章：情熱が付与されたとき、自身に炎上状態の敵に対して与ダメージUP【{0.7%}】を付与【累積 / 最大20%】",
+    "awake_description": ""
+  },
+  {
+    "id": 1017803,
+    "ability_no": 10178,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "自身に紋章：情熱が付与されたとき、自身に炎上状態の敵に対して与ダメージUP【{1%}】を付与【累積 / 最大20%】",
+    "awake_description": ""
+  },
+  {
+    "id": 1017804,
+    "ability_no": 10178,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "自身に紋章：情熱が付与されたとき、自身に炎上状態の敵に対して与ダメージUP【{1.3%}】を付与【累積 / 最大20%】",
+    "awake_description": ""
+  },
+  {
+    "id": 1017805,
+    "ability_no": 10178,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "自身に紋章：情熱が付与されたとき、自身に炎上状態の敵に対して与ダメージUP【{1.9%}】を付与【累積 / 最大20%】",
+    "awake_description": ""
+  },
+  {
+    "id": 1017806,
+    "ability_no": 10178,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "自身に紋章：情熱が付与されたとき、自身に炎上状態の敵に対して与ダメージUP【{2.2%}】を付与【累積 / 最大20%】",
+    "awake_description": ""
+  },
+  {
+    "id": 1017807,
+    "ability_no": 10178,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "自身に紋章：情熱が付与されたとき、自身に炎上状態の敵に対して与ダメージUP【{2.5%}】を付与【累積 / 最大20%】",
+    "awake_description": ""
+  },
+  {
+    "id": 1017808,
+    "ability_no": 10178,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "自身に紋章：情熱が付与されたとき、自身に炎上状態の敵に対して与ダメージUP【{3.1%}】を付与【累積 / 最大20%】",
+    "awake_description": ""
+  },
+  {
+    "id": 1017809,
+    "ability_no": 10178,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "自身に紋章：情熱が付与されたとき、自身に炎上状態の敵に対して与ダメージUP【{3.4%}】を付与【累積 / 最大20%】",
+    "awake_description": ""
+  },
+  {
+    "id": 1017810,
+    "ability_no": 10178,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "自身に紋章：情熱が付与されたとき、自身に炎上状態の敵に対して与ダメージUP【{4%}】を付与【累積 / 最大20%】",
+    "awake_description": ""
+  },
+  {
+    "id": 1017811,
+    "ability_no": 10178,
+    "ability_awake_level": 1,
+    "level": 1,
+    "description": "自身に紋章：情熱が付与されたとき、自身に炎上状態の敵に対して与ダメージUP【{0.4%}】を付与【累積 / 最大20%】",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{1}】付与"
+  },
+  {
+    "id": 1017812,
+    "ability_no": 10178,
+    "ability_awake_level": 1,
+    "level": 2,
+    "description": "自身に紋章：情熱が付与されたとき、自身に炎上状態の敵に対して与ダメージUP【{0.7%}】を付与【累積 / 最大20%】",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{1}】付与"
+  },
+  {
+    "id": 1017813,
+    "ability_no": 10178,
+    "ability_awake_level": 1,
+    "level": 3,
+    "description": "自身に紋章：情熱が付与されたとき、自身に炎上状態の敵に対して与ダメージUP【{1%}】を付与【累積 / 最大20%】",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{1}】付与"
+  },
+  {
+    "id": 1017814,
+    "ability_no": 10178,
+    "ability_awake_level": 1,
+    "level": 4,
+    "description": "自身に紋章：情熱が付与されたとき、自身に炎上状態の敵に対して与ダメージUP【{1.3%}】を付与【累積 / 最大20%】",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{1}】付与"
+  },
+  {
+    "id": 1017815,
+    "ability_no": 10178,
+    "ability_awake_level": 1,
+    "level": 5,
+    "description": "自身に紋章：情熱が付与されたとき、自身に炎上状態の敵に対して与ダメージUP【{1.9%}】を付与【累積 / 最大20%】",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{1}】付与"
+  },
+  {
+    "id": 1017816,
+    "ability_no": 10178,
+    "ability_awake_level": 1,
+    "level": 6,
+    "description": "自身に紋章：情熱が付与されたとき、自身に炎上状態の敵に対して与ダメージUP【{2.2%}】を付与【累積 / 最大20%】",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{1}】付与"
+  },
+  {
+    "id": 1017817,
+    "ability_no": 10178,
+    "ability_awake_level": 1,
+    "level": 7,
+    "description": "自身に紋章：情熱が付与されたとき、自身に炎上状態の敵に対して与ダメージUP【{2.5%}】を付与【累積 / 最大20%】",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{1}】付与"
+  },
+  {
+    "id": 1017818,
+    "ability_no": 10178,
+    "ability_awake_level": 1,
+    "level": 8,
+    "description": "自身に紋章：情熱が付与されたとき、自身に炎上状態の敵に対して与ダメージUP【{3.1%}】を付与【累積 / 最大20%】",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{1}】付与"
+  },
+  {
+    "id": 1017819,
+    "ability_no": 10178,
+    "ability_awake_level": 1,
+    "level": 9,
+    "description": "自身に紋章：情熱が付与されたとき、自身に炎上状態の敵に対して与ダメージUP【{3.4%}】を付与【累積 / 最大20%】",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{1}】付与"
+  },
+  {
+    "id": 1017820,
+    "ability_no": 10178,
+    "ability_awake_level": 1,
+    "level": 10,
+    "description": "自身に紋章：情熱が付与されたとき、自身に炎上状態の敵に対して与ダメージUP【{4%}】を付与【累積 / 最大20%】",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{1}】付与"
+  },
+  {
+    "id": 1017821,
+    "ability_no": 10178,
+    "ability_awake_level": 2,
+    "level": 1,
+    "description": "自身に紋章：情熱が付与されたとき、自身に炎上状態の敵に対して与ダメージUP【{0.4%}】を付与【累積 / 最大20%】",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{2}】付与"
+  },
+  {
+    "id": 1017822,
+    "ability_no": 10178,
+    "ability_awake_level": 2,
+    "level": 2,
+    "description": "自身に紋章：情熱が付与されたとき、自身に炎上状態の敵に対して与ダメージUP【{0.7%}】を付与【累積 / 最大20%】",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{2}】付与"
+  },
+  {
+    "id": 1017823,
+    "ability_no": 10178,
+    "ability_awake_level": 2,
+    "level": 3,
+    "description": "自身に紋章：情熱が付与されたとき、自身に炎上状態の敵に対して与ダメージUP【{1%}】を付与【累積 / 最大20%】",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{2}】付与"
+  },
+  {
+    "id": 1017824,
+    "ability_no": 10178,
+    "ability_awake_level": 2,
+    "level": 4,
+    "description": "自身に紋章：情熱が付与されたとき、自身に炎上状態の敵に対して与ダメージUP【{1.3%}】を付与【累積 / 最大20%】",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{2}】付与"
+  },
+  {
+    "id": 1017825,
+    "ability_no": 10178,
+    "ability_awake_level": 2,
+    "level": 5,
+    "description": "自身に紋章：情熱が付与されたとき、自身に炎上状態の敵に対して与ダメージUP【{1.9%}】を付与【累積 / 最大20%】",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{2}】付与"
+  },
+  {
+    "id": 1017826,
+    "ability_no": 10178,
+    "ability_awake_level": 2,
+    "level": 6,
+    "description": "自身に紋章：情熱が付与されたとき、自身に炎上状態の敵に対して与ダメージUP【{2.2%}】を付与【累積 / 最大20%】",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{2}】付与"
+  },
+  {
+    "id": 1017827,
+    "ability_no": 10178,
+    "ability_awake_level": 2,
+    "level": 7,
+    "description": "自身に紋章：情熱が付与されたとき、自身に炎上状態の敵に対して与ダメージUP【{2.5%}】を付与【累積 / 最大20%】",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{2}】付与"
+  },
+  {
+    "id": 1017828,
+    "ability_no": 10178,
+    "ability_awake_level": 2,
+    "level": 8,
+    "description": "自身に紋章：情熱が付与されたとき、自身に炎上状態の敵に対して与ダメージUP【{3.1%}】を付与【累積 / 最大20%】",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{2}】付与"
+  },
+  {
+    "id": 1017829,
+    "ability_no": 10178,
+    "ability_awake_level": 2,
+    "level": 9,
+    "description": "自身に紋章：情熱が付与されたとき、自身に炎上状態の敵に対して与ダメージUP【{3.4%}】を付与【累積 / 最大20%】",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{2}】付与"
+  },
+  {
+    "id": 1017830,
+    "ability_no": 10178,
+    "ability_awake_level": 2,
+    "level": 10,
+    "description": "自身に紋章：情熱が付与されたとき、自身に炎上状態の敵に対して与ダメージUP【{4%}】を付与【累積 / 最大20%】",
+    "awake_description": "30秒に1回、自身に紋章：情熱を【{2}】付与"
+  },
+  {
+    "id": 1017901,
+    "ability_no": 10179,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "【発動条件】20秒に1回\n【効果】HPが最も高い敵1体に【1HIT / 合計{110%}】ダメージ/ 被ダメージUP【{1%} / 10秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 1017902,
+    "ability_no": 10179,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "【発動条件】20秒に1回\n【効果】HPが最も高い敵1体に【1HIT / 合計{113.3%}】ダメージ/ 被ダメージUP【{1.7%} / 10秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 1017903,
+    "ability_no": 10179,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "【発動条件】20秒に1回\n【効果】HPが最も高い敵1体に【1HIT / 合計{116.6%}】ダメージ/ 被ダメージUP【{2.5%} / 10秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 1017904,
+    "ability_no": 10179,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "【発動条件】20秒に1回\n【効果】HPが最も高い敵1体に【1HIT / 合計{120%}】ダメージ/ 被ダメージUP【{3.2%} / 10秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 1017905,
+    "ability_no": 10179,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "【発動条件】20秒に1回\n【効果】HPが最も高い敵1体に【1HIT / 合計{126.6%}】ダメージ/ 被ダメージUP【{4.7%} / 10秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 1017906,
+    "ability_no": 10179,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "【発動条件】20秒に1回\n【効果】HPが最も高い敵1体に【1HIT / 合計{130%}】ダメージ/ 被ダメージUP【{5.5%} / 10秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 1017907,
+    "ability_no": 10179,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "【発動条件】20秒に1回\n【効果】HPが最も高い敵1体に【1HIT / 合計{133.3%}】ダメージ/ 被ダメージUP【{6.2%} / 10秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 1017908,
+    "ability_no": 10179,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "【発動条件】20秒に1回\n【効果】HPが最も高い敵1体に【1HIT / 合計{140%}】ダメージ/ 被ダメージUP【{7.7%} / 10秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 1017909,
+    "ability_no": 10179,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "【発動条件】20秒に1回\n【効果】HPが最も高い敵1体に【1HIT / 合計{143.3%}】ダメージ/ 被ダメージUP【{8.5%} / 10秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 1017910,
+    "ability_no": 10179,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "【発動条件】20秒に1回\n【効果】HPが最も高い敵1体に【1HIT / 合計{150%}】ダメージ/ 被ダメージUP【{10%} / 10秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 1017911,
+    "ability_no": 10179,
+    "ability_awake_level": 1,
+    "level": 1,
+    "description": "【発動条件】20秒に1回\n【効果】HPが最も高い敵1体に【1HIT / 合計{110%}】ダメージ/ 被ダメージUP【{1%} / 10秒】を付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1017912,
+    "ability_no": 10179,
+    "ability_awake_level": 1,
+    "level": 2,
+    "description": "【発動条件】20秒に1回\n【効果】HPが最も高い敵1体に【1HIT / 合計{113.3%}】ダメージ/ 被ダメージUP【{1.7%} / 10秒】を付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1017913,
+    "ability_no": 10179,
+    "ability_awake_level": 1,
+    "level": 3,
+    "description": "【発動条件】20秒に1回\n【効果】HPが最も高い敵1体に【1HIT / 合計{116.6%}】ダメージ/ 被ダメージUP【{2.5%} / 10秒】を付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1017914,
+    "ability_no": 10179,
+    "ability_awake_level": 1,
+    "level": 4,
+    "description": "【発動条件】20秒に1回\n【効果】HPが最も高い敵1体に【1HIT / 合計{120%}】ダメージ/ 被ダメージUP【{3.2%} / 10秒】を付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1017915,
+    "ability_no": 10179,
+    "ability_awake_level": 1,
+    "level": 5,
+    "description": "【発動条件】20秒に1回\n【効果】HPが最も高い敵1体に【1HIT / 合計{126.6%}】ダメージ/ 被ダメージUP【{4.7%} / 10秒】を付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1017916,
+    "ability_no": 10179,
+    "ability_awake_level": 1,
+    "level": 6,
+    "description": "【発動条件】20秒に1回\n【効果】HPが最も高い敵1体に【1HIT / 合計{130%}】ダメージ/ 被ダメージUP【{5.5%} / 10秒】を付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1017917,
+    "ability_no": 10179,
+    "ability_awake_level": 1,
+    "level": 7,
+    "description": "【発動条件】20秒に1回\n【効果】HPが最も高い敵1体に【1HIT / 合計{133.3%}】ダメージ/ 被ダメージUP【{6.2%} / 10秒】を付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1017918,
+    "ability_no": 10179,
+    "ability_awake_level": 1,
+    "level": 8,
+    "description": "【発動条件】20秒に1回\n【効果】HPが最も高い敵1体に【1HIT / 合計{140%}】ダメージ/ 被ダメージUP【{7.7%} / 10秒】を付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1017919,
+    "ability_no": 10179,
+    "ability_awake_level": 1,
+    "level": 9,
+    "description": "【発動条件】20秒に1回\n【効果】HPが最も高い敵1体に【1HIT / 合計{143.3%}】ダメージ/ 被ダメージUP【{8.5%} / 10秒】を付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1017920,
+    "ability_no": 10179,
+    "ability_awake_level": 1,
+    "level": 10,
+    "description": "【発動条件】20秒に1回\n【効果】HPが最も高い敵1体に【1HIT / 合計{150%}】ダメージ/ 被ダメージUP【{10%} / 10秒】を付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1017921,
+    "ability_no": 10179,
+    "ability_awake_level": 2,
+    "level": 1,
+    "description": "【発動条件】20秒に1回\n【効果】HPが最も高い敵1体に【1HIT / 合計{110%}】ダメージ/ 被ダメージUP【{1%} / 10秒】を付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1017922,
+    "ability_no": 10179,
+    "ability_awake_level": 2,
+    "level": 2,
+    "description": "【発動条件】20秒に1回\n【効果】HPが最も高い敵1体に【1HIT / 合計{113.3%}】ダメージ/ 被ダメージUP【{1.7%} / 10秒】を付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1017923,
+    "ability_no": 10179,
+    "ability_awake_level": 2,
+    "level": 3,
+    "description": "【発動条件】20秒に1回\n【効果】HPが最も高い敵1体に【1HIT / 合計{116.6%}】ダメージ/ 被ダメージUP【{2.5%} / 10秒】を付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1017924,
+    "ability_no": 10179,
+    "ability_awake_level": 2,
+    "level": 4,
+    "description": "【発動条件】20秒に1回\n【効果】HPが最も高い敵1体に【1HIT / 合計{120%}】ダメージ/ 被ダメージUP【{3.2%} / 10秒】を付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1017925,
+    "ability_no": 10179,
+    "ability_awake_level": 2,
+    "level": 5,
+    "description": "【発動条件】20秒に1回\n【効果】HPが最も高い敵1体に【1HIT / 合計{126.6%}】ダメージ/ 被ダメージUP【{4.7%} / 10秒】を付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1017926,
+    "ability_no": 10179,
+    "ability_awake_level": 2,
+    "level": 6,
+    "description": "【発動条件】20秒に1回\n【効果】HPが最も高い敵1体に【1HIT / 合計{130%}】ダメージ/ 被ダメージUP【{5.5%} / 10秒】を付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1017927,
+    "ability_no": 10179,
+    "ability_awake_level": 2,
+    "level": 7,
+    "description": "【発動条件】20秒に1回\n【効果】HPが最も高い敵1体に【1HIT / 合計{133.3%}】ダメージ/ 被ダメージUP【{6.2%} / 10秒】を付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1017928,
+    "ability_no": 10179,
+    "ability_awake_level": 2,
+    "level": 8,
+    "description": "【発動条件】20秒に1回\n【効果】HPが最も高い敵1体に【1HIT / 合計{140%}】ダメージ/ 被ダメージUP【{7.7%} / 10秒】を付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1017929,
+    "ability_no": 10179,
+    "ability_awake_level": 2,
+    "level": 9,
+    "description": "【発動条件】20秒に1回\n【効果】HPが最も高い敵1体に【1HIT / 合計{143.3%}】ダメージ/ 被ダメージUP【{8.5%} / 10秒】を付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1017930,
+    "ability_no": 10179,
+    "ability_awake_level": 2,
+    "level": 10,
+    "description": "【発動条件】20秒に1回\n【効果】HPが最も高い敵1体に【1HIT / 合計{150%}】ダメージ/ 被ダメージUP【{10%} / 10秒】を付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1018001,
+    "ability_no": 10180,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "自身の攻撃力が【{3%}】上昇 / 20秒に1回、マナを【{0.75}】チャージ",
+    "awake_description": ""
+  },
+  {
+    "id": 1018002,
+    "ability_no": 10180,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "自身の攻撃力が【{5.2%}】上昇 / 20秒に1回、マナを【{0.81}】チャージ",
+    "awake_description": ""
+  },
+  {
+    "id": 1018003,
+    "ability_no": 10180,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "自身の攻撃力が【{7.5%}】上昇 / 20秒に1回、マナを【{0.87}】チャージ",
+    "awake_description": ""
+  },
+  {
+    "id": 1018004,
+    "ability_no": 10180,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "自身の攻撃力が【{9.7%}】上昇 / 20秒に1回、マナを【{0.93}】チャージ",
+    "awake_description": ""
+  },
+  {
+    "id": 1018005,
+    "ability_no": 10180,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "自身の攻撃力が【{14.2%}】上昇 / 20秒に1回、マナを【{1.06}】チャージ",
+    "awake_description": ""
+  },
+  {
+    "id": 1018006,
+    "ability_no": 10180,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "自身の攻撃力が【{16.5%}】上昇 / 20秒に1回、マナを【{1.12}】チャージ",
+    "awake_description": ""
+  },
+  {
+    "id": 1018007,
+    "ability_no": 10180,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "自身の攻撃力が【{18.7%}】上昇 / 20秒に1回、マナを【{1.18}】チャージ",
+    "awake_description": ""
+  },
+  {
+    "id": 1018008,
+    "ability_no": 10180,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "自身の攻撃力が【{23.2%}】上昇 / 20秒に1回、マナを【{1.31}】チャージ",
+    "awake_description": ""
+  },
+  {
+    "id": 1018009,
+    "ability_no": 10180,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "自身の攻撃力が【{25.5%}】上昇 / 20秒に1回、マナを【{1.37}】チャージ",
+    "awake_description": ""
+  },
+  {
+    "id": 1018010,
+    "ability_no": 10180,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "自身の攻撃力が【{30%}】上昇 / 20秒に1回、マナを【{1.5}】チャージ",
+    "awake_description": ""
+  },
+  {
+    "id": 1018011,
+    "ability_no": 10180,
+    "ability_awake_level": 1,
+    "level": 1,
+    "description": "自身の攻撃力が【{3%}】上昇 / 20秒に1回、マナを【{0.75}】チャージ",
+    "awake_description": "自身のスキルチャージ効率が【{5%}】上昇"
+  },
+  {
+    "id": 1018012,
+    "ability_no": 10180,
+    "ability_awake_level": 1,
+    "level": 2,
+    "description": "自身の攻撃力が【{5.2%}】上昇 / 20秒に1回、マナを【{0.81}】チャージ",
+    "awake_description": "自身のスキルチャージ効率が【{5%}】上昇"
+  },
+  {
+    "id": 1018013,
+    "ability_no": 10180,
+    "ability_awake_level": 1,
+    "level": 3,
+    "description": "自身の攻撃力が【{7.5%}】上昇 / 20秒に1回、マナを【{0.87}】チャージ",
+    "awake_description": "自身のスキルチャージ効率が【{5%}】上昇"
+  },
+  {
+    "id": 1018014,
+    "ability_no": 10180,
+    "ability_awake_level": 1,
+    "level": 4,
+    "description": "自身の攻撃力が【{9.7%}】上昇 / 20秒に1回、マナを【{0.93}】チャージ",
+    "awake_description": "自身のスキルチャージ効率が【{5%}】上昇"
+  },
+  {
+    "id": 1018015,
+    "ability_no": 10180,
+    "ability_awake_level": 1,
+    "level": 5,
+    "description": "自身の攻撃力が【{14.2%}】上昇 / 20秒に1回、マナを【{1.06}】チャージ",
+    "awake_description": "自身のスキルチャージ効率が【{5%}】上昇"
+  },
+  {
+    "id": 1018016,
+    "ability_no": 10180,
+    "ability_awake_level": 1,
+    "level": 6,
+    "description": "自身の攻撃力が【{16.5%}】上昇 / 20秒に1回、マナを【{1.12}】チャージ",
+    "awake_description": "自身のスキルチャージ効率が【{5%}】上昇"
+  },
+  {
+    "id": 1018017,
+    "ability_no": 10180,
+    "ability_awake_level": 1,
+    "level": 7,
+    "description": "自身の攻撃力が【{18.7%}】上昇 / 20秒に1回、マナを【{1.18}】チャージ",
+    "awake_description": "自身のスキルチャージ効率が【{5%}】上昇"
+  },
+  {
+    "id": 1018018,
+    "ability_no": 10180,
+    "ability_awake_level": 1,
+    "level": 8,
+    "description": "自身の攻撃力が【{23.2%}】上昇 / 20秒に1回、マナを【{1.31}】チャージ",
+    "awake_description": "自身のスキルチャージ効率が【{5%}】上昇"
+  },
+  {
+    "id": 1018019,
+    "ability_no": 10180,
+    "ability_awake_level": 1,
+    "level": 9,
+    "description": "自身の攻撃力が【{25.5%}】上昇 / 20秒に1回、マナを【{1.37}】チャージ",
+    "awake_description": "自身のスキルチャージ効率が【{5%}】上昇"
+  },
+  {
+    "id": 1018020,
+    "ability_no": 10180,
+    "ability_awake_level": 1,
+    "level": 10,
+    "description": "自身の攻撃力が【{30%}】上昇 / 20秒に1回、マナを【{1.5}】チャージ",
+    "awake_description": "自身のスキルチャージ効率が【{5%}】上昇"
+  },
+  {
+    "id": 1018021,
+    "ability_no": 10180,
+    "ability_awake_level": 2,
+    "level": 1,
+    "description": "自身の攻撃力が【{3%}】上昇 / 20秒に1回、マナを【{0.75}】チャージ",
+    "awake_description": "自身のスキルチャージ効率が【{9.5%}】上昇"
+  },
+  {
+    "id": 1018022,
+    "ability_no": 10180,
+    "ability_awake_level": 2,
+    "level": 2,
+    "description": "自身の攻撃力が【{5.2%}】上昇 / 20秒に1回、マナを【{0.81}】チャージ",
+    "awake_description": "自身のスキルチャージ効率が【{9.5%}】上昇"
+  },
+  {
+    "id": 1018023,
+    "ability_no": 10180,
+    "ability_awake_level": 2,
+    "level": 3,
+    "description": "自身の攻撃力が【{7.5%}】上昇 / 20秒に1回、マナを【{0.87}】チャージ",
+    "awake_description": "自身のスキルチャージ効率が【{9.5%}】上昇"
+  },
+  {
+    "id": 1018024,
+    "ability_no": 10180,
+    "ability_awake_level": 2,
+    "level": 4,
+    "description": "自身の攻撃力が【{9.7%}】上昇 / 20秒に1回、マナを【{0.93}】チャージ",
+    "awake_description": "自身のスキルチャージ効率が【{9.5%}】上昇"
+  },
+  {
+    "id": 1018025,
+    "ability_no": 10180,
+    "ability_awake_level": 2,
+    "level": 5,
+    "description": "自身の攻撃力が【{14.2%}】上昇 / 20秒に1回、マナを【{1.06}】チャージ",
+    "awake_description": "自身のスキルチャージ効率が【{9.5%}】上昇"
+  },
+  {
+    "id": 1018026,
+    "ability_no": 10180,
+    "ability_awake_level": 2,
+    "level": 6,
+    "description": "自身の攻撃力が【{16.5%}】上昇 / 20秒に1回、マナを【{1.12}】チャージ",
+    "awake_description": "自身のスキルチャージ効率が【{9.5%}】上昇"
+  },
+  {
+    "id": 1018027,
+    "ability_no": 10180,
+    "ability_awake_level": 2,
+    "level": 7,
+    "description": "自身の攻撃力が【{18.7%}】上昇 / 20秒に1回、マナを【{1.18}】チャージ",
+    "awake_description": "自身のスキルチャージ効率が【{9.5%}】上昇"
+  },
+  {
+    "id": 1018028,
+    "ability_no": 10180,
+    "ability_awake_level": 2,
+    "level": 8,
+    "description": "自身の攻撃力が【{23.2%}】上昇 / 20秒に1回、マナを【{1.31}】チャージ",
+    "awake_description": "自身のスキルチャージ効率が【{9.5%}】上昇"
+  },
+  {
+    "id": 1018029,
+    "ability_no": 10180,
+    "ability_awake_level": 2,
+    "level": 9,
+    "description": "自身の攻撃力が【{25.5%}】上昇 / 20秒に1回、マナを【{1.37}】チャージ",
+    "awake_description": "自身のスキルチャージ効率が【{9.5%}】上昇"
+  },
+  {
+    "id": 1018030,
+    "ability_no": 10180,
+    "ability_awake_level": 2,
+    "level": 10,
+    "description": "自身の攻撃力が【{30%}】上昇 / 20秒に1回、マナを【{1.5}】チャージ",
+    "awake_description": "自身のスキルチャージ効率が【{9.5%}】上昇"
+  },
+  {
+    "id": 1018101,
+    "ability_no": 10181,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "ダメージを与えたとき、【50%】の確率で自身に紋章：衝撃を【1】付与 / 弱体効果が付与されている敵に自身の与えるダメージが【{1.5%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 1018102,
+    "ability_no": 10181,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "ダメージを与えたとき、【50%】の確率で自身に紋章：衝撃を【1】付与 / 弱体効果が付与されている敵に自身の与えるダメージが【{2.6%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 1018103,
+    "ability_no": 10181,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "ダメージを与えたとき、【50%】の確率で自身に紋章：衝撃を【1】付与 / 弱体効果が付与されている敵に自身の与えるダメージが【{3.7%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 1018104,
+    "ability_no": 10181,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "ダメージを与えたとき、【50%】の確率で自身に紋章：衝撃を【1】付与 / 弱体効果が付与されている敵に自身の与えるダメージが【{4.8%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 1018105,
+    "ability_no": 10181,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "ダメージを与えたとき、【50%】の確率で自身に紋章：衝撃を【1】付与 / 弱体効果が付与されている敵に自身の与えるダメージが【{7.1%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 1018106,
+    "ability_no": 10181,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "ダメージを与えたとき、【50%】の確率で自身に紋章：衝撃を【1】付与 / 弱体効果が付与されている敵に自身の与えるダメージが【{8.2%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 1018107,
+    "ability_no": 10181,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "ダメージを与えたとき、【50%】の確率で自身に紋章：衝撃を【1】付与 / 弱体効果が付与されている敵に自身の与えるダメージが【{9.3%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 1018108,
+    "ability_no": 10181,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "ダメージを与えたとき、【50%】の確率で自身に紋章：衝撃を【1】付与 / 弱体効果が付与されている敵に自身の与えるダメージが【{11.6%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 1018109,
+    "ability_no": 10181,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "ダメージを与えたとき、【50%】の確率で自身に紋章：衝撃を【1】付与 / 弱体効果が付与されている敵に自身の与えるダメージが【{12.7%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 1018110,
+    "ability_no": 10181,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "ダメージを与えたとき、【50%】の確率で自身に紋章：衝撃を【1】付与 / 弱体効果が付与されている敵に自身の与えるダメージが【{15%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 1018111,
+    "ability_no": 10181,
+    "ability_awake_level": 1,
+    "level": 1,
+    "description": "ダメージを与えたとき、【50%】の確率で自身に紋章：衝撃を【1】付与 / 弱体効果が付与されている敵に自身の与えるダメージが【{1.5%}】上昇",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018112,
+    "ability_no": 10181,
+    "ability_awake_level": 1,
+    "level": 2,
+    "description": "ダメージを与えたとき、【50%】の確率で自身に紋章：衝撃を【1】付与 / 弱体効果が付与されている敵に自身の与えるダメージが【{2.6%}】上昇",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018113,
+    "ability_no": 10181,
+    "ability_awake_level": 1,
+    "level": 3,
+    "description": "ダメージを与えたとき、【50%】の確率で自身に紋章：衝撃を【1】付与 / 弱体効果が付与されている敵に自身の与えるダメージが【{3.7%}】上昇",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018114,
+    "ability_no": 10181,
+    "ability_awake_level": 1,
+    "level": 4,
+    "description": "ダメージを与えたとき、【50%】の確率で自身に紋章：衝撃を【1】付与 / 弱体効果が付与されている敵に自身の与えるダメージが【{4.8%}】上昇",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018115,
+    "ability_no": 10181,
+    "ability_awake_level": 1,
+    "level": 5,
+    "description": "ダメージを与えたとき、【50%】の確率で自身に紋章：衝撃を【1】付与 / 弱体効果が付与されている敵に自身の与えるダメージが【{7.1%}】上昇",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018116,
+    "ability_no": 10181,
+    "ability_awake_level": 1,
+    "level": 6,
+    "description": "ダメージを与えたとき、【50%】の確率で自身に紋章：衝撃を【1】付与 / 弱体効果が付与されている敵に自身の与えるダメージが【{8.2%}】上昇",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018117,
+    "ability_no": 10181,
+    "ability_awake_level": 1,
+    "level": 7,
+    "description": "ダメージを与えたとき、【50%】の確率で自身に紋章：衝撃を【1】付与 / 弱体効果が付与されている敵に自身の与えるダメージが【{9.3%}】上昇",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018118,
+    "ability_no": 10181,
+    "ability_awake_level": 1,
+    "level": 8,
+    "description": "ダメージを与えたとき、【50%】の確率で自身に紋章：衝撃を【1】付与 / 弱体効果が付与されている敵に自身の与えるダメージが【{11.6%}】上昇",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018119,
+    "ability_no": 10181,
+    "ability_awake_level": 1,
+    "level": 9,
+    "description": "ダメージを与えたとき、【50%】の確率で自身に紋章：衝撃を【1】付与 / 弱体効果が付与されている敵に自身の与えるダメージが【{12.7%}】上昇",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018120,
+    "ability_no": 10181,
+    "ability_awake_level": 1,
+    "level": 10,
+    "description": "ダメージを与えたとき、【50%】の確率で自身に紋章：衝撃を【1】付与 / 弱体効果が付与されている敵に自身の与えるダメージが【{15%}】上昇",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018121,
+    "ability_no": 10181,
+    "ability_awake_level": 2,
+    "level": 1,
+    "description": "ダメージを与えたとき、【50%】の確率で自身に紋章：衝撃を【1】付与 / 弱体効果が付与されている敵に自身の与えるダメージが【{1.5%}】上昇",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018122,
+    "ability_no": 10181,
+    "ability_awake_level": 2,
+    "level": 2,
+    "description": "ダメージを与えたとき、【50%】の確率で自身に紋章：衝撃を【1】付与 / 弱体効果が付与されている敵に自身の与えるダメージが【{2.6%}】上昇",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018123,
+    "ability_no": 10181,
+    "ability_awake_level": 2,
+    "level": 3,
+    "description": "ダメージを与えたとき、【50%】の確率で自身に紋章：衝撃を【1】付与 / 弱体効果が付与されている敵に自身の与えるダメージが【{3.7%}】上昇",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018124,
+    "ability_no": 10181,
+    "ability_awake_level": 2,
+    "level": 4,
+    "description": "ダメージを与えたとき、【50%】の確率で自身に紋章：衝撃を【1】付与 / 弱体効果が付与されている敵に自身の与えるダメージが【{4.8%}】上昇",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018125,
+    "ability_no": 10181,
+    "ability_awake_level": 2,
+    "level": 5,
+    "description": "ダメージを与えたとき、【50%】の確率で自身に紋章：衝撃を【1】付与 / 弱体効果が付与されている敵に自身の与えるダメージが【{7.1%}】上昇",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018126,
+    "ability_no": 10181,
+    "ability_awake_level": 2,
+    "level": 6,
+    "description": "ダメージを与えたとき、【50%】の確率で自身に紋章：衝撃を【1】付与 / 弱体効果が付与されている敵に自身の与えるダメージが【{8.2%}】上昇",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018127,
+    "ability_no": 10181,
+    "ability_awake_level": 2,
+    "level": 7,
+    "description": "ダメージを与えたとき、【50%】の確率で自身に紋章：衝撃を【1】付与 / 弱体効果が付与されている敵に自身の与えるダメージが【{9.3%}】上昇",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018128,
+    "ability_no": 10181,
+    "ability_awake_level": 2,
+    "level": 8,
+    "description": "ダメージを与えたとき、【50%】の確率で自身に紋章：衝撃を【1】付与 / 弱体効果が付与されている敵に自身の与えるダメージが【{11.6%}】上昇",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018129,
+    "ability_no": 10181,
+    "ability_awake_level": 2,
+    "level": 9,
+    "description": "ダメージを与えたとき、【50%】の確率で自身に紋章：衝撃を【1】付与 / 弱体効果が付与されている敵に自身の与えるダメージが【{12.7%}】上昇",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018130,
+    "ability_no": 10181,
+    "ability_awake_level": 2,
+    "level": 10,
+    "description": "ダメージを与えたとき、【50%】の確率で自身に紋章：衝撃を【1】付与 / 弱体効果が付与されている敵に自身の与えるダメージが【{15%}】上昇",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
+  },
+  {
     "id": 1900101,
     "ability_no": 19001,
     "ability_awake_level": 0,
@@ -34040,6 +35480,86 @@
     "awake_description": ""
   },
   {
+    "id": 9002201,
+    "ability_no": 90022,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "クエスト開始時、味方全体に最大HPDOWN【10％ / 永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 9002202,
+    "ability_no": 90022,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "クエスト開始時、味方全体に最大HPDOWN【20％ / 永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 9002203,
+    "ability_no": 90022,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "クエスト開始時、味方全体に最大HPDOWN【30％ / 永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 9002204,
+    "ability_no": 90022,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "クエスト開始時、味方全体に最大HPDOWN【40％ / 永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 9002205,
+    "ability_no": 90022,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "クエスト開始時、味方全体に最大HPDOWN【50％ / 永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 9002206,
+    "ability_no": 90022,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "クエスト開始時、味方全体に最大HPDOWN【60％ / 永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 9002207,
+    "ability_no": 90022,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "クエスト開始時、味方全体に最大HPDOWN【70％ / 永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 9002208,
+    "ability_no": 90022,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "クエスト開始時、味方全体に最大HPDOWN【80％ / 永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 9002209,
+    "ability_no": 90022,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "クエスト開始時、味方全体に最大HPDOWN【90％ / 永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 9002210,
+    "ability_no": 90022,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "クエスト開始時、味方全体に最大HPDOWN【100％ / 永続】を付与",
+    "awake_description": ""
+  },
+  {
     "id": 9900101,
     "ability_no": 99001,
     "ability_awake_level": 0,
@@ -34117,6 +35637,2566 @@
     "ability_awake_level": 0,
     "level": 10,
     "description": "【瘴気Lv3】マナ獲得量が減少",
+    "awake_description": ""
+  },
+  {
+    "id": 10000101,
+    "ability_no": 100001,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "戦闘開始時、自身に被ダメージ減少【10% / 60秒】付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000102,
+    "ability_no": 100001,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "戦闘開始時、自身に被ダメージ減少【20% / 60秒】付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000103,
+    "ability_no": 100001,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "戦闘開始時、自身に被ダメージ減少【30% / 60秒】付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000104,
+    "ability_no": 100001,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "戦闘開始時、自身に被ダメージ減少【40% / 60秒】付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000105,
+    "ability_no": 100001,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "戦闘開始時、自身に被ダメージ減少【50% / 60秒】付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000106,
+    "ability_no": 100001,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "戦闘開始時、自身に被ダメージ減少【60% / 60秒】付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000107,
+    "ability_no": 100001,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "戦闘開始時、自身に被ダメージ減少【70% / 60秒】付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000108,
+    "ability_no": 100001,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "戦闘開始時、自身に被ダメージ減少【80% / 60秒】付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000109,
+    "ability_no": 100001,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "戦闘開始時、自身に被ダメージ減少【90% / 60秒】付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000110,
+    "ability_no": 100001,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "戦闘開始時、自身に被ダメージ減少【100% / 60秒】付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000201,
+    "ability_no": 100002,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "戦闘開始時、自身に与ダメージ上昇【10% / 60秒】付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000202,
+    "ability_no": 100002,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "戦闘開始時、自身に与ダメージ上昇【20% / 60秒】付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000203,
+    "ability_no": 100002,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "戦闘開始時、自身に与ダメージ上昇【30% / 60秒】付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000204,
+    "ability_no": 100002,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "戦闘開始時、自身に与ダメージ上昇【40% / 60秒】付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000205,
+    "ability_no": 100002,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "戦闘開始時、自身に与ダメージ上昇【50% / 60秒】付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000206,
+    "ability_no": 100002,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "戦闘開始時、自身に与ダメージ上昇【60% / 60秒】付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000207,
+    "ability_no": 100002,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "戦闘開始時、自身に与ダメージ上昇【70% / 60秒】付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000208,
+    "ability_no": 100002,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "戦闘開始時、自身に与ダメージ上昇【80% / 60秒】付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000209,
+    "ability_no": 100002,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "戦闘開始時、自身に与ダメージ上昇【90% / 60秒】付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000210,
+    "ability_no": 100002,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "戦闘開始時、自身に与ダメージ上昇【100% / 60秒】付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000301,
+    "ability_no": 100003,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "HPが20%以下になったとき、味方全体に防御力UP【10% / 永続】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10000302,
+    "ability_no": 100003,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "HPが20%以下になったとき、味方全体に防御力UP【20% / 永続】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10000303,
+    "ability_no": 100003,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "HPが20%以下になったとき、味方全体に防御力UP【30% / 永続】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10000304,
+    "ability_no": 100003,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "HPが20%以下になったとき、味方全体に防御力UP【40% / 永続】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10000305,
+    "ability_no": 100003,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "HPが20%以下になったとき、味方全体に防御力UP【50% / 永続】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10000306,
+    "ability_no": 100003,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "HPが20%以下になったとき、味方全体に防御力UP【60% / 永続】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10000307,
+    "ability_no": 100003,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "HPが20%以下になったとき、味方全体に防御力UP【70% / 永続】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10000308,
+    "ability_no": 100003,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "HPが20%以下になったとき、味方全体に防御力UP【80% / 永続】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10000309,
+    "ability_no": 100003,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "HPが20%以下になったとき、味方全体に防御力UP【90% / 永続】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10000310,
+    "ability_no": 100003,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "HPが20%以下になったとき、味方全体に防御力UP【100% / 永続】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10000401,
+    "ability_no": 100004,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "HPが20%以下になったとき、味方全体に攻撃力UP【10% / 永続】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10000402,
+    "ability_no": 100004,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "HPが20%以下になったとき、味方全体に攻撃力UP【20% / 永続】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10000403,
+    "ability_no": 100004,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "HPが20%以下になったとき、味方全体に攻撃力UP【30% / 永続】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10000404,
+    "ability_no": 100004,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "HPが20%以下になったとき、味方全体に攻撃力UP【40% / 永続】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10000405,
+    "ability_no": 100004,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "HPが20%以下になったとき、味方全体に攻撃力UP【50% / 永続】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10000406,
+    "ability_no": 100004,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "HPが20%以下になったとき、味方全体に攻撃力UP【60% / 永続】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10000407,
+    "ability_no": 100004,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "HPが20%以下になったとき、味方全体に攻撃力UP【70% / 永続】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10000408,
+    "ability_no": 100004,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "HPが20%以下になったとき、味方全体に攻撃力UP【80% / 永続】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10000409,
+    "ability_no": 100004,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "HPが20%以下になったとき、味方全体に攻撃力UP【90% / 永続】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10000410,
+    "ability_no": 100004,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "HPが20%以下になったとき、味方全体に攻撃力UP【100% / 永続】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10000501,
+    "ability_no": 100005,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "回復を与えたとき、30%の確率で対象に対象の最大HP【2.5%】分のバリアを付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000502,
+    "ability_no": 100005,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "回復を与えたとき、30%の確率で対象に対象の最大HP【5%】分のバリアを付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000503,
+    "ability_no": 100005,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "回復を与えたとき、30%の確率で対象に対象の最大HP【7.5%】分のバリアを付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000504,
+    "ability_no": 100005,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "回復を与えたとき、30%の確率で対象に対象の最大HP【10%】分のバリアを付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000505,
+    "ability_no": 100005,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "回復を与えたとき、30%の確率で対象に対象の最大HP【12.5%】分のバリアを付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000506,
+    "ability_no": 100005,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "回復を与えたとき、30%の確率で対象に対象の最大HP【15%】分のバリアを付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000507,
+    "ability_no": 100005,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "回復を与えたとき、30%の確率で対象に対象の最大HP【17.5%】分のバリアを付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000508,
+    "ability_no": 100005,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "回復を与えたとき、30%の確率で対象に対象の最大HP【20%】分のバリアを付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000509,
+    "ability_no": 100005,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "回復を与えたとき、30%の確率で対象に対象の最大HP【22.5%】分のバリアを付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000510,
+    "ability_no": 100005,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "回復を与えたとき、30%の確率で対象に対象の最大HP【25%】分のバリアを付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000601,
+    "ability_no": 100006,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "ダメージを与えたとき、20%の確率で対象に防御力DOWN【5% / 10秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000602,
+    "ability_no": 100006,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "ダメージを与えたとき、20%の確率で対象に防御力DOWN【10% / 10秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000603,
+    "ability_no": 100006,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "ダメージを与えたとき、20%の確率で対象に防御力DOWN【15% / 10秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000604,
+    "ability_no": 100006,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "ダメージを与えたとき、20%の確率で対象に防御力DOWN【20% / 10秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000605,
+    "ability_no": 100006,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "ダメージを与えたとき、20%の確率で対象に防御力DOWN【25% / 10秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000606,
+    "ability_no": 100006,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "ダメージを与えたとき、20%の確率で対象に防御力DOWN【30% / 10秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000607,
+    "ability_no": 100006,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "ダメージを与えたとき、20%の確率で対象に防御力DOWN【35% / 10秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000608,
+    "ability_no": 100006,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "ダメージを与えたとき、20%の確率で対象に防御力DOWN【40% / 10秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000609,
+    "ability_no": 100006,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "ダメージを与えたとき、20%の確率で対象に防御力DOWN【45% / 10秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000610,
+    "ability_no": 100006,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "ダメージを与えたとき、20%の確率で対象に防御力DOWN【50% / 10秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000701,
+    "ability_no": 100007,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "ダメージを与えたとき、20%の確率で対象に攻撃力DOWN【5% / 10秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000702,
+    "ability_no": 100007,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "ダメージを与えたとき、20%の確率で対象に攻撃力DOWN【10% / 10秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000703,
+    "ability_no": 100007,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "ダメージを与えたとき、20%の確率で対象に攻撃力DOWN【15% / 10秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000704,
+    "ability_no": 100007,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "ダメージを与えたとき、20%の確率で対象に攻撃力DOWN【20% / 10秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000705,
+    "ability_no": 100007,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "ダメージを与えたとき、20%の確率で対象に攻撃力DOWN【25% / 10秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000706,
+    "ability_no": 100007,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "ダメージを与えたとき、20%の確率で対象に攻撃力DOWN【30% / 10秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000707,
+    "ability_no": 100007,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "ダメージを与えたとき、20%の確率で対象に攻撃力DOWN【35% / 10秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000708,
+    "ability_no": 100007,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "ダメージを与えたとき、20%の確率で対象に攻撃力DOWN【40% / 10秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000709,
+    "ability_no": 100007,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "ダメージを与えたとき、20%の確率で対象に攻撃力DOWN【45% / 10秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000710,
+    "ability_no": 100007,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "ダメージを与えたとき、20%の確率で対象に攻撃力DOWN【50% / 10秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10000801,
+    "ability_no": 100008,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "残りHPが少ないほど自身の攻撃力が上昇【最大50%】",
+    "awake_description": ""
+  },
+  {
+    "id": 10000802,
+    "ability_no": 100008,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "残りHPが少ないほど自身の攻撃力が上昇【最大100%】",
+    "awake_description": ""
+  },
+  {
+    "id": 10000803,
+    "ability_no": 100008,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "残りHPが少ないほど自身の攻撃力が上昇【最大150%】",
+    "awake_description": ""
+  },
+  {
+    "id": 10000804,
+    "ability_no": 100008,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "残りHPが少ないほど自身の攻撃力が上昇【最大200%】",
+    "awake_description": ""
+  },
+  {
+    "id": 10000805,
+    "ability_no": 100008,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "残りHPが少ないほど自身の攻撃力が上昇【最大250%】",
+    "awake_description": ""
+  },
+  {
+    "id": 10000806,
+    "ability_no": 100008,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "残りHPが少ないほど自身の攻撃力が上昇【最大300%】",
+    "awake_description": ""
+  },
+  {
+    "id": 10000807,
+    "ability_no": 100008,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "残りHPが少ないほど自身の攻撃力が上昇【最大350%】",
+    "awake_description": ""
+  },
+  {
+    "id": 10000808,
+    "ability_no": 100008,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "残りHPが少ないほど自身の攻撃力が上昇【最大400%】",
+    "awake_description": ""
+  },
+  {
+    "id": 10000809,
+    "ability_no": 100008,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "残りHPが少ないほど自身の攻撃力が上昇【最大450%】",
+    "awake_description": ""
+  },
+  {
+    "id": 10000810,
+    "ability_no": 100008,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "残りHPが少ないほど自身の攻撃力が上昇【最大500%】",
+    "awake_description": ""
+  },
+  {
+    "id": 10000901,
+    "ability_no": 100009,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "15秒ごとに自身の最大HP【1%】分の回復",
+    "awake_description": ""
+  },
+  {
+    "id": 10000902,
+    "ability_no": 100009,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "15秒ごとに自身の最大HP【2%】分の回復",
+    "awake_description": ""
+  },
+  {
+    "id": 10000903,
+    "ability_no": 100009,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "15秒ごとに自身の最大HP【3%】分の回復",
+    "awake_description": ""
+  },
+  {
+    "id": 10000904,
+    "ability_no": 100009,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "15秒ごとに自身の最大HP【4%】分の回復",
+    "awake_description": ""
+  },
+  {
+    "id": 10000905,
+    "ability_no": 100009,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "15秒ごとに自身の最大HP【5%】分の回復",
+    "awake_description": ""
+  },
+  {
+    "id": 10000906,
+    "ability_no": 100009,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "15秒ごとに自身の最大HP【6%】分の回復",
+    "awake_description": ""
+  },
+  {
+    "id": 10000907,
+    "ability_no": 100009,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "15秒ごとに自身の最大HP【7%】分の回復",
+    "awake_description": ""
+  },
+  {
+    "id": 10000908,
+    "ability_no": 100009,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "15秒ごとに自身の最大HP【8%】分の回復",
+    "awake_description": ""
+  },
+  {
+    "id": 10000909,
+    "ability_no": 100009,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "15秒ごとに自身の最大HP【9%】分の回復",
+    "awake_description": ""
+  },
+  {
+    "id": 10000910,
+    "ability_no": 100009,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "15秒ごとに自身の最大HP【10%】分の回復",
+    "awake_description": ""
+  },
+  {
+    "id": 10001001,
+    "ability_no": 100010,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "75秒ごとに味方全体に被ダメージDOWN【10%】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10001002,
+    "ability_no": 100010,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "75秒ごとに味方全体に被ダメージDOWN【20%】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10001003,
+    "ability_no": 100010,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "75秒ごとに味方全体に被ダメージDOWN【30%】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10001004,
+    "ability_no": 100010,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "75秒ごとに味方全体に被ダメージDOWN【40%】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10001005,
+    "ability_no": 100010,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "75秒ごとに味方全体に被ダメージDOWN【50%】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10001006,
+    "ability_no": 100010,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "75秒ごとに味方全体に被ダメージDOWN【60%】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10001007,
+    "ability_no": 100010,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "75秒ごとに味方全体に被ダメージDOWN【70%】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10001008,
+    "ability_no": 100010,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "75秒ごとに味方全体に被ダメージDOWN【80%】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10001009,
+    "ability_no": 100010,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "75秒ごとに味方全体に被ダメージDOWN【90%】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10001010,
+    "ability_no": 100010,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "75秒ごとに味方全体に被ダメージDOWN【100%】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10001101,
+    "ability_no": 100011,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "75秒ごとに味方全体に与ダメージUP【10%】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10001102,
+    "ability_no": 100011,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "75秒ごとに味方全体に与ダメージUP【20%】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10001103,
+    "ability_no": 100011,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "75秒ごとに味方全体に与ダメージUP【30%】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10001104,
+    "ability_no": 100011,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "75秒ごとに味方全体に与ダメージUP【40%】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10001105,
+    "ability_no": 100011,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "75秒ごとに味方全体に与ダメージUP【50%】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10001106,
+    "ability_no": 100011,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "75秒ごとに味方全体に与ダメージUP【60%】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10001107,
+    "ability_no": 100011,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "75秒ごとに味方全体に与ダメージUP【70%】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10001108,
+    "ability_no": 100011,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "75秒ごとに味方全体に与ダメージUP【80%】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10001109,
+    "ability_no": 100011,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "75秒ごとに味方全体に与ダメージUP【90%】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10001110,
+    "ability_no": 100011,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "75秒ごとに味方全体に与ダメージUP【100%】を付与（クエスト中1回まで）",
+    "awake_description": ""
+  },
+  {
+    "id": 10001201,
+    "ability_no": 100012,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "戦闘開始時、自身に攻撃力UP【50% / 永続】を付与 / 与ダメージUP【30% / 永続】を付与 / 会心率UP【20% / 永続】を付与 / 会心ダメージ倍率UP【50% / 永続】を付与 / スキルチャージ効率UP【50% / 永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001202,
+    "ability_no": 100012,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "-",
+    "awake_description": ""
+  },
+  {
+    "id": 10001203,
+    "ability_no": 100012,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "-",
+    "awake_description": ""
+  },
+  {
+    "id": 10001204,
+    "ability_no": 100012,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "-",
+    "awake_description": ""
+  },
+  {
+    "id": 10001205,
+    "ability_no": 100012,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "-",
+    "awake_description": ""
+  },
+  {
+    "id": 10001206,
+    "ability_no": 100012,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "-",
+    "awake_description": ""
+  },
+  {
+    "id": 10001207,
+    "ability_no": 100012,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "-",
+    "awake_description": ""
+  },
+  {
+    "id": 10001208,
+    "ability_no": 100012,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "-",
+    "awake_description": ""
+  },
+  {
+    "id": 10001209,
+    "ability_no": 100012,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "-",
+    "awake_description": ""
+  },
+  {
+    "id": 10001210,
+    "ability_no": 100012,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "-",
+    "awake_description": ""
+  },
+  {
+    "id": 10001301,
+    "ability_no": 100013,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "戦闘開始時、自身に通常攻撃被ダメージDOWN【10% / 永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001302,
+    "ability_no": 100013,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "戦闘開始時、自身に通常攻撃被ダメージDOWN【20% / 永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001303,
+    "ability_no": 100013,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "戦闘開始時、自身に通常攻撃被ダメージDOWN【30% / 永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001304,
+    "ability_no": 100013,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "戦闘開始時、自身に通常攻撃被ダメージDOWN【40% / 永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001305,
+    "ability_no": 100013,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "戦闘開始時、自身に通常攻撃被ダメージDOWN【50% / 永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001306,
+    "ability_no": 100013,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "戦闘開始時、自身に通常攻撃被ダメージDOWN【60% / 永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001307,
+    "ability_no": 100013,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "戦闘開始時、自身に通常攻撃被ダメージDOWN【70% / 永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001308,
+    "ability_no": 100013,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "戦闘開始時、自身に通常攻撃被ダメージDOWN【80% / 永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001309,
+    "ability_no": 100013,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "戦闘開始時、自身に通常攻撃被ダメージDOWN【90% / 永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001310,
+    "ability_no": 100013,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "戦闘開始時、自身に通常攻撃被ダメージDOWN【100% / 永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001401,
+    "ability_no": 100014,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "戦闘不能になったとき、味方全体に攻撃力UP【10% / 15秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001402,
+    "ability_no": 100014,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "戦闘不能になったとき、味方全体に攻撃力UP【20% / 15秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001403,
+    "ability_no": 100014,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "戦闘不能になったとき、味方全体に攻撃力UP【30% / 15秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001404,
+    "ability_no": 100014,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "戦闘不能になったとき、味方全体に攻撃力UP【40% / 15秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001405,
+    "ability_no": 100014,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "戦闘不能になったとき、味方全体に攻撃力UP【50% / 15秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001406,
+    "ability_no": 100014,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "戦闘不能になったとき、味方全体に攻撃力UP【60% / 15秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001407,
+    "ability_no": 100014,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "戦闘不能になったとき、味方全体に攻撃力UP【70% / 15秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001408,
+    "ability_no": 100014,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "戦闘不能になったとき、味方全体に攻撃力UP【80% / 15秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001409,
+    "ability_no": 100014,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "戦闘不能になったとき、味方全体に攻撃力UP【90% / 15秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001410,
+    "ability_no": 100014,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "戦闘不能になったとき、味方全体に攻撃力UP【100% / 15秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001501,
+    "ability_no": 100015,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "戦闘不能になったとき、味方全体に対象の最大HP【5%】分のバリアを付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001502,
+    "ability_no": 100015,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "戦闘不能になったとき、味方全体に対象の最大HP【10%】分のバリアを付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001503,
+    "ability_no": 100015,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "戦闘不能になったとき、味方全体に対象の最大HP【15%】分のバリアを付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001504,
+    "ability_no": 100015,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "戦闘不能になったとき、味方全体に対象の最大HP【20%】分のバリアを付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001505,
+    "ability_no": 100015,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "戦闘不能になったとき、味方全体に対象の最大HP【25%】分のバリアを付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001506,
+    "ability_no": 100015,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "戦闘不能になったとき、味方全体に対象の最大HP【30%】分のバリアを付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001507,
+    "ability_no": 100015,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "戦闘不能になったとき、味方全体に対象の最大HP【35%】分のバリアを付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001508,
+    "ability_no": 100015,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "戦闘不能になったとき、味方全体に対象の最大HP【40%】分のバリアを付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001509,
+    "ability_no": 100015,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "戦闘不能になったとき、味方全体に対象の最大HP【45%】分のバリアを付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001510,
+    "ability_no": 100015,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "戦闘不能になったとき、味方全体に対象の最大HP【50%】分のバリアを付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001601,
+    "ability_no": 100016,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "戦闘不能になったとき、敵全体に防御力DOWN【5% / 15秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001602,
+    "ability_no": 100016,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "戦闘不能になったとき、敵全体に防御力DOWN【10% / 15秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001603,
+    "ability_no": 100016,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "戦闘不能になったとき、敵全体に防御力DOWN【15% / 15秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001604,
+    "ability_no": 100016,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "戦闘不能になったとき、敵全体に防御力DOWN【20% / 15秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001605,
+    "ability_no": 100016,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "戦闘不能になったとき、敵全体に防御力DOWN【25% / 15秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001606,
+    "ability_no": 100016,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "戦闘不能になったとき、敵全体に防御力DOWN【30% / 15秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001607,
+    "ability_no": 100016,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "戦闘不能になったとき、敵全体に防御力DOWN【35% / 15秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001608,
+    "ability_no": 100016,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "戦闘不能になったとき、敵全体に防御力DOWN【40% / 15秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001609,
+    "ability_no": 100016,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "戦闘不能になったとき、敵全体に防御力DOWN【45% / 15秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001610,
+    "ability_no": 100016,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "戦闘不能になったとき、敵全体に防御力DOWN【50% / 15秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001701,
+    "ability_no": 100017,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "戦闘不能になったとき、ランダムな敵3体に麻痺【3秒 / 成功率:100%】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001702,
+    "ability_no": 100017,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "戦闘不能になったとき、ランダムな敵3体に麻痺【6秒 / 成功率:100%】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001703,
+    "ability_no": 100017,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "戦闘不能になったとき、ランダムな敵3体に麻痺【9秒 / 成功率:100%】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001704,
+    "ability_no": 100017,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "戦闘不能になったとき、ランダムな敵3体に麻痺【12秒 / 成功率:100%】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001705,
+    "ability_no": 100017,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "戦闘不能になったとき、ランダムな敵3体に麻痺【15秒 / 成功率:100%】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001706,
+    "ability_no": 100017,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "戦闘不能になったとき、ランダムな敵3体に麻痺【18秒 / 成功率:100%】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001707,
+    "ability_no": 100017,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "戦闘不能になったとき、ランダムな敵3体に麻痺【21秒 / 成功率:100%】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001708,
+    "ability_no": 100017,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "戦闘不能になったとき、ランダムな敵3体に麻痺【24秒 / 成功率:100%】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001709,
+    "ability_no": 100017,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "戦闘不能になったとき、ランダムな敵3体に麻痺【27秒 / 成功率:100%】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001710,
+    "ability_no": 100017,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "戦闘不能になったとき、ランダムな敵3体に麻痺【30秒 / 成功率:100%】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001801,
+    "ability_no": 100018,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "戦闘不能になったとき、味方全体に連撃率UP【20% / 15秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001802,
+    "ability_no": 100018,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "戦闘不能になったとき、味方全体に連撃率UP【40% / 15秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001803,
+    "ability_no": 100018,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "戦闘不能になったとき、味方全体に連撃率UP【60% / 15秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001804,
+    "ability_no": 100018,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "戦闘不能になったとき、味方全体に連撃率UP【80% / 15秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001805,
+    "ability_no": 100018,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "戦闘不能になったとき、味方全体に連撃率UP【100% / 15秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001806,
+    "ability_no": 100018,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "戦闘不能になったとき、味方全体に連撃率UP【120% / 15秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001807,
+    "ability_no": 100018,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "戦闘不能になったとき、味方全体に連撃率UP【140% / 15秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001808,
+    "ability_no": 100018,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "戦闘不能になったとき、味方全体に連撃率UP【160% / 15秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001809,
+    "ability_no": 100018,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "戦闘不能になったとき、味方全体に連撃率UP【180% / 15秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001810,
+    "ability_no": 100018,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "戦闘不能になったとき、味方全体に連撃率UP【200% / 15秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001901,
+    "ability_no": 100019,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "戦闘不能になったとき、敵全体にフォースチェイン参加不可【3秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001902,
+    "ability_no": 100019,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "戦闘不能になったとき、敵全体にフォースチェイン参加不可【6秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001903,
+    "ability_no": 100019,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "戦闘不能になったとき、敵全体にフォースチェイン参加不可【9秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001904,
+    "ability_no": 100019,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "戦闘不能になったとき、敵全体にフォースチェイン参加不可【12秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001905,
+    "ability_no": 100019,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "戦闘不能になったとき、敵全体にフォースチェイン参加不可【15秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001906,
+    "ability_no": 100019,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "戦闘不能になったとき、敵全体にフォースチェイン参加不可【18秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001907,
+    "ability_no": 100019,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "戦闘不能になったとき、敵全体にフォースチェイン参加不可【21秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001908,
+    "ability_no": 100019,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "戦闘不能になったとき、敵全体にフォースチェイン参加不可【24秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001909,
+    "ability_no": 100019,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "戦闘不能になったとき、敵全体にフォースチェイン参加不可【27秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10001910,
+    "ability_no": 100019,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "戦闘不能になったとき、敵全体にフォースチェイン参加不可【30秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002001,
+    "ability_no": 100020,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "自身のノックバック強度が【Lv1】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10002002,
+    "ability_no": 100020,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "自身のノックバック強度が【Lv2】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10002003,
+    "ability_no": 100020,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "自身のノックバック強度が【Lv3】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10002004,
+    "ability_no": 100020,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "自身のノックバック強度が【Lv4】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10002005,
+    "ability_no": 100020,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "自身のノックバック強度が【Lv5】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10002006,
+    "ability_no": 100020,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "自身のノックバック強度が【Lv6】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10002007,
+    "ability_no": 100020,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "自身のノックバック強度が【Lv7】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10002008,
+    "ability_no": 100020,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "自身のノックバック強度が【Lv8】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10002009,
+    "ability_no": 100020,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "自身のノックバック強度が【Lv9】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10002010,
+    "ability_no": 100020,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "自身のノックバック強度が【Lv10】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10002101,
+    "ability_no": 100021,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "戦闘開始時、敵全体にスキルチャージ効率DOWN【10% / 永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002102,
+    "ability_no": 100021,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "戦闘開始時、敵全体にスキルチャージ効率DOWN【20% / 永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002103,
+    "ability_no": 100021,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "戦闘開始時、敵全体にスキルチャージ効率DOWN【30% / 永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002104,
+    "ability_no": 100021,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "戦闘開始時、敵全体にスキルチャージ効率DOWN【40% / 永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002105,
+    "ability_no": 100021,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "戦闘開始時、敵全体にスキルチャージ効率DOWN【50% / 永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002106,
+    "ability_no": 100021,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "戦闘開始時、敵全体にスキルチャージ効率DOWN【60% / 永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002107,
+    "ability_no": 100021,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "戦闘開始時、敵全体にスキルチャージ効率DOWN【70% / 永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002108,
+    "ability_no": 100021,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "戦闘開始時、敵全体にスキルチャージ効率DOWN【80% / 永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002109,
+    "ability_no": 100021,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "戦闘開始時、敵全体にスキルチャージ効率DOWN【90% / 永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002110,
+    "ability_no": 100021,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "戦闘開始時、敵全体にスキルチャージ効率DOWN【100% / 永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002201,
+    "ability_no": 100022,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "戦闘開始時、敵全体にフォースチェイン参加不可【永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002202,
+    "ability_no": 100022,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "戦闘開始時、敵全体にフォースチェイン参加不可【永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002203,
+    "ability_no": 100022,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "戦闘開始時、敵全体にフォースチェイン参加不可【永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002204,
+    "ability_no": 100022,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "戦闘開始時、敵全体にフォースチェイン参加不可【永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002205,
+    "ability_no": 100022,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "戦闘開始時、敵全体にフォースチェイン参加不可【永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002206,
+    "ability_no": 100022,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "戦闘開始時、敵全体にフォースチェイン参加不可【永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002207,
+    "ability_no": 100022,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "戦闘開始時、敵全体にフォースチェイン参加不可【永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002208,
+    "ability_no": 100022,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "戦闘開始時、敵全体にフォースチェイン参加不可【永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002209,
+    "ability_no": 100022,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "戦闘開始時、敵全体にフォースチェイン参加不可【永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002210,
+    "ability_no": 100022,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "戦闘開始時、敵全体にフォースチェイン参加不可【永続】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002301,
+    "ability_no": 100023,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "戦闘不能になったとき、味方全体に攻撃力UP【10% / 30秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002302,
+    "ability_no": 100023,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "戦闘不能になったとき、味方全体に攻撃力UP【20% / 30秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002303,
+    "ability_no": 100023,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "戦闘不能になったとき、味方全体に攻撃力UP【30% / 30秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002304,
+    "ability_no": 100023,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "戦闘不能になったとき、味方全体に攻撃力UP【40% / 30秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002305,
+    "ability_no": 100023,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "戦闘不能になったとき、味方全体に攻撃力UP【50% / 30秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002306,
+    "ability_no": 100023,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "戦闘不能になったとき、味方全体に攻撃力UP【60% / 30秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002307,
+    "ability_no": 100023,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "戦闘不能になったとき、味方全体に攻撃力UP【70% / 30秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002308,
+    "ability_no": 100023,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "戦闘不能になったとき、味方全体に攻撃力UP【80% / 30秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002309,
+    "ability_no": 100023,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "戦闘不能になったとき、味方全体に攻撃力UP【90% / 30秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002310,
+    "ability_no": 100023,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "戦闘不能になったとき、味方全体に攻撃力UP【100% / 30秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002401,
+    "ability_no": 100024,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "戦闘不能になったとき、敵全体に防御力DOWN【5% / 30秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002402,
+    "ability_no": 100024,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "戦闘不能になったとき、敵全体に防御力DOWN【10% / 30秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002403,
+    "ability_no": 100024,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "戦闘不能になったとき、敵全体に防御力DOWN【15% / 30秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002404,
+    "ability_no": 100024,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "戦闘不能になったとき、敵全体に防御力DOWN【20% / 30秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002405,
+    "ability_no": 100024,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "戦闘不能になったとき、敵全体に防御力DOWN【25% / 30秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002406,
+    "ability_no": 100024,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "戦闘不能になったとき、敵全体に防御力DOWN【30% / 30秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002407,
+    "ability_no": 100024,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "戦闘不能になったとき、敵全体に防御力DOWN【35% / 30秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002408,
+    "ability_no": 100024,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "戦闘不能になったとき、敵全体に防御力DOWN【40% / 30秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002409,
+    "ability_no": 100024,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "戦闘不能になったとき、敵全体に防御力DOWN【45% / 30秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002410,
+    "ability_no": 100024,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "戦闘不能になったとき、敵全体に防御力DOWN【50% / 30秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002501,
+    "ability_no": 100025,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "戦闘不能になったとき、味方全体に連撃率UP【20% / 30秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002502,
+    "ability_no": 100025,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "戦闘不能になったとき、味方全体に連撃率UP【40% / 30秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002503,
+    "ability_no": 100025,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "戦闘不能になったとき、味方全体に連撃率UP【60% / 30秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002504,
+    "ability_no": 100025,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "戦闘不能になったとき、味方全体に連撃率UP【80% / 30秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002505,
+    "ability_no": 100025,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "戦闘不能になったとき、味方全体に連撃率UP【100% / 30秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002506,
+    "ability_no": 100025,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "戦闘不能になったとき、味方全体に連撃率UP【120% / 30秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002507,
+    "ability_no": 100025,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "戦闘不能になったとき、味方全体に連撃率UP【140% / 30秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002508,
+    "ability_no": 100025,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "戦闘不能になったとき、味方全体に連撃率UP【160% / 30秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002509,
+    "ability_no": 100025,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "戦闘不能になったとき、味方全体に連撃率UP【180% / 30秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002510,
+    "ability_no": 100025,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "戦闘不能になったとき、味方全体に連撃率UP【200% / 30秒】を付与",
+    "awake_description": ""
+  },
+  {
+    "id": 10002601,
+    "ability_no": 100026,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "自身のノックバック抵抗が【Lv1】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10002602,
+    "ability_no": 100026,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "自身のノックバック抵抗が【Lv2】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10002603,
+    "ability_no": 100026,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "自身のノックバック抵抗が【Lv3】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10002604,
+    "ability_no": 100026,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "自身のノックバック抵抗が【Lv4】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10002605,
+    "ability_no": 100026,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "自身のノックバック抵抗が【Lv5】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10002606,
+    "ability_no": 100026,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "自身のノックバック抵抗が【Lv6】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10002607,
+    "ability_no": 100026,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "自身のノックバック抵抗が【Lv7】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10002608,
+    "ability_no": 100026,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "自身のノックバック抵抗が【Lv8】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10002609,
+    "ability_no": 100026,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "自身のノックバック抵抗が【Lv9】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10002610,
+    "ability_no": 100026,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "自身のノックバック抵抗が【Lv10】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10002701,
+    "ability_no": 100027,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "自身の被ダメージが【10%】減少",
+    "awake_description": ""
+  },
+  {
+    "id": 10002702,
+    "ability_no": 100027,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "自身の被ダメージが【20%】減少",
+    "awake_description": ""
+  },
+  {
+    "id": 10002703,
+    "ability_no": 100027,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "自身の被ダメージが【30%】減少",
+    "awake_description": ""
+  },
+  {
+    "id": 10002704,
+    "ability_no": 100027,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "自身の被ダメージが【40%】減少",
+    "awake_description": ""
+  },
+  {
+    "id": 10002705,
+    "ability_no": 100027,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "自身の被ダメージが【50%】減少",
+    "awake_description": ""
+  },
+  {
+    "id": 10002706,
+    "ability_no": 100027,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "自身の被ダメージが【60%】減少",
+    "awake_description": ""
+  },
+  {
+    "id": 10002707,
+    "ability_no": 100027,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "自身の被ダメージが【70%】減少",
+    "awake_description": ""
+  },
+  {
+    "id": 10002708,
+    "ability_no": 100027,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "自身の被ダメージが【80%】減少",
+    "awake_description": ""
+  },
+  {
+    "id": 10002709,
+    "ability_no": 100027,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "自身の被ダメージが【90%】減少",
+    "awake_description": ""
+  },
+  {
+    "id": 10002710,
+    "ability_no": 100027,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "自身の被ダメージが【100%】減少",
+    "awake_description": ""
+  },
+  {
+    "id": 10002801,
+    "ability_no": 100028,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "行動時、自身の最大HP【0.5%】分のダメージを受ける",
+    "awake_description": ""
+  },
+  {
+    "id": 10002802,
+    "ability_no": 100028,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "行動時、自身の最大HP【1%】分のダメージを受ける",
+    "awake_description": ""
+  },
+  {
+    "id": 10002803,
+    "ability_no": 100028,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "行動時、自身の最大HP【1.5%】分のダメージを受ける",
+    "awake_description": ""
+  },
+  {
+    "id": 10002804,
+    "ability_no": 100028,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "行動時、自身の最大HP【2%】分のダメージを受ける",
+    "awake_description": ""
+  },
+  {
+    "id": 10002805,
+    "ability_no": 100028,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "行動時、自身の最大HP【2.5%】分のダメージを受ける",
+    "awake_description": ""
+  },
+  {
+    "id": 10002806,
+    "ability_no": 100028,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "行動時、自身の最大HP【3%】分のダメージを受ける",
+    "awake_description": ""
+  },
+  {
+    "id": 10002807,
+    "ability_no": 100028,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "行動時、自身の最大HP【3.5%】分のダメージを受ける",
+    "awake_description": ""
+  },
+  {
+    "id": 10002808,
+    "ability_no": 100028,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "行動時、自身の最大HP【4%】分のダメージを受ける",
+    "awake_description": ""
+  },
+  {
+    "id": 10002809,
+    "ability_no": 100028,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "行動時、自身の最大HP【4.5%】分のダメージを受ける",
+    "awake_description": ""
+  },
+  {
+    "id": 10002810,
+    "ability_no": 100028,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "行動時、自身の最大HP【5%】分のダメージを受ける",
+    "awake_description": ""
+  },
+  {
+    "id": 10002901,
+    "ability_no": 100029,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "自身のスキルチャージ効率が【10%】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10002902,
+    "ability_no": 100029,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "自身のスキルチャージ効率が【20%】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10002903,
+    "ability_no": 100029,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "自身のスキルチャージ効率が【30%】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10002904,
+    "ability_no": 100029,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "自身のスキルチャージ効率が【40%】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10002905,
+    "ability_no": 100029,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "自身のスキルチャージ効率が【50%】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10002906,
+    "ability_no": 100029,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "自身のスキルチャージ効率が【60%】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10002907,
+    "ability_no": 100029,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "自身のスキルチャージ効率が【70%】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10002908,
+    "ability_no": 100029,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "自身のスキルチャージ効率が【80%】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10002909,
+    "ability_no": 100029,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "自身のスキルチャージ効率が【90%】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10002910,
+    "ability_no": 100029,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "自身のスキルチャージ効率が【100%】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10003001,
+    "ability_no": 100030,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "戦闘不能時、味方全体に攻撃力UP【5%】を付与【累積 / 最大200%】 / 防御力UP【5%】を付与【累積 / 最大200%】",
+    "awake_description": ""
+  },
+  {
+    "id": 10003002,
+    "ability_no": 100030,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "戦闘不能時、味方全体に攻撃力UP【10%】を付与【累積 / 最大200%】 / 防御力UP【10%】を付与【累積 / 最大200%】",
+    "awake_description": ""
+  },
+  {
+    "id": 10003003,
+    "ability_no": 100030,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "戦闘不能時、味方全体に攻撃力UP【15%】を付与【累積 / 最大200%】 / 防御力UP【15%】を付与【累積 / 最大200%】",
+    "awake_description": ""
+  },
+  {
+    "id": 10003004,
+    "ability_no": 100030,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "戦闘不能時、味方全体に攻撃力UP【20%】を付与【累積 / 最大200%】 / 防御力UP【20%】を付与【累積 / 最大200%】",
+    "awake_description": ""
+  },
+  {
+    "id": 10003005,
+    "ability_no": 100030,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "戦闘不能時、味方全体に攻撃力UP【25%】を付与【累積 / 最大200%】 / 防御力UP【25%】を付与【累積 / 最大200%】",
+    "awake_description": ""
+  },
+  {
+    "id": 10003006,
+    "ability_no": 100030,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "戦闘不能時、味方全体に攻撃力UP【30%】を付与【累積 / 最大200%】 / 防御力UP【30%】を付与【累積 / 最大200%】",
+    "awake_description": ""
+  },
+  {
+    "id": 10003007,
+    "ability_no": 100030,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "戦闘不能時、味方全体に攻撃力UP【35%】を付与【累積 / 最大200%】 / 防御力UP【35%】を付与【累積 / 最大200%】",
+    "awake_description": ""
+  },
+  {
+    "id": 10003008,
+    "ability_no": 100030,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "戦闘不能時、味方全体に攻撃力UP【40%】を付与【累積 / 最大200%】 / 防御力UP【40%】を付与【累積 / 最大200%】",
+    "awake_description": ""
+  },
+  {
+    "id": 10003009,
+    "ability_no": 100030,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "戦闘不能時、味方全体に攻撃力UP【45%】を付与【累積 / 最大200%】 / 防御力UP【45%】を付与【累積 / 最大200%】",
+    "awake_description": ""
+  },
+  {
+    "id": 10003010,
+    "ability_no": 100030,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "戦闘不能時、味方全体に攻撃力UP【50%】を付与【累積 / 最大200%】 / 防御力UP【50%】を付与【累積 / 最大200%】",
+    "awake_description": ""
+  },
+  {
+    "id": 10003101,
+    "ability_no": 100031,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "戦闘不能時、味方全体に対象の最大HP【1%】の回復",
+    "awake_description": ""
+  },
+  {
+    "id": 10003102,
+    "ability_no": 100031,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "戦闘不能時、味方全体に対象の最大HP【2%】の回復",
+    "awake_description": ""
+  },
+  {
+    "id": 10003103,
+    "ability_no": 100031,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "戦闘不能時、味方全体に対象の最大HP【3%】の回復",
+    "awake_description": ""
+  },
+  {
+    "id": 10003104,
+    "ability_no": 100031,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "戦闘不能時、味方全体に対象の最大HP【4%】の回復",
+    "awake_description": ""
+  },
+  {
+    "id": 10003105,
+    "ability_no": 100031,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "戦闘不能時、味方全体に対象の最大HP【5%】の回復",
+    "awake_description": ""
+  },
+  {
+    "id": 10003106,
+    "ability_no": 100031,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "戦闘不能時、味方全体に対象の最大HP【6%】の回復",
+    "awake_description": ""
+  },
+  {
+    "id": 10003107,
+    "ability_no": 100031,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "戦闘不能時、味方全体に対象の最大HP【7%】の回復",
+    "awake_description": ""
+  },
+  {
+    "id": 10003108,
+    "ability_no": 100031,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "戦闘不能時、味方全体に対象の最大HP【8%】の回復",
+    "awake_description": ""
+  },
+  {
+    "id": 10003109,
+    "ability_no": 100031,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "戦闘不能時、味方全体に対象の最大HP【9%】の回復",
+    "awake_description": ""
+  },
+  {
+    "id": 10003110,
+    "ability_no": 100031,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "戦闘不能時、味方全体に対象の最大HP【10%】の回復",
+    "awake_description": ""
+  },
+  {
+    "id": 10003201,
+    "ability_no": 100032,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "自身の弱体耐性が【10%】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10003202,
+    "ability_no": 100032,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "自身の弱体耐性が【20%】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10003203,
+    "ability_no": 100032,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "自身の弱体耐性が【30%】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10003204,
+    "ability_no": 100032,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "自身の弱体耐性が【40%】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10003205,
+    "ability_no": 100032,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "自身の弱体耐性が【50%】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10003206,
+    "ability_no": 100032,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "自身の弱体耐性が【60%】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10003207,
+    "ability_no": 100032,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "自身の弱体耐性が【70%】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10003208,
+    "ability_no": 100032,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "自身の弱体耐性が【80%】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10003209,
+    "ability_no": 100032,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "自身の弱体耐性が【90%】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 10003210,
+    "ability_no": 100032,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "自身の弱体耐性が【100%】上昇",
     "awake_description": ""
   }
 ]

@@ -117,6 +117,15 @@
     "has_r18": 1
   },
   {
+    "id": 14,
+    "m_login_bonus_sheet_id": 14,
+    "prefab_id": "LoginBonus_1030003",
+    "m_character_id": 1300020,
+    "voice_id": "0",
+    "serif": "セリフ関係なし",
+    "has_r18": 1
+  },
+  {
     "id": 10001,
     "m_login_bonus_sheet_id": 10001,
     "prefab_id": "LoginBonus_1020001",
@@ -182,6 +191,24 @@
   {
     "id": 10008,
     "m_login_bonus_sheet_id": 10008,
+    "prefab_id": "LoginBonus_1020001",
+    "m_character_id": 1300020,
+    "voice_id": "0",
+    "serif": "イベント用　ウェンディのセリフ",
+    "has_r18": 0
+  },
+  {
+    "id": 10009,
+    "m_login_bonus_sheet_id": 10009,
+    "prefab_id": "LoginBonus_1020001",
+    "m_character_id": 1300020,
+    "voice_id": "0",
+    "serif": "イベント用　ウェンディのセリフ",
+    "has_r18": 0
+  },
+  {
+    "id": 10010,
+    "m_login_bonus_sheet_id": 10010,
     "prefab_id": "LoginBonus_1020001",
     "m_character_id": 1300020,
     "voice_id": "0",

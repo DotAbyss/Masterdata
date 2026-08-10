@@ -713,5 +713,27 @@
     "m_tavern_card_effect_id_1": 102005,
     "m_tavern_card_effect_id_2": 401005,
     "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 13000510,
+    "m_character_id": 1300051,
+    "m_character_skin_id": 130005102,
+    "name": "【水着】ホノカの提案",
+    "effect_type": 2,
+    "description": "ランダムな「千国連合」の\nスタッフ最大3体に「接客」を付与。\nそれらのスタッフの満足度+20%",
+    "m_tavern_card_effect_id_1": 102011,
+    "m_tavern_card_effect_id_2": 401007,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 13000520,
+    "m_character_id": 1300052,
+    "m_character_skin_id": 130005202,
+    "name": "【水着】ヘイリーの提案",
+    "effect_type": 3,
+    "description": "次ターンの営業カードが必ず「料理」関連のものになる。\n全てのスタッフの満足度+10%",
+    "m_tavern_card_effect_id_1": 500002,
+    "m_tavern_card_effect_id_2": 400000,
+    "m_tavern_card_effect_id_3": 0
   }
 ]

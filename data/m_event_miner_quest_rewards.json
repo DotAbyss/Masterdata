@@ -222,5 +222,117 @@
     "content_id": 1001,
     "amount": 750,
     "is_first_reward": 0
+  },
+  {
+    "id": 35,
+    "m_event_miner_quest_id": 100003101,
+    "content_type": 10,
+    "content_id": 10,
+    "amount": 50,
+    "is_first_reward": 1
+  },
+  {
+    "id": 36,
+    "m_event_miner_quest_id": 100003101,
+    "content_type": 54,
+    "content_id": 1002,
+    "amount": 100,
+    "is_first_reward": 0
+  },
+  {
+    "id": 37,
+    "m_event_miner_quest_id": 100003102,
+    "content_type": 10,
+    "content_id": 10,
+    "amount": 50,
+    "is_first_reward": 1
+  },
+  {
+    "id": 38,
+    "m_event_miner_quest_id": 100003102,
+    "content_type": 54,
+    "content_id": 1002,
+    "amount": 200,
+    "is_first_reward": 0
+  },
+  {
+    "id": 39,
+    "m_event_miner_quest_id": 100003103,
+    "content_type": 10,
+    "content_id": 10,
+    "amount": 50,
+    "is_first_reward": 1
+  },
+  {
+    "id": 40,
+    "m_event_miner_quest_id": 100003103,
+    "content_type": 54,
+    "content_id": 1002,
+    "amount": 350,
+    "is_first_reward": 0
+  },
+  {
+    "id": 41,
+    "m_event_miner_quest_id": 100003104,
+    "content_type": 10,
+    "content_id": 10,
+    "amount": 50,
+    "is_first_reward": 1
+  },
+  {
+    "id": 42,
+    "m_event_miner_quest_id": 100003104,
+    "content_type": 54,
+    "content_id": 1002,
+    "amount": 450,
+    "is_first_reward": 0
+  },
+  {
+    "id": 43,
+    "m_event_miner_quest_id": 100003105,
+    "content_type": 10,
+    "content_id": 10,
+    "amount": 50,
+    "is_first_reward": 1
+  },
+  {
+    "id": 44,
+    "m_event_miner_quest_id": 100003105,
+    "content_type": 54,
+    "content_id": 1002,
+    "amount": 650,
+    "is_first_reward": 0
+  },
+  {
+    "id": 45,
+    "m_event_miner_quest_id": 100003106,
+    "content_type": 10,
+    "content_id": 10,
+    "amount": 50,
+    "is_first_reward": 1
+  },
+  {
+    "id": 46,
+    "m_event_miner_quest_id": 100003106,
+    "content_type": 54,
+    "content_id": 1002,
+    "amount": 750,
+    "is_first_reward": 0
+  },
+  {
+    "id": 48,
+    "m_event_miner_quest_id": 100003201,
+    "content_type": 10,
+    "content_id": 10,
+    "amount": 50,
+    "is_first_reward": 1
+  },
+  {
+    "id": 49,
+    "m_event_miner_quest_id": 100003201,
+    "content_type": 54,
+    "content_id": 1002,
+    "amount": 750,
+    "is_first_reward": 0
   }
 ]

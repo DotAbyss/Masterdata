@@ -1566,5 +1566,838 @@
     "m_enemy_id": 440023312,
     "is_boss": 0,
     "asset_id": "2016101"
+  },
+  {
+    "id": 1500,
+    "m_event_miner_quest_id": 100003101,
+    "m_enemy_id": 440031101,
+    "is_boss": 1,
+    "asset_id": "2038501"
+  },
+  {
+    "id": 1501,
+    "m_event_miner_quest_id": 100003101,
+    "m_enemy_id": 440031102,
+    "is_boss": 0,
+    "asset_id": "2002501"
+  },
+  {
+    "id": 1502,
+    "m_event_miner_quest_id": 100003101,
+    "m_enemy_id": 440031103,
+    "is_boss": 0,
+    "asset_id": "2005501"
+  },
+  {
+    "id": 1503,
+    "m_event_miner_quest_id": 100003101,
+    "m_enemy_id": 440031104,
+    "is_boss": 0,
+    "asset_id": "2006501"
+  },
+  {
+    "id": 1504,
+    "m_event_miner_quest_id": 100003101,
+    "m_enemy_id": 440031106,
+    "is_boss": 0,
+    "asset_id": "2001501"
+  },
+  {
+    "id": 1505,
+    "m_event_miner_quest_id": 100003101,
+    "m_enemy_id": 440031107,
+    "is_boss": 0,
+    "asset_id": "2004501"
+  },
+  {
+    "id": 1506,
+    "m_event_miner_quest_id": 100003101,
+    "m_enemy_id": 440031108,
+    "is_boss": 0,
+    "asset_id": "2007501"
+  },
+  {
+    "id": 1507,
+    "m_event_miner_quest_id": 100003101,
+    "m_enemy_id": 440031110,
+    "is_boss": 0,
+    "asset_id": "2009501"
+  },
+  {
+    "id": 1508,
+    "m_event_miner_quest_id": 100003101,
+    "m_enemy_id": 440031111,
+    "is_boss": 0,
+    "asset_id": "2010501"
+  },
+  {
+    "id": 1509,
+    "m_event_miner_quest_id": 100003101,
+    "m_enemy_id": 440031112,
+    "is_boss": 0,
+    "asset_id": "2013501"
+  },
+  {
+    "id": 1510,
+    "m_event_miner_quest_id": 100003101,
+    "m_enemy_id": 440031113,
+    "is_boss": 0,
+    "asset_id": "2011501"
+  },
+  {
+    "id": 1511,
+    "m_event_miner_quest_id": 100003101,
+    "m_enemy_id": 440031114,
+    "is_boss": 0,
+    "asset_id": "2012501"
+  },
+  {
+    "id": 1512,
+    "m_event_miner_quest_id": 100003101,
+    "m_enemy_id": 440031115,
+    "is_boss": 0,
+    "asset_id": "2028501"
+  },
+  {
+    "id": 1513,
+    "m_event_miner_quest_id": 100003101,
+    "m_enemy_id": 440031116,
+    "is_boss": 0,
+    "asset_id": "2029501"
+  },
+  {
+    "id": 1514,
+    "m_event_miner_quest_id": 100003101,
+    "m_enemy_id": 440031129,
+    "is_boss": 0,
+    "asset_id": "2003501"
+  },
+  {
+    "id": 1515,
+    "m_event_miner_quest_id": 100003101,
+    "m_enemy_id": 440031132,
+    "is_boss": 0,
+    "asset_id": "2008501"
+  },
+  {
+    "id": 1516,
+    "m_event_miner_quest_id": 100003101,
+    "m_enemy_id": 440031134,
+    "is_boss": 0,
+    "asset_id": "2015501"
+  },
+  {
+    "id": 1600,
+    "m_event_miner_quest_id": 100003102,
+    "m_enemy_id": 440031201,
+    "is_boss": 1,
+    "asset_id": "2038501"
+  },
+  {
+    "id": 1601,
+    "m_event_miner_quest_id": 100003102,
+    "m_enemy_id": 440031202,
+    "is_boss": 0,
+    "asset_id": "2002501"
+  },
+  {
+    "id": 1602,
+    "m_event_miner_quest_id": 100003102,
+    "m_enemy_id": 440031203,
+    "is_boss": 0,
+    "asset_id": "2005501"
+  },
+  {
+    "id": 1603,
+    "m_event_miner_quest_id": 100003102,
+    "m_enemy_id": 440031204,
+    "is_boss": 0,
+    "asset_id": "2006501"
+  },
+  {
+    "id": 1604,
+    "m_event_miner_quest_id": 100003102,
+    "m_enemy_id": 440031206,
+    "is_boss": 0,
+    "asset_id": "2001501"
+  },
+  {
+    "id": 1605,
+    "m_event_miner_quest_id": 100003102,
+    "m_enemy_id": 440031207,
+    "is_boss": 0,
+    "asset_id": "2004501"
+  },
+  {
+    "id": 1606,
+    "m_event_miner_quest_id": 100003102,
+    "m_enemy_id": 440031208,
+    "is_boss": 0,
+    "asset_id": "2007501"
+  },
+  {
+    "id": 1607,
+    "m_event_miner_quest_id": 100003102,
+    "m_enemy_id": 440031210,
+    "is_boss": 0,
+    "asset_id": "2009501"
+  },
+  {
+    "id": 1608,
+    "m_event_miner_quest_id": 100003102,
+    "m_enemy_id": 440031211,
+    "is_boss": 0,
+    "asset_id": "2010501"
+  },
+  {
+    "id": 1609,
+    "m_event_miner_quest_id": 100003102,
+    "m_enemy_id": 440031212,
+    "is_boss": 0,
+    "asset_id": "2013501"
+  },
+  {
+    "id": 1610,
+    "m_event_miner_quest_id": 100003102,
+    "m_enemy_id": 440031213,
+    "is_boss": 0,
+    "asset_id": "2011501"
+  },
+  {
+    "id": 1611,
+    "m_event_miner_quest_id": 100003102,
+    "m_enemy_id": 440031214,
+    "is_boss": 0,
+    "asset_id": "2012501"
+  },
+  {
+    "id": 1612,
+    "m_event_miner_quest_id": 100003102,
+    "m_enemy_id": 440031215,
+    "is_boss": 0,
+    "asset_id": "2028501"
+  },
+  {
+    "id": 1613,
+    "m_event_miner_quest_id": 100003102,
+    "m_enemy_id": 440031216,
+    "is_boss": 0,
+    "asset_id": "2029501"
+  },
+  {
+    "id": 1614,
+    "m_event_miner_quest_id": 100003102,
+    "m_enemy_id": 440031229,
+    "is_boss": 0,
+    "asset_id": "2003501"
+  },
+  {
+    "id": 1615,
+    "m_event_miner_quest_id": 100003102,
+    "m_enemy_id": 440031232,
+    "is_boss": 0,
+    "asset_id": "2008501"
+  },
+  {
+    "id": 1616,
+    "m_event_miner_quest_id": 100003102,
+    "m_enemy_id": 440031234,
+    "is_boss": 0,
+    "asset_id": "2015501"
+  },
+  {
+    "id": 1700,
+    "m_event_miner_quest_id": 100003103,
+    "m_enemy_id": 440032101,
+    "is_boss": 1,
+    "asset_id": "2038501"
+  },
+  {
+    "id": 1701,
+    "m_event_miner_quest_id": 100003103,
+    "m_enemy_id": 440032102,
+    "is_boss": 0,
+    "asset_id": "2002501"
+  },
+  {
+    "id": 1702,
+    "m_event_miner_quest_id": 100003103,
+    "m_enemy_id": 440032103,
+    "is_boss": 0,
+    "asset_id": "2005501"
+  },
+  {
+    "id": 1703,
+    "m_event_miner_quest_id": 100003103,
+    "m_enemy_id": 440032104,
+    "is_boss": 0,
+    "asset_id": "2006501"
+  },
+  {
+    "id": 1704,
+    "m_event_miner_quest_id": 100003103,
+    "m_enemy_id": 440032105,
+    "is_boss": 0,
+    "asset_id": "2003501"
+  },
+  {
+    "id": 1705,
+    "m_event_miner_quest_id": 100003103,
+    "m_enemy_id": 440032106,
+    "is_boss": 0,
+    "asset_id": "2001501"
+  },
+  {
+    "id": 1706,
+    "m_event_miner_quest_id": 100003103,
+    "m_enemy_id": 440032107,
+    "is_boss": 0,
+    "asset_id": "2004501"
+  },
+  {
+    "id": 1707,
+    "m_event_miner_quest_id": 100003103,
+    "m_enemy_id": 440032108,
+    "is_boss": 0,
+    "asset_id": "2008501"
+  },
+  {
+    "id": 1708,
+    "m_event_miner_quest_id": 100003103,
+    "m_enemy_id": 440032109,
+    "is_boss": 0,
+    "asset_id": "2007501"
+  },
+  {
+    "id": 1709,
+    "m_event_miner_quest_id": 100003103,
+    "m_enemy_id": 440032111,
+    "is_boss": 0,
+    "asset_id": "2009501"
+  },
+  {
+    "id": 1710,
+    "m_event_miner_quest_id": 100003103,
+    "m_enemy_id": 440032112,
+    "is_boss": 0,
+    "asset_id": "2010501"
+  },
+  {
+    "id": 1711,
+    "m_event_miner_quest_id": 100003103,
+    "m_enemy_id": 440032113,
+    "is_boss": 0,
+    "asset_id": "2013501"
+  },
+  {
+    "id": 1712,
+    "m_event_miner_quest_id": 100003103,
+    "m_enemy_id": 440032114,
+    "is_boss": 0,
+    "asset_id": "2011501"
+  },
+  {
+    "id": 1713,
+    "m_event_miner_quest_id": 100003103,
+    "m_enemy_id": 440032115,
+    "is_boss": 0,
+    "asset_id": "2012501"
+  },
+  {
+    "id": 1714,
+    "m_event_miner_quest_id": 100003103,
+    "m_enemy_id": 440032116,
+    "is_boss": 0,
+    "asset_id": "2028501"
+  },
+  {
+    "id": 1715,
+    "m_event_miner_quest_id": 100003103,
+    "m_enemy_id": 440032117,
+    "is_boss": 0,
+    "asset_id": "2029501"
+  },
+  {
+    "id": 1716,
+    "m_event_miner_quest_id": 100003103,
+    "m_enemy_id": 440032136,
+    "is_boss": 0,
+    "asset_id": "2015501"
+  },
+  {
+    "id": 1800,
+    "m_event_miner_quest_id": 100003104,
+    "m_enemy_id": 440032201,
+    "is_boss": 1,
+    "asset_id": "2038501"
+  },
+  {
+    "id": 1801,
+    "m_event_miner_quest_id": 100003104,
+    "m_enemy_id": 440032202,
+    "is_boss": 0,
+    "asset_id": "2002501"
+  },
+  {
+    "id": 1802,
+    "m_event_miner_quest_id": 100003104,
+    "m_enemy_id": 440032203,
+    "is_boss": 0,
+    "asset_id": "2005501"
+  },
+  {
+    "id": 1803,
+    "m_event_miner_quest_id": 100003104,
+    "m_enemy_id": 440032204,
+    "is_boss": 0,
+    "asset_id": "2006501"
+  },
+  {
+    "id": 1804,
+    "m_event_miner_quest_id": 100003104,
+    "m_enemy_id": 440032205,
+    "is_boss": 0,
+    "asset_id": "2003501"
+  },
+  {
+    "id": 1805,
+    "m_event_miner_quest_id": 100003104,
+    "m_enemy_id": 440032206,
+    "is_boss": 0,
+    "asset_id": "2001501"
+  },
+  {
+    "id": 1806,
+    "m_event_miner_quest_id": 100003104,
+    "m_enemy_id": 440032207,
+    "is_boss": 0,
+    "asset_id": "2004501"
+  },
+  {
+    "id": 1807,
+    "m_event_miner_quest_id": 100003104,
+    "m_enemy_id": 440032208,
+    "is_boss": 0,
+    "asset_id": "2008501"
+  },
+  {
+    "id": 1808,
+    "m_event_miner_quest_id": 100003104,
+    "m_enemy_id": 440032209,
+    "is_boss": 0,
+    "asset_id": "2007501"
+  },
+  {
+    "id": 1809,
+    "m_event_miner_quest_id": 100003104,
+    "m_enemy_id": 440032211,
+    "is_boss": 0,
+    "asset_id": "2009501"
+  },
+  {
+    "id": 1810,
+    "m_event_miner_quest_id": 100003104,
+    "m_enemy_id": 440032212,
+    "is_boss": 0,
+    "asset_id": "2010501"
+  },
+  {
+    "id": 1811,
+    "m_event_miner_quest_id": 100003104,
+    "m_enemy_id": 440032213,
+    "is_boss": 0,
+    "asset_id": "2013501"
+  },
+  {
+    "id": 1812,
+    "m_event_miner_quest_id": 100003104,
+    "m_enemy_id": 440032214,
+    "is_boss": 0,
+    "asset_id": "2011501"
+  },
+  {
+    "id": 1813,
+    "m_event_miner_quest_id": 100003104,
+    "m_enemy_id": 440032215,
+    "is_boss": 0,
+    "asset_id": "2012501"
+  },
+  {
+    "id": 1814,
+    "m_event_miner_quest_id": 100003104,
+    "m_enemy_id": 440032216,
+    "is_boss": 0,
+    "asset_id": "2028501"
+  },
+  {
+    "id": 1815,
+    "m_event_miner_quest_id": 100003104,
+    "m_enemy_id": 440032217,
+    "is_boss": 0,
+    "asset_id": "2029501"
+  },
+  {
+    "id": 1816,
+    "m_event_miner_quest_id": 100003104,
+    "m_enemy_id": 440032236,
+    "is_boss": 0,
+    "asset_id": "2015501"
+  },
+  {
+    "id": 1900,
+    "m_event_miner_quest_id": 100003105,
+    "m_enemy_id": 440033101,
+    "is_boss": 1,
+    "asset_id": "2038501"
+  },
+  {
+    "id": 1901,
+    "m_event_miner_quest_id": 100003105,
+    "m_enemy_id": 440033103,
+    "is_boss": 0,
+    "asset_id": "2005501"
+  },
+  {
+    "id": 1902,
+    "m_event_miner_quest_id": 100003105,
+    "m_enemy_id": 440033104,
+    "is_boss": 0,
+    "asset_id": "2006501"
+  },
+  {
+    "id": 1903,
+    "m_event_miner_quest_id": 100003105,
+    "m_enemy_id": 440033105,
+    "is_boss": 0,
+    "asset_id": "2003501"
+  },
+  {
+    "id": 1904,
+    "m_event_miner_quest_id": 100003105,
+    "m_enemy_id": 440033106,
+    "is_boss": 0,
+    "asset_id": "2001501"
+  },
+  {
+    "id": 1905,
+    "m_event_miner_quest_id": 100003105,
+    "m_enemy_id": 440033107,
+    "is_boss": 0,
+    "asset_id": "2004501"
+  },
+  {
+    "id": 1906,
+    "m_event_miner_quest_id": 100003105,
+    "m_enemy_id": 440033108,
+    "is_boss": 0,
+    "asset_id": "2008501"
+  },
+  {
+    "id": 1907,
+    "m_event_miner_quest_id": 100003105,
+    "m_enemy_id": 440033109,
+    "is_boss": 0,
+    "asset_id": "2007501"
+  },
+  {
+    "id": 1908,
+    "m_event_miner_quest_id": 100003105,
+    "m_enemy_id": 440033110,
+    "is_boss": 0,
+    "asset_id": "2015501"
+  },
+  {
+    "id": 1909,
+    "m_event_miner_quest_id": 100003105,
+    "m_enemy_id": 440033112,
+    "is_boss": 0,
+    "asset_id": "2009501"
+  },
+  {
+    "id": 1910,
+    "m_event_miner_quest_id": 100003105,
+    "m_enemy_id": 440033113,
+    "is_boss": 0,
+    "asset_id": "2010501"
+  },
+  {
+    "id": 1911,
+    "m_event_miner_quest_id": 100003105,
+    "m_enemy_id": 440033114,
+    "is_boss": 0,
+    "asset_id": "2013501"
+  },
+  {
+    "id": 1912,
+    "m_event_miner_quest_id": 100003105,
+    "m_enemy_id": 440033115,
+    "is_boss": 0,
+    "asset_id": "2011501"
+  },
+  {
+    "id": 1913,
+    "m_event_miner_quest_id": 100003105,
+    "m_enemy_id": 440033116,
+    "is_boss": 0,
+    "asset_id": "2012501"
+  },
+  {
+    "id": 1914,
+    "m_event_miner_quest_id": 100003105,
+    "m_enemy_id": 440033117,
+    "is_boss": 0,
+    "asset_id": "2028501"
+  },
+  {
+    "id": 1915,
+    "m_event_miner_quest_id": 100003105,
+    "m_enemy_id": 440033118,
+    "is_boss": 0,
+    "asset_id": "2029501"
+  },
+  {
+    "id": 1916,
+    "m_event_miner_quest_id": 100003105,
+    "m_enemy_id": 440033138,
+    "is_boss": 0,
+    "asset_id": "2016501"
+  },
+  {
+    "id": 2000,
+    "m_event_miner_quest_id": 100003106,
+    "m_enemy_id": 440033201,
+    "is_boss": 1,
+    "asset_id": "2038501"
+  },
+  {
+    "id": 2001,
+    "m_event_miner_quest_id": 100003106,
+    "m_enemy_id": 440033203,
+    "is_boss": 0,
+    "asset_id": "2005501"
+  },
+  {
+    "id": 2002,
+    "m_event_miner_quest_id": 100003106,
+    "m_enemy_id": 440033204,
+    "is_boss": 0,
+    "asset_id": "2006501"
+  },
+  {
+    "id": 2003,
+    "m_event_miner_quest_id": 100003106,
+    "m_enemy_id": 440033205,
+    "is_boss": 0,
+    "asset_id": "2003501"
+  },
+  {
+    "id": 2004,
+    "m_event_miner_quest_id": 100003106,
+    "m_enemy_id": 440033206,
+    "is_boss": 0,
+    "asset_id": "2001501"
+  },
+  {
+    "id": 2005,
+    "m_event_miner_quest_id": 100003106,
+    "m_enemy_id": 440033207,
+    "is_boss": 0,
+    "asset_id": "2004501"
+  },
+  {
+    "id": 2006,
+    "m_event_miner_quest_id": 100003106,
+    "m_enemy_id": 440033208,
+    "is_boss": 0,
+    "asset_id": "2008501"
+  },
+  {
+    "id": 2007,
+    "m_event_miner_quest_id": 100003106,
+    "m_enemy_id": 440033209,
+    "is_boss": 0,
+    "asset_id": "2007501"
+  },
+  {
+    "id": 2008,
+    "m_event_miner_quest_id": 100003106,
+    "m_enemy_id": 440033210,
+    "is_boss": 0,
+    "asset_id": "2015501"
+  },
+  {
+    "id": 2009,
+    "m_event_miner_quest_id": 100003106,
+    "m_enemy_id": 440033212,
+    "is_boss": 0,
+    "asset_id": "2009501"
+  },
+  {
+    "id": 2010,
+    "m_event_miner_quest_id": 100003106,
+    "m_enemy_id": 440033213,
+    "is_boss": 0,
+    "asset_id": "2010501"
+  },
+  {
+    "id": 2011,
+    "m_event_miner_quest_id": 100003106,
+    "m_enemy_id": 440033214,
+    "is_boss": 0,
+    "asset_id": "2013501"
+  },
+  {
+    "id": 2012,
+    "m_event_miner_quest_id": 100003106,
+    "m_enemy_id": 440033215,
+    "is_boss": 0,
+    "asset_id": "2011501"
+  },
+  {
+    "id": 2013,
+    "m_event_miner_quest_id": 100003106,
+    "m_enemy_id": 440033216,
+    "is_boss": 0,
+    "asset_id": "2012501"
+  },
+  {
+    "id": 2014,
+    "m_event_miner_quest_id": 100003106,
+    "m_enemy_id": 440033217,
+    "is_boss": 0,
+    "asset_id": "2028501"
+  },
+  {
+    "id": 2015,
+    "m_event_miner_quest_id": 100003106,
+    "m_enemy_id": 440033218,
+    "is_boss": 0,
+    "asset_id": "2029501"
+  },
+  {
+    "id": 2016,
+    "m_event_miner_quest_id": 100003106,
+    "m_enemy_id": 440033238,
+    "is_boss": 0,
+    "asset_id": "2016501"
+  },
+  {
+    "id": 2100,
+    "m_event_miner_quest_id": 100003201,
+    "m_enemy_id": 440033301,
+    "is_boss": 1,
+    "asset_id": "2038501"
+  },
+  {
+    "id": 2101,
+    "m_event_miner_quest_id": 100003201,
+    "m_enemy_id": 440033303,
+    "is_boss": 0,
+    "asset_id": "2005501"
+  },
+  {
+    "id": 2102,
+    "m_event_miner_quest_id": 100003201,
+    "m_enemy_id": 440033304,
+    "is_boss": 0,
+    "asset_id": "2006501"
+  },
+  {
+    "id": 2103,
+    "m_event_miner_quest_id": 100003201,
+    "m_enemy_id": 440033305,
+    "is_boss": 0,
+    "asset_id": "2003501"
+  },
+  {
+    "id": 2104,
+    "m_event_miner_quest_id": 100003201,
+    "m_enemy_id": 440033306,
+    "is_boss": 0,
+    "asset_id": "2001501"
+  },
+  {
+    "id": 2105,
+    "m_event_miner_quest_id": 100003201,
+    "m_enemy_id": 440033307,
+    "is_boss": 0,
+    "asset_id": "2004501"
+  },
+  {
+    "id": 2106,
+    "m_event_miner_quest_id": 100003201,
+    "m_enemy_id": 440033308,
+    "is_boss": 0,
+    "asset_id": "2008501"
+  },
+  {
+    "id": 2107,
+    "m_event_miner_quest_id": 100003201,
+    "m_enemy_id": 440033309,
+    "is_boss": 0,
+    "asset_id": "2007501"
+  },
+  {
+    "id": 2108,
+    "m_event_miner_quest_id": 100003201,
+    "m_enemy_id": 440033310,
+    "is_boss": 0,
+    "asset_id": "2015501"
+  },
+  {
+    "id": 2109,
+    "m_event_miner_quest_id": 100003201,
+    "m_enemy_id": 440033313,
+    "is_boss": 0,
+    "asset_id": "2009501"
+  },
+  {
+    "id": 2110,
+    "m_event_miner_quest_id": 100003201,
+    "m_enemy_id": 440033314,
+    "is_boss": 0,
+    "asset_id": "2010501"
+  },
+  {
+    "id": 2111,
+    "m_event_miner_quest_id": 100003201,
+    "m_enemy_id": 440033315,
+    "is_boss": 0,
+    "asset_id": "2013501"
+  },
+  {
+    "id": 2112,
+    "m_event_miner_quest_id": 100003201,
+    "m_enemy_id": 440033316,
+    "is_boss": 0,
+    "asset_id": "2011501"
+  },
+  {
+    "id": 2113,
+    "m_event_miner_quest_id": 100003201,
+    "m_enemy_id": 440033317,
+    "is_boss": 0,
+    "asset_id": "2012501"
+  },
+  {
+    "id": 2114,
+    "m_event_miner_quest_id": 100003201,
+    "m_enemy_id": 440033318,
+    "is_boss": 0,
+    "asset_id": "2028501"
+  },
+  {
+    "id": 2115,
+    "m_event_miner_quest_id": 100003201,
+    "m_enemy_id": 440033319,
+    "is_boss": 0,
+    "asset_id": "2029501"
+  },
+  {
+    "id": 2116,
+    "m_event_miner_quest_id": 100003201,
+    "m_enemy_id": 440033339,
+    "is_boss": 0,
+    "asset_id": "2016501"
   }
 ]

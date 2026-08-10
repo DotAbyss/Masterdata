@@ -78,5 +78,21 @@
     "display_order": 9996,
     "start_at": "2026-07-31 13:00:00",
     "end_at": "2026-08-10 12:59:59"
+  },
+  {
+    "id": 12,
+    "target_scene": 4,
+    "param": 128,
+    "display_order": 9995,
+    "start_at": "2026-08-10 13:00:00",
+    "end_at": "2026-08-15 9:59:59"
+  },
+  {
+    "id": 13,
+    "target_scene": 4,
+    "param": 130,
+    "display_order": 9994,
+    "start_at": "2026-08-15 10:00:00",
+    "end_at": "2026-08-20 11:59:59"
   }
 ]

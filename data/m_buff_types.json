@@ -480,6 +480,14 @@
     "description": "1度だけ衝撃効果を消費しない状態"
   },
   {
+    "id": 701,
+    "name": "継続ダメージ",
+    "nameEN": "DotDamage",
+    "limit": 0,
+    "icon_asset_id": "DotDamage",
+    "description": "{0}秒ごとにダメージを受ける状態"
+  },
+  {
     "id": 1001,
     "name": "全状態異常成功率UP",
     "nameEN": "Abnormal Probability Up - ALL",
@@ -950,6 +958,14 @@
     "limit": 0,
     "icon_asset_id": "Damage_DOWN",
     "description": "喪失状態の敵に対して与ダメージが{0}減少する状態"
+  },
+  {
+    "id": 3101,
+    "name": "弱体効果が付与されている敵に対して与ダメージUP",
+    "nameEN": "Damage Up",
+    "limit": 0,
+    "icon_asset_id": "Damage_UP",
+    "description": "弱体効果が付与されている敵に対して与ダメージが{0}上昇する状態"
   },
   {
     "id": 4001,

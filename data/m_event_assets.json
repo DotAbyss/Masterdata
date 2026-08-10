@@ -28,6 +28,13 @@
     "bg_asset_id": "Functionbg012"
   },
   {
+    "id": 50000201,
+    "m_event_id": 500002,
+    "tips_asset_id": "1030003",
+    "logo_asset_id": "1030003",
+    "bg_asset_id": "Functionbg012"
+  },
+  {
     "id": 60000101,
     "m_event_id": 600001,
     "tips_asset_id": "1040001",
@@ -73,6 +80,13 @@
     "id": 10000102,
     "m_event_id": 100002,
     "tips_asset_id": "1070003",
+    "logo_asset_id": "1070001",
+    "bg_asset_id": "abg14900a"
+  },
+  {
+    "id": 10000103,
+    "m_event_id": 100003,
+    "tips_asset_id": "1070007",
     "logo_asset_id": "1070001",
     "bg_asset_id": "abg14900a"
   },

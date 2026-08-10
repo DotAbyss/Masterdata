@@ -342,6 +342,24 @@
     "serif_type": 0
   },
   {
+    "id": 50000201,
+    "m_event_id": 500002,
+    "m_character_id": 1300027,
+    "character_asset_id": "113501000G",
+    "position": 0,
+    "serif": "【水着】ホノカ",
+    "serif_type": 0
+  },
+  {
+    "id": 50000202,
+    "m_event_id": 500002,
+    "m_character_id": 1300037,
+    "character_asset_id": "113601000G",
+    "position": 0,
+    "serif": "【水着】ヘイリー",
+    "serif_type": 0
+  },
+  {
     "id": 30,
     "m_event_id": 600001,
     "m_character_id": 1300010,
@@ -469,9 +487,9 @@
   },
   {
     "id": 45,
-    "m_event_id": 100002,
-    "m_character_id": 1200003,
-    "character_asset_id": "100301000G",
+    "m_event_id": 100003,
+    "m_character_id": 1300023,
+    "character_asset_id": "102801000G",
     "position": 1,
     "serif": "セリフ1\nセリフ1\nセリフ1",
     "serif_type": 0

@@ -555,6 +555,36 @@
     "display_order": 2
   },
   {
+    "id": 130005101,
+    "weapon_type": 1060,
+    "rarity": 2,
+    "name": "BBQシェルトーチ",
+    "description": "ホノカが作成した対水棲モンスター用の武器の１つ。\n松明風の杖で貝殻のカバーで炎を風から守っている。\n武器としてもBBQにも使える優れもの。ホノカが愛用。",
+    "m_character_id": 1300051,
+    "is_default": 0,
+    "is_paid": 1,
+    "bonus_bond_point": 0,
+    "is_collabo": 0,
+    "released_at": "2026-08-10 13:00:00",
+    "asset_id": "41044019",
+    "display_order": 2
+  },
+  {
+    "id": 130005201,
+    "weapon_type": 1080,
+    "rarity": 2,
+    "name": "深淵を穿つ者",
+    "description": "深淵を穿つ者（アビス・ピアシンガー）\nヘイリーがその派手な見た目のデザインに拘り、\n大金をはたいて鍛冶師に作らせた、特注のピッケル。",
+    "m_character_id": 1300052,
+    "is_default": 0,
+    "is_paid": 1,
+    "bonus_bond_point": 0,
+    "is_collabo": 0,
+    "released_at": "2026-08-10 13:00:00",
+    "asset_id": "41084018",
+    "display_order": 2
+  },
+  {
     "id": 900000001,
     "weapon_type": 1080,
     "rarity": 2,

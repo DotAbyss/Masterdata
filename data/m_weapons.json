@@ -13896,6 +13896,24 @@
     "mana_type": 2
   },
   {
+    "id": 18130340,
+    "asset_id": "41083007",
+    "name": "天上神のツルハシ",
+    "weapon_type": 1080,
+    "group_no": 813,
+    "rank": 3,
+    "rarity": 4,
+    "up_parameter_type": 2,
+    "basic_parameter": 368,
+    "min_parameter": 0,
+    "max_parameter": 157,
+    "lottery_interval": 1,
+    "base_power": 1000,
+    "mileage": 500,
+    "flavor_text": "クリスタルの力を宿すツルハシ\n紋章：衝撃の力を解放した際に光属性の味方の連撃率が上昇する。",
+    "mana_type": 3
+  },
+  {
     "id": 18110440,
     "asset_id": "41083005",
     "name": "海洋神のツルハシ",
@@ -13914,6 +13932,24 @@
     "mana_type": 2
   },
   {
+    "id": 18130440,
+    "asset_id": "41083007",
+    "name": "天上神のツルハシ",
+    "weapon_type": 1080,
+    "group_no": 813,
+    "rank": 4,
+    "rarity": 4,
+    "up_parameter_type": 2,
+    "basic_parameter": 525,
+    "min_parameter": 0,
+    "max_parameter": 225,
+    "lottery_interval": 1,
+    "base_power": 1000,
+    "mileage": 500,
+    "flavor_text": "クリスタルの力を宿すツルハシ\n紋章：衝撃の力を解放した際に光属性の味方の連撃率が上昇する。",
+    "mana_type": 3
+  },
+  {
     "id": 18110540,
     "asset_id": "41083005",
     "name": "海洋神のツルハシ",
@@ -13930,5 +13966,23 @@
     "mileage": 500,
     "flavor_text": "クリスタルの力を宿すツルハシ\n徐々に水属性の味方の紋章：情熱の力を高める",
     "mana_type": 2
+  },
+  {
+    "id": 18130540,
+    "asset_id": "41083007",
+    "name": "天上神のツルハシ",
+    "weapon_type": 1080,
+    "group_no": 813,
+    "rank": 5,
+    "rarity": 4,
+    "up_parameter_type": 2,
+    "basic_parameter": 683,
+    "min_parameter": 0,
+    "max_parameter": 292,
+    "lottery_interval": 1,
+    "base_power": 1000,
+    "mileage": 500,
+    "flavor_text": "クリスタルの力を宿すツルハシ\n紋章：衝撃の力を解放した際に光属性の味方の連撃率が上昇する。",
+    "mana_type": 3
   }
 ]

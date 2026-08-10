@@ -342,7 +342,7 @@
   {
     "id": 42,
     "title": "【開催中】水着だらけのリゾート海岸物語　前半",
-    "display_priority": 271,
+    "display_priority": 272,
     "display_order": 272,
     "asset_id": "1020005_1",
     "begin_at": "2026-07-31 13:00:00",
@@ -352,7 +352,7 @@
   {
     "id": 43,
     "title": "【開催中】水着だらけのリゾート海岸物語　後半",
-    "display_priority": 272,
+    "display_priority": 273,
     "display_order": 273,
     "asset_id": "1020005_2",
     "begin_at": "2026-08-05 10:00:00",
@@ -362,7 +362,7 @@
   {
     "id": 44,
     "title": "お願い司令官！フェリシオーネからの特別依頼",
-    "display_priority": 273,
+    "display_priority": 274,
     "display_order": 274,
     "asset_id": "1090003_1",
     "begin_at": "2026-08-07 10:00:00",
@@ -382,7 +382,7 @@
   {
     "id": 46,
     "title": "ヒュメナピックアップガチャ",
-    "display_priority": 269,
+    "display_priority": 268,
     "display_order": 268,
     "asset_id": "7010017",
     "begin_at": "2026-07-31 13:00:00",
@@ -390,9 +390,39 @@
     "has_r18": 1
   },
   {
+    "id": 47,
+    "title": "【水着】ホノカ ピックアップガチャ",
+    "display_priority": 281,
+    "display_order": 281,
+    "asset_id": "7010014",
+    "begin_at": "2026-08-10 13:00:00",
+    "end_at": "2026-08-20 11:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 48,
+    "title": "第3回クリスタルハント　",
+    "display_priority": 283,
+    "display_order": 283,
+    "asset_id": "1070007",
+    "begin_at": "2026-08-14 10:00:00",
+    "end_at": "2026-08-19 4:59:59",
+    "has_r18": 0
+  },
+  {
+    "id": 49,
+    "title": "【水着】ヘイリー ピックアップガチャ",
+    "display_priority": 285,
+    "display_order": 285,
+    "asset_id": "7010015",
+    "begin_at": "2026-08-15 10:00:00",
+    "end_at": "2026-08-20 11:59:59",
+    "has_r18": 1
+  },
+  {
     "id": 50,
     "title": "【水着】クルル＆【水着】ニナステップアップガチャ",
-    "display_priority": 270,
+    "display_priority": 271,
     "display_order": 271,
     "asset_id": "7060001",
     "begin_at": "2026-07-31 13:00:00",
@@ -402,7 +432,7 @@
   {
     "id": 51,
     "title": "ミッションパス",
-    "display_priority": 270,
+    "display_priority": 269,
     "display_order": 269,
     "asset_id": "1600003",
     "begin_at": "2026-07-31 13:00:00",
@@ -417,6 +447,36 @@
     "asset_id": "1400016",
     "begin_at": "2026-07-31 13:00:00",
     "end_at": "2026-08-28 23:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 53,
+    "title": "【開催中】鏡影の回廊2回目",
+    "display_priority": 282,
+    "display_order": 282,
+    "asset_id": "1030003_1",
+    "begin_at": "2026-08-10 13:00:00",
+    "end_at": "2026-08-20 11:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 56,
+    "title": "【水着】ホノカステップアップガチャ",
+    "display_priority": 280,
+    "display_order": 280,
+    "asset_id": "7060002",
+    "begin_at": "2026-08-10 13:00:00",
+    "end_at": "2026-08-20 11:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 57,
+    "title": "【水着】ヘイリーステップアップガチャ",
+    "display_priority": 284,
+    "display_order": 284,
+    "asset_id": "7060003",
+    "begin_at": "2026-08-15 10:00:00",
+    "end_at": "2026-08-20 11:59:59",
     "has_r18": 1
   }
 ]

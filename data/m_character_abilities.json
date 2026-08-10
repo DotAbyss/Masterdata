@@ -1278,5 +1278,53 @@
     "name": "波濤のメイド戦術",
     "ability_no": 10175,
     "order": 3
+  },
+  {
+    "id": 130005101,
+    "m_character_id": 1300051,
+    "asset_id": "Ability_SpecialAttack_01",
+    "name": "灼熱サマー",
+    "ability_no": 10176,
+    "order": 1
+  },
+  {
+    "id": 130005102,
+    "m_character_id": 1300051,
+    "asset_id": "Ability_ConditionAttack_01",
+    "name": "海辺の焼き入れ",
+    "ability_no": 10177,
+    "order": 2
+  },
+  {
+    "id": 130005103,
+    "m_character_id": 1300051,
+    "asset_id": "Ability_Attack_01",
+    "name": "真夏の直感",
+    "ability_no": 10178,
+    "order": 3
+  },
+  {
+    "id": 130005201,
+    "m_character_id": 1300052,
+    "asset_id": "Ability_SpecialAttack_01",
+    "name": "刻まれし烙印",
+    "ability_no": 10179,
+    "order": 1
+  },
+  {
+    "id": 130005202,
+    "m_character_id": 1300052,
+    "asset_id": "Ability_Attack_01",
+    "name": "闇の因子の覚醒",
+    "ability_no": 10180,
+    "order": 2
+  },
+  {
+    "id": 130005203,
+    "m_character_id": 1300052,
+    "asset_id": "Ability_Attack_01",
+    "name": "終焉の断罪",
+    "ability_no": 10181,
+    "order": 3
   }
 ]
