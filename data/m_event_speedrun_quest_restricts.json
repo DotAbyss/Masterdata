@@ -1,1 +1,66 @@
-null
+[
+  {
+    "id": 110000110201,
+    "m_event_speedrun_quest_id": 1100001102,
+    "restrict_type": 1,
+    "restrict_param_1": 1100001101,
+    "restrict_param_2": 0,
+    "description": "Nomalの「スイカ割りレース」をクリアで解放"
+  },
+  {
+    "id": 110000110301,
+    "m_event_speedrun_quest_id": 1100001103,
+    "restrict_type": 1,
+    "restrict_param_1": 1100001102,
+    "restrict_param_2": 0,
+    "description": "Nomalの「潮風のハーピィ」をクリアで解放"
+  },
+  {
+    "id": 110000120101,
+    "m_event_speedrun_quest_id": 1100001201,
+    "restrict_type": 1,
+    "restrict_param_1": 1100001103,
+    "restrict_param_2": 0,
+    "description": "Nomalの「渚のお姉さま」をクリアで解放"
+  },
+  {
+    "id": 110000120201,
+    "m_event_speedrun_quest_id": 1100001202,
+    "restrict_type": 1,
+    "restrict_param_1": 1100001201,
+    "restrict_param_2": 0,
+    "description": "Hardの「スイカ割りレース」をクリアで解放"
+  },
+  {
+    "id": 110000120301,
+    "m_event_speedrun_quest_id": 1100001203,
+    "restrict_type": 1,
+    "restrict_param_1": 1100001202,
+    "restrict_param_2": 0,
+    "description": "Hardの「潮風のハーピィ」をクリアで解放"
+  },
+  {
+    "id": 110000130101,
+    "m_event_speedrun_quest_id": 1100001301,
+    "restrict_type": 1,
+    "restrict_param_1": 1100001203,
+    "restrict_param_2": 0,
+    "description": "Hardの「渚のお姉さま」をクリアで解放"
+  },
+  {
+    "id": 110000130201,
+    "m_event_speedrun_quest_id": 1100001302,
+    "restrict_type": 1,
+    "restrict_param_1": 1100001301,
+    "restrict_param_2": 0,
+    "description": "VeryHardの「スイカ割りレース」をクリアで解放"
+  },
+  {
+    "id": 110000130301,
+    "m_event_speedrun_quest_id": 1100001303,
+    "restrict_type": 1,
+    "restrict_param_1": 1100001302,
+    "restrict_param_2": 0,
+    "description": "VeryHardの「潮風のハーピィ」をクリアで解放"
+  }
+]

@@ -605,6 +605,17 @@
     "m_tavern_card_effect_id_3": 0
   },
   {
+    "id": 13000180,
+    "m_character_id": 1300018,
+    "m_character_skin_id": 130001802,
+    "name": "エアリエルの提案",
+    "effect_type": 3,
+    "description": "ランダムな「ペルディオン」の\nスタッフ最大2体に「ドリンク」を付与。\nそれらのスタッフの満足度+40%",
+    "m_tavern_card_effect_id_1": 101004,
+    "m_tavern_card_effect_id_2": 401009,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
     "id": 13000290,
     "m_character_id": 1300029,
     "m_character_skin_id": 130002902,
@@ -730,6 +741,17 @@
     "m_character_id": 1300052,
     "m_character_skin_id": 130005202,
     "name": "【水着】ヘイリーの提案",
+    "effect_type": 3,
+    "description": "次ターンの営業カードが必ず「料理」関連のものになる。\n全てのスタッフの満足度+10%",
+    "m_tavern_card_effect_id_1": 500002,
+    "m_tavern_card_effect_id_2": 400000,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 13000120,
+    "m_character_id": 1300012,
+    "m_character_skin_id": 130001202,
+    "name": "イライザの提案",
     "effect_type": 3,
     "description": "次ターンの営業カードが必ず「料理」関連のものになる。\n全てのスタッフの満足度+10%",
     "m_tavern_card_effect_id_1": 500002,

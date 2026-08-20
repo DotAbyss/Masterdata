@@ -396,6 +396,15 @@
     "serif_type": 0
   },
   {
+    "id": 48,
+    "m_event_id": 700001,
+    "m_character_id": 1300018,
+    "character_asset_id": "102301000G",
+    "position": 0,
+    "serif": "",
+    "serif_type": 0
+  },
+  {
     "id": 36,
     "m_event_id": 800001,
     "m_character_id": 1300002,
@@ -477,6 +486,33 @@
     "serif_type": 0
   },
   {
+    "id": 9000021,
+    "m_event_id": 900002,
+    "m_character_id": 1300002,
+    "character_asset_id": "101501000G",
+    "position": 1,
+    "serif": "はっはっは！　ここは\n『戦場を駆ける閃光』に\nお任せあれ！",
+    "serif_type": 0
+  },
+  {
+    "id": 9000022,
+    "m_event_id": 900002,
+    "m_character_id": 1300002,
+    "character_asset_id": "101501000G",
+    "position": 1,
+    "serif": "『ライトニング・セイバー』\n推参！",
+    "serif_type": 0
+  },
+  {
+    "id": 9000023,
+    "m_event_id": 900002,
+    "m_character_id": 1300002,
+    "character_asset_id": "101501000G",
+    "position": 1,
+    "serif": "『迅雷の魔剣士』、いざ参る！",
+    "serif_type": 0
+  },
+  {
     "id": 44,
     "m_event_id": 100001,
     "m_character_id": 1300023,
@@ -492,6 +528,51 @@
     "character_asset_id": "102801000G",
     "position": 1,
     "serif": "セリフ1\nセリフ1\nセリフ1",
+    "serif_type": 0
+  },
+  {
+    "id": 49,
+    "m_event_id": 1100001,
+    "m_character_id": 1300037,
+    "character_asset_id": "101501000G",
+    "position": 1,
+    "serif": "我が正義と雷撃の前にひれ伏せ！\nそこの悪魔のスイカめ、\n残らず叩き斬ってくれよう！",
+    "serif_type": 0
+  },
+  {
+    "id": 50,
+    "m_event_id": 1100001,
+    "m_character_id": 1300037,
+    "character_asset_id": "110901000G",
+    "position": 1,
+    "serif": "この砂浜、散らかり過ぎです。\nわたくしが綺麗に\n掃除してあげましょう。",
+    "serif_type": 0
+  },
+  {
+    "id": 51,
+    "m_event_id": 1100001,
+    "m_character_id": 1300037,
+    "character_asset_id": "112001000G",
+    "position": 1,
+    "serif": "海といえばスイカ割りだねっ！\nどっちがいっぱい割れるか\nキョーソーしようよっ！",
+    "serif_type": 0
+  },
+  {
+    "id": 52,
+    "m_event_id": 1100001,
+    "m_character_id": 1300037,
+    "character_asset_id": "113501000G",
+    "position": 1,
+    "serif": "う、うぅ……この水着、\nちょっと動くだけで\nズレそうで戦いづらいよ……",
+    "serif_type": 0
+  },
+  {
+    "id": 53,
+    "m_event_id": 1100001,
+    "m_character_id": 1300037,
+    "character_asset_id": "113601000G",
+    "position": 1,
+    "serif": "フッ……刻は満ちた。\n覚醒せし我が力、\nこの砂浜で目撃するがいい！",
     "serif_type": 0
   }
 ]

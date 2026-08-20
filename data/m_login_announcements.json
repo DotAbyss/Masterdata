@@ -460,6 +460,26 @@
     "has_r18": 1
   },
   {
+    "id": 54,
+    "title": "エアリエルピックアップガチャ",
+    "display_priority": 290,
+    "display_order": 290,
+    "asset_id": "7010007",
+    "begin_at": "2026-08-20 13:00:00",
+    "end_at": "2026-08-31 11:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 55,
+    "title": "イライザピックアップガチャ",
+    "display_priority": 295,
+    "display_order": 292,
+    "asset_id": "7010016",
+    "begin_at": "2026-08-25 13:00:00",
+    "end_at": "2026-08-31 11:59:59",
+    "has_r18": 1
+  },
+  {
     "id": 56,
     "title": "【水着】ホノカステップアップガチャ",
     "display_priority": 280,
@@ -467,6 +487,56 @@
     "asset_id": "7060002",
     "begin_at": "2026-08-10 13:00:00",
     "end_at": "2026-08-20 11:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 58,
+    "title": "第1回スタンピードイベント",
+    "display_priority": 284,
+    "display_order": 284,
+    "asset_id": "1051001_1",
+    "begin_at": "2026-08-25 10:00:00",
+    "end_at": "2026-08-31 11:59:59",
+    "has_r18": 0
+  },
+  {
+    "id": 61,
+    "title": "【開催中】第1回トレジャーボード",
+    "display_priority": 291,
+    "display_order": 291,
+    "asset_id": "1041001_1",
+    "begin_at": "2026-08-20 13:00:00",
+    "end_at": "2026-08-31 11:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 62,
+    "title": "【開催中】特別強化トレーニングwithイライザ",
+    "display_priority": 293,
+    "display_order": 293,
+    "asset_id": "1060002_1",
+    "begin_at": "2026-08-25 13:00:00",
+    "end_at": "2026-08-31 11:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 63,
+    "title": "ピコにゃんスペシャルパック",
+    "display_priority": 289,
+    "display_order": 289,
+    "asset_id": "5010302",
+    "begin_at": "2026-08-20 13:00:00",
+    "end_at": "2026-08-31 11:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 64,
+    "title": "ゲリライベント告知画像",
+    "display_priority": 288,
+    "display_order": 288,
+    "asset_id": "1091001",
+    "begin_at": "2026-08-20 13:00:00",
+    "end_at": "2026-08-27 4:59:59",
     "has_r18": 1
   }
 ]

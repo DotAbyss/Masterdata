@@ -34,5 +34,41 @@
     "difficulty": 3,
     "display_order": 3,
     "release_condition_m_event_training_stage_ids": "90000103"
+  },
+  {
+    "id": 90000201,
+    "m_event_id": 900002,
+    "name": "『戦場を駆ける閃光』イライザ",
+    "type": 1,
+    "difficulty": 1,
+    "display_order": 1,
+    "release_condition_m_event_training_stage_ids": ""
+  },
+  {
+    "id": 90000202,
+    "m_event_id": 900002,
+    "name": "特別強化トレーニング！1",
+    "type": 2,
+    "difficulty": 1,
+    "display_order": 1,
+    "release_condition_m_event_training_stage_ids": "90000201"
+  },
+  {
+    "id": 90000203,
+    "m_event_id": 900002,
+    "name": "特別強化トレーニング！2",
+    "type": 2,
+    "difficulty": 2,
+    "display_order": 2,
+    "release_condition_m_event_training_stage_ids": "90000202"
+  },
+  {
+    "id": 90000204,
+    "m_event_id": 900002,
+    "name": "特別強化トレーニング！3",
+    "type": 2,
+    "difficulty": 3,
+    "display_order": 3,
+    "release_condition_m_event_training_stage_ids": "90000203"
   }
 ]

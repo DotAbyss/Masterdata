@@ -198,5 +198,45 @@
     "open_at": "2026-08-15 10:00:00",
     "close_at": "2026-08-20 11:59:59",
     "display_order": 9929
+  },
+  {
+    "id": 28,
+    "m_payment_lineups_id_1": 10132,
+    "m_payment_lineups_id_2": 0,
+    "open_at": "2026-08-20 13:00:00",
+    "close_at": "2026-08-31 11:59:59",
+    "display_order": 9920
+  },
+  {
+    "id": 29,
+    "m_payment_lineups_id_1": 10133,
+    "m_payment_lineups_id_2": 10136,
+    "open_at": "2026-08-20 13:00:00",
+    "close_at": "2026-08-31 11:59:59",
+    "display_order": 9921
+  },
+  {
+    "id": 30,
+    "m_payment_lineups_id_1": 10138,
+    "m_payment_lineups_id_2": 10139,
+    "open_at": "2026-08-20 13:00:00",
+    "close_at": "2026-08-31 11:59:59",
+    "display_order": 9922
+  },
+  {
+    "id": 31,
+    "m_payment_lineups_id_1": 10143,
+    "m_payment_lineups_id_2": 10146,
+    "open_at": "2026-08-25 10:00:00",
+    "close_at": "2026-08-31 11:59:59",
+    "display_order": 9918
+  },
+  {
+    "id": 32,
+    "m_payment_lineups_id_1": 10148,
+    "m_payment_lineups_id_2": 10149,
+    "open_at": "2026-08-25 10:00:00",
+    "close_at": "2026-08-31 11:59:59",
+    "display_order": 9919
   }
 ]

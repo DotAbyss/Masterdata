@@ -130,6 +130,16 @@
     "asset_id": "5000221"
   },
   {
+    "id": 112,
+    "category_name": "ログインパス交換券",
+    "cost_content_type": 30,
+    "cost_content_id": 80008,
+    "start_at": "2026-08-22 10:00:00",
+    "end_at": "2038-01-01 00:00:00",
+    "display_order": 401,
+    "asset_id": "5000223"
+  },
+  {
     "id": 300001,
     "category_name": "オートマタと魔術師姉妹のサプライズ",
     "cost_content_type": 54,

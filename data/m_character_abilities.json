@@ -776,6 +776,30 @@
     "order": 3
   },
   {
+    "id": 130001201,
+    "m_character_id": 1300012,
+    "asset_id": "Ability_SpecialAttack_01",
+    "name": "稲妻の魔法剣",
+    "ability_no": 10182,
+    "order": 1
+  },
+  {
+    "id": 130001202,
+    "m_character_id": 1300012,
+    "asset_id": "Ability_Critical_01",
+    "name": "致命の一撃",
+    "ability_no": 10183,
+    "order": 2
+  },
+  {
+    "id": 130001203,
+    "m_character_id": 1300012,
+    "asset_id": "Ability_Attack_01",
+    "name": "全力戦闘",
+    "ability_no": 10184,
+    "order": 3
+  },
+  {
     "id": 130001401,
     "m_character_id": 1300014,
     "asset_id": "Ability_SpecialAttack_01",
@@ -845,6 +869,30 @@
     "asset_id": "Ability_Critical_01",
     "name": "鏡花水月",
     "ability_no": 10046,
+    "order": 3
+  },
+  {
+    "id": 130001801,
+    "m_character_id": 1300018,
+    "asset_id": "Ability_SpecialAttack_01",
+    "name": "応急治療",
+    "ability_no": 10047,
+    "order": 1
+  },
+  {
+    "id": 130001802,
+    "m_character_id": 1300018,
+    "asset_id": "Ability_Attack_01",
+    "name": "古代魔術師の叡智",
+    "ability_no": 10048,
+    "order": 2
+  },
+  {
+    "id": 130001803,
+    "m_character_id": 1300018,
+    "asset_id": "Ability_Manatype_Grant",
+    "name": "魔法図書館蔵書目録",
+    "ability_no": 10049,
     "order": 3
   },
   {

@@ -6,10 +6,10 @@
     "group_id": 0,
     "param_type": 1003,
     "param_1": 0,
-    "param_2": 1,
-    "param_3": 50,
+    "param_2": 0,
+    "param_3": 0,
     "event_type": 0,
-    "m_building_skill_effect_description_id": 1
+    "m_building_skill_effect_description_id": 34
   },
   {
     "id": 1000010,
@@ -18,10 +18,10 @@
     "group_id": 0,
     "param_type": 1004,
     "param_1": 0,
-    "param_2": 2,
-    "param_3": 50,
+    "param_2": 0,
+    "param_3": 0,
     "event_type": 0,
-    "m_building_skill_effect_description_id": 2
+    "m_building_skill_effect_description_id": 35
   },
   {
     "id": 1000020,
@@ -30,10 +30,10 @@
     "group_id": 0,
     "param_type": 1002,
     "param_1": 0,
-    "param_2": 3,
-    "param_3": 50,
+    "param_2": 0,
+    "param_3": 0,
     "event_type": 0,
-    "m_building_skill_effect_description_id": 3
+    "m_building_skill_effect_description_id": 36
   },
   {
     "id": 1000030,
@@ -41,6 +41,54 @@
     "description": "追加アイテム入手確率＋1.0％",
     "group_id": 0,
     "param_type": 1005,
+    "param_1": 0,
+    "param_2": 0,
+    "param_3": 0,
+    "event_type": 0,
+    "m_building_skill_effect_description_id": 32
+  },
+  {
+    "id": 1000001,
+    "m_building_skill_level_id": 100000,
+    "description": "すべてのキャラの最大HP＋5.0%",
+    "group_id": 0,
+    "param_type": 400,
+    "param_1": 0,
+    "param_2": 1,
+    "param_3": 50,
+    "event_type": 0,
+    "m_building_skill_effect_description_id": 34
+  },
+  {
+    "id": 1000011,
+    "m_building_skill_level_id": 100001,
+    "description": "すべてのキャラの攻撃力＋5.0%",
+    "group_id": 0,
+    "param_type": 400,
+    "param_1": 0,
+    "param_2": 2,
+    "param_3": 50,
+    "event_type": 0,
+    "m_building_skill_effect_description_id": 35
+  },
+  {
+    "id": 1000021,
+    "m_building_skill_level_id": 100002,
+    "description": "すべてのキャラの防御力＋5.0％",
+    "group_id": 0,
+    "param_type": 400,
+    "param_1": 0,
+    "param_2": 3,
+    "param_3": 50,
+    "event_type": 0,
+    "m_building_skill_effect_description_id": 36
+  },
+  {
+    "id": 1000031,
+    "m_building_skill_level_id": 100003,
+    "description": "追加アイテム入手確率＋1.0％",
+    "group_id": 0,
+    "param_type": 100,
     "param_1": 10,
     "param_2": 0,
     "param_3": 0,

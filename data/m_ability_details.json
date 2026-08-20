@@ -9760,244 +9760,724 @@
     "awake_description": "30秒に1回、自身に紋章：情熱を【{2}】付与"
   },
   {
-    "id": 1004701,
+    "id": 1004711,
     "ability_no": 10047,
     "ability_awake_level": 0,
     "level": 1,
-    "description": "通常回復を5回行う度に、味方全体に自身の最大HPに応じたバリア【{0.5%}】を付与",
+    "description": "【発動条件】通常回復を2回\n【効果】次回の通常回復の回復倍率が【{110%}】に変化 / 自身に紋章：衝撃を【1】付与",
     "awake_description": ""
   },
   {
-    "id": 1004702,
+    "id": 1004712,
     "ability_no": 10047,
     "ability_awake_level": 0,
     "level": 2,
-    "description": "通常回復を5回行う度に、味方全体に自身の最大HPに応じたバリア【{1%}】を付与",
+    "description": "【発動条件】通常回復を2回\n【効果】次回の通常回復の回復倍率が【{113.3%}】に変化 / 自身に紋章：衝撃を【1】付与",
     "awake_description": ""
   },
   {
-    "id": 1004703,
+    "id": 1004713,
     "ability_no": 10047,
     "ability_awake_level": 0,
     "level": 3,
-    "description": "通常回復を5回行う度に、味方全体に自身の最大HPに応じたバリア【{1.5%}】を付与",
+    "description": "【発動条件】通常回復を2回\n【効果】次回の通常回復の回復倍率が【{116.6%}】に変化 / 自身に紋章：衝撃を【1】付与",
     "awake_description": ""
   },
   {
-    "id": 1004704,
+    "id": 1004714,
     "ability_no": 10047,
     "ability_awake_level": 0,
     "level": 4,
-    "description": "通常回復を5回行う度に、味方全体に自身の最大HPに応じたバリア【{2%}】を付与",
+    "description": "【発動条件】通常回復を2回\n【効果】次回の通常回復の回復倍率が【{120%}】に変化 / 自身に紋章：衝撃を【1】付与",
     "awake_description": ""
   },
   {
-    "id": 1004705,
+    "id": 1004715,
     "ability_no": 10047,
     "ability_awake_level": 0,
     "level": 5,
-    "description": "通常回復を5回行う度に、味方全体に自身の最大HPに応じたバリア【{2.5%}】を付与",
+    "description": "【発動条件】通常回復を2回\n【効果】次回の通常回復の回復倍率が【{126.6%}】に変化 / 自身に紋章：衝撃を【1】付与",
     "awake_description": ""
   },
   {
-    "id": 1004706,
+    "id": 1004716,
     "ability_no": 10047,
     "ability_awake_level": 0,
     "level": 6,
-    "description": "通常回復を5回行う度に、味方全体に自身の最大HPに応じたバリア【{3%}】を付与",
+    "description": "【発動条件】通常回復を2回\n【効果】次回の通常回復の回復倍率が【{130%}】に変化 / 自身に紋章：衝撃を【1】付与",
     "awake_description": ""
   },
   {
-    "id": 1004707,
+    "id": 1004717,
     "ability_no": 10047,
     "ability_awake_level": 0,
     "level": 7,
-    "description": "通常回復を5回行う度に、味方全体に自身の最大HPに応じたバリア【{3.5%}】を付与",
+    "description": "【発動条件】通常回復を2回\n【効果】次回の通常回復の回復倍率が【{133.3%}】に変化 / 自身に紋章：衝撃を【1】付与",
     "awake_description": ""
   },
   {
-    "id": 1004708,
+    "id": 1004718,
     "ability_no": 10047,
     "ability_awake_level": 0,
     "level": 8,
-    "description": "通常回復を5回行う度に、味方全体に自身の最大HPに応じたバリア【{4%}】を付与",
+    "description": "【発動条件】通常回復を2回\n【効果】次回の通常回復の回復倍率が【{140%}】に変化 / 自身に紋章：衝撃を【1】付与",
     "awake_description": ""
   },
   {
-    "id": 1004709,
+    "id": 1004719,
     "ability_no": 10047,
     "ability_awake_level": 0,
     "level": 9,
-    "description": "通常回復を5回行う度に、味方全体に自身の最大HPに応じたバリア【{4.5%}】を付与",
+    "description": "【発動条件】通常回復を2回\n【効果】次回の通常回復の回復倍率が【{143.3%}】に変化 / 自身に紋章：衝撃を【1】付与",
     "awake_description": ""
   },
   {
-    "id": 1004710,
+    "id": 1004720,
     "ability_no": 10047,
     "ability_awake_level": 0,
     "level": 10,
-    "description": "通常回復を5回行う度に、味方全体に自身の最大HPに応じたバリア【{5%}】を付与",
+    "description": "【発動条件】通常回復を2回\n【効果】次回の通常回復の回復倍率が【{150%}】に変化 / 自身に紋章：衝撃を【1】付与",
     "awake_description": ""
   },
   {
-    "id": 1004801,
+    "id": 1004721,
+    "ability_no": 10047,
+    "ability_awake_level": 1,
+    "level": 1,
+    "description": "【発動条件】通常回復を2回\n【効果】次回の通常回復の回復倍率が【{110%}】に変化 / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1004722,
+    "ability_no": 10047,
+    "ability_awake_level": 1,
+    "level": 2,
+    "description": "【発動条件】通常回復を2回\n【効果】次回の通常回復の回復倍率が【{113.3%}】に変化 / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1004723,
+    "ability_no": 10047,
+    "ability_awake_level": 1,
+    "level": 3,
+    "description": "【発動条件】通常回復を2回\n【効果】次回の通常回復の回復倍率が【{116.6%}】に変化 / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1004724,
+    "ability_no": 10047,
+    "ability_awake_level": 1,
+    "level": 4,
+    "description": "【発動条件】通常回復を2回\n【効果】次回の通常回復の回復倍率が【{120%}】に変化 / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1004725,
+    "ability_no": 10047,
+    "ability_awake_level": 1,
+    "level": 5,
+    "description": "【発動条件】通常回復を2回\n【効果】次回の通常回復の回復倍率が【{126.6%}】に変化 / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1004726,
+    "ability_no": 10047,
+    "ability_awake_level": 1,
+    "level": 6,
+    "description": "【発動条件】通常回復を2回\n【効果】次回の通常回復の回復倍率が【{130%}】に変化 / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1004727,
+    "ability_no": 10047,
+    "ability_awake_level": 1,
+    "level": 7,
+    "description": "【発動条件】通常回復を2回\n【効果】次回の通常回復の回復倍率が【{133.3%}】に変化 / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1004728,
+    "ability_no": 10047,
+    "ability_awake_level": 1,
+    "level": 8,
+    "description": "【発動条件】通常回復を2回\n【効果】次回の通常回復の回復倍率が【{140%}】に変化 / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1004729,
+    "ability_no": 10047,
+    "ability_awake_level": 1,
+    "level": 9,
+    "description": "【発動条件】通常回復を2回\n【効果】次回の通常回復の回復倍率が【{143.3%}】に変化 / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1004730,
+    "ability_no": 10047,
+    "ability_awake_level": 1,
+    "level": 10,
+    "description": "【発動条件】通常回復を2回\n【効果】次回の通常回復の回復倍率が【{150%}】に変化 / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1004731,
+    "ability_no": 10047,
+    "ability_awake_level": 2,
+    "level": 1,
+    "description": "【発動条件】通常回復を2回\n【効果】次回の通常回復の回復倍率が【{110%}】に変化 / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1004732,
+    "ability_no": 10047,
+    "ability_awake_level": 2,
+    "level": 2,
+    "description": "【発動条件】通常回復を2回\n【効果】次回の通常回復の回復倍率が【{113.3%}】に変化 / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1004733,
+    "ability_no": 10047,
+    "ability_awake_level": 2,
+    "level": 3,
+    "description": "【発動条件】通常回復を2回\n【効果】次回の通常回復の回復倍率が【{116.6%}】に変化 / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1004734,
+    "ability_no": 10047,
+    "ability_awake_level": 2,
+    "level": 4,
+    "description": "【発動条件】通常回復を2回\n【効果】次回の通常回復の回復倍率が【{120%}】に変化 / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1004735,
+    "ability_no": 10047,
+    "ability_awake_level": 2,
+    "level": 5,
+    "description": "【発動条件】通常回復を2回\n【効果】次回の通常回復の回復倍率が【{126.6%}】に変化 / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1004736,
+    "ability_no": 10047,
+    "ability_awake_level": 2,
+    "level": 6,
+    "description": "【発動条件】通常回復を2回\n【効果】次回の通常回復の回復倍率が【{130%}】に変化 / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1004737,
+    "ability_no": 10047,
+    "ability_awake_level": 2,
+    "level": 7,
+    "description": "【発動条件】通常回復を2回\n【効果】次回の通常回復の回復倍率が【{133.3%}】に変化 / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1004738,
+    "ability_no": 10047,
+    "ability_awake_level": 2,
+    "level": 8,
+    "description": "【発動条件】通常回復を2回\n【効果】次回の通常回復の回復倍率が【{140%}】に変化 / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1004739,
+    "ability_no": 10047,
+    "ability_awake_level": 2,
+    "level": 9,
+    "description": "【発動条件】通常回復を2回\n【効果】次回の通常回復の回復倍率が【{143.3%}】に変化 / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1004740,
+    "ability_no": 10047,
+    "ability_awake_level": 2,
+    "level": 10,
+    "description": "【発動条件】通常回復を2回\n【効果】次回の通常回復の回復倍率が【{150%}】に変化 / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1004811,
     "ability_no": 10048,
     "ability_awake_level": 0,
     "level": 1,
+    "description": "自身の攻撃力が【{4%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 1004812,
+    "ability_no": 10048,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "自身の攻撃力が【{7%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 1004813,
+    "ability_no": 10048,
+    "ability_awake_level": 0,
+    "level": 3,
     "description": "自身の攻撃力が【{10%}】上昇",
     "awake_description": ""
   },
   {
-    "id": 1004802,
-    "ability_no": 10048,
-    "ability_awake_level": 0,
-    "level": 2,
-    "description": "自身の攻撃力が【{11.1%}】上昇",
-    "awake_description": ""
-  },
-  {
-    "id": 1004803,
-    "ability_no": 10048,
-    "ability_awake_level": 0,
-    "level": 3,
-    "description": "自身の攻撃力が【{12.2%}】上昇",
-    "awake_description": ""
-  },
-  {
-    "id": 1004804,
+    "id": 1004814,
     "ability_no": 10048,
     "ability_awake_level": 0,
     "level": 4,
-    "description": "自身の攻撃力が【{13.3%}】上昇",
+    "description": "自身の攻撃力が【{13%}】上昇",
     "awake_description": ""
   },
   {
-    "id": 1004805,
+    "id": 1004815,
     "ability_no": 10048,
     "ability_awake_level": 0,
     "level": 5,
-    "description": "自身の攻撃力が【{14.4%}】上昇",
+    "description": "自身の攻撃力が【{19%}】上昇",
     "awake_description": ""
   },
   {
-    "id": 1004806,
+    "id": 1004816,
     "ability_no": 10048,
     "ability_awake_level": 0,
     "level": 6,
-    "description": "自身の攻撃力が【{15.5%}】上昇",
+    "description": "自身の攻撃力が【{22%}】上昇",
     "awake_description": ""
   },
   {
-    "id": 1004807,
+    "id": 1004817,
     "ability_no": 10048,
     "ability_awake_level": 0,
     "level": 7,
-    "description": "自身の攻撃力が【{16.6%}】上昇",
+    "description": "自身の攻撃力が【{25%}】上昇",
     "awake_description": ""
   },
   {
-    "id": 1004808,
+    "id": 1004818,
     "ability_no": 10048,
     "ability_awake_level": 0,
     "level": 8,
-    "description": "自身の攻撃力が【{17.7%}】上昇",
+    "description": "自身の攻撃力が【{31%}】上昇",
     "awake_description": ""
   },
   {
-    "id": 1004809,
+    "id": 1004819,
     "ability_no": 10048,
     "ability_awake_level": 0,
     "level": 9,
-    "description": "自身の攻撃力が【{18.8%}】上昇",
+    "description": "自身の攻撃力が【{34%}】上昇",
     "awake_description": ""
   },
   {
-    "id": 1004810,
+    "id": 1004820,
     "ability_no": 10048,
     "ability_awake_level": 0,
     "level": 10,
-    "description": "自身の攻撃力が【{20%}】上昇",
+    "description": "自身の攻撃力が【{40%}】上昇",
     "awake_description": ""
   },
   {
-    "id": 1004901,
+    "id": 1004821,
+    "ability_no": 10048,
+    "ability_awake_level": 1,
+    "level": 1,
+    "description": "自身の攻撃力が【{4%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{5%}】上昇"
+  },
+  {
+    "id": 1004822,
+    "ability_no": 10048,
+    "ability_awake_level": 1,
+    "level": 2,
+    "description": "自身の攻撃力が【{7%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{5%}】上昇"
+  },
+  {
+    "id": 1004823,
+    "ability_no": 10048,
+    "ability_awake_level": 1,
+    "level": 3,
+    "description": "自身の攻撃力が【{10%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{5%}】上昇"
+  },
+  {
+    "id": 1004824,
+    "ability_no": 10048,
+    "ability_awake_level": 1,
+    "level": 4,
+    "description": "自身の攻撃力が【{13%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{5%}】上昇"
+  },
+  {
+    "id": 1004825,
+    "ability_no": 10048,
+    "ability_awake_level": 1,
+    "level": 5,
+    "description": "自身の攻撃力が【{19%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{5%}】上昇"
+  },
+  {
+    "id": 1004826,
+    "ability_no": 10048,
+    "ability_awake_level": 1,
+    "level": 6,
+    "description": "自身の攻撃力が【{22%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{5%}】上昇"
+  },
+  {
+    "id": 1004827,
+    "ability_no": 10048,
+    "ability_awake_level": 1,
+    "level": 7,
+    "description": "自身の攻撃力が【{25%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{5%}】上昇"
+  },
+  {
+    "id": 1004828,
+    "ability_no": 10048,
+    "ability_awake_level": 1,
+    "level": 8,
+    "description": "自身の攻撃力が【{31%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{5%}】上昇"
+  },
+  {
+    "id": 1004829,
+    "ability_no": 10048,
+    "ability_awake_level": 1,
+    "level": 9,
+    "description": "自身の攻撃力が【{34%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{5%}】上昇"
+  },
+  {
+    "id": 1004830,
+    "ability_no": 10048,
+    "ability_awake_level": 1,
+    "level": 10,
+    "description": "自身の攻撃力が【{40%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{5%}】上昇"
+  },
+  {
+    "id": 1004831,
+    "ability_no": 10048,
+    "ability_awake_level": 2,
+    "level": 1,
+    "description": "自身の攻撃力が【{4%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{9.5%}】上昇"
+  },
+  {
+    "id": 1004832,
+    "ability_no": 10048,
+    "ability_awake_level": 2,
+    "level": 2,
+    "description": "自身の攻撃力が【{7%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{9.5%}】上昇"
+  },
+  {
+    "id": 1004833,
+    "ability_no": 10048,
+    "ability_awake_level": 2,
+    "level": 3,
+    "description": "自身の攻撃力が【{10%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{9.5%}】上昇"
+  },
+  {
+    "id": 1004834,
+    "ability_no": 10048,
+    "ability_awake_level": 2,
+    "level": 4,
+    "description": "自身の攻撃力が【{13%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{9.5%}】上昇"
+  },
+  {
+    "id": 1004835,
+    "ability_no": 10048,
+    "ability_awake_level": 2,
+    "level": 5,
+    "description": "自身の攻撃力が【{19%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{9.5%}】上昇"
+  },
+  {
+    "id": 1004836,
+    "ability_no": 10048,
+    "ability_awake_level": 2,
+    "level": 6,
+    "description": "自身の攻撃力が【{22%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{9.5%}】上昇"
+  },
+  {
+    "id": 1004837,
+    "ability_no": 10048,
+    "ability_awake_level": 2,
+    "level": 7,
+    "description": "自身の攻撃力が【{25%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{9.5%}】上昇"
+  },
+  {
+    "id": 1004838,
+    "ability_no": 10048,
+    "ability_awake_level": 2,
+    "level": 8,
+    "description": "自身の攻撃力が【{31%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{9.5%}】上昇"
+  },
+  {
+    "id": 1004839,
+    "ability_no": 10048,
+    "ability_awake_level": 2,
+    "level": 9,
+    "description": "自身の攻撃力が【{34%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{9.5%}】上昇"
+  },
+  {
+    "id": 1004840,
+    "ability_no": 10048,
+    "ability_awake_level": 2,
+    "level": 10,
+    "description": "自身の攻撃力が【{40%}】上昇",
+    "awake_description": "自身のスキルチャージ効率が【{9.5%}】上昇"
+  },
+  {
+    "id": 1004911,
     "ability_no": 10049,
     "ability_awake_level": 0,
     "level": 1,
-    "description": "自身の全状態異常耐性が【{5}】上昇",
+    "description": "自身以外の味方のフォースチェインを除くスキル発動時、自身のスキルを【{5%}】チャージ  / 自身に紋章：衝撃を【1】付与",
     "awake_description": ""
   },
   {
-    "id": 1004902,
+    "id": 1004912,
     "ability_no": 10049,
     "ability_awake_level": 0,
     "level": 2,
-    "description": "自身の全状態異常耐性が【{10}】上昇",
+    "description": "自身以外の味方のフォースチェインを除くスキル発動時、自身のスキルを【{5.4%}】チャージ  / 自身に紋章：衝撃を【1】付与",
     "awake_description": ""
   },
   {
-    "id": 1004903,
+    "id": 1004913,
     "ability_no": 10049,
     "ability_awake_level": 0,
     "level": 3,
-    "description": "自身の全状態異常耐性が【{15}】上昇",
+    "description": "自身以外の味方のフォースチェインを除くスキル発動時、自身のスキルを【{5.8%}】チャージ  / 自身に紋章：衝撃を【1】付与",
     "awake_description": ""
   },
   {
-    "id": 1004904,
+    "id": 1004914,
     "ability_no": 10049,
     "ability_awake_level": 0,
     "level": 4,
-    "description": "自身の全状態異常耐性が【{20}】上昇",
+    "description": "自身以外の味方のフォースチェインを除くスキル発動時、自身のスキルを【{6.2%}】チャージ  / 自身に紋章：衝撃を【1】付与",
     "awake_description": ""
   },
   {
-    "id": 1004905,
+    "id": 1004915,
     "ability_no": 10049,
     "ability_awake_level": 0,
     "level": 5,
-    "description": "自身の全状態異常耐性が【{25}】上昇",
+    "description": "自身以外の味方のフォースチェインを除くスキル発動時、自身のスキルを【{7%}】チャージ  / 自身に紋章：衝撃を【1】付与",
     "awake_description": ""
   },
   {
-    "id": 1004906,
+    "id": 1004916,
     "ability_no": 10049,
     "ability_awake_level": 0,
     "level": 6,
-    "description": "自身の全状態異常耐性が【{30}】上昇",
+    "description": "自身以外の味方のフォースチェインを除くスキル発動時、自身のスキルを【{7.5%}】チャージ  / 自身に紋章：衝撃を【1】付与",
     "awake_description": ""
   },
   {
-    "id": 1004907,
+    "id": 1004917,
     "ability_no": 10049,
     "ability_awake_level": 0,
     "level": 7,
-    "description": "自身の全状態異常耐性が【{35}】上昇",
+    "description": "自身以外の味方のフォースチェインを除くスキル発動時、自身のスキルを【{7.9%}】チャージ  / 自身に紋章：衝撃を【1】付与",
     "awake_description": ""
   },
   {
-    "id": 1004908,
+    "id": 1004918,
     "ability_no": 10049,
     "ability_awake_level": 0,
     "level": 8,
-    "description": "自身の全状態異常耐性が【{40}】上昇",
+    "description": "自身以外の味方のフォースチェインを除くスキル発動時、自身のスキルを【{8.7%}】チャージ  / 自身に紋章：衝撃を【1】付与",
     "awake_description": ""
   },
   {
-    "id": 1004909,
+    "id": 1004919,
     "ability_no": 10049,
     "ability_awake_level": 0,
     "level": 9,
-    "description": "自身の全状態異常耐性が【{45}】上昇",
+    "description": "自身以外の味方のフォースチェインを除くスキル発動時、自身のスキルを【{9.1%}】チャージ  / 自身に紋章：衝撃を【1】付与",
     "awake_description": ""
   },
   {
-    "id": 1004910,
+    "id": 1004920,
     "ability_no": 10049,
     "ability_awake_level": 0,
     "level": 10,
-    "description": "自身の全状態異常耐性が【{50}】上昇",
+    "description": "自身以外の味方のフォースチェインを除くスキル発動時、自身のスキルを【{10%}】チャージ  / 自身に紋章：衝撃を【1】付与",
     "awake_description": ""
+  },
+  {
+    "id": 1004921,
+    "ability_no": 10049,
+    "ability_awake_level": 1,
+    "level": 1,
+    "description": "自身以外の味方のフォースチェインを除くスキル発動時、自身のスキルを【{5%}】チャージ  / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1004922,
+    "ability_no": 10049,
+    "ability_awake_level": 1,
+    "level": 2,
+    "description": "自身以外の味方のフォースチェインを除くスキル発動時、自身のスキルを【{5.4%}】チャージ  / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1004923,
+    "ability_no": 10049,
+    "ability_awake_level": 1,
+    "level": 3,
+    "description": "自身以外の味方のフォースチェインを除くスキル発動時、自身のスキルを【{5.8%}】チャージ  / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1004924,
+    "ability_no": 10049,
+    "ability_awake_level": 1,
+    "level": 4,
+    "description": "自身以外の味方のフォースチェインを除くスキル発動時、自身のスキルを【{6.2%}】チャージ  / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1004925,
+    "ability_no": 10049,
+    "ability_awake_level": 1,
+    "level": 5,
+    "description": "自身以外の味方のフォースチェインを除くスキル発動時、自身のスキルを【{7%}】チャージ  / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1004926,
+    "ability_no": 10049,
+    "ability_awake_level": 1,
+    "level": 6,
+    "description": "自身以外の味方のフォースチェインを除くスキル発動時、自身のスキルを【{7.5%}】チャージ  / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1004927,
+    "ability_no": 10049,
+    "ability_awake_level": 1,
+    "level": 7,
+    "description": "自身以外の味方のフォースチェインを除くスキル発動時、自身のスキルを【{7.9%}】チャージ  / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1004928,
+    "ability_no": 10049,
+    "ability_awake_level": 1,
+    "level": 8,
+    "description": "自身以外の味方のフォースチェインを除くスキル発動時、自身のスキルを【{8.7%}】チャージ  / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1004929,
+    "ability_no": 10049,
+    "ability_awake_level": 1,
+    "level": 9,
+    "description": "自身以外の味方のフォースチェインを除くスキル発動時、自身のスキルを【{9.1%}】チャージ  / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1004930,
+    "ability_no": 10049,
+    "ability_awake_level": 1,
+    "level": 10,
+    "description": "自身以外の味方のフォースチェインを除くスキル発動時、自身のスキルを【{10%}】チャージ  / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1004931,
+    "ability_no": 10049,
+    "ability_awake_level": 2,
+    "level": 1,
+    "description": "自身以外の味方のフォースチェインを除くスキル発動時、自身のスキルを【{5%}】チャージ  / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1004932,
+    "ability_no": 10049,
+    "ability_awake_level": 2,
+    "level": 2,
+    "description": "自身以外の味方のフォースチェインを除くスキル発動時、自身のスキルを【{5.4%}】チャージ  / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1004933,
+    "ability_no": 10049,
+    "ability_awake_level": 2,
+    "level": 3,
+    "description": "自身以外の味方のフォースチェインを除くスキル発動時、自身のスキルを【{5.8%}】チャージ  / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1004934,
+    "ability_no": 10049,
+    "ability_awake_level": 2,
+    "level": 4,
+    "description": "自身以外の味方のフォースチェインを除くスキル発動時、自身のスキルを【{6.2%}】チャージ  / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1004935,
+    "ability_no": 10049,
+    "ability_awake_level": 2,
+    "level": 5,
+    "description": "自身以外の味方のフォースチェインを除くスキル発動時、自身のスキルを【{7%}】チャージ  / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1004936,
+    "ability_no": 10049,
+    "ability_awake_level": 2,
+    "level": 6,
+    "description": "自身以外の味方のフォースチェインを除くスキル発動時、自身のスキルを【{7.5%}】チャージ  / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1004937,
+    "ability_no": 10049,
+    "ability_awake_level": 2,
+    "level": 7,
+    "description": "自身以外の味方のフォースチェインを除くスキル発動時、自身のスキルを【{7.9%}】チャージ  / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1004938,
+    "ability_no": 10049,
+    "ability_awake_level": 2,
+    "level": 8,
+    "description": "自身以外の味方のフォースチェインを除くスキル発動時、自身のスキルを【{8.7%}】チャージ  / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1004939,
+    "ability_no": 10049,
+    "ability_awake_level": 2,
+    "level": 9,
+    "description": "自身以外の味方のフォースチェインを除くスキル発動時、自身のスキルを【{9.1%}】チャージ  / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1004940,
+    "ability_no": 10049,
+    "ability_awake_level": 2,
+    "level": 10,
+    "description": "自身以外の味方のフォースチェインを除くスキル発動時、自身のスキルを【{10%}】チャージ  / 自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
   },
   {
     "id": 1005001,
@@ -32517,6 +32997,726 @@
     "ability_awake_level": 2,
     "level": 10,
     "description": "ダメージを与えたとき、【50%】の確率で自身に紋章：衝撃を【1】付与 / 弱体効果が付与されている敵に自身の与えるダメージが【{15%}】上昇",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018201,
+    "ability_no": 10182,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "自身の会心率が【{15%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{100%}】ダメージに変化",
+    "awake_description": ""
+  },
+  {
+    "id": 1018202,
+    "ability_no": 10182,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "自身の会心率が【{15.4%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{101.6%}】ダメージに変化",
+    "awake_description": ""
+  },
+  {
+    "id": 1018203,
+    "ability_no": 10182,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "自身の会心率が【{15.8%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{103.3%}】ダメージに変化",
+    "awake_description": ""
+  },
+  {
+    "id": 1018204,
+    "ability_no": 10182,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "自身の会心率が【{16.2%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{105%}】ダメージに変化",
+    "awake_description": ""
+  },
+  {
+    "id": 1018205,
+    "ability_no": 10182,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "自身の会心率が【{17%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{108.3%}】ダメージに変化",
+    "awake_description": ""
+  },
+  {
+    "id": 1018206,
+    "ability_no": 10182,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "自身の会心率が【{17.5%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{110%}】ダメージに変化",
+    "awake_description": ""
+  },
+  {
+    "id": 1018207,
+    "ability_no": 10182,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "自身の会心率が【{17.9%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{111.6%}】ダメージに変化",
+    "awake_description": ""
+  },
+  {
+    "id": 1018208,
+    "ability_no": 10182,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "自身の会心率が【{18.7%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{115%}】ダメージに変化",
+    "awake_description": ""
+  },
+  {
+    "id": 1018209,
+    "ability_no": 10182,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "自身の会心率が【{19.1%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{116.6%}】ダメージに変化",
+    "awake_description": ""
+  },
+  {
+    "id": 1018210,
+    "ability_no": 10182,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "自身の会心率が【{20%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{120%}】ダメージに変化",
+    "awake_description": ""
+  },
+  {
+    "id": 1018211,
+    "ability_no": 10182,
+    "ability_awake_level": 1,
+    "level": 1,
+    "description": "自身の会心率が【{15%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{100%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1018212,
+    "ability_no": 10182,
+    "ability_awake_level": 1,
+    "level": 2,
+    "description": "自身の会心率が【{15.4%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{101.6%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1018213,
+    "ability_no": 10182,
+    "ability_awake_level": 1,
+    "level": 3,
+    "description": "自身の会心率が【{15.8%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{103.3%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1018214,
+    "ability_no": 10182,
+    "ability_awake_level": 1,
+    "level": 4,
+    "description": "自身の会心率が【{16.2%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{105%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1018215,
+    "ability_no": 10182,
+    "ability_awake_level": 1,
+    "level": 5,
+    "description": "自身の会心率が【{17%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{108.3%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1018216,
+    "ability_no": 10182,
+    "ability_awake_level": 1,
+    "level": 6,
+    "description": "自身の会心率が【{17.5%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{110%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1018217,
+    "ability_no": 10182,
+    "ability_awake_level": 1,
+    "level": 7,
+    "description": "自身の会心率が【{17.9%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{111.6%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1018218,
+    "ability_no": 10182,
+    "ability_awake_level": 1,
+    "level": 8,
+    "description": "自身の会心率が【{18.7%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{115%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1018219,
+    "ability_no": 10182,
+    "ability_awake_level": 1,
+    "level": 9,
+    "description": "自身の会心率が【{19.1%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{116.6%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1018220,
+    "ability_no": 10182,
+    "ability_awake_level": 1,
+    "level": 10,
+    "description": "自身の会心率が【{20%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{120%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{5%}】上昇"
+  },
+  {
+    "id": 1018221,
+    "ability_no": 10182,
+    "ability_awake_level": 2,
+    "level": 1,
+    "description": "自身の会心率が【{15%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{100%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1018222,
+    "ability_no": 10182,
+    "ability_awake_level": 2,
+    "level": 2,
+    "description": "自身の会心率が【{15.4%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{101.6%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1018223,
+    "ability_no": 10182,
+    "ability_awake_level": 2,
+    "level": 3,
+    "description": "自身の会心率が【{15.8%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{103.3%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1018224,
+    "ability_no": 10182,
+    "ability_awake_level": 2,
+    "level": 4,
+    "description": "自身の会心率が【{16.2%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{105%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1018225,
+    "ability_no": 10182,
+    "ability_awake_level": 2,
+    "level": 5,
+    "description": "自身の会心率が【{17%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{108.3%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1018226,
+    "ability_no": 10182,
+    "ability_awake_level": 2,
+    "level": 6,
+    "description": "自身の会心率が【{17.5%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{110%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1018227,
+    "ability_no": 10182,
+    "ability_awake_level": 2,
+    "level": 7,
+    "description": "自身の会心率が【{17.9%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{111.6%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1018228,
+    "ability_no": 10182,
+    "ability_awake_level": 2,
+    "level": 8,
+    "description": "自身の会心率が【{18.7%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{115%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1018229,
+    "ability_no": 10182,
+    "ability_awake_level": 2,
+    "level": 9,
+    "description": "自身の会心率が【{19.1%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{116.6%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1018230,
+    "ability_no": 10182,
+    "ability_awake_level": 2,
+    "level": 10,
+    "description": "自身の会心率が【{20%}】上昇\n【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計{120%}】ダメージに変化",
+    "awake_description": "自身の攻撃力と防御力と最大HPが【{9.5%}】上昇"
+  },
+  {
+    "id": 1018301,
+    "ability_no": 10183,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "自身の会心ダメージ倍率が【{5%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 1018302,
+    "ability_no": 10183,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "自身の会心ダメージ倍率が【{8.7%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 1018303,
+    "ability_no": 10183,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "自身の会心ダメージ倍率が【{12.5%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 1018304,
+    "ability_no": 10183,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "自身の会心ダメージ倍率が【{16.2%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 1018305,
+    "ability_no": 10183,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "自身の会心ダメージ倍率が【{23.7%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 1018306,
+    "ability_no": 10183,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "自身の会心ダメージ倍率が【{27.5%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 1018307,
+    "ability_no": 10183,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "自身の会心ダメージ倍率が【{31.2%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 1018308,
+    "ability_no": 10183,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "自身の会心ダメージ倍率が【{38.7%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 1018309,
+    "ability_no": 10183,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "自身の会心ダメージ倍率が【{42.5%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 1018310,
+    "ability_no": 10183,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "自身の会心ダメージ倍率が【{50%}】上昇",
+    "awake_description": ""
+  },
+  {
+    "id": 1018311,
+    "ability_no": 10183,
+    "ability_awake_level": 1,
+    "level": 1,
+    "description": "自身の会心ダメージ倍率が【{5%}】上昇",
+    "awake_description": "自身の受けるダメージが【{5%}】減少"
+  },
+  {
+    "id": 1018312,
+    "ability_no": 10183,
+    "ability_awake_level": 1,
+    "level": 2,
+    "description": "自身の会心ダメージ倍率が【{8.7%}】上昇",
+    "awake_description": "自身の受けるダメージが【{5%}】減少"
+  },
+  {
+    "id": 1018313,
+    "ability_no": 10183,
+    "ability_awake_level": 1,
+    "level": 3,
+    "description": "自身の会心ダメージ倍率が【{12.5%}】上昇",
+    "awake_description": "自身の受けるダメージが【{5%}】減少"
+  },
+  {
+    "id": 1018314,
+    "ability_no": 10183,
+    "ability_awake_level": 1,
+    "level": 4,
+    "description": "自身の会心ダメージ倍率が【{16.2%}】上昇",
+    "awake_description": "自身の受けるダメージが【{5%}】減少"
+  },
+  {
+    "id": 1018315,
+    "ability_no": 10183,
+    "ability_awake_level": 1,
+    "level": 5,
+    "description": "自身の会心ダメージ倍率が【{23.7%}】上昇",
+    "awake_description": "自身の受けるダメージが【{5%}】減少"
+  },
+  {
+    "id": 1018316,
+    "ability_no": 10183,
+    "ability_awake_level": 1,
+    "level": 6,
+    "description": "自身の会心ダメージ倍率が【{27.5%}】上昇",
+    "awake_description": "自身の受けるダメージが【{5%}】減少"
+  },
+  {
+    "id": 1018317,
+    "ability_no": 10183,
+    "ability_awake_level": 1,
+    "level": 7,
+    "description": "自身の会心ダメージ倍率が【{31.2%}】上昇",
+    "awake_description": "自身の受けるダメージが【{5%}】減少"
+  },
+  {
+    "id": 1018318,
+    "ability_no": 10183,
+    "ability_awake_level": 1,
+    "level": 8,
+    "description": "自身の会心ダメージ倍率が【{38.7%}】上昇",
+    "awake_description": "自身の受けるダメージが【{5%}】減少"
+  },
+  {
+    "id": 1018319,
+    "ability_no": 10183,
+    "ability_awake_level": 1,
+    "level": 9,
+    "description": "自身の会心ダメージ倍率が【{42.5%}】上昇",
+    "awake_description": "自身の受けるダメージが【{5%}】減少"
+  },
+  {
+    "id": 1018320,
+    "ability_no": 10183,
+    "ability_awake_level": 1,
+    "level": 10,
+    "description": "自身の会心ダメージ倍率が【{50%}】上昇",
+    "awake_description": "自身の受けるダメージが【{5%}】減少"
+  },
+  {
+    "id": 1018321,
+    "ability_no": 10183,
+    "ability_awake_level": 2,
+    "level": 1,
+    "description": "自身の会心ダメージ倍率が【{5%}】上昇",
+    "awake_description": "自身の受けるダメージが【{9.5%}】減少"
+  },
+  {
+    "id": 1018322,
+    "ability_no": 10183,
+    "ability_awake_level": 2,
+    "level": 2,
+    "description": "自身の会心ダメージ倍率が【{8.7%}】上昇",
+    "awake_description": "自身の受けるダメージが【{9.5%}】減少"
+  },
+  {
+    "id": 1018323,
+    "ability_no": 10183,
+    "ability_awake_level": 2,
+    "level": 3,
+    "description": "自身の会心ダメージ倍率が【{12.5%}】上昇",
+    "awake_description": "自身の受けるダメージが【{9.5%}】減少"
+  },
+  {
+    "id": 1018324,
+    "ability_no": 10183,
+    "ability_awake_level": 2,
+    "level": 4,
+    "description": "自身の会心ダメージ倍率が【{16.2%}】上昇",
+    "awake_description": "自身の受けるダメージが【{9.5%}】減少"
+  },
+  {
+    "id": 1018325,
+    "ability_no": 10183,
+    "ability_awake_level": 2,
+    "level": 5,
+    "description": "自身の会心ダメージ倍率が【{23.7%}】上昇",
+    "awake_description": "自身の受けるダメージが【{9.5%}】減少"
+  },
+  {
+    "id": 1018326,
+    "ability_no": 10183,
+    "ability_awake_level": 2,
+    "level": 6,
+    "description": "自身の会心ダメージ倍率が【{27.5%}】上昇",
+    "awake_description": "自身の受けるダメージが【{9.5%}】減少"
+  },
+  {
+    "id": 1018327,
+    "ability_no": 10183,
+    "ability_awake_level": 2,
+    "level": 7,
+    "description": "自身の会心ダメージ倍率が【{31.2%}】上昇",
+    "awake_description": "自身の受けるダメージが【{9.5%}】減少"
+  },
+  {
+    "id": 1018328,
+    "ability_no": 10183,
+    "ability_awake_level": 2,
+    "level": 8,
+    "description": "自身の会心ダメージ倍率が【{38.7%}】上昇",
+    "awake_description": "自身の受けるダメージが【{9.5%}】減少"
+  },
+  {
+    "id": 1018329,
+    "ability_no": 10183,
+    "ability_awake_level": 2,
+    "level": 9,
+    "description": "自身の会心ダメージ倍率が【{42.5%}】上昇",
+    "awake_description": "自身の受けるダメージが【{9.5%}】減少"
+  },
+  {
+    "id": 1018330,
+    "ability_no": 10183,
+    "ability_awake_level": 2,
+    "level": 10,
+    "description": "自身の会心ダメージ倍率が【{50%}】上昇",
+    "awake_description": "自身の受けるダメージが【{9.5%}】減少"
+  },
+  {
+    "id": 1018401,
+    "ability_no": 10184,
+    "ability_awake_level": 0,
+    "level": 1,
+    "description": "自身が光属性が弱点の敵に与えるダメージが【{1.5%}】上昇 / 会心時、自身に紋章：衝撃を【1】付与",
+    "awake_description": ""
+  },
+  {
+    "id": 1018402,
+    "ability_no": 10184,
+    "ability_awake_level": 0,
+    "level": 2,
+    "description": "自身が光属性が弱点の敵に与えるダメージが【{2.6%}】上昇 / 会心時、自身に紋章：衝撃を【1】付与",
+    "awake_description": ""
+  },
+  {
+    "id": 1018403,
+    "ability_no": 10184,
+    "ability_awake_level": 0,
+    "level": 3,
+    "description": "自身が光属性が弱点の敵に与えるダメージが【{3.7%}】上昇 / 会心時、自身に紋章：衝撃を【1】付与",
+    "awake_description": ""
+  },
+  {
+    "id": 1018404,
+    "ability_no": 10184,
+    "ability_awake_level": 0,
+    "level": 4,
+    "description": "自身が光属性が弱点の敵に与えるダメージが【{4.8%}】上昇 / 会心時、自身に紋章：衝撃を【1】付与",
+    "awake_description": ""
+  },
+  {
+    "id": 1018405,
+    "ability_no": 10184,
+    "ability_awake_level": 0,
+    "level": 5,
+    "description": "自身が光属性が弱点の敵に与えるダメージが【{7.1%}】上昇 / 会心時、自身に紋章：衝撃を【1】付与",
+    "awake_description": ""
+  },
+  {
+    "id": 1018406,
+    "ability_no": 10184,
+    "ability_awake_level": 0,
+    "level": 6,
+    "description": "自身が光属性が弱点の敵に与えるダメージが【{8.2%}】上昇 / 会心時、自身に紋章：衝撃を【1】付与",
+    "awake_description": ""
+  },
+  {
+    "id": 1018407,
+    "ability_no": 10184,
+    "ability_awake_level": 0,
+    "level": 7,
+    "description": "自身が光属性が弱点の敵に与えるダメージが【{9.3%}】上昇 / 会心時、自身に紋章：衝撃を【1】付与",
+    "awake_description": ""
+  },
+  {
+    "id": 1018408,
+    "ability_no": 10184,
+    "ability_awake_level": 0,
+    "level": 8,
+    "description": "自身が光属性が弱点の敵に与えるダメージが【{11.6%}】上昇 / 会心時、自身に紋章：衝撃を【1】付与",
+    "awake_description": ""
+  },
+  {
+    "id": 1018409,
+    "ability_no": 10184,
+    "ability_awake_level": 0,
+    "level": 9,
+    "description": "自身が光属性が弱点の敵に与えるダメージが【{12.7%}】上昇 / 会心時、自身に紋章：衝撃を【1】付与",
+    "awake_description": ""
+  },
+  {
+    "id": 1018410,
+    "ability_no": 10184,
+    "ability_awake_level": 0,
+    "level": 10,
+    "description": "自身が光属性が弱点の敵に与えるダメージが【{15%}】上昇 / 会心時、自身に紋章：衝撃を【1】付与",
+    "awake_description": ""
+  },
+  {
+    "id": 1018411,
+    "ability_no": 10184,
+    "ability_awake_level": 1,
+    "level": 1,
+    "description": "自身が光属性が弱点の敵に与えるダメージが【{1.5%}】上昇 / 会心時、自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018412,
+    "ability_no": 10184,
+    "ability_awake_level": 1,
+    "level": 2,
+    "description": "自身が光属性が弱点の敵に与えるダメージが【{2.6%}】上昇 / 会心時、自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018413,
+    "ability_no": 10184,
+    "ability_awake_level": 1,
+    "level": 3,
+    "description": "自身が光属性が弱点の敵に与えるダメージが【{3.7%}】上昇 / 会心時、自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018414,
+    "ability_no": 10184,
+    "ability_awake_level": 1,
+    "level": 4,
+    "description": "自身が光属性が弱点の敵に与えるダメージが【{4.8%}】上昇 / 会心時、自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018415,
+    "ability_no": 10184,
+    "ability_awake_level": 1,
+    "level": 5,
+    "description": "自身が光属性が弱点の敵に与えるダメージが【{7.1%}】上昇 / 会心時、自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018416,
+    "ability_no": 10184,
+    "ability_awake_level": 1,
+    "level": 6,
+    "description": "自身が光属性が弱点の敵に与えるダメージが【{8.2%}】上昇 / 会心時、自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018417,
+    "ability_no": 10184,
+    "ability_awake_level": 1,
+    "level": 7,
+    "description": "自身が光属性が弱点の敵に与えるダメージが【{9.3%}】上昇 / 会心時、自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018418,
+    "ability_no": 10184,
+    "ability_awake_level": 1,
+    "level": 8,
+    "description": "自身が光属性が弱点の敵に与えるダメージが【{11.6%}】上昇 / 会心時、自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018419,
+    "ability_no": 10184,
+    "ability_awake_level": 1,
+    "level": 9,
+    "description": "自身が光属性が弱点の敵に与えるダメージが【{12.7%}】上昇 / 会心時、自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018420,
+    "ability_no": 10184,
+    "ability_awake_level": 1,
+    "level": 10,
+    "description": "自身が光属性が弱点の敵に与えるダメージが【{15%}】上昇 / 会心時、自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018421,
+    "ability_no": 10184,
+    "ability_awake_level": 2,
+    "level": 1,
+    "description": "自身が光属性が弱点の敵に与えるダメージが【{1.5%}】上昇 / 会心時、自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018422,
+    "ability_no": 10184,
+    "ability_awake_level": 2,
+    "level": 2,
+    "description": "自身が光属性が弱点の敵に与えるダメージが【{2.6%}】上昇 / 会心時、自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018423,
+    "ability_no": 10184,
+    "ability_awake_level": 2,
+    "level": 3,
+    "description": "自身が光属性が弱点の敵に与えるダメージが【{3.7%}】上昇 / 会心時、自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018424,
+    "ability_no": 10184,
+    "ability_awake_level": 2,
+    "level": 4,
+    "description": "自身が光属性が弱点の敵に与えるダメージが【{4.8%}】上昇 / 会心時、自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018425,
+    "ability_no": 10184,
+    "ability_awake_level": 2,
+    "level": 5,
+    "description": "自身が光属性が弱点の敵に与えるダメージが【{7.1%}】上昇 / 会心時、自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018426,
+    "ability_no": 10184,
+    "ability_awake_level": 2,
+    "level": 6,
+    "description": "自身が光属性が弱点の敵に与えるダメージが【{8.2%}】上昇 / 会心時、自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018427,
+    "ability_no": 10184,
+    "ability_awake_level": 2,
+    "level": 7,
+    "description": "自身が光属性が弱点の敵に与えるダメージが【{9.3%}】上昇 / 会心時、自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018428,
+    "ability_no": 10184,
+    "ability_awake_level": 2,
+    "level": 8,
+    "description": "自身が光属性が弱点の敵に与えるダメージが【{11.6%}】上昇 / 会心時、自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018429,
+    "ability_no": 10184,
+    "ability_awake_level": 2,
+    "level": 9,
+    "description": "自身が光属性が弱点の敵に与えるダメージが【{12.7%}】上昇 / 会心時、自身に紋章：衝撃を【1】付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
+  },
+  {
+    "id": 1018430,
+    "ability_no": 10184,
+    "ability_awake_level": 2,
+    "level": 10,
+    "description": "自身が光属性が弱点の敵に与えるダメージが【{15%}】上昇 / 会心時、自身に紋章：衝撃を【1】付与",
     "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
   },
   {

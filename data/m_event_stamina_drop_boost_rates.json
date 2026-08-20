@@ -12,13 +12,19 @@
     "boost_rate": 1000
   },
   {
-    "id": 6,
+    "id": 3,
+    "m_event_id": 700001,
+    "stamina_upper": 0,
+    "boost_rate": 1000
+  },
+  {
+    "id": 4,
     "m_event_id": 600002,
     "stamina_upper": 0,
     "boost_rate": 750
   },
   {
-    "id": 7,
+    "id": 5,
     "m_event_id": 500002,
     "stamina_upper": 0,
     "boost_rate": 1000

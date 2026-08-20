@@ -1,1 +1,506 @@
-null
+[
+  {
+    "id": 100,
+    "m_event_speedrun_quest_id": 1100001101,
+    "m_enemy_id": 500110101,
+    "is_boss": 0,
+    "asset_id": "2010501"
+  },
+  {
+    "id": 101,
+    "m_event_speedrun_quest_id": 1100001101,
+    "m_enemy_id": 500110102,
+    "is_boss": 0,
+    "asset_id": "2009501"
+  },
+  {
+    "id": 102,
+    "m_event_speedrun_quest_id": 1100001101,
+    "m_enemy_id": 500110103,
+    "is_boss": 0,
+    "asset_id": "2013501"
+  },
+  {
+    "id": 103,
+    "m_event_speedrun_quest_id": 1100001101,
+    "m_enemy_id": 500110104,
+    "is_boss": 0,
+    "asset_id": "2012501"
+  },
+  {
+    "id": 104,
+    "m_event_speedrun_quest_id": 1100001101,
+    "m_enemy_id": 500110105,
+    "is_boss": 0,
+    "asset_id": "2011501"
+  },
+  {
+    "id": 105,
+    "m_event_speedrun_quest_id": 1100001101,
+    "m_enemy_id": 500110106,
+    "is_boss": 0,
+    "asset_id": "2028501"
+  },
+  {
+    "id": 106,
+    "m_event_speedrun_quest_id": 1100001101,
+    "m_enemy_id": 500110107,
+    "is_boss": 0,
+    "asset_id": "2029501"
+  },
+  {
+    "id": 107,
+    "m_event_speedrun_quest_id": 1100001101,
+    "m_enemy_id": 500110108,
+    "is_boss": 1,
+    "asset_id": "2034502"
+  },
+  {
+    "id": 200,
+    "m_event_speedrun_quest_id": 1100001102,
+    "m_enemy_id": 500110201,
+    "is_boss": 0,
+    "asset_id": "2002501"
+  },
+  {
+    "id": 201,
+    "m_event_speedrun_quest_id": 1100001102,
+    "m_enemy_id": 500110202,
+    "is_boss": 0,
+    "asset_id": "2006501"
+  },
+  {
+    "id": 202,
+    "m_event_speedrun_quest_id": 1100001102,
+    "m_enemy_id": 500110203,
+    "is_boss": 0,
+    "asset_id": "2005501"
+  },
+  {
+    "id": 203,
+    "m_event_speedrun_quest_id": 1100001102,
+    "m_enemy_id": 500110204,
+    "is_boss": 0,
+    "asset_id": "2001501"
+  },
+  {
+    "id": 204,
+    "m_event_speedrun_quest_id": 1100001102,
+    "m_enemy_id": 500110205,
+    "is_boss": 0,
+    "asset_id": "2004501"
+  },
+  {
+    "id": 205,
+    "m_event_speedrun_quest_id": 1100001102,
+    "m_enemy_id": 500110206,
+    "is_boss": 1,
+    "asset_id": "2008502"
+  },
+  {
+    "id": 206,
+    "m_event_speedrun_quest_id": 1100001102,
+    "m_enemy_id": 500110207,
+    "is_boss": 0,
+    "asset_id": "2003501"
+  },
+  {
+    "id": 207,
+    "m_event_speedrun_quest_id": 1100001102,
+    "m_enemy_id": 500110208,
+    "is_boss": 0,
+    "asset_id": "2034502"
+  },
+  {
+    "id": 208,
+    "m_event_speedrun_quest_id": 1100001102,
+    "m_enemy_id": 500110209,
+    "is_boss": 0,
+    "asset_id": "2046501"
+  },
+  {
+    "id": 300,
+    "m_event_speedrun_quest_id": 1100001103,
+    "m_enemy_id": 500110301,
+    "is_boss": 0,
+    "asset_id": "2015501"
+  },
+  {
+    "id": 301,
+    "m_event_speedrun_quest_id": 1100001103,
+    "m_enemy_id": 500110302,
+    "is_boss": 0,
+    "asset_id": "2031502"
+  },
+  {
+    "id": 302,
+    "m_event_speedrun_quest_id": 1100001103,
+    "m_enemy_id": 500110303,
+    "is_boss": 1,
+    "asset_id": "2051201"
+  },
+  {
+    "id": 303,
+    "m_event_speedrun_quest_id": 1100001103,
+    "m_enemy_id": 500110304,
+    "is_boss": 0,
+    "asset_id": "2034502"
+  },
+  {
+    "id": 304,
+    "m_event_speedrun_quest_id": 1100001103,
+    "m_enemy_id": 500110305,
+    "is_boss": 0,
+    "asset_id": "2013501"
+  },
+  {
+    "id": 305,
+    "m_event_speedrun_quest_id": 1100001103,
+    "m_enemy_id": 500110306,
+    "is_boss": 0,
+    "asset_id": "2010501"
+  },
+  {
+    "id": 306,
+    "m_event_speedrun_quest_id": 1100001103,
+    "m_enemy_id": 500110307,
+    "is_boss": 0,
+    "asset_id": "2009501"
+  },
+  {
+    "id": 400,
+    "m_event_speedrun_quest_id": 1100001201,
+    "m_enemy_id": 500120101,
+    "is_boss": 0,
+    "asset_id": "2010501"
+  },
+  {
+    "id": 401,
+    "m_event_speedrun_quest_id": 1100001201,
+    "m_enemy_id": 500120102,
+    "is_boss": 0,
+    "asset_id": "2009501"
+  },
+  {
+    "id": 402,
+    "m_event_speedrun_quest_id": 1100001201,
+    "m_enemy_id": 500120103,
+    "is_boss": 0,
+    "asset_id": "2013501"
+  },
+  {
+    "id": 403,
+    "m_event_speedrun_quest_id": 1100001201,
+    "m_enemy_id": 500120104,
+    "is_boss": 0,
+    "asset_id": "2012501"
+  },
+  {
+    "id": 404,
+    "m_event_speedrun_quest_id": 1100001201,
+    "m_enemy_id": 500120105,
+    "is_boss": 0,
+    "asset_id": "2011501"
+  },
+  {
+    "id": 405,
+    "m_event_speedrun_quest_id": 1100001201,
+    "m_enemy_id": 500120106,
+    "is_boss": 0,
+    "asset_id": "2028501"
+  },
+  {
+    "id": 406,
+    "m_event_speedrun_quest_id": 1100001201,
+    "m_enemy_id": 500120107,
+    "is_boss": 0,
+    "asset_id": "2029501"
+  },
+  {
+    "id": 407,
+    "m_event_speedrun_quest_id": 1100001201,
+    "m_enemy_id": 500120108,
+    "is_boss": 1,
+    "asset_id": "2034502"
+  },
+  {
+    "id": 500,
+    "m_event_speedrun_quest_id": 1100001202,
+    "m_enemy_id": 500120201,
+    "is_boss": 0,
+    "asset_id": "2002501"
+  },
+  {
+    "id": 501,
+    "m_event_speedrun_quest_id": 1100001202,
+    "m_enemy_id": 500120202,
+    "is_boss": 0,
+    "asset_id": "2006501"
+  },
+  {
+    "id": 502,
+    "m_event_speedrun_quest_id": 1100001202,
+    "m_enemy_id": 500120203,
+    "is_boss": 0,
+    "asset_id": "2005501"
+  },
+  {
+    "id": 503,
+    "m_event_speedrun_quest_id": 1100001202,
+    "m_enemy_id": 500120204,
+    "is_boss": 0,
+    "asset_id": "2001501"
+  },
+  {
+    "id": 504,
+    "m_event_speedrun_quest_id": 1100001202,
+    "m_enemy_id": 500120205,
+    "is_boss": 0,
+    "asset_id": "2004501"
+  },
+  {
+    "id": 505,
+    "m_event_speedrun_quest_id": 1100001202,
+    "m_enemy_id": 500120206,
+    "is_boss": 1,
+    "asset_id": "2008502"
+  },
+  {
+    "id": 506,
+    "m_event_speedrun_quest_id": 1100001202,
+    "m_enemy_id": 500120207,
+    "is_boss": 0,
+    "asset_id": "2003501"
+  },
+  {
+    "id": 507,
+    "m_event_speedrun_quest_id": 1100001202,
+    "m_enemy_id": 500120208,
+    "is_boss": 0,
+    "asset_id": "2034502"
+  },
+  {
+    "id": 508,
+    "m_event_speedrun_quest_id": 1100001202,
+    "m_enemy_id": 500120209,
+    "is_boss": 0,
+    "asset_id": "2046501"
+  },
+  {
+    "id": 600,
+    "m_event_speedrun_quest_id": 1100001203,
+    "m_enemy_id": 500120301,
+    "is_boss": 0,
+    "asset_id": "2015501"
+  },
+  {
+    "id": 601,
+    "m_event_speedrun_quest_id": 1100001203,
+    "m_enemy_id": 500120302,
+    "is_boss": 0,
+    "asset_id": "2031502"
+  },
+  {
+    "id": 602,
+    "m_event_speedrun_quest_id": 1100001203,
+    "m_enemy_id": 500120303,
+    "is_boss": 1,
+    "asset_id": "2051201"
+  },
+  {
+    "id": 603,
+    "m_event_speedrun_quest_id": 1100001203,
+    "m_enemy_id": 500120304,
+    "is_boss": 0,
+    "asset_id": "2034502"
+  },
+  {
+    "id": 604,
+    "m_event_speedrun_quest_id": 1100001203,
+    "m_enemy_id": 500120305,
+    "is_boss": 0,
+    "asset_id": "2013501"
+  },
+  {
+    "id": 605,
+    "m_event_speedrun_quest_id": 1100001203,
+    "m_enemy_id": 500120306,
+    "is_boss": 0,
+    "asset_id": "2010501"
+  },
+  {
+    "id": 606,
+    "m_event_speedrun_quest_id": 1100001203,
+    "m_enemy_id": 500120307,
+    "is_boss": 0,
+    "asset_id": "2009501"
+  },
+  {
+    "id": 700,
+    "m_event_speedrun_quest_id": 1100001301,
+    "m_enemy_id": 500130101,
+    "is_boss": 0,
+    "asset_id": "2010501"
+  },
+  {
+    "id": 701,
+    "m_event_speedrun_quest_id": 1100001301,
+    "m_enemy_id": 500130102,
+    "is_boss": 0,
+    "asset_id": "2009501"
+  },
+  {
+    "id": 702,
+    "m_event_speedrun_quest_id": 1100001301,
+    "m_enemy_id": 500130103,
+    "is_boss": 0,
+    "asset_id": "2013501"
+  },
+  {
+    "id": 703,
+    "m_event_speedrun_quest_id": 1100001301,
+    "m_enemy_id": 500130104,
+    "is_boss": 0,
+    "asset_id": "2012501"
+  },
+  {
+    "id": 704,
+    "m_event_speedrun_quest_id": 1100001301,
+    "m_enemy_id": 500130105,
+    "is_boss": 0,
+    "asset_id": "2011501"
+  },
+  {
+    "id": 705,
+    "m_event_speedrun_quest_id": 1100001301,
+    "m_enemy_id": 500130106,
+    "is_boss": 0,
+    "asset_id": "2028501"
+  },
+  {
+    "id": 706,
+    "m_event_speedrun_quest_id": 1100001301,
+    "m_enemy_id": 500130107,
+    "is_boss": 0,
+    "asset_id": "2029501"
+  },
+  {
+    "id": 707,
+    "m_event_speedrun_quest_id": 1100001301,
+    "m_enemy_id": 500130108,
+    "is_boss": 1,
+    "asset_id": "2034502"
+  },
+  {
+    "id": 800,
+    "m_event_speedrun_quest_id": 1100001302,
+    "m_enemy_id": 500130201,
+    "is_boss": 0,
+    "asset_id": "2002501"
+  },
+  {
+    "id": 801,
+    "m_event_speedrun_quest_id": 1100001302,
+    "m_enemy_id": 500130202,
+    "is_boss": 0,
+    "asset_id": "2006501"
+  },
+  {
+    "id": 802,
+    "m_event_speedrun_quest_id": 1100001302,
+    "m_enemy_id": 500130203,
+    "is_boss": 0,
+    "asset_id": "2005501"
+  },
+  {
+    "id": 803,
+    "m_event_speedrun_quest_id": 1100001302,
+    "m_enemy_id": 500130204,
+    "is_boss": 0,
+    "asset_id": "2001501"
+  },
+  {
+    "id": 804,
+    "m_event_speedrun_quest_id": 1100001302,
+    "m_enemy_id": 500130205,
+    "is_boss": 0,
+    "asset_id": "2004501"
+  },
+  {
+    "id": 805,
+    "m_event_speedrun_quest_id": 1100001302,
+    "m_enemy_id": 500130206,
+    "is_boss": 1,
+    "asset_id": "2008502"
+  },
+  {
+    "id": 806,
+    "m_event_speedrun_quest_id": 1100001302,
+    "m_enemy_id": 500130207,
+    "is_boss": 0,
+    "asset_id": "2003501"
+  },
+  {
+    "id": 807,
+    "m_event_speedrun_quest_id": 1100001302,
+    "m_enemy_id": 500130208,
+    "is_boss": 0,
+    "asset_id": "2034502"
+  },
+  {
+    "id": 808,
+    "m_event_speedrun_quest_id": 1100001302,
+    "m_enemy_id": 500130209,
+    "is_boss": 0,
+    "asset_id": "2046501"
+  },
+  {
+    "id": 900,
+    "m_event_speedrun_quest_id": 1100001303,
+    "m_enemy_id": 500130301,
+    "is_boss": 0,
+    "asset_id": "2015501"
+  },
+  {
+    "id": 901,
+    "m_event_speedrun_quest_id": 1100001303,
+    "m_enemy_id": 500130302,
+    "is_boss": 0,
+    "asset_id": "2031502"
+  },
+  {
+    "id": 902,
+    "m_event_speedrun_quest_id": 1100001303,
+    "m_enemy_id": 500130303,
+    "is_boss": 1,
+    "asset_id": "2051201"
+  },
+  {
+    "id": 903,
+    "m_event_speedrun_quest_id": 1100001303,
+    "m_enemy_id": 500130304,
+    "is_boss": 0,
+    "asset_id": "2034502"
+  },
+  {
+    "id": 904,
+    "m_event_speedrun_quest_id": 1100001303,
+    "m_enemy_id": 500130305,
+    "is_boss": 0,
+    "asset_id": "2013501"
+  },
+  {
+    "id": 905,
+    "m_event_speedrun_quest_id": 1100001303,
+    "m_enemy_id": 500130306,
+    "is_boss": 0,
+    "asset_id": "2010501"
+  },
+  {
+    "id": 906,
+    "m_event_speedrun_quest_id": 1100001303,
+    "m_enemy_id": 500130307,
+    "is_boss": 0,
+    "asset_id": "2009501"
+  }
+]

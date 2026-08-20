@@ -49,6 +49,13 @@
     "bg_asset_id": "abg11200a"
   },
   {
+    "id": 70000101,
+    "m_event_id": 700001,
+    "tips_asset_id": "1041001",
+    "logo_asset_id": "1041001",
+    "bg_asset_id": "abg11200a"
+  },
+  {
     "id": 80000101,
     "m_event_id": 800001,
     "tips_asset_id": "1090002",
@@ -67,6 +74,13 @@
     "m_event_id": 900001,
     "tips_asset_id": "1060001",
     "logo_asset_id": "1060001",
+    "bg_asset_id": "abg11500a"
+  },
+  {
+    "id": 90000201,
+    "m_event_id": 900002,
+    "tips_asset_id": "1060002",
+    "logo_asset_id": "1060002",
     "bg_asset_id": "abg11500a"
   },
   {
@@ -96,5 +110,12 @@
     "tips_asset_id": "1050001",
     "logo_asset_id": "1050001",
     "bg_asset_id": "abg11101a"
+  },
+  {
+    "id": 110000101,
+    "m_event_id": 1100001,
+    "tips_asset_id": "1051001",
+    "logo_asset_id": "1051001",
+    "bg_asset_id": "abg14200a"
   }
 ]

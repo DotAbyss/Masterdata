@@ -174,5 +174,181 @@
     "content_id": 20101,
     "amount": 5,
     "is_first_reward": 0
+  },
+  {
+    "id": 9000020101,
+    "m_event_training_stage_id": 90000201,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 50,
+    "is_first_reward": 1
+  },
+  {
+    "id": 9000020201,
+    "m_event_training_stage_id": 90000202,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 50,
+    "is_first_reward": 1
+  },
+  {
+    "id": 9000020202,
+    "m_event_training_stage_id": 90000202,
+    "content_type": 70,
+    "content_id": 11020130,
+    "amount": 1,
+    "is_first_reward": 1
+  },
+  {
+    "id": 9000020203,
+    "m_event_training_stage_id": 90000202,
+    "content_type": 80,
+    "content_id": 21020130,
+    "amount": 1,
+    "is_first_reward": 1
+  },
+  {
+    "id": 9000020204,
+    "m_event_training_stage_id": 90000202,
+    "content_type": 30,
+    "content_id": 20030,
+    "amount": 4,
+    "is_first_reward": 0
+  },
+  {
+    "id": 9000020205,
+    "m_event_training_stage_id": 90000202,
+    "content_type": 30,
+    "content_id": 20031,
+    "amount": 4,
+    "is_first_reward": 0
+  },
+  {
+    "id": 9000020206,
+    "m_event_training_stage_id": 90000202,
+    "content_type": 30,
+    "content_id": 20100,
+    "amount": 4,
+    "is_first_reward": 0
+  },
+  {
+    "id": 9000020207,
+    "m_event_training_stage_id": 90000202,
+    "content_type": 30,
+    "content_id": 20101,
+    "amount": 4,
+    "is_first_reward": 0
+  },
+  {
+    "id": 9000020301,
+    "m_event_training_stage_id": 90000203,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 50,
+    "is_first_reward": 1
+  },
+  {
+    "id": 9000020302,
+    "m_event_training_stage_id": 90000203,
+    "content_type": 70,
+    "content_id": 11020230,
+    "amount": 1,
+    "is_first_reward": 1
+  },
+  {
+    "id": 9000020303,
+    "m_event_training_stage_id": 90000203,
+    "content_type": 80,
+    "content_id": 21020230,
+    "amount": 1,
+    "is_first_reward": 1
+  },
+  {
+    "id": 9000020304,
+    "m_event_training_stage_id": 90000203,
+    "content_type": 30,
+    "content_id": 20030,
+    "amount": 6,
+    "is_first_reward": 0
+  },
+  {
+    "id": 9000020305,
+    "m_event_training_stage_id": 90000203,
+    "content_type": 30,
+    "content_id": 20031,
+    "amount": 6,
+    "is_first_reward": 0
+  },
+  {
+    "id": 9000020306,
+    "m_event_training_stage_id": 90000203,
+    "content_type": 30,
+    "content_id": 20100,
+    "amount": 6,
+    "is_first_reward": 0
+  },
+  {
+    "id": 9000020307,
+    "m_event_training_stage_id": 90000203,
+    "content_type": 30,
+    "content_id": 20101,
+    "amount": 6,
+    "is_first_reward": 0
+  },
+  {
+    "id": 9000020401,
+    "m_event_training_stage_id": 90000204,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 50,
+    "is_first_reward": 1
+  },
+  {
+    "id": 9000020402,
+    "m_event_training_stage_id": 90000204,
+    "content_type": 70,
+    "content_id": 11020330,
+    "amount": 1,
+    "is_first_reward": 1
+  },
+  {
+    "id": 9000020403,
+    "m_event_training_stage_id": 90000204,
+    "content_type": 80,
+    "content_id": 21020330,
+    "amount": 1,
+    "is_first_reward": 1
+  },
+  {
+    "id": 9000020404,
+    "m_event_training_stage_id": 90000204,
+    "content_type": 30,
+    "content_id": 20030,
+    "amount": 8,
+    "is_first_reward": 0
+  },
+  {
+    "id": 9000020405,
+    "m_event_training_stage_id": 90000204,
+    "content_type": 30,
+    "content_id": 20031,
+    "amount": 8,
+    "is_first_reward": 0
+  },
+  {
+    "id": 9000020406,
+    "m_event_training_stage_id": 90000204,
+    "content_type": 30,
+    "content_id": 20100,
+    "amount": 8,
+    "is_first_reward": 0
+  },
+  {
+    "id": 9000020407,
+    "m_event_training_stage_id": 90000204,
+    "content_type": 30,
+    "content_id": 20101,
+    "amount": 8,
+    "is_first_reward": 0
   }
 ]

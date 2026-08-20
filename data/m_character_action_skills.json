@@ -602,6 +602,20 @@
     "description": "さらに紋章：衝撃を5消費し、最も攻撃力の高い光・闇・無属性の味方1体に衝撃消費無効1回【永続】を付与"
   },
   {
+    "id": 1300012000,
+    "m_character_id": 1300012,
+    "trigger_type": 20,
+    "name": "サンダーボルト・キャリバー",
+    "description": "自身の前方範囲内にいる敵全体に【2HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 自身に紋章：衝撃を【1】付与"
+  },
+  {
+    "id": 1300012001,
+    "m_character_id": 1300012,
+    "trigger_type": 30,
+    "name": "サンダーボルト・キャリバー",
+    "description": "さらに光属性の味方全体に会心率UP【{[CRITICALUP.FIXED_PERCENT]} / 15秒】を付与 / 紋章：衝撃を5消費し、ダメージ倍率が【{[IMPACTSUCCEED.DAMAGE.DAMAGE_PERCENT]}】に変化 "
+  },
+  {
     "id": 1300014000,
     "m_character_id": 1300014,
     "trigger_type": 20,
@@ -642,6 +656,20 @@
     "trigger_type": 30,
     "name": "水神の怒り",
     "description": "ダメージ倍率が【{[DAMAGE.DAMAGE_PERCENT]}】に変化"
+  },
+  {
+    "id": 1300018000,
+    "m_character_id": 1300018,
+    "trigger_type": 20,
+    "name": "リバイブヒール",
+    "description": "味方全体に通常回復の【{[PRJCTL.THROW.RECOVER.HEAL_PERCENT]}】回復"
+  },
+  {
+    "id": 1300018001,
+    "m_character_id": 1300018,
+    "trigger_type": 30,
+    "name": "リバイブヒール",
+    "description": "自身に防御力UP【{[DEFENCEUP.RATE_PERCENT]} / 20秒】を付与 / 戦闘不能の味方がいるとき、紋章：衝撃を10消費し、ランダムな味方1体を蘇生"
   },
   {
     "id": 1300019000,

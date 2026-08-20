@@ -3940,5 +3940,41 @@
     "timeline": "Skill002",
     "name": "デスソング",
     "description": "敵全体に与ダメージDOWN【{[DAMAGEDOWN.FIXED_PERCENT]} / {[DAMAGEDOWN.DURATION]}秒】を付与 / 被ダメージUP【{[TAKENDAMAGEUP.FIXED_PERCENT]} / {[TAKENDAMAGEUP.DURATION]}秒】を付与 / 【{[DAMAGE.HIT_COUNT]}HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20345020001,
+    "asset_id": "2034502",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "前方範囲内の敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 【25％】の確率で防御力DOWN【{[DEFENCEDOWN.RATE_PERCENT]} / {[DEFENCEDOWN.DURATION]}秒】を付与"
+  },
+  {
+    "id": 20085020001,
+    "asset_id": "2008502",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体を対象に【1HIT / 合計100%】ダメージ / 遠くの敵を狙いやすい"
+  },
+  {
+    "id": 20315020001,
+    "asset_id": "2031502",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "ランダムな敵1体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT:1]}】ダメージを与え、行動間隔増加【{[PRJCTL.LAND.ACTIONCOOLTIMEDOWN.RATE_PERCENT:1]} / {[PRJCTL.LAND.ACTIONCOOLTIMEDOWN.DURATION:1]}秒】を付与する攻撃を3回行う"
+  },
+  {
+    "id": 20315020002,
+    "asset_id": "2031502",
+    "ai_id": "0",
+    "skill_type": 20,
+    "timeline": "Skill01",
+    "name": "スパイダーウィップ",
+    "description": "敵1体を中心とした範囲内にいる敵全体に【6HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 攻撃力DOWN【{[ATTACKDOWN.RATE_PERCENT]} / {[ATTACKDOWN.DURATION]}秒】を付与 / 防御力DOWN【{[DEFENCEDOWN.RATE_PERCENT]} / {[DEFENCEDOWN.DURATION]}秒】を付与 / ノックバック（小）"
   }
 ]
