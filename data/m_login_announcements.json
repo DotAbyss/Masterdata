@@ -582,8 +582,8 @@
   {
     "id": 67,
     "title": "第3回依頼イベント",
-    "display_priority": 302,
-    "display_order": 302,
+    "display_priority": 303,
+    "display_order": 303,
     "asset_id": "1090004_1",
     "begin_at": "2026-09-04 10:00:00",
     "end_at": "2026-09-09 4:59:59",
@@ -592,11 +592,21 @@
   {
     "id": 72,
     "title": "【開催中】iOS版　GAMES PLAYERログボ",
-    "display_priority": 301,
-    "display_order": 301,
+    "display_priority": 302,
+    "display_order": 302,
     "asset_id": "1500006",
     "begin_at": "2026-08-31 13:00:00",
     "end_at": "2026-09-21 4:59:59",
+    "has_r18": 0
+  },
+  {
+    "id": 73,
+    "title": "限界突破応援ミッションパス",
+    "display_priority": 301,
+    "display_order": 301,
+    "asset_id": "1600004",
+    "begin_at": "2026-08-31 10:00:00",
+    "end_at": "2026-09-09 4:59:59",
     "has_r18": 0
   }
 ]
