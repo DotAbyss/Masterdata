@@ -1048,6 +1048,14 @@
     "description": "Lvに応じて強化された状態"
   },
   {
+    "id": 1000001,
+    "name": "氷精蝶",
+    "nameEN": "IcyFairy",
+    "limit": 0,
+    "icon_asset_id": "IcyFairy",
+    "description": "氷精蝶の加護を得た状態"
+  },
+  {
     "id": 10000001,
     "name": "情熱",
     "nameEN": "Zeal",

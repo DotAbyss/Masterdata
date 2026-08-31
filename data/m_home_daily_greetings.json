@@ -1593,6 +1593,60 @@
     "direction_type": 0
   },
   {
+    "id": 130005301,
+    "m_character_id": 1300053,
+    "intimacy_level": 1,
+    "m_novel_home_id": 11030100001,
+    "m_home_greeting_position_id": 4,
+    "m_home_greeting_reward_group_id": 16,
+    "direction_type": 0
+  },
+  {
+    "id": 130005302,
+    "m_character_id": 1300053,
+    "intimacy_level": 5,
+    "m_novel_home_id": 11030100002,
+    "m_home_greeting_position_id": 2,
+    "m_home_greeting_reward_group_id": 18,
+    "direction_type": 0
+  },
+  {
+    "id": 130005303,
+    "m_character_id": 1300053,
+    "intimacy_level": 15,
+    "m_novel_home_id": 11030100003,
+    "m_home_greeting_position_id": 6,
+    "m_home_greeting_reward_group_id": 2,
+    "direction_type": 0
+  },
+  {
+    "id": 130005401,
+    "m_character_id": 1300054,
+    "intimacy_level": 1,
+    "m_novel_home_id": 10220100001,
+    "m_home_greeting_position_id": 9,
+    "m_home_greeting_reward_group_id": 13,
+    "direction_type": 0
+  },
+  {
+    "id": 130005402,
+    "m_character_id": 1300054,
+    "intimacy_level": 5,
+    "m_novel_home_id": 10220100002,
+    "m_home_greeting_position_id": 6,
+    "m_home_greeting_reward_group_id": 20,
+    "direction_type": 0
+  },
+  {
+    "id": 130005403,
+    "m_character_id": 1300054,
+    "intimacy_level": 15,
+    "m_novel_home_id": 10220100003,
+    "m_home_greeting_position_id": 12,
+    "m_home_greeting_reward_group_id": 2,
+    "direction_type": 0
+  },
+  {
     "id": 147,
     "m_character_id": 1200001,
     "intimacy_level": 0,
@@ -2297,6 +2351,24 @@
   {
     "id": 130001200,
     "m_character_id": 1300012,
+    "intimacy_level": 0,
+    "m_novel_home_id": 0,
+    "m_home_greeting_position_id": 0,
+    "m_home_greeting_reward_group_id": 1,
+    "direction_type": 0
+  },
+  {
+    "id": 130005300,
+    "m_character_id": 1300053,
+    "intimacy_level": 0,
+    "m_novel_home_id": 0,
+    "m_home_greeting_position_id": 0,
+    "m_home_greeting_reward_group_id": 1,
+    "direction_type": 0
+  },
+  {
+    "id": 130005400,
+    "m_character_id": 1300054,
     "intimacy_level": 0,
     "m_novel_home_id": 0,
     "m_home_greeting_position_id": 0,

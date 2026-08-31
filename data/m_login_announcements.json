@@ -500,6 +500,26 @@
     "has_r18": 0
   },
   {
+    "id": 59,
+    "title": "【開催中】幸福を呼ぶレストラン　前半",
+    "display_priority": 300,
+    "display_order": 300,
+    "asset_id": "1020004_1",
+    "begin_at": "2026-08-31 13:00:00",
+    "end_at": "2026-09-05 9:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 60,
+    "title": "【開催中】幸福を呼ぶレストラン　後半",
+    "display_priority": 303,
+    "display_order": 303,
+    "asset_id": "1020004_3",
+    "begin_at": "2026-09-05 10:00:00",
+    "end_at": "2026-09-09 11:59:59",
+    "has_r18": 0
+  },
+  {
     "id": 61,
     "title": "【開催中】第1回トレジャーボード",
     "display_priority": 291,
@@ -538,5 +558,45 @@
     "begin_at": "2026-08-20 13:00:00",
     "end_at": "2026-08-27 4:59:59",
     "has_r18": 1
+  },
+  {
+    "id": 65,
+    "title": "ナイア＆ユーリWピックアップガチャ",
+    "display_priority": 299,
+    "display_order": 299,
+    "asset_id": "7020005",
+    "begin_at": "2026-08-31 13:00:00",
+    "end_at": "2026-09-10 11:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 66,
+    "title": "アーカイブピックアップSSR確定ガチャ～26/07期～",
+    "display_priority": 301,
+    "display_order": 301,
+    "asset_id": "7030008",
+    "begin_at": "2026-09-05 10:00:00",
+    "end_at": "2026-09-21 11:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 67,
+    "title": "第3回依頼イベント",
+    "display_priority": 302,
+    "display_order": 302,
+    "asset_id": "1090004_1",
+    "begin_at": "2026-09-04 10:00:00",
+    "end_at": "2026-09-09 4:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 72,
+    "title": "【開催中】iOS版　GAMES PLAYERログボ",
+    "display_priority": 301,
+    "display_order": 301,
+    "asset_id": "1500006",
+    "begin_at": "2026-08-31 13:00:00",
+    "end_at": "2026-09-21 4:59:59",
+    "has_r18": 0
   }
 ]

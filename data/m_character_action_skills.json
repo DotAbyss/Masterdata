@@ -950,5 +950,33 @@
     "trigger_type": 30,
     "name": "魔眼の解放",
     "description": "紋章：衝撃を5消費し、対象に攻撃力DOWN【{[IMPACT.ATTACKDOWN.RATE_PERCENT]} / 15秒】と防御力DOWN【{[IMPACT.DEFENCEDOWN.RATE_PERCENT]} / 15秒】を付与"
+  },
+  {
+    "id": 1300053000,
+    "m_character_id": 1300053,
+    "trigger_type": 20,
+    "name": "ウルトラ無敵元気スープ",
+    "description": "光・闇・無属性の味方全体に被ダメージDOWN【{[TAKENDAMAGEDOWN.FIXED_PERCENT]} / 30秒】と会心ダメージ倍率UP【{[CRITICALDAMAGERATEUP.FIXED_PERCENT]} / 30秒】を付与"
+  },
+  {
+    "id": 1300053001,
+    "m_character_id": 1300053,
+    "trigger_type": 30,
+    "name": "ウルトラ無敵元気スープ",
+    "description": "さらに自身に最大HP【{[RECOVER.HEAL_PERCENT]}】分の回復 / 紋章：衝撃を5消費し、味方フロント全体に会心率UP【{[IMPACT.CRITICALUP.FIXED_PERCENT]} / 15秒】を付与"
+  },
+  {
+    "id": 1300054000,
+    "m_character_id": 1300054,
+    "trigger_type": 20,
+    "name": "銀嶺嵐",
+    "description": "敵全体に凍結【10秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与 / 水属性の味方全体に凍結状態の敵に対して与ダメージUP【{[ABNORMALFREEZETARGETDAMAGEUP.RATE_PERCENT]} / 15秒】を付与"
+  },
+  {
+    "id": 1300054001,
+    "m_character_id": 1300054,
+    "trigger_type": 30,
+    "name": "銀嶺嵐",
+    "description": "自身に氷精蝶が付与されているとき、氷精蝶を解除し、凍結状態の敵に対して与ダメージUPの効果倍率が【{[ABNORMALFREEZETARGETDAMAGEUP.RATE_PERCENT]}】に変化 / さらに水属性の味方全体に紋章：情熱を【1】付与 "
   }
 ]

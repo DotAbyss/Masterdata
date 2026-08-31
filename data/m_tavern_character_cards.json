@@ -757,5 +757,27 @@
     "m_tavern_card_effect_id_1": 500002,
     "m_tavern_card_effect_id_2": 400000,
     "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 13000530,
+    "m_character_id": 1300053,
+    "m_character_skin_id": 130005302,
+    "name": "ナイアの提案",
+    "effect_type": 2,
+    "description": "ランダムな「エルドラーナ」の\nスタッフ最大2体に「ドリンク」を付与。\nそれらのスタッフの満足度+40%",
+    "m_tavern_card_effect_id_1": 102007,
+    "m_tavern_card_effect_id_2": 401010,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 13000540,
+    "m_character_id": 1300054,
+    "m_character_skin_id": 130005402,
+    "name": "ユーリの提案",
+    "effect_type": 2,
+    "description": "ランダムな「ミレスガルド」の\nスタッフ最大3体に「料理」を付与。\nそれらのスタッフの満足度+20%",
+    "m_tavern_card_effect_id_1": 102003,
+    "m_tavern_card_effect_id_2": 401004,
+    "m_tavern_card_effect_id_3": 0
   }
 ]

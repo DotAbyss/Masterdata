@@ -950,5 +950,33 @@
     "level": 6,
     "condition_type": 2,
     "condition_value": 15
+  },
+  {
+    "id": 137,
+    "m_character_ability_id": 130005303,
+    "level": 1,
+    "condition_type": 2,
+    "condition_value": 5
+  },
+  {
+    "id": 138,
+    "m_character_ability_id": 130005303,
+    "level": 6,
+    "condition_type": 2,
+    "condition_value": 15
+  },
+  {
+    "id": 139,
+    "m_character_ability_id": 130005403,
+    "level": 1,
+    "condition_type": 2,
+    "condition_value": 5
+  },
+  {
+    "id": 140,
+    "m_character_ability_id": 130005403,
+    "level": 6,
+    "condition_type": 2,
+    "condition_value": 15
   }
 ]

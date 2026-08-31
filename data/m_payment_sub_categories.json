@@ -124,5 +124,19 @@
     "sub_category_id": 15,
     "category_text": "特別強化トレーニング",
     "display_order_desc": 13
+  },
+  {
+    "id": 19,
+    "category": 2,
+    "sub_category_id": 16,
+    "category_text": "ストーリーイベント(前半)",
+    "display_order_desc": 14
+  },
+  {
+    "id": 20,
+    "category": 2,
+    "sub_category_id": 17,
+    "category_text": "ストーリーイベント(後半)",
+    "display_order_desc": 15
   }
 ]

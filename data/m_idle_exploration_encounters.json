@@ -2113,5 +2113,275 @@
     "weight": 1000,
     "m_encounter_quest_id": 10000090,
     "time_limit": 21600
+  },
+  {
+    "id": 700091,
+    "group_id": 709,
+    "border_enemy_level_low": 1,
+    "border_enemy_level_high": 5,
+    "weight": 1000,
+    "m_encounter_quest_id": 10000091,
+    "time_limit": 21600
+  },
+  {
+    "id": 700092,
+    "group_id": 709,
+    "border_enemy_level_low": 6,
+    "border_enemy_level_high": 10,
+    "weight": 1000,
+    "m_encounter_quest_id": 10000092,
+    "time_limit": 21600
+  },
+  {
+    "id": 700093,
+    "group_id": 709,
+    "border_enemy_level_low": 11,
+    "border_enemy_level_high": 20,
+    "weight": 1000,
+    "m_encounter_quest_id": 10000093,
+    "time_limit": 21600
+  },
+  {
+    "id": 700094,
+    "group_id": 709,
+    "border_enemy_level_low": 21,
+    "border_enemy_level_high": 25,
+    "weight": 1000,
+    "m_encounter_quest_id": 10000094,
+    "time_limit": 21600
+  },
+  {
+    "id": 700095,
+    "group_id": 709,
+    "border_enemy_level_low": 26,
+    "border_enemy_level_high": 30,
+    "weight": 1000,
+    "m_encounter_quest_id": 10000095,
+    "time_limit": 21600
+  },
+  {
+    "id": 700096,
+    "group_id": 709,
+    "border_enemy_level_low": 31,
+    "border_enemy_level_high": 33,
+    "weight": 1000,
+    "m_encounter_quest_id": 10000096,
+    "time_limit": 21600
+  },
+  {
+    "id": 700097,
+    "group_id": 709,
+    "border_enemy_level_low": 34,
+    "border_enemy_level_high": 40,
+    "weight": 1000,
+    "m_encounter_quest_id": 10000097,
+    "time_limit": 21600
+  },
+  {
+    "id": 700098,
+    "group_id": 709,
+    "border_enemy_level_low": 41,
+    "border_enemy_level_high": 50,
+    "weight": 1000,
+    "m_encounter_quest_id": 10000098,
+    "time_limit": 21600
+  },
+  {
+    "id": 700099,
+    "group_id": 709,
+    "border_enemy_level_low": 51,
+    "border_enemy_level_high": 60,
+    "weight": 1000,
+    "m_encounter_quest_id": 10000099,
+    "time_limit": 21600
+  },
+  {
+    "id": 700100,
+    "group_id": 709,
+    "border_enemy_level_low": 61,
+    "border_enemy_level_high": 65,
+    "weight": 1000,
+    "m_encounter_quest_id": 10000100,
+    "time_limit": 21600
+  },
+  {
+    "id": 700101,
+    "group_id": 710,
+    "border_enemy_level_low": 1,
+    "border_enemy_level_high": 5,
+    "weight": 1000,
+    "m_encounter_quest_id": 10000101,
+    "time_limit": 21600
+  },
+  {
+    "id": 700102,
+    "group_id": 710,
+    "border_enemy_level_low": 6,
+    "border_enemy_level_high": 10,
+    "weight": 1000,
+    "m_encounter_quest_id": 10000102,
+    "time_limit": 21600
+  },
+  {
+    "id": 700103,
+    "group_id": 710,
+    "border_enemy_level_low": 11,
+    "border_enemy_level_high": 20,
+    "weight": 1000,
+    "m_encounter_quest_id": 10000103,
+    "time_limit": 21600
+  },
+  {
+    "id": 700104,
+    "group_id": 710,
+    "border_enemy_level_low": 21,
+    "border_enemy_level_high": 25,
+    "weight": 1000,
+    "m_encounter_quest_id": 10000104,
+    "time_limit": 21600
+  },
+  {
+    "id": 700105,
+    "group_id": 710,
+    "border_enemy_level_low": 26,
+    "border_enemy_level_high": 30,
+    "weight": 1000,
+    "m_encounter_quest_id": 10000105,
+    "time_limit": 21600
+  },
+  {
+    "id": 700106,
+    "group_id": 710,
+    "border_enemy_level_low": 31,
+    "border_enemy_level_high": 33,
+    "weight": 1000,
+    "m_encounter_quest_id": 10000106,
+    "time_limit": 21600
+  },
+  {
+    "id": 700107,
+    "group_id": 710,
+    "border_enemy_level_low": 34,
+    "border_enemy_level_high": 40,
+    "weight": 1000,
+    "m_encounter_quest_id": 10000107,
+    "time_limit": 21600
+  },
+  {
+    "id": 700108,
+    "group_id": 710,
+    "border_enemy_level_low": 41,
+    "border_enemy_level_high": 50,
+    "weight": 1000,
+    "m_encounter_quest_id": 10000108,
+    "time_limit": 21600
+  },
+  {
+    "id": 700109,
+    "group_id": 710,
+    "border_enemy_level_low": 51,
+    "border_enemy_level_high": 60,
+    "weight": 1000,
+    "m_encounter_quest_id": 10000109,
+    "time_limit": 21600
+  },
+  {
+    "id": 700110,
+    "group_id": 710,
+    "border_enemy_level_low": 61,
+    "border_enemy_level_high": 65,
+    "weight": 1000,
+    "m_encounter_quest_id": 10000110,
+    "time_limit": 21600
+  },
+  {
+    "id": 700111,
+    "group_id": 711,
+    "border_enemy_level_low": 1,
+    "border_enemy_level_high": 5,
+    "weight": 1000,
+    "m_encounter_quest_id": 10000111,
+    "time_limit": 21600
+  },
+  {
+    "id": 700112,
+    "group_id": 711,
+    "border_enemy_level_low": 6,
+    "border_enemy_level_high": 10,
+    "weight": 1000,
+    "m_encounter_quest_id": 10000112,
+    "time_limit": 21600
+  },
+  {
+    "id": 700113,
+    "group_id": 711,
+    "border_enemy_level_low": 11,
+    "border_enemy_level_high": 20,
+    "weight": 1000,
+    "m_encounter_quest_id": 10000113,
+    "time_limit": 21600
+  },
+  {
+    "id": 700114,
+    "group_id": 711,
+    "border_enemy_level_low": 21,
+    "border_enemy_level_high": 25,
+    "weight": 1000,
+    "m_encounter_quest_id": 10000114,
+    "time_limit": 21600
+  },
+  {
+    "id": 700115,
+    "group_id": 711,
+    "border_enemy_level_low": 26,
+    "border_enemy_level_high": 30,
+    "weight": 1000,
+    "m_encounter_quest_id": 10000115,
+    "time_limit": 21600
+  },
+  {
+    "id": 700116,
+    "group_id": 711,
+    "border_enemy_level_low": 31,
+    "border_enemy_level_high": 33,
+    "weight": 1000,
+    "m_encounter_quest_id": 10000116,
+    "time_limit": 21600
+  },
+  {
+    "id": 700117,
+    "group_id": 711,
+    "border_enemy_level_low": 34,
+    "border_enemy_level_high": 40,
+    "weight": 1000,
+    "m_encounter_quest_id": 10000117,
+    "time_limit": 21600
+  },
+  {
+    "id": 700118,
+    "group_id": 711,
+    "border_enemy_level_low": 41,
+    "border_enemy_level_high": 50,
+    "weight": 1000,
+    "m_encounter_quest_id": 10000118,
+    "time_limit": 21600
+  },
+  {
+    "id": 700119,
+    "group_id": 711,
+    "border_enemy_level_low": 51,
+    "border_enemy_level_high": 60,
+    "weight": 1000,
+    "m_encounter_quest_id": 10000119,
+    "time_limit": 21600
+  },
+  {
+    "id": 700120,
+    "group_id": 711,
+    "border_enemy_level_low": 61,
+    "border_enemy_level_high": 65,
+    "weight": 1000,
+    "m_encounter_quest_id": 10000120,
+    "time_limit": 21600
   }
 ]

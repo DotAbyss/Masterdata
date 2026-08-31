@@ -112,6 +112,20 @@
     "limit_point": 5
   },
   {
+    "id": 17,
+    "m_login_bonus_id": 17,
+    "sheet_no": 1,
+    "next_sheet_no": 0,
+    "limit_point": 7
+  },
+  {
+    "id": 18,
+    "m_login_bonus_id": 18,
+    "sheet_no": 1,
+    "next_sheet_no": 0,
+    "limit_point": 10
+  },
+  {
     "id": 10001,
     "m_login_bonus_id": 10001,
     "sheet_no": 1,
@@ -201,5 +215,33 @@
     "sheet_no": 1,
     "next_sheet_no": 0,
     "limit_point": 3
+  },
+  {
+    "id": 10014,
+    "m_login_bonus_id": 10014,
+    "sheet_no": 1,
+    "next_sheet_no": 0,
+    "limit_point": 5
+  },
+  {
+    "id": 10015,
+    "m_login_bonus_id": 10015,
+    "sheet_no": 1,
+    "next_sheet_no": 0,
+    "limit_point": 5
+  },
+  {
+    "id": 10016,
+    "m_login_bonus_id": 10016,
+    "sheet_no": 1,
+    "next_sheet_no": 0,
+    "limit_point": 3
+  },
+  {
+    "id": 10017,
+    "m_login_bonus_id": 10017,
+    "sheet_no": 1,
+    "next_sheet_no": 0,
+    "limit_point": 5
   }
 ]

@@ -1374,5 +1374,53 @@
     "name": "終焉の断罪",
     "ability_no": 10181,
     "order": 3
+  },
+  {
+    "id": 130005301,
+    "m_character_id": 1300053,
+    "asset_id": "Ability_SpecialAttack_01",
+    "name": "本日のおすすめメニュー",
+    "ability_no": 10185,
+    "order": 1
+  },
+  {
+    "id": 130005302,
+    "m_character_id": 1300053,
+    "asset_id": "Ability_Defense_01",
+    "name": "清白のエプロン",
+    "ability_no": 10186,
+    "order": 2
+  },
+  {
+    "id": 130005303,
+    "m_character_id": 1300053,
+    "asset_id": "Ability_Critical_01",
+    "name": "幸運のスパイス",
+    "ability_no": 10187,
+    "order": 3
+  },
+  {
+    "id": 130005401,
+    "m_character_id": 1300054,
+    "asset_id": "Ability_SpecialAssist_01",
+    "name": "氷精蝶の祝福",
+    "ability_no": 10188,
+    "order": 1
+  },
+  {
+    "id": 130005402,
+    "m_character_id": 1300054,
+    "asset_id": "Ability_Attack_01",
+    "name": "銀嶺の舞",
+    "ability_no": 10189,
+    "order": 2
+  },
+  {
+    "id": 130005403,
+    "m_character_id": 1300054,
+    "asset_id": "Ability_Attack_01",
+    "name": "氷の共鳴",
+    "ability_no": 10190,
+    "order": 3
   }
 ]

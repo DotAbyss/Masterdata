@@ -198,5 +198,25 @@
     "pos_x": -13,
     "pos_z": -28,
     "direction_type": 0
+  },
+  {
+    "id": 23,
+    "m_home_stage_group_id": 16,
+    "m_character_id": 1300053,
+    "m_character_skin_id": 130005301,
+    "serif": "フェレスティアの料理長、ナイアだよ。\n美味しいもの沢山つくってあげるね♪",
+    "pos_x": 45,
+    "pos_z": -50,
+    "direction_type": 0
+  },
+  {
+    "id": 24,
+    "m_home_stage_group_id": 16,
+    "m_character_id": 1300054,
+    "m_character_skin_id": 130005401,
+    "serif": "聖峰ノルトメキアの神官、ユーリです。\n雪道や山道の先導はお任せください。",
+    "pos_x": -45,
+    "pos_z": 35,
+    "direction_type": 1
   }
 ]
