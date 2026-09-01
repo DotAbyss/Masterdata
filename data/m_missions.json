@@ -152,6 +152,25 @@
     "description": ""
   },
   {
+    "id": 2010,
+    "mission_type": 2,
+    "display_order": 8,
+    "m_mission_pass_id": 0,
+    "mission_group_id": 0,
+    "m_mission_term_id": 0,
+    "title": "ショップで商品を1つ購入する（無料でも達成可能）",
+    "require_mission_id": 0,
+    "challenge_type": 1,
+    "situation_type": 50000,
+    "target_id": 0,
+    "sub_target_id": 0,
+    "require_value": 1,
+    "m_mission_reward_group_id": 2008,
+    "notify_type": 2,
+    "is_pickup": 0,
+    "description": ""
+  },
+  {
     "id": 2009,
     "mission_type": 2,
     "display_order": 9,
