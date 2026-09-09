@@ -1056,6 +1056,14 @@
     "description": "氷精蝶の加護を得た状態"
   },
   {
+    "id": 1000002,
+    "name": "満腹度",
+    "nameEN": "SatietyLevel",
+    "limit": 0,
+    "icon_asset_id": "SatietyLevel",
+    "description": "お腹の満たされ具合を表す"
+  },
+  {
     "id": 10000001,
     "name": "情熱",
     "nameEN": "Zeal",

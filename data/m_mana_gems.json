@@ -14,7 +14,8 @@
     "append_effect_description": "",
     "append_effect_description_ingame": "",
     "is_show_total_recovery": 0,
-    "is_show_total_buff": 0
+    "is_show_total_buff": 0,
+    "is_enemy": 0
   },
   {
     "id": 102,
@@ -31,7 +32,8 @@
     "append_effect_description": "",
     "append_effect_description_ingame": "",
     "is_show_total_recovery": 0,
-    "is_show_total_buff": 1
+    "is_show_total_buff": 1,
+    "is_enemy": 0
   },
   {
     "id": 103,
@@ -48,7 +50,8 @@
     "append_effect_description": "【条件】紋章：衝撃が5以上の味方がチェインに参加\n【効果】敵全体に条件を満たした参加者の合計攻撃力で【1HIT / 125％】のダメージ / 味方全体に連撃率UP【50%/15秒】を付与",
     "append_effect_description_ingame": "【条件】紋章：衝撃が5以上の味方がチェインに参加\n【効果】敵全体に条件を満たした参加者の合計攻撃力で【1HIT / 125％】のダメージ / 味方全体に連撃率UP【50%/15秒】を付与",
     "is_show_total_recovery": 0,
-    "is_show_total_buff": 0
+    "is_show_total_buff": 0,
+    "is_enemy": 0
   },
   {
     "id": 201,
@@ -65,7 +68,8 @@
     "append_effect_description": "【条件】紋章：情熱が5以上の味方がチェインに参加\n【効果】味方全体に条件を満たした参加者の人数×10％の与ダメージUP【25秒】を付与",
     "append_effect_description_ingame": "【条件】紋章：情熱が5以上の味方がチェインに参加\n【効果】味方全体に条件を満たした参加者の人数×10％の与ダメージUP【25秒】を付与",
     "is_show_total_recovery": 0,
-    "is_show_total_buff": 1
+    "is_show_total_buff": 1,
+    "is_enemy": 0
   },
   {
     "id": 202,
@@ -82,7 +86,8 @@
     "append_effect_description": "【条件】紋章：衝撃が5以上の味方がチェインに参加\n【効果】条件を満たした参加者の人数に応じて毒のダメージが上昇 / 敵全体に攻撃力DOWN【20％/20秒】を付与",
     "append_effect_description_ingame": "【条件】紋章：衝撃が5以上の味方がチェインに参加\n【効果】条件を満たした参加者の人数に応じて毒のダメージが上昇 / 敵全体に攻撃力DOWN【20％/20秒】を付与",
     "is_show_total_recovery": 0,
-    "is_show_total_buff": 0
+    "is_show_total_buff": 0,
+    "is_enemy": 0
   },
   {
     "id": 203,
@@ -99,7 +104,8 @@
     "append_effect_description": "【条件】紋章：情熱が5以上の味方がチェインに参加\n【効果】防御力DOWNの効果が条件を満たした参加者の人数×7.5％分上昇",
     "append_effect_description_ingame": "【条件】紋章：情熱が5以上の味方がチェインに参加\n【効果】防御力DOWNの効果が条件を満たした参加者の人数×7.5％分上昇",
     "is_show_total_recovery": 0,
-    "is_show_total_buff": 0
+    "is_show_total_buff": 0,
+    "is_enemy": 0
   },
   {
     "id": 204,
@@ -116,7 +122,8 @@
     "append_effect_description": "【条件】紋章：衝撃が5以上の味方がチェインに参加\n【効果】 被ダメージUPの効果が条件を満たした参加者の人数×10％分上昇",
     "append_effect_description_ingame": "【条件】紋章：衝撃が5以上の味方がチェインに参加\n【効果】 被ダメージUPの効果が条件を満たした参加者の人数×10％分上昇",
     "is_show_total_recovery": 0,
-    "is_show_total_buff": 0
+    "is_show_total_buff": 0,
+    "is_enemy": 0
   },
   {
     "id": 301,
@@ -133,7 +140,8 @@
     "append_effect_description": "",
     "append_effect_description_ingame": "",
     "is_show_total_recovery": 1,
-    "is_show_total_buff": 0
+    "is_show_total_buff": 0,
+    "is_enemy": 0
   },
   {
     "id": 302,
@@ -150,7 +158,8 @@
     "append_effect_description": "【条件】紋章：衝撃が5以上の味方がチェインに参加\n【効果】味方全体からランダムに条件を満たした参加者の人数分、状態異常を解除",
     "append_effect_description_ingame": "【条件】紋章：衝撃が5以上の味方がチェインに参加\n【効果】味方全体からランダムに条件を満たした参加者の人数分、状態異常を解除",
     "is_show_total_recovery": 1,
-    "is_show_total_buff": 0
+    "is_show_total_buff": 0,
+    "is_enemy": 0
   },
   {
     "id": 303,
@@ -167,7 +176,8 @@
     "append_effect_description": "【条件】紋章：情熱が5以上の味方がチェインに参加\n【効果】味方に条件を満たした参加者の合計攻撃力で【1HIT / 150％】の回復",
     "append_effect_description_ingame": "【条件】紋章：情熱が5以上の味方がチェインに参加\n【効果】味方に条件を満たした参加者の合計攻撃力で【1HIT / 150％】の回復",
     "is_show_total_recovery": 1,
-    "is_show_total_buff": 0
+    "is_show_total_buff": 0,
+    "is_enemy": 0
   },
   {
     "id": 304,
@@ -184,6 +194,43 @@
     "append_effect_description": "【条件】紋章：情熱が5以上の味方がチェインに参加\n【効果】味方全体に条件を満たした参加者の人数×5％の会心ダメージ倍率UP【25秒】を付与",
     "append_effect_description_ingame": "【条件】紋章：情熱が5以上の味方がチェインに参加\n【効果】味方全体に条件を満たした参加者の人数×5％の会心ダメージ倍率UP【25秒】を付与",
     "is_show_total_recovery": 0,
-    "is_show_total_buff": 1
+    "is_show_total_buff": 1,
+    "is_enemy": 0
+  },
+  {
+    "id": 9202,
+    "asset_id": "907",
+    "name": "衝撃のマナクリスタル【猛毒】",
+    "type": 2,
+    "cost": 5,
+    "flavor_text": "英雄の血脈に応じ、複数のマナの波動を一点に集束させる高純度魔力結晶。\n仲間の猛き衝撃を共鳴の火種とし、生を拒絶する禍々しき毒の波動を放つ。\n\nその侵食する一撃は、敵の生命力を内側から蝕み、いかなる猛者さえも音もなく朽ち果てさせる。\n抗えぬ衰弱を強いるその猛毒は、執拗な抵抗を、逃げ場なき静寂の死域へと塗り替えるだろう。",
+    "default_m_mana_gem_auto_condition_id": 5,
+    "mana_type": 3,
+    "chain_count": 5,
+    "append_effect_condition_stack": 5,
+    "effect_description": "敵全体に攻撃力【(Rank×1000)】で【1HIT / 100％】のダメージ / 毒【30秒】を付与",
+    "append_effect_description": "【条件】紋章：衝撃が5以上の味方がチェインに参加\n【効果】条件を満たした参加者の人数に応じて毒のダメージが上昇 / 敵全体に攻撃力DOWN【20％/20秒】を付与",
+    "append_effect_description_ingame": "【条件】紋章：衝撃が5以上の味方がチェインに参加\n【効果】条件を満たした参加者の人数に応じて毒のダメージが上昇 / 敵全体に攻撃力DOWN【20％/20秒】を付与",
+    "is_show_total_recovery": 0,
+    "is_show_total_buff": 0,
+    "is_enemy": 1
+  },
+  {
+    "id": 9203,
+    "asset_id": "908",
+    "name": "情熱のマナクリスタル【崩壊】",
+    "type": 2,
+    "cost": 4,
+    "flavor_text": "英雄の血脈に応じ、複数のマナの波動を一点に集束させる高純度魔力結晶。\n仲間の昂る情熱を共鳴の火種とし、万物を砕く崩壊の波動を放つ。\n\nその構造を瓦解させる一撃は、敵の装甲や結界を根底から砕き、あらゆる守護を無意味な残骸へと帰す。\n抗う術を奪い去るその崩落は、盤石の敵陣を、なす術もなく蹂躙される無秩序な混沌へと塗り替えるだろう。",
+    "default_m_mana_gem_auto_condition_id": 6,
+    "mana_type": 2,
+    "chain_count": 4,
+    "append_effect_condition_stack": 5,
+    "effect_description": "敵全体に攻撃力【(Rank×1000)】で【6HIT / 100％】のダメージ / 防御力DOWN【20％ / 20秒】を付与",
+    "append_effect_description": "【条件】紋章：情熱が5以上の味方がチェインに参加\n【効果】防御力DOWNの効果が条件を満たした参加者の人数×7.5％分上昇",
+    "append_effect_description_ingame": "【条件】紋章：情熱が5以上の味方がチェインに参加\n【効果】防御力DOWNの効果が条件を満たした参加者の人数×7.5％分上昇",
+    "is_show_total_recovery": 0,
+    "is_show_total_buff": 0,
+    "is_enemy": 1
   }
 ]

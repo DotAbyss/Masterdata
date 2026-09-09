@@ -1256,6 +1256,30 @@
     "order": 3
   },
   {
+    "id": 130004001,
+    "m_character_id": 1300040,
+    "asset_id": "Ability_SpecialAttack_01",
+    "name": "不死鳥の加護",
+    "ability_no": 10194,
+    "order": 1
+  },
+  {
+    "id": 130004002,
+    "m_character_id": 1300040,
+    "asset_id": "Ability_Critical_01",
+    "name": "宿命の炎",
+    "ability_no": 10195,
+    "order": 2
+  },
+  {
+    "id": 130004003,
+    "m_character_id": 1300040,
+    "asset_id": "Ability_Heal_01",
+    "name": "不滅なる者",
+    "ability_no": 10196,
+    "order": 3
+  },
+  {
     "id": 130004101,
     "m_character_id": 1300041,
     "asset_id": "Ability_SpecialAssist_01",
@@ -1421,6 +1445,30 @@
     "asset_id": "Ability_Attack_01",
     "name": "氷の共鳴",
     "ability_no": 10190,
+    "order": 3
+  },
+  {
+    "id": 130005501,
+    "m_character_id": 1300055,
+    "asset_id": "Ability_SpecialAttack_01",
+    "name": "うっかりバースト",
+    "ability_no": 10191,
+    "order": 1
+  },
+  {
+    "id": 130005502,
+    "m_character_id": 1300055,
+    "asset_id": "Ability_Critical_01",
+    "name": "まんぷくボルテージ",
+    "ability_no": 10192,
+    "order": 2
+  },
+  {
+    "id": 130005503,
+    "m_character_id": 1300055,
+    "asset_id": "Ability_Critical_01",
+    "name": "お世話され上手",
+    "ability_no": 10193,
     "order": 3
   }
 ]

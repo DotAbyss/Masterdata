@@ -218,5 +218,25 @@
     "pos_x": -45,
     "pos_z": 35,
     "direction_type": 1
+  },
+  {
+    "id": 25,
+    "m_home_stage_group_id": 17,
+    "m_character_id": 1300055,
+    "m_character_skin_id": 130005501,
+    "serif": "りゅーじんぞくのフェル。おまえ……\nだれ？　あやしい。フシンシャだ",
+    "pos_x": -13,
+    "pos_z": -28,
+    "direction_type": 0
+  },
+  {
+    "id": 26,
+    "m_home_stage_group_id": 18,
+    "m_character_id": 1300040,
+    "m_character_skin_id": 130004001,
+    "serif": "わたしとクーが、みんなを守るからね！\n絶対にあきらめないもんっ！",
+    "pos_x": -13,
+    "pos_z": -28,
+    "direction_type": 0
   }
 ]

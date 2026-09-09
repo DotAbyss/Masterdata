@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "bt_id": 1,
+    "bt_asset": "battle_mirror_attack_1",
+    "trigger_id": 1,
+    "type": 1,
+    "mana_gem_id": 9202,
+    "mana_gem_rank": 20
+  },
+  {
+    "id": 2,
+    "bt_id": 2,
+    "bt_asset": "battle_mirror_attack_1",
+    "trigger_id": 1,
+    "type": 1,
+    "mana_gem_id": 9202,
+    "mana_gem_rank": 47
+  },
+  {
+    "id": 3,
+    "bt_id": 3,
+    "bt_asset": "battle_mirror_attack_1",
+    "trigger_id": 1,
+    "type": 1,
+    "mana_gem_id": 9202,
+    "mana_gem_rank": 106
+  },
+  {
+    "id": 4,
+    "bt_id": 4,
+    "bt_asset": "battle_mirror_attack_1",
+    "trigger_id": 1,
+    "type": 1,
+    "mana_gem_id": 9202,
+    "mana_gem_rank": 30
+  },
+  {
+    "id": 5,
+    "bt_id": 4,
+    "bt_asset": "battle_mirror_attack_heal_1",
+    "trigger_id": 2,
+    "type": 1,
+    "mana_gem_id": 9203,
+    "mana_gem_rank": 30
+  },
+  {
+    "id": 6,
+    "bt_id": 5,
+    "bt_asset": "battle_mirror_attack_1",
+    "trigger_id": 1,
+    "type": 1,
+    "mana_gem_id": 9202,
+    "mana_gem_rank": 76
+  },
+  {
+    "id": 7,
+    "bt_id": 5,
+    "bt_asset": "battle_mirror_attack_heal_1",
+    "trigger_id": 2,
+    "type": 1,
+    "mana_gem_id": 9203,
+    "mana_gem_rank": 76
+  },
+  {
+    "id": 8,
+    "bt_id": 6,
+    "bt_asset": "battle_mirror_attack_1",
+    "trigger_id": 1,
+    "type": 1,
+    "mana_gem_id": 9202,
+    "mana_gem_rank": 111
+  },
+  {
+    "id": 9,
+    "bt_id": 6,
+    "bt_asset": "battle_mirror_attack_heal_1",
+    "trigger_id": 2,
+    "type": 1,
+    "mana_gem_id": 9203,
+    "mana_gem_rank": 111
+  }
+]

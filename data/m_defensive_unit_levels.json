@@ -370,16 +370,6 @@
     "icon_id": "AirTurret_01"
   },
   {
-    "id": 4001006,
-    "m_defensive_unit_id": 4001,
-    "level": 6,
-    "power": 900,
-    "display_effect_range_start_offset": 0,
-    "display_effect_range": 3,
-    "asset_id": "AirTurret_01",
-    "icon_id": "AirTurret_01"
-  },
-  {
     "id": 4002001,
     "m_defensive_unit_id": 4002,
     "level": 1,
@@ -514,16 +504,6 @@
     "m_defensive_unit_id": 4004,
     "level": 5,
     "power": 1200,
-    "display_effect_range_start_offset": 0,
-    "display_effect_range": 4,
-    "asset_id": "MagitekCannon_01",
-    "icon_id": "MagicCannon_01"
-  },
-  {
-    "id": 4004006,
-    "m_defensive_unit_id": 4004,
-    "level": 6,
-    "power": 1350,
     "display_effect_range_start_offset": 0,
     "display_effect_range": 4,
     "asset_id": "MagitekCannon_01",

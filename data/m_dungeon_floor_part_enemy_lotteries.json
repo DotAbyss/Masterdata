@@ -16336,6 +16336,206 @@
     "m_dungeon_floor_part_enemy_group_id": 21000600209
   },
   {
+    "id": 21000620001,
+    "lottery_id": 210006200,
+    "weight": 5,
+    "appearance_type": 0,
+    "guarantee_type": 1,
+    "m_dungeon_floor_part_enemy_group_id": 21000620201
+  },
+  {
+    "id": 21000620002,
+    "lottery_id": 210006200,
+    "weight": 10,
+    "appearance_type": 0,
+    "guarantee_type": 0,
+    "m_dungeon_floor_part_enemy_group_id": 21000620202
+  },
+  {
+    "id": 21000620003,
+    "lottery_id": 210006200,
+    "weight": 10,
+    "appearance_type": 0,
+    "guarantee_type": 0,
+    "m_dungeon_floor_part_enemy_group_id": 21000620203
+  },
+  {
+    "id": 21000640001,
+    "lottery_id": 210006400,
+    "weight": 1000,
+    "appearance_type": 1,
+    "guarantee_type": 3,
+    "m_dungeon_floor_part_enemy_group_id": 21000640201
+  },
+  {
+    "id": 21000640002,
+    "lottery_id": 210006400,
+    "weight": 1500,
+    "appearance_type": 0,
+    "guarantee_type": 1,
+    "m_dungeon_floor_part_enemy_group_id": 21000640202
+  },
+  {
+    "id": 21000640003,
+    "lottery_id": 210006400,
+    "weight": 1000,
+    "appearance_type": 0,
+    "guarantee_type": 0,
+    "m_dungeon_floor_part_enemy_group_id": 21000640203
+  },
+  {
+    "id": 21000640004,
+    "lottery_id": 210006400,
+    "weight": 1000,
+    "appearance_type": 0,
+    "guarantee_type": 0,
+    "m_dungeon_floor_part_enemy_group_id": 21000640204
+  },
+  {
+    "id": 21000640005,
+    "lottery_id": 210006400,
+    "weight": 1000,
+    "appearance_type": 1,
+    "guarantee_type": 2,
+    "m_dungeon_floor_part_enemy_group_id": 21000640205
+  },
+  {
+    "id": 21000640006,
+    "lottery_id": 210006400,
+    "weight": 1000,
+    "appearance_type": 1,
+    "guarantee_type": 2,
+    "m_dungeon_floor_part_enemy_group_id": 21000640206
+  },
+  {
+    "id": 21000670001,
+    "lottery_id": 210006700,
+    "weight": 500,
+    "appearance_type": 0,
+    "guarantee_type": 1,
+    "m_dungeon_floor_part_enemy_group_id": 21000670201
+  },
+  {
+    "id": 21000670002,
+    "lottery_id": 210006700,
+    "weight": 1000,
+    "appearance_type": 0,
+    "guarantee_type": 0,
+    "m_dungeon_floor_part_enemy_group_id": 21000670202
+  },
+  {
+    "id": 21000670003,
+    "lottery_id": 210006700,
+    "weight": 1000,
+    "appearance_type": 0,
+    "guarantee_type": 0,
+    "m_dungeon_floor_part_enemy_group_id": 21000670203
+  },
+  {
+    "id": 21000670004,
+    "lottery_id": 210006700,
+    "weight": 1000,
+    "appearance_type": 0,
+    "guarantee_type": 0,
+    "m_dungeon_floor_part_enemy_group_id": 21000670204
+  },
+  {
+    "id": 21000670005,
+    "lottery_id": 210006700,
+    "weight": 1000,
+    "appearance_type": 0,
+    "guarantee_type": 0,
+    "m_dungeon_floor_part_enemy_group_id": 21000670205
+  },
+  {
+    "id": 21000670006,
+    "lottery_id": 210006700,
+    "weight": 500,
+    "appearance_type": 0,
+    "guarantee_type": 0,
+    "m_dungeon_floor_part_enemy_group_id": 21000670206
+  },
+  {
+    "id": 21000670007,
+    "lottery_id": 210006700,
+    "weight": 500,
+    "appearance_type": 0,
+    "guarantee_type": 0,
+    "m_dungeon_floor_part_enemy_group_id": 21000670207
+  },
+  {
+    "id": 21000700001,
+    "lottery_id": 210007000,
+    "weight": 1000,
+    "appearance_type": 0,
+    "guarantee_type": 0,
+    "m_dungeon_floor_part_enemy_group_id": 21000700201
+  },
+  {
+    "id": 21000700002,
+    "lottery_id": 210007000,
+    "weight": 500,
+    "appearance_type": 0,
+    "guarantee_type": 1,
+    "m_dungeon_floor_part_enemy_group_id": 21000700202
+  },
+  {
+    "id": 21000700003,
+    "lottery_id": 210007000,
+    "weight": 1000,
+    "appearance_type": 0,
+    "guarantee_type": 0,
+    "m_dungeon_floor_part_enemy_group_id": 21000700203
+  },
+  {
+    "id": 21000700004,
+    "lottery_id": 210007000,
+    "weight": 1000,
+    "appearance_type": 0,
+    "guarantee_type": 0,
+    "m_dungeon_floor_part_enemy_group_id": 21000700204
+  },
+  {
+    "id": 21000700005,
+    "lottery_id": 210007000,
+    "weight": 500,
+    "appearance_type": 0,
+    "guarantee_type": 0,
+    "m_dungeon_floor_part_enemy_group_id": 21000700205
+  },
+  {
+    "id": 21000700006,
+    "lottery_id": 210007000,
+    "weight": 500,
+    "appearance_type": 0,
+    "guarantee_type": 0,
+    "m_dungeon_floor_part_enemy_group_id": 21000700206
+  },
+  {
+    "id": 21000700007,
+    "lottery_id": 210007000,
+    "weight": 500,
+    "appearance_type": 0,
+    "guarantee_type": 0,
+    "m_dungeon_floor_part_enemy_group_id": 21000700207
+  },
+  {
+    "id": 21000700008,
+    "lottery_id": 210007000,
+    "weight": 1000,
+    "appearance_type": 0,
+    "guarantee_type": 0,
+    "m_dungeon_floor_part_enemy_group_id": 21000700208
+  },
+  {
+    "id": 21000700009,
+    "lottery_id": 210007000,
+    "weight": 1000,
+    "appearance_type": 0,
+    "guarantee_type": 0,
+    "m_dungeon_floor_part_enemy_group_id": 21000700209
+  },
+  {
     "id": 43001110001,
     "lottery_id": 430011100,
     "weight": 400,

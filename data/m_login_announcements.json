@@ -590,6 +590,46 @@
     "has_r18": 1
   },
   {
+    "id": 68,
+    "title": "第4回クリスタルハント　",
+    "display_priority": 312,
+    "display_order": 312,
+    "asset_id": "1070006",
+    "begin_at": "2026-09-18 10:00:00",
+    "end_at": "2026-09-23 4:59:59",
+    "has_r18": 0
+  },
+  {
+    "id": 69,
+    "title": "【開催中】鏡影の回廊3回目",
+    "display_priority": 310,
+    "display_order": 310,
+    "asset_id": "1030004_1",
+    "begin_at": "2026-09-09 13:00:00",
+    "end_at": "2026-09-21 11:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 70,
+    "title": "フェルトゥーナ ピックアップガチャ",
+    "display_priority": 309,
+    "display_order": 309,
+    "asset_id": "7010018",
+    "begin_at": "2026-09-09 13:00:00",
+    "end_at": "2026-09-21 11:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 71,
+    "title": "リコリット ピックアップガチャ",
+    "display_priority": 311,
+    "display_order": 311,
+    "asset_id": "7010019",
+    "begin_at": "2026-09-14 10:00:00",
+    "end_at": "2026-09-21 11:59:59",
+    "has_r18": 1
+  },
+  {
     "id": 72,
     "title": "【開催中】iOS版　GAMES PLAYERログボ",
     "display_priority": 302,
@@ -607,6 +647,36 @@
     "asset_id": "1600004",
     "begin_at": "2026-08-31 10:00:00",
     "end_at": "2026-09-09 4:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 74,
+    "title": "【ショップ】コスチュームパック",
+    "display_priority": 308,
+    "display_order": 308,
+    "asset_id": "5010421",
+    "begin_at": "2026-09-09 13:00:00",
+    "end_at": "2026-09-21 11:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 75,
+    "title": "フレデリカピックアップガチャ",
+    "display_priority": 306,
+    "display_order": 306,
+    "asset_id": "7010023",
+    "begin_at": "2026-09-09 13:00:00",
+    "end_at": "2026-09-30 4:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 76,
+    "title": "エミリーピックアップガチャ",
+    "display_priority": 307,
+    "display_order": 307,
+    "asset_id": "7010024",
+    "begin_at": "2026-09-14 10:00:00",
+    "end_at": "2026-09-30 4:59:59",
     "has_r18": 1
   }
 ]

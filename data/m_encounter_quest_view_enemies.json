@@ -5225,7 +5225,7 @@
     "id": 9000,
     "m_encounter_quest_id": 1040106,
     "m_enemy_id": 160051201,
-    "is_boss": 1,
+    "is_boss": 0,
     "asset_id": "2005501"
   },
   {
@@ -5302,7 +5302,7 @@
     "id": 9011,
     "m_encounter_quest_id": 1040106,
     "m_enemy_id": 160051212,
-    "is_boss": 0,
+    "is_boss": 1,
     "asset_id": "2045001"
   },
   {
@@ -5372,7 +5372,7 @@
     "id": 9300,
     "m_encounter_quest_id": 1040109,
     "m_enemy_id": 160061201,
-    "is_boss": 1,
+    "is_boss": 0,
     "asset_id": "2005501"
   },
   {
@@ -5449,7 +5449,7 @@
     "id": 9311,
     "m_encounter_quest_id": 1040109,
     "m_enemy_id": 160061212,
-    "is_boss": 0,
+    "is_boss": 1,
     "asset_id": "2045001"
   },
   {
@@ -5519,7 +5519,7 @@
     "id": 9600,
     "m_encounter_quest_id": 1040203,
     "m_enemy_id": 160071201,
-    "is_boss": 1,
+    "is_boss": 0,
     "asset_id": "2005501"
   },
   {
@@ -5596,7 +5596,7 @@
     "id": 9611,
     "m_encounter_quest_id": 1040203,
     "m_enemy_id": 160071212,
-    "is_boss": 0,
+    "is_boss": 1,
     "asset_id": "2045001"
   },
   {
@@ -5666,7 +5666,7 @@
     "id": 9900,
     "m_encounter_quest_id": 1040206,
     "m_enemy_id": 160101201,
-    "is_boss": 1,
+    "is_boss": 0,
     "asset_id": "2005501"
   },
   {
@@ -5743,7 +5743,7 @@
     "id": 9911,
     "m_encounter_quest_id": 1040206,
     "m_enemy_id": 160101212,
-    "is_boss": 0,
+    "is_boss": 1,
     "asset_id": "2045001"
   },
   {
@@ -5813,7 +5813,7 @@
     "id": 10200,
     "m_encounter_quest_id": 1040303,
     "m_enemy_id": 160131201,
-    "is_boss": 1,
+    "is_boss": 0,
     "asset_id": "2005501"
   },
   {
@@ -5890,7 +5890,7 @@
     "id": 10211,
     "m_encounter_quest_id": 1040303,
     "m_enemy_id": 160131212,
-    "is_boss": 0,
+    "is_boss": 1,
     "asset_id": "2045001"
   },
   {
@@ -5960,7 +5960,7 @@
     "id": 10500,
     "m_encounter_quest_id": 1040306,
     "m_enemy_id": 160161201,
-    "is_boss": 1,
+    "is_boss": 0,
     "asset_id": "2005501"
   },
   {
@@ -6037,7 +6037,7 @@
     "id": 10511,
     "m_encounter_quest_id": 1040306,
     "m_enemy_id": 160161212,
-    "is_boss": 0,
+    "is_boss": 1,
     "asset_id": "2045001"
   },
   {

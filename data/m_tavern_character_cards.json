@@ -779,5 +779,27 @@
     "m_tavern_card_effect_id_1": 102003,
     "m_tavern_card_effect_id_2": 401004,
     "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 13000550,
+    "m_character_id": 1300055,
+    "m_character_skin_id": 130005502,
+    "name": "フェルトゥーナの提案",
+    "effect_type": 1,
+    "description": "評価がGreat以上のスタッフの満足度+50%",
+    "m_tavern_card_effect_id_1": 200002,
+    "m_tavern_card_effect_id_2": 0,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 13000400,
+    "m_character_id": 1300040,
+    "m_character_skin_id": 130004002,
+    "name": "リコリットの提案",
+    "effect_type": 2,
+    "description": "ランダムな「ミレスガルド」の\nスタッフ最大3体に「接客」を付与。\nそれらのスタッフの満足度+20%",
+    "m_tavern_card_effect_id_1": 102002,
+    "m_tavern_card_effect_id_2": 401004,
+    "m_tavern_card_effect_id_3": 0
   }
 ]

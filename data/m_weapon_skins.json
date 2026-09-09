@@ -555,6 +555,21 @@
     "display_order": 2
   },
   {
+    "id": 130004001,
+    "weapon_type": 1070,
+    "rarity": 2,
+    "name": "鳳凰の魔導書",
+    "description": "相棒の力を呼び覚ますリコリットの魔導書。\nフェニックスの炎が天へ舞い、傷つく味方を癒す。\n燃え盛る不死鳥の輝きは、絶望から命を救う救済の光。",
+    "m_character_id": 1300040,
+    "is_default": 0,
+    "is_paid": 1,
+    "bonus_bond_point": 0,
+    "is_collabo": 0,
+    "released_at": "2026-09-14 10:00:00",
+    "asset_id": "41074009",
+    "display_order": 2
+  },
+  {
     "id": 130004901,
     "weapon_type": 1020,
     "rarity": 2,
@@ -642,6 +657,21 @@
     "is_collabo": 0,
     "released_at": "2026-08-31 13:00:00",
     "asset_id": "41084004",
+    "display_order": 2
+  },
+  {
+    "id": 130005501,
+    "weapon_type": 1060,
+    "rarity": 2,
+    "name": "抑威の竜杖",
+    "description": "フェルトゥーナが宿す絶大なる竜人族の力を抑える杖。\n我が子を過酷な森へ突き放す竜人族が別れ際に手渡す\n唯一の贈り物で、そこには確かな愛情が込められている。",
+    "m_character_id": 1300055,
+    "is_default": 0,
+    "is_paid": 1,
+    "bonus_bond_point": 0,
+    "is_collabo": 0,
+    "released_at": "2026-09-09 13:00:00",
+    "asset_id": "41044013",
     "display_order": 2
   },
   {
