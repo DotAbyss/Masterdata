@@ -742,8 +742,8 @@
   {
     "id": 88,
     "title": "訓練所実装告知",
-    "display_priority": 322,
-    "display_order": 322,
+    "display_priority": 318,
+    "display_order": 318,
     "asset_id": "1100019",
     "begin_at": "2026-09-21 13:00:00",
     "end_at": "2026-09-30 11:59:59",
@@ -752,11 +752,21 @@
   {
     "id": 89,
     "title": "サイドストーリー実装告知",
-    "display_priority": 323,
-    "display_order": 323,
+    "display_priority": 318,
+    "display_order": 318,
     "asset_id": "1022001_1",
     "begin_at": "2026-09-21 13:00:00",
     "end_at": "2026-09-30 11:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 90,
+    "title": "２６ゲーム祭りミッション告知",
+    "display_priority": 321,
+    "display_order": 321,
+    "asset_id": "1200003",
+    "begin_at": "2026-09-22 5:00:00",
+    "end_at": "2026-10-12 4:59:59",
     "has_r18": 1
   }
 ]
