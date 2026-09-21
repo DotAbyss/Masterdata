@@ -35,6 +35,11 @@
     "m_idle_exploration_encount_group_id": 701
   },
   {
+    "id": 8,
+    "encount_interval": 3600,
+    "m_idle_exploration_encount_group_id": 801
+  },
+  {
     "id": 70,
     "encount_interval": 1800,
     "m_idle_exploration_encount_group_id": 700

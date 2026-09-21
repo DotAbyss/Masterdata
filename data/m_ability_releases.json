@@ -992,5 +992,40 @@
     "level": 6,
     "condition_type": 2,
     "condition_value": 15
+  },
+  {
+    "id": 143,
+    "m_character_ability_id": 130005603,
+    "level": 1,
+    "condition_type": 2,
+    "condition_value": 5
+  },
+  {
+    "id": 144,
+    "m_character_ability_id": 130005603,
+    "level": 6,
+    "condition_type": 2,
+    "condition_value": 15
+  },
+  {
+    "id": 145,
+    "m_character_ability_id": 130005703,
+    "level": 1,
+    "condition_type": 2,
+    "condition_value": 5
+  },
+  {
+    "id": 146,
+    "m_character_ability_id": 130005703,
+    "level": 6,
+    "condition_type": 2,
+    "condition_value": 15
+  },
+  {
+    "id": 147,
+    "m_character_ability_id": 120001002,
+    "level": 1,
+    "condition_type": 2,
+    "condition_value": 5
   }
 ]

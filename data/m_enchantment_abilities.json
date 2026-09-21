@@ -6181,5 +6181,23 @@
     "weight": 100,
     "quality": 3,
     "base_power": 300
+  },
+  {
+    "id": 701,
+    "enchantment_ability_no": 104601,
+    "m_ability_effect_id": 11046,
+    "level": 10,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
+  },
+  {
+    "id": 702,
+    "enchantment_ability_no": 104701,
+    "m_ability_effect_id": 11047,
+    "level": 1,
+    "weight": 100,
+    "quality": 3,
+    "base_power": 300
   }
 ]

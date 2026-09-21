@@ -250,5 +250,41 @@
     "recommended_power": 67860,
     "drop_per_chara_exp": 0,
     "explore_reward_group_id": 18
+  },
+  {
+    "id": 22,
+    "level": 22,
+    "require_point": 1020,
+    "item_rank": 18,
+    "max_equipment_rank": 4,
+    "encounter_quest_slot_count": 12,
+    "enemy_level": 65,
+    "recommended_power": 67860,
+    "drop_per_chara_exp": 0,
+    "explore_reward_group_id": 22
+  },
+  {
+    "id": 23,
+    "level": 23,
+    "require_point": 1070,
+    "item_rank": 18,
+    "max_equipment_rank": 4,
+    "encounter_quest_slot_count": 12,
+    "enemy_level": 65,
+    "recommended_power": 67860,
+    "drop_per_chara_exp": 0,
+    "explore_reward_group_id": 23
+  },
+  {
+    "id": 24,
+    "level": 24,
+    "require_point": 1120,
+    "item_rank": 18,
+    "max_equipment_rank": 4,
+    "encounter_quest_slot_count": 12,
+    "enemy_level": 65,
+    "recommended_power": 67860,
+    "drop_per_chara_exp": 0,
+    "explore_reward_group_id": 24
   }
 ]

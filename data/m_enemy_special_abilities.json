@@ -144,6 +144,24 @@
     "is_show_description": 0
   },
   {
+    "id": 1000011,
+    "m_enemy_id": 100001,
+    "order": 0,
+    "ability_no": 50007,
+    "ability_lv": 1,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 1000012,
+    "m_enemy_id": 100001,
+    "order": 1,
+    "ability_no": 50008,
+    "ability_lv": 10,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
     "id": 1103501061,
     "m_enemy_id": 110350106,
     "order": 0,
@@ -621,6 +639,33 @@
     "is_show_description": 0
   },
   {
+    "id": 1108001011,
+    "m_enemy_id": 110800101,
+    "order": 0,
+    "ability_no": 50009,
+    "ability_lv": 2,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 1208001011,
+    "m_enemy_id": 120800101,
+    "order": 0,
+    "ability_no": 50009,
+    "ability_lv": 2,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 1308001011,
+    "m_enemy_id": 130800101,
+    "order": 0,
+    "ability_no": 50009,
+    "ability_lv": 2,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
     "id": 1600308071,
     "m_enemy_id": 160030807,
     "order": 0,
@@ -760,6 +805,132 @@
     "m_enemy_id": 160162703,
     "order": 0,
     "ability_no": 50006,
+    "ability_lv": 5,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 1600722031,
+    "m_enemy_id": 160072203,
+    "order": 0,
+    "ability_no": 50005,
+    "ability_lv": 5,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 1600722081,
+    "m_enemy_id": 160072208,
+    "order": 0,
+    "ability_no": 100036,
+    "ability_lv": 5,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 1600722082,
+    "m_enemy_id": 160072208,
+    "order": 0,
+    "ability_no": 100037,
+    "ability_lv": 5,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 1601022031,
+    "m_enemy_id": 160102203,
+    "order": 0,
+    "ability_no": 50005,
+    "ability_lv": 5,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 1601022081,
+    "m_enemy_id": 160102208,
+    "order": 0,
+    "ability_no": 100036,
+    "ability_lv": 5,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 1601022082,
+    "m_enemy_id": 160102208,
+    "order": 0,
+    "ability_no": 100037,
+    "ability_lv": 5,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 1601322031,
+    "m_enemy_id": 160132203,
+    "order": 0,
+    "ability_no": 50005,
+    "ability_lv": 5,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 1601322081,
+    "m_enemy_id": 160132208,
+    "order": 0,
+    "ability_no": 100036,
+    "ability_lv": 5,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 1601322082,
+    "m_enemy_id": 160132208,
+    "order": 0,
+    "ability_no": 100037,
+    "ability_lv": 5,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 1601629031,
+    "m_enemy_id": 160162903,
+    "order": 0,
+    "ability_no": 50005,
+    "ability_lv": 5,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 1601629081,
+    "m_enemy_id": 160162908,
+    "order": 0,
+    "ability_no": 100036,
+    "ability_lv": 5,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 1601629082,
+    "m_enemy_id": 160162908,
+    "order": 0,
+    "ability_no": 100037,
+    "ability_lv": 5,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 1601630071,
+    "m_enemy_id": 160163007,
+    "order": 0,
+    "ability_no": 100036,
+    "ability_lv": 5,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 1601630072,
+    "m_enemy_id": 160163007,
+    "order": 0,
+    "ability_no": 100037,
     "ability_lv": 5,
     "quality": 0,
     "is_show_description": 1
@@ -3699,6 +3870,177 @@
     "is_show_description": 0
   },
   {
+    "id": 2202707011,
+    "m_enemy_id": 220270701,
+    "order": 0,
+    "ability_no": 50009,
+    "ability_lv": 2,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 2203001011,
+    "m_enemy_id": 220300101,
+    "order": 0,
+    "ability_no": 50003,
+    "ability_lv": 2,
+    "quality": 1,
+    "is_show_description": 1
+  },
+  {
+    "id": 2203101011,
+    "m_enemy_id": 220310101,
+    "order": 0,
+    "ability_no": 50004,
+    "ability_lv": 2,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 2203101031,
+    "m_enemy_id": 220310103,
+    "order": 0,
+    "ability_no": 50005,
+    "ability_lv": 5,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 2203101041,
+    "m_enemy_id": 220310104,
+    "order": 0,
+    "ability_no": 50006,
+    "ability_lv": 5,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 2203101061,
+    "m_enemy_id": 220310106,
+    "order": 0,
+    "ability_no": 50001,
+    "ability_lv": 2,
+    "quality": 0,
+    "is_show_description": 0
+  },
+  {
+    "id": 2203207011,
+    "m_enemy_id": 220320701,
+    "order": 0,
+    "ability_no": 50009,
+    "ability_lv": 2,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 2203401011,
+    "m_enemy_id": 220340101,
+    "order": 0,
+    "ability_no": 50003,
+    "ability_lv": 2,
+    "quality": 1,
+    "is_show_description": 1
+  },
+  {
+    "id": 2203402011,
+    "m_enemy_id": 220340201,
+    "order": 0,
+    "ability_no": 50004,
+    "ability_lv": 2,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 2203402031,
+    "m_enemy_id": 220340203,
+    "order": 0,
+    "ability_no": 50005,
+    "ability_lv": 5,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 2203402041,
+    "m_enemy_id": 220340204,
+    "order": 0,
+    "ability_no": 50006,
+    "ability_lv": 5,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 2203402061,
+    "m_enemy_id": 220340206,
+    "order": 0,
+    "ability_no": 50001,
+    "ability_lv": 2,
+    "quality": 0,
+    "is_show_description": 0
+  },
+  {
+    "id": 2203501011,
+    "m_enemy_id": 220350101,
+    "order": 0,
+    "ability_no": 50009,
+    "ability_lv": 2,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 2203603011,
+    "m_enemy_id": 220360301,
+    "order": 0,
+    "ability_no": 50003,
+    "ability_lv": 2,
+    "quality": 1,
+    "is_show_description": 1
+  },
+  {
+    "id": 2203604011,
+    "m_enemy_id": 220360401,
+    "order": 0,
+    "ability_no": 50004,
+    "ability_lv": 2,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 2203604031,
+    "m_enemy_id": 220360403,
+    "order": 0,
+    "ability_no": 50005,
+    "ability_lv": 5,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 2203604041,
+    "m_enemy_id": 220360404,
+    "order": 0,
+    "ability_no": 50006,
+    "ability_lv": 5,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 2203604061,
+    "m_enemy_id": 220360406,
+    "order": 0,
+    "ability_no": 50001,
+    "ability_lv": 2,
+    "quality": 0,
+    "is_show_description": 0
+  },
+  {
+    "id": 2203605011,
+    "m_enemy_id": 220360501,
+    "order": 0,
+    "ability_no": 50009,
+    "ability_lv": 2,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
     "id": 2300314071,
     "m_enemy_id": 230031407,
     "order": 0,
@@ -4003,6 +4345,60 @@
     "ability_lv": 5,
     "quality": 0,
     "is_show_description": 0
+  },
+  {
+    "id": 2400103011,
+    "m_enemy_id": 240010301,
+    "order": 0,
+    "ability_no": 50005,
+    "ability_lv": 3,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 2400103021,
+    "m_enemy_id": 240010302,
+    "order": 0,
+    "ability_no": 50005,
+    "ability_lv": 3,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 2400103031,
+    "m_enemy_id": 240010303,
+    "order": 0,
+    "ability_no": 50005,
+    "ability_lv": 3,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 2400103041,
+    "m_enemy_id": 240010304,
+    "order": 0,
+    "ability_no": 50006,
+    "ability_lv": 3,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 2400103051,
+    "m_enemy_id": 240010305,
+    "order": 0,
+    "ability_no": 50006,
+    "ability_lv": 3,
+    "quality": 0,
+    "is_show_description": 1
+  },
+  {
+    "id": 2400103061,
+    "m_enemy_id": 240010306,
+    "order": 0,
+    "ability_no": 50006,
+    "ability_lv": 3,
+    "quality": 0,
+    "is_show_description": 1
   },
   {
     "id": 4101101041,

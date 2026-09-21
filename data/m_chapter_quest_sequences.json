@@ -1480,6 +1480,174 @@
     "is_last": 1
   },
   {
+    "id": 108010101,
+    "m_chapter_quest_id": 1080101,
+    "sequence": 1,
+    "m_chapter_quest_battle_id": 0,
+    "m_novel_main_id": 107,
+    "is_last": 1
+  },
+  {
+    "id": 108010201,
+    "m_chapter_quest_id": 1080102,
+    "sequence": 1,
+    "m_chapter_quest_battle_id": 0,
+    "m_novel_main_id": 108,
+    "is_last": 1
+  },
+  {
+    "id": 108010301,
+    "m_chapter_quest_id": 1080103,
+    "sequence": 1,
+    "m_chapter_quest_battle_id": 0,
+    "m_novel_main_id": 109,
+    "is_last": 1
+  },
+  {
+    "id": 108010401,
+    "m_chapter_quest_id": 1080104,
+    "sequence": 1,
+    "m_chapter_quest_battle_id": 8001,
+    "m_novel_main_id": 0,
+    "is_last": 1
+  },
+  {
+    "id": 108020101,
+    "m_chapter_quest_id": 1080201,
+    "sequence": 1,
+    "m_chapter_quest_battle_id": 0,
+    "m_novel_main_id": 110,
+    "is_last": 1
+  },
+  {
+    "id": 108020201,
+    "m_chapter_quest_id": 1080202,
+    "sequence": 1,
+    "m_chapter_quest_battle_id": 0,
+    "m_novel_main_id": 111,
+    "is_last": 1
+  },
+  {
+    "id": 108020301,
+    "m_chapter_quest_id": 1080203,
+    "sequence": 1,
+    "m_chapter_quest_battle_id": 0,
+    "m_novel_main_id": 112,
+    "is_last": 0
+  },
+  {
+    "id": 108020302,
+    "m_chapter_quest_id": 1080203,
+    "sequence": 2,
+    "m_chapter_quest_battle_id": 8002,
+    "m_novel_main_id": 0,
+    "is_last": 0
+  },
+  {
+    "id": 108020303,
+    "m_chapter_quest_id": 1080203,
+    "sequence": 3,
+    "m_chapter_quest_battle_id": 0,
+    "m_novel_main_id": 113,
+    "is_last": 1
+  },
+  {
+    "id": 108020401,
+    "m_chapter_quest_id": 1080204,
+    "sequence": 1,
+    "m_chapter_quest_battle_id": 8003,
+    "m_novel_main_id": 0,
+    "is_last": 1
+  },
+  {
+    "id": 108030101,
+    "m_chapter_quest_id": 1080301,
+    "sequence": 1,
+    "m_chapter_quest_battle_id": 0,
+    "m_novel_main_id": 114,
+    "is_last": 0
+  },
+  {
+    "id": 108030102,
+    "m_chapter_quest_id": 1080301,
+    "sequence": 2,
+    "m_chapter_quest_battle_id": 8004,
+    "m_novel_main_id": 0,
+    "is_last": 0
+  },
+  {
+    "id": 108030103,
+    "m_chapter_quest_id": 1080301,
+    "sequence": 3,
+    "m_chapter_quest_battle_id": 0,
+    "m_novel_main_id": 115,
+    "is_last": 1
+  },
+  {
+    "id": 108030201,
+    "m_chapter_quest_id": 1080302,
+    "sequence": 1,
+    "m_chapter_quest_battle_id": 8005,
+    "m_novel_main_id": 0,
+    "is_last": 1
+  },
+  {
+    "id": 108040101,
+    "m_chapter_quest_id": 1080401,
+    "sequence": 1,
+    "m_chapter_quest_battle_id": 0,
+    "m_novel_main_id": 116,
+    "is_last": 0
+  },
+  {
+    "id": 108040102,
+    "m_chapter_quest_id": 1080401,
+    "sequence": 2,
+    "m_chapter_quest_battle_id": 8006,
+    "m_novel_main_id": 0,
+    "is_last": 1
+  },
+  {
+    "id": 108040201,
+    "m_chapter_quest_id": 1080402,
+    "sequence": 1,
+    "m_chapter_quest_battle_id": 8007,
+    "m_novel_main_id": 0,
+    "is_last": 1
+  },
+  {
+    "id": 108050101,
+    "m_chapter_quest_id": 1080501,
+    "sequence": 1,
+    "m_chapter_quest_battle_id": 8008,
+    "m_novel_main_id": 0,
+    "is_last": 1
+  },
+  {
+    "id": 108050201,
+    "m_chapter_quest_id": 1080502,
+    "sequence": 1,
+    "m_chapter_quest_battle_id": 0,
+    "m_novel_main_id": 117,
+    "is_last": 0
+  },
+  {
+    "id": 108050202,
+    "m_chapter_quest_id": 1080502,
+    "sequence": 2,
+    "m_chapter_quest_battle_id": 8009,
+    "m_novel_main_id": 0,
+    "is_last": 1
+  },
+  {
+    "id": 108050301,
+    "m_chapter_quest_id": 1080503,
+    "sequence": 1,
+    "m_chapter_quest_battle_id": 0,
+    "m_novel_main_id": 118,
+    "is_last": 1
+  },
+  {
     "id": 201010101,
     "m_chapter_quest_id": 2010101,
     "sequence": 1,
@@ -1792,6 +1960,54 @@
     "is_last": 1
   },
   {
+    "id": 208010101,
+    "m_chapter_quest_id": 2080101,
+    "sequence": 1,
+    "m_chapter_quest_battle_id": 8101,
+    "m_novel_main_id": 0,
+    "is_last": 1
+  },
+  {
+    "id": 208020101,
+    "m_chapter_quest_id": 2080201,
+    "sequence": 1,
+    "m_chapter_quest_battle_id": 8102,
+    "m_novel_main_id": 0,
+    "is_last": 1
+  },
+  {
+    "id": 208030101,
+    "m_chapter_quest_id": 2080301,
+    "sequence": 1,
+    "m_chapter_quest_battle_id": 8103,
+    "m_novel_main_id": 0,
+    "is_last": 1
+  },
+  {
+    "id": 208040101,
+    "m_chapter_quest_id": 2080401,
+    "sequence": 1,
+    "m_chapter_quest_battle_id": 8104,
+    "m_novel_main_id": 0,
+    "is_last": 1
+  },
+  {
+    "id": 208050101,
+    "m_chapter_quest_id": 2080501,
+    "sequence": 1,
+    "m_chapter_quest_battle_id": 8105,
+    "m_novel_main_id": 0,
+    "is_last": 1
+  },
+  {
+    "id": 208050201,
+    "m_chapter_quest_id": 2080502,
+    "sequence": 1,
+    "m_chapter_quest_battle_id": 8106,
+    "m_novel_main_id": 0,
+    "is_last": 1
+  },
+  {
     "id": 301010101,
     "m_chapter_quest_id": 3010101,
     "sequence": 1,
@@ -2100,6 +2316,54 @@
     "m_chapter_quest_id": 3070502,
     "sequence": 1,
     "m_chapter_quest_battle_id": 7206,
+    "m_novel_main_id": 0,
+    "is_last": 1
+  },
+  {
+    "id": 308010101,
+    "m_chapter_quest_id": 3080101,
+    "sequence": 1,
+    "m_chapter_quest_battle_id": 8201,
+    "m_novel_main_id": 0,
+    "is_last": 1
+  },
+  {
+    "id": 308020101,
+    "m_chapter_quest_id": 3080201,
+    "sequence": 1,
+    "m_chapter_quest_battle_id": 8202,
+    "m_novel_main_id": 0,
+    "is_last": 1
+  },
+  {
+    "id": 308030101,
+    "m_chapter_quest_id": 3080301,
+    "sequence": 1,
+    "m_chapter_quest_battle_id": 8203,
+    "m_novel_main_id": 0,
+    "is_last": 1
+  },
+  {
+    "id": 308040101,
+    "m_chapter_quest_id": 3080401,
+    "sequence": 1,
+    "m_chapter_quest_battle_id": 8204,
+    "m_novel_main_id": 0,
+    "is_last": 1
+  },
+  {
+    "id": 308050101,
+    "m_chapter_quest_id": 3080501,
+    "sequence": 1,
+    "m_chapter_quest_battle_id": 8205,
+    "m_novel_main_id": 0,
+    "is_last": 1
+  },
+  {
+    "id": 308050201,
+    "m_chapter_quest_id": 3080502,
+    "sequence": 1,
+    "m_chapter_quest_battle_id": 8206,
     "m_novel_main_id": 0,
     "is_last": 1
   }

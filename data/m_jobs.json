@@ -63,6 +63,13 @@
     "m_attribute_tag_group_group_id": 1
   },
   {
+    "id": 2001001,
+    "name": "クラブゴブリン",
+    "job_group_type": 2001,
+    "species_type": 1,
+    "m_attribute_tag_group_group_id": 1
+  },
+  {
     "id": 2002000,
     "name": "ドワーフ",
     "job_group_type": 2002,
@@ -203,6 +210,13 @@
     "m_attribute_tag_group_group_id": 19
   },
   {
+    "id": 2023000,
+    "name": "彗星の厄災",
+    "job_group_type": 9002,
+    "species_type": 4,
+    "m_attribute_tag_group_group_id": 19
+  },
+  {
     "id": 2024000,
     "name": "天使の厄災",
     "job_group_type": 9002,
@@ -299,5 +313,12 @@
     "job_group_type": 2051,
     "species_type": 3,
     "m_attribute_tag_group_group_id": 23
+  },
+  {
+    "id": 2057000,
+    "name": "訓練用かかし",
+    "job_group_type": 9999,
+    "species_type": 5,
+    "m_attribute_tag_group_group_id": 0
   }
 ]

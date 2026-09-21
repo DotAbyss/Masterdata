@@ -24,5 +24,18 @@
     "expire_days": 14,
     "m_limited_item_convert_content_group_id": 0,
     "flavor_text": "太陽の力を凝縮した精薬、アビスに挑戦する人々の活力の源。スタミナを大きく回復する。"
+  },
+  {
+    "id": 170009,
+    "asset_id": "510600005",
+    "type": 170,
+    "rarity": 3,
+    "name": "【26ゲーム祭り】記念ルクスノヴァガチャチケット",
+    "value": 0,
+    "possession_limit": 999999,
+    "expire_at": "2026-10-05 4:59:59",
+    "expire_days": 0,
+    "m_limited_item_convert_content_group_id": 1,
+    "flavor_text": "「ガチャ」を実行することができる特別なチケット。\n「【26ゲーム祭り】記念ルクスノヴァピックアップガチャ」を実行できる。"
   }
 ]

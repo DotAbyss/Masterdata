@@ -1048,6 +1048,30 @@
     "description": "Lvに応じて強化された状態"
   },
   {
+    "id": 50001,
+    "name": "共鳴",
+    "nameEN": "Resonance",
+    "limit": 0,
+    "icon_asset_id": "Resonance",
+    "description": "スタック数に応じて攻撃力と防御力が上昇\n「流星」「流星群」「星に願いを」の攻撃回数が増加\n召喚されるエネミーのパラメータが増加する状態"
+  },
+  {
+    "id": 50002,
+    "name": "星恐",
+    "nameEN": "StarFear",
+    "limit": 0,
+    "icon_asset_id": "StarFear",
+    "description": "前衛のキャラがボス以外のエネミーに与えるダメージを{0}減少"
+  },
+  {
+    "id": 50003,
+    "name": "星憧",
+    "nameEN": "StarAdmiration",
+    "limit": 0,
+    "icon_asset_id": "StarAdmiration",
+    "description": "後衛のキャラがボスに与えるダメージを{0}減少"
+  },
+  {
     "id": 1000001,
     "name": "氷精蝶",
     "nameEN": "IcyFairy",
@@ -1062,6 +1086,14 @@
     "limit": 0,
     "icon_asset_id": "SatietyLevel",
     "description": "お腹の満たされ具合を表す"
+  },
+  {
+    "id": 1000003,
+    "name": "トランス",
+    "nameEN": "Transcend",
+    "limit": 0,
+    "icon_asset_id": "Transcend",
+    "description": "トランス状態に入り強力な魔法を発動できる状態"
   },
   {
     "id": 10000001,

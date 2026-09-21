@@ -1194,7 +1194,7 @@
     "skill_type": 10,
     "timeline": "Attack001",
     "name": "",
-    "description": "一定時間ごとに範囲内の敵全体に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 被ダメージした対象に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+    "description": "一定時間ごとに範囲内の敵全体に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
   },
   {
     "id": 20222010103,
@@ -1221,7 +1221,7 @@
     "skill_type": 20,
     "timeline": "Skill003A",
     "name": "アイスエイジ",
-    "description": "敵キャラクター全体に【1HIT / {[BUFF_STACK_LINKED_DAMAGE.BASE_PERMILLE]}】ダメージ / 自身の氷鎧Lvに応じてダメージが上昇 / 被ダメージした対象に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+    "description": "敵キャラクター全体に【1HIT / {[BUFF_STACK_LINKED_DAMAGE.BASE_PERMILLE]}】ダメージ / 自身の氷鎧Lvに応じてダメージが上昇"
   },
   {
     "id": 20222010106,
@@ -1248,7 +1248,7 @@
     "skill_type": 10,
     "timeline": "Attack001",
     "name": "",
-    "description": "一定時間ごとに範囲内の敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 被ダメージした対象に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+    "description": "一定時間ごとに範囲内の敵全体に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
   },
   {
     "id": 20222010203,
@@ -1275,7 +1275,7 @@
     "skill_type": 20,
     "timeline": "Skill003A",
     "name": "アイスエイジ",
-    "description": "敵キャラクター全体に【1HIT / 合計{[BUFF_STACK_LINKED_DAMAGE.BASE_PERMILLE]}】ダメージ / 自身の氷鎧Lvに応じてダメージが上昇 / 被ダメージした対象に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+    "description": "敵キャラクター全体に【1HIT / 合計{[BUFF_STACK_LINKED_DAMAGE.BASE_PERMILLE]}】ダメージ / 自身の氷鎧Lvに応じてダメージが上昇"
   },
   {
     "id": 20222010206,
@@ -1311,7 +1311,7 @@
     "skill_type": 40,
     "timeline": "Skill002",
     "name": "アイスフォール",
-    "description": "範囲内の敵全体に【10HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 被ダメージした対象に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+    "description": "範囲内の敵全体に【10HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
   },
   {
     "id": 20222010301,
@@ -1320,7 +1320,7 @@
     "skill_type": 10,
     "timeline": "Attack001",
     "name": "",
-    "description": "一定時間ごとに範囲内の敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 被ダメージした対象に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+    "description": "一定時間ごとに範囲内の敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
   },
   {
     "id": 20222010303,
@@ -1347,7 +1347,7 @@
     "skill_type": 20,
     "timeline": "Skill003A",
     "name": "アイスエイジ",
-    "description": "敵キャラクター全体に【1HIT / 合計{[BUFF_STACK_LINKED_DAMAGE.BASE_PERMILLE]}】ダメージ / 自身の氷鎧Lvに応じてダメージが上昇 / 被ダメージした対象に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+    "description": "敵キャラクター全体に【1HIT / 合計{[BUFF_STACK_LINKED_DAMAGE.BASE_PERMILLE]}】ダメージ / 自身の氷鎧Lvに応じてダメージが上昇"
   },
   {
     "id": 20222010306,
@@ -1383,7 +1383,7 @@
     "skill_type": 40,
     "timeline": "Skill002",
     "name": "アイスフォール",
-    "description": "範囲内の敵全体に【10HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 被ダメージした対象に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+    "description": "範囲内の敵全体に【10HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
   },
   {
     "id": 20222010401,
@@ -1392,7 +1392,7 @@
     "skill_type": 10,
     "timeline": "Attack001",
     "name": "",
-    "description": "一定時間ごとに範囲内の敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 被ダメージした対象に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+    "description": "一定時間ごとに範囲内の敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
   },
   {
     "id": 20222010403,
@@ -1411,15 +1411,6 @@
     "timeline": "Skill001B",
     "name": "アイシクルスラスト",
     "description": "ランダムなフロント3体を対象に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT:1]}】ダメージ"
-  },
-  {
-    "id": 20222010405,
-    "asset_id": "2022201",
-    "ai_id": "4",
-    "skill_type": 20,
-    "timeline": "Skill003A",
-    "name": "アイスエイジ",
-    "description": "敵キャラクター全体に【1HIT / 合計{[BUFF_STACK_LINKED_DAMAGE.BASE_PERMILLE]}】ダメージ / 自身の氷鎧Lvに応じてダメージが上昇 / 被ダメージした対象に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
   },
   {
     "id": 20222010406,
@@ -1449,13 +1440,76 @@
     "description": "自身の氷鎧Lvが5上昇 / 自身に通常攻撃被ダメージ減少【50% / 20秒】を付与"
   },
   {
-    "id": 20222010409,
+    "id": 20222019001,
     "asset_id": "2022201",
-    "ai_id": "4",
+    "ai_id": "Tutorial_1",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "一定時間ごとに範囲内の敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20222019002,
+    "asset_id": "2022201",
+    "ai_id": "Tutorial_1",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "フリーズブレス",
+    "description": "自身の氷鎧Lvが1上昇 / 前方範囲内の敵全体に【5HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 凍結状態の敵に対してダメージが上昇 / ヒットした防衛設備に行動間隔増加【{[ACTIONCOOLTIMEDOWN.RATE_PERCENT]} / {[ACTIONCOOLTIMEDOWN.DURATION]}秒】を付与\n\n氷鎧：Lvに応じて攻撃力と防御力が上昇する状態。一撃で一定以上のダメージを受けるとLvが減少する"
+  },
+  {
+    "id": 20222019003,
+    "asset_id": "2022201",
+    "ai_id": "Tutorial_1",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "アイシクルスラスト",
+    "description": "ランダムなフロント3体を対象に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT:1]}】ダメージ"
+  },
+  {
+    "id": 20222019004,
+    "asset_id": "2022201",
+    "ai_id": "Tutorial_1",
+    "skill_type": 20,
+    "timeline": "Skill003A",
+    "name": "アイスエイジ",
+    "description": "敵キャラクター全体に【1HIT / 合計{[BUFF_STACK_LINKED_DAMAGE.BASE_PERMILLE]}】ダメージ / 自身の氷鎧Lvに応じてダメージが上昇"
+  },
+  {
+    "id": 20222019005,
+    "asset_id": "2022201",
+    "ai_id": "Tutorial_1",
+    "skill_type": 20,
+    "timeline": "Skill003B",
+    "name": "ブリザード",
+    "description": "フィールドにブリザードを発生させる\n\nブリザード：凍結耐性が25%減少 / 行動時に最大HP3%分のダメージを受ける / 防衛設備の行動間隔が30%増加"
+  },
+  {
+    "id": 20222019006,
+    "asset_id": "2022201",
+    "ai_id": "Tutorial_1",
+    "skill_type": 20,
+    "timeline": "Skill003C",
+    "name": "パーマフロスト",
+    "description": "敵キャラクター全体に【7HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 対象に凍結が付与されている場合、その残り時間分の氷獄を付与\n\n氷獄：行動ができない状態"
+  },
+  {
+    "id": 20222019007,
+    "asset_id": "2022201",
+    "ai_id": "Tutorial_1",
+    "skill_type": 20,
+    "timeline": "Appeal002",
+    "name": "ホワイトアウト",
+    "description": "自身の氷鎧Lvが5上昇"
+  },
+  {
+    "id": 20222019008,
+    "asset_id": "2022201",
+    "ai_id": "Tutorial_1",
     "skill_type": 40,
     "timeline": "Skill002",
     "name": "アイスフォール",
-    "description": "範囲内の敵全体に【10HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 被ダメージした対象に凍結【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与"
+    "description": "範囲内の敵全体に【10HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
   },
   {
     "id": 20244010101,
@@ -1797,10 +1851,10 @@
     "skill_type": 20,
     "timeline": "Skill001A",
     "name": "プリデーションα",
-    "description": "味方全体を対象に最大HP【{[FORCE_DAMAGE.MAX_HP_PERMILLE]}】分のダメージ / 自身にこの攻撃で戦闘不能にした味方の数に応じた数の飽食を付与\n\n飽食：スタック数に応じて攻撃力・防御力・攻撃間隔が上昇する状態。時間経過、または強化効果の無効化を受けることでスタック数が減少する"
+    "description": "味方全体を対象に最大HP【{[FORCE_DAMAGE.MAX_HP_PERMILLE]}】分のダメージ / 自身にこの攻撃で戦闘不能にした味方の数に応じた数の飽食を付与\n\n飽食：スタック数に応じて攻撃力・防御力・攻撃間隔が上昇する状態。時間経過でスタック数が減少する"
   },
   {
-    "id": 20265010104,
+    "id": 20265010103,
     "asset_id": "2026501",
     "ai_id": "1",
     "skill_type": 20,
@@ -1809,7 +1863,7 @@
     "description": "敵キャラクター1体を対象に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 自身に与えたダメージに応じた数の飽食を付与"
   },
   {
-    "id": 20265010105,
+    "id": 20265010104,
     "asset_id": "2026501",
     "ai_id": "1",
     "skill_type": 20,
@@ -1818,7 +1872,7 @@
     "description": "範囲内の敵キャラクター全体に【1HIT / {[BUFF_STACK_LINKED_DAMAGE.BASE_PERMILLE]}】ダメージ / 対象に付与されている飢餓のスタック数に応じてダメージが上昇 / ノックバック（小）"
   },
   {
-    "id": 20265010106,
+    "id": 20265010105,
     "asset_id": "2026501",
     "ai_id": "1",
     "skill_type": 20,
@@ -1827,7 +1881,7 @@
     "description": "範囲内の敵全体に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 飢餓【2スタック】を付与"
   },
   {
-    "id": 20265010107,
+    "id": 20265010106,
     "asset_id": "2026501",
     "ai_id": "1",
     "skill_type": 40,
@@ -1845,16 +1899,16 @@
     "description": "一定時間ごとに範囲内にいる敵全体に飢餓【2スタック】を付与\n\n飢餓：スタック数に応じて時間経過でHPが減少する状態。HP回復を受けるとスタック数が減少する"
   },
   {
-    "id": 20265010108,
+    "id": 20265010202,
     "asset_id": "2026501",
-    "ai_id": "1",
+    "ai_id": "2",
     "skill_type": 20,
     "timeline": "Skill001A",
     "name": "プリデーションα",
-    "description": "味方全体を対象に最大HP【{[FORCE_DAMAGE.MAX_HP_PERMILLE]}】分のダメージ / 自身にこの攻撃で戦闘不能にした味方の数に応じた数の飽食を付与\n\n飽食：スタック数に応じて攻撃力・防御力・攻撃間隔が上昇する状態。時間経過、または強化効果の無効化を受けることでスタック数が減少する"
+    "description": "味方全体を対象に最大HP【{[FORCE_DAMAGE.MAX_HP_PERMILLE]}】分のダメージ / 自身にこの攻撃で戦闘不能にした味方の数に応じた数の飽食を付与\n\n飽食：スタック数に応じて攻撃力・防御力・攻撃間隔が上昇する状態。時間経過でスタック数が減少する"
   },
   {
-    "id": 20265010202,
+    "id": 20265010203,
     "asset_id": "2026501",
     "ai_id": "2",
     "skill_type": 20,
@@ -1863,7 +1917,7 @@
     "description": "敵キャラクター1体を対象に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 自身に与えたダメージに応じた数の飽食を付与"
   },
   {
-    "id": 20265010203,
+    "id": 20265010204,
     "asset_id": "2026501",
     "ai_id": "2",
     "skill_type": 20,
@@ -1872,7 +1926,7 @@
     "description": "範囲内の敵キャラクター全体に【1HIT / {[BUFF_STACK_LINKED_DAMAGE.BASE_PERMILLE]}】ダメージ / 対象に付与されている飢餓のスタック数に応じてダメージが上昇 / ノックバック（小）"
   },
   {
-    "id": 20265010204,
+    "id": 20265010205,
     "asset_id": "2026501",
     "ai_id": "2",
     "skill_type": 20,
@@ -1881,7 +1935,7 @@
     "description": "範囲内の敵全体に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 飢餓【2スタック】を付与"
   },
   {
-    "id": 20265010205,
+    "id": 20265010206,
     "asset_id": "2026501",
     "ai_id": "2",
     "skill_type": 40,
@@ -1905,10 +1959,10 @@
     "skill_type": 20,
     "timeline": "Skill001A",
     "name": "プリデーションα",
-    "description": "自身に飽食【3スタック】を付与 / 味方全体を対象に最大HP【{[FORCE_DAMAGE.MAX_HP_PERMILLE]}】分のダメージ / 自身にこの攻撃で戦闘不能にした味方の数に応じた数の飽食を付与\n\n飽食：スタック数に応じて攻撃力・防御力・会心率が上昇し。攻撃間隔が減少した状態。時間経過、または強化効果の無効化を受けることでスタック数が減少する"
+    "description": "自身に飽食【3スタック】を付与 / 味方全体を対象に最大HP【{[FORCE_DAMAGE.MAX_HP_PERMILLE]}】分のダメージ / 自身にこの攻撃で戦闘不能にした味方の数に応じた数の飽食を付与\n\n飽食：スタック数に応じて攻撃力・防御力・会心率が上昇し。攻撃間隔が減少した状態。時間経過でスタック数が減少する"
   },
   {
-    "id": 20265010304,
+    "id": 20265010303,
     "asset_id": "2026501",
     "ai_id": "3",
     "skill_type": 20,
@@ -1917,7 +1971,7 @@
     "description": "自身に飽食【3スタック】を付与 / 敵キャラクター1体を対象に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 自身に与えたダメージに応じた数の飽食を付与"
   },
   {
-    "id": 20265010305,
+    "id": 20265010304,
     "asset_id": "2026501",
     "ai_id": "3",
     "skill_type": 20,
@@ -1926,7 +1980,7 @@
     "description": "範囲内の敵キャラクター全体に【1HIT / {[BUFF_STACK_LINKED_DAMAGE.BASE_PERMILLE]}】ダメージ / 対象に付与されている飢餓のスタック数に応じてダメージが上昇 / ノックバック（小）"
   },
   {
-    "id": 20265010306,
+    "id": 20265010305,
     "asset_id": "2026501",
     "ai_id": "3",
     "skill_type": 20,
@@ -1935,7 +1989,7 @@
     "description": "範囲内の敵全体に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 飢餓【3スタック】を付与"
   },
   {
-    "id": 20265010307,
+    "id": 20265010306,
     "asset_id": "2026501",
     "ai_id": "3",
     "skill_type": 40,
@@ -1959,7 +2013,7 @@
     "skill_type": 20,
     "timeline": "Skill001A",
     "name": "プリデーションα",
-    "description": "自身に飽食【3スタック】を付与 / 味方全体を対象に最大HP【{[FORCE_DAMAGE.MAX_HP_PERMILLE]}】分のダメージ / 自身にこの攻撃で戦闘不能にした味方の数に応じた数の飽食を付与\n\n飽食：スタック数に応じて攻撃力・防御力・会心率が上昇し。攻撃間隔が減少した状態。時間経過、または強化効果の無効化を受けることでスタック数が減少する"
+    "description": "自身に飽食【3スタック】を付与 / 味方全体を対象に最大HP【{[FORCE_DAMAGE.MAX_HP_PERMILLE]}】分のダメージ / 自身にこの攻撃で戦闘不能にした味方の数に応じた数の飽食を付与\n\n飽食：スタック数に応じて攻撃力・防御力・会心率が上昇し。攻撃間隔が減少した状態。時間経過でスタック数が減少する"
   },
   {
     "id": 20265010403,
@@ -1992,6 +2046,114 @@
     "id": 20265010406,
     "asset_id": "2026501",
     "ai_id": "4",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "ヴォイド・ゼロ",
+    "description": "敵全体に9999999ダメージ"
+  },
+  {
+    "id": 20265019001,
+    "asset_id": "2026501",
+    "ai_id": "Tutorial_1",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "一定時間ごとに範囲内にいる敵全体に飢餓【2スタック】を付与\n\n飢餓：スタック数に応じて時間経過でHPが減少する状態。HP回復を受けるとスタック数が減少する"
+  },
+  {
+    "id": 20265019002,
+    "asset_id": "2026501",
+    "ai_id": "Tutorial_1",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "プリデーションα",
+    "description": "味方全体を対象に最大HP【{[FORCE_DAMAGE.MAX_HP_PERMILLE]}】分のダメージ / 自身にこの攻撃で戦闘不能にした味方の数に応じた数の飽食を付与\n\n飽食：スタック数に応じて攻撃力・防御力・攻撃間隔が上昇する状態。時間経過でスタック数が減少する"
+  },
+  {
+    "id": 20265019003,
+    "asset_id": "2026501",
+    "ai_id": "Tutorial_1",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "プリデーションβ",
+    "description": "敵キャラクター1体を対象に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 自身に与えたダメージに応じた数の飽食を付与"
+  },
+  {
+    "id": 20265019004,
+    "asset_id": "2026501",
+    "ai_id": "Tutorial_1",
+    "skill_type": 20,
+    "timeline": "Skill003A",
+    "name": "スターヴウェーブ",
+    "description": "範囲内の敵キャラクター全体に【1HIT / {[BUFF_STACK_LINKED_DAMAGE.BASE_PERMILLE]}】ダメージ / 対象に付与されている飢餓のスタック数に応じてダメージが上昇 / ノックバック（小）"
+  },
+  {
+    "id": 20265019005,
+    "asset_id": "2026501",
+    "ai_id": "Tutorial_1",
+    "skill_type": 20,
+    "timeline": "Skill003B",
+    "name": "コラプション",
+    "description": "範囲内の敵全体に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 飢餓【2スタック】を付与"
+  },
+  {
+    "id": 20265019006,
+    "asset_id": "2026501",
+    "ai_id": "Tutorial_1",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "ヴォイド・ゼロ",
+    "description": "敵全体に9999999ダメージ"
+  },
+  {
+    "id": 20265019101,
+    "asset_id": "2026501",
+    "ai_id": "Tutorial_2",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "一定時間ごとに範囲内にいる敵全体に飢餓【2スタック】を付与\n\n飢餓：スタック数に応じて時間経過でHPが減少する状態。HP回復を受けるとスタック数が減少する"
+  },
+  {
+    "id": 20265019102,
+    "asset_id": "2026501",
+    "ai_id": "Tutorial_2",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "プリデーションα",
+    "description": "味方全体を対象に最大HP【{[FORCE_DAMAGE.MAX_HP_PERMILLE]}】分のダメージ / 自身にこの攻撃で戦闘不能にした味方の数に応じた数の飽食を付与\n\n飽食：スタック数に応じて攻撃力・防御力・攻撃間隔が上昇する状態。時間経過でスタック数が減少する"
+  },
+  {
+    "id": 20265019103,
+    "asset_id": "2026501",
+    "ai_id": "Tutorial_2",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "プリデーションβ",
+    "description": "敵キャラクター1体を対象に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 自身に与えたダメージに応じた数の飽食を付与"
+  },
+  {
+    "id": 20265019104,
+    "asset_id": "2026501",
+    "ai_id": "Tutorial_2",
+    "skill_type": 20,
+    "timeline": "Skill003A",
+    "name": "スターヴウェーブ",
+    "description": "範囲内の敵キャラクター全体に【1HIT / {[BUFF_STACK_LINKED_DAMAGE.BASE_PERMILLE]}】ダメージ / 対象に付与されている飢餓のスタック数に応じてダメージが上昇 / ノックバック（小）"
+  },
+  {
+    "id": 20265019105,
+    "asset_id": "2026501",
+    "ai_id": "Tutorial_2",
+    "skill_type": 20,
+    "timeline": "Skill003B",
+    "name": "コラプション",
+    "description": "範囲内の敵全体に【1HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 飢餓【2スタック】を付与"
+  },
+  {
+    "id": 20265019106,
+    "asset_id": "2026501",
+    "ai_id": "Tutorial_2",
     "skill_type": 40,
     "timeline": "Skill002",
     "name": "ヴォイド・ゼロ",
@@ -3976,5 +4138,293 @@
     "timeline": "Skill01",
     "name": "スパイダーウィップ",
     "description": "敵1体を中心とした範囲内にいる敵全体に【6HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 攻撃力DOWN【{[ATTACKDOWN.RATE_PERCENT]} / {[ATTACKDOWN.DURATION]}秒】を付与 / 防御力DOWN【{[DEFENCEDOWN.RATE_PERCENT]} / {[DEFENCEDOWN.DURATION]}秒】を付与 / ノックバック（小）"
+  },
+  {
+    "id": 20010020001,
+    "asset_id": "2001002",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【4HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20011020001,
+    "asset_id": "2001102",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【4HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20012020001,
+    "asset_id": "2001202",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【4HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20013020001,
+    "asset_id": "2001302",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【4HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20014020001,
+    "asset_id": "2001402",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【4HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20015020001,
+    "asset_id": "2001502",
+    "ai_id": "0",
+    "skill_type": 10,
+    "timeline": "Attack",
+    "name": "",
+    "description": "敵1体に【4HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20233010101,
+    "asset_id": "2023301",
+    "ai_id": "1",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "前方範囲内の敵全体に【{[DAMAGE.HIT_COUNT]}HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / HITした対象に応じて自身に共鳴を【1】付与\n\n共鳴：スタック数に応じて攻撃力と防御力が上昇し、一部スキルの攻撃回数が増加し、召喚されるエネミーのパラメータが増加する状態"
+  },
+  {
+    "id": 20233010102,
+    "asset_id": "2023301",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Meteor",
+    "name": "流星",
+    "description": "最もHP割合が高い敵2体を中心とした範囲内にいる敵全体に【{[PRJCTL.LAND.DAMAGE.HIT_COUNT]}HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 自身の共鳴スタック数に応じて攻撃回数増加 / 攻撃した回数に応じてエネミーを召喚"
+  },
+  {
+    "id": 20233010103,
+    "asset_id": "2023301",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Starvoice",
+    "name": "星の声",
+    "description": "敵全体に【{[DAMAGE.HIT_COUNT]}HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 星恐【15% / 40秒】を付与 / 星憧【15% / 40秒】を付与 / 自身に共鳴を【10】付与"
+  },
+  {
+    "id": 20233010104,
+    "asset_id": "2023301",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Pulsation",
+    "name": "脈動",
+    "description": "自身にバリア付与 / 一定時間後にバリアが残っていた場合、自身に共鳴を【20】付与 / 敵全体の最大HP【15%】減少 / バリアが無くなった場合、自身の共鳴が【100%】減少"
+  },
+  {
+    "id": 20233010105,
+    "asset_id": "2023301",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Stardust",
+    "name": "星屑",
+    "description": "味方全体を対象に最大HP【{[DAMAGE.HP_RATIO_PERCENT]}】分のダメージ / 撃破したエネミー1体につき15秒間自身に与ダメージUPを【5%】付与 / 前方範囲内の敵全体に【{[DAMAGE.HIT_COUNT]}HIT/合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20233010106,
+    "asset_id": "2023301",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Integration",
+    "name": "一体化",
+    "description": "味方全体に攻撃力UP【{[ATTACKUP1.RATE_PERCENT]} / {[ATTACKUP1.DURATION]}秒】を付与 / 防御力UP【{[DEFENCEUP.RATE_PERCENT]} / {[DEFENCEUP.DURATION]}秒】を付与"
+  },
+  {
+    "id": 20233010107,
+    "asset_id": "2023301",
+    "ai_id": "1",
+    "skill_type": 20,
+    "timeline": "Meteorshower",
+    "name": "流星群",
+    "description": "最もHP割合が高い敵3体を中心とした範囲内にいる敵全体に【{[PRJCTL.LAND.DAMAGE.HIT_COUNT]}HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 防御力DOWN【{[PRJCTL.LAND.DEFENCEDOWN.RATE_PERCENT]} / {[PRJCTL.LAND.DEFENCEDOWN.DURATION]}秒】を付与 / 自身の共鳴スタック数に応じて攻撃回数増加 / 攻撃した回数に応じてエネミーを召喚"
+  },
+  {
+    "id": 20233010108,
+    "asset_id": "2023301",
+    "ai_id": "1",
+    "skill_type": 40,
+    "timeline": "AssaultSkill",
+    "name": "超新星",
+    "description": "敵全体に石化【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】付与 / 【1HIT / 合計最大HP{[DAMAGE.HP_RATIO_PERCENT]}】ダメージ / 【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（中）"
+  },
+  {
+    "id": 20233010201,
+    "asset_id": "2023301",
+    "ai_id": "2",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "前方範囲内の敵全体に【{[DAMAGE.HIT_COUNT]}HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / HITした対象に応じて自身に共鳴を【1】付与\n\n共鳴：スタック数に応じて攻撃力と防御力が上昇し、一部スキルの攻撃回数が増加し、召喚されるエネミーのパラメータが増加する状態"
+  },
+  {
+    "id": 20233010202,
+    "asset_id": "2023301",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Meteor",
+    "name": "流星",
+    "description": "最もHP割合が高い敵2体を中心とした範囲内にいる敵全体に【{[PRJCTL.LAND.DAMAGE.HIT_COUNT]}HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 自身の共鳴スタック数に応じて攻撃回数増加 / 攻撃した回数に応じてエネミーを召喚"
+  },
+  {
+    "id": 20233010203,
+    "asset_id": "2023301",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Starvoice",
+    "name": "星の声",
+    "description": "敵全体に【{[DAMAGE.HIT_COUNT]}HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 星恐【30% / 40秒】を付与 / 星憧【30% / 40秒】を付与 / 自身に共鳴を【10】付与"
+  },
+  {
+    "id": 20233010204,
+    "asset_id": "2023301",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Pulsation",
+    "name": "脈動",
+    "description": "自身にバリア付与 / 一定時間後にバリアが残っていた場合、自身に共鳴を【30】付与 / 敵全体の最大HP【30%】減少 / バリアが無くなった場合、自身の共鳴が【70%】減少"
+  },
+  {
+    "id": 20233010205,
+    "asset_id": "2023301",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Stardust",
+    "name": "星屑",
+    "description": "味方全体を対象に最大HP【{[DAMAGE.HP_RATIO_PERCENT]}】分のダメージ / 撃破したエネミー1体につき15秒間自身に与ダメージUPを【10%】付与 / 前方範囲内の敵全体に【{[DAMAGE.HIT_COUNT]}HIT/合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20233010206,
+    "asset_id": "2023301",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Integration",
+    "name": "一体化",
+    "description": "味方全体に攻撃力UP【{[ATTACKUP1.RATE_PERCENT]} / {[ATTACKUP1.DURATION]}秒】を付与 / 防御力UP【{[DEFENCEUP.RATE_PERCENT]} / {[DEFENCEUP.DURATION]}秒】を付与"
+  },
+  {
+    "id": 20233010207,
+    "asset_id": "2023301",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Meteorshower",
+    "name": "流星群",
+    "description": "最もHP割合が高い敵3体を中心とした範囲内にいる敵全体に【{[PRJCTL.LAND.DAMAGE.HIT_COUNT]}HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 防御力DOWN【{[PRJCTL.LAND.DEFENCEDOWN.RATE_PERCENT]} / {[PRJCTL.LAND.DEFENCEDOWN.DURATION]}秒】を付与 / 自身の共鳴スタック数に応じて攻撃回数増加 / 攻撃した回数に応じてエネミーを召喚"
+  },
+  {
+    "id": 20233010208,
+    "asset_id": "2023301",
+    "ai_id": "2",
+    "skill_type": 20,
+    "timeline": "Wishonastar",
+    "name": "星に願いを",
+    "description": "味方全体を対象に最大HP【{[DAMAGE.HP_RATIO_PERCENT]}】分のダメージ / 自身に共鳴を【10】付与 / 最もHP割合が高い敵1体を中心とした範囲内にいる敵全体に【{[PRJCTL.LAND.DAMAGE.HIT_COUNT]}HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 石化【{[PRJCTL.LAND.ABNORMAL.DURATION]}秒 / 成功率:{[PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20233010209,
+    "asset_id": "2023301",
+    "ai_id": "2",
+    "skill_type": 40,
+    "timeline": "AssaultSkill",
+    "name": "超新星",
+    "description": "敵全体に石化【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】付与 / 【1HIT / 合計最大HP{[DAMAGE.HP_RATIO_PERCENT]}】ダメージ / 【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（中）"
+  },
+  {
+    "id": 20233010301,
+    "asset_id": "2023301",
+    "ai_id": "3",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "前方範囲内の敵全体に【{[DAMAGE.HIT_COUNT]}HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / HITした対象に応じて自身に共鳴を【1】付与\n\n共鳴：スタック数に応じて攻撃力と防御力が上昇し、一部スキルの攻撃回数が増加し、召喚されるエネミーのパラメータが増加する状態"
+  },
+  {
+    "id": 20233010302,
+    "asset_id": "2023301",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Meteor",
+    "name": "流星",
+    "description": "最もHP割合が高い敵2体を中心とした範囲内にいる敵全体に【{[PRJCTL.LAND.DAMAGE.HIT_COUNT]}HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 自身の共鳴スタック数に応じて攻撃回数増加 / 攻撃した回数に応じてエネミーを召喚"
+  },
+  {
+    "id": 20233010303,
+    "asset_id": "2023301",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Starvoice",
+    "name": "星の声",
+    "description": "敵全体に【{[DAMAGE.HIT_COUNT]}HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 星恐【50% / 40秒】を付与 / 星憧【50% / 40秒】を付与 / 自身に共鳴を【10】付与"
+  },
+  {
+    "id": 20233010304,
+    "asset_id": "2023301",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Pulsation",
+    "name": "脈動",
+    "description": "自身にバリア付与 / 一定時間後にバリアが残っていた場合、自身に共鳴を【50】付与 / 敵全体の最大HP【50%】減少 / バリアが無くなった場合、自身の共鳴が【50%】減少"
+  },
+  {
+    "id": 20233010305,
+    "asset_id": "2023301",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Stardust",
+    "name": "星屑",
+    "description": "味方全体を対象に最大HP【{[DAMAGE.HP_RATIO_PERCENT]}】分のダメージ / 撃破したエネミー1体につき15秒間自身に与ダメージUPを【20%】付与 / 前方範囲内の敵全体に【{[DAMAGE.HIT_COUNT]}HIT/合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+  },
+  {
+    "id": 20233010306,
+    "asset_id": "2023301",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Integration",
+    "name": "一体化",
+    "description": "味方全体に攻撃力UP【{[ATTACKUP1.RATE_PERCENT]} / {[ATTACKUP1.DURATION]}秒】を付与 / 防御力UP【{[DEFENCEUP.RATE_PERCENT]} / {[DEFENCEUP.DURATION]}秒】を付与"
+  },
+  {
+    "id": 20233010307,
+    "asset_id": "2023301",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Meteorshower",
+    "name": "流星群",
+    "description": "最もHP割合が高い敵3体を中心とした範囲内にいる敵全体に【{[PRJCTL.LAND.DAMAGE.HIT_COUNT]}HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 防御力DOWN【{[PRJCTL.LAND.DEFENCEDOWN.RATE_PERCENT]} / {[PRJCTL.LAND.DEFENCEDOWN.DURATION]}秒】を付与 / 自身の共鳴スタック数に応じて攻撃回数増加 / 攻撃した回数に応じてエネミーを召喚"
+  },
+  {
+    "id": 20233010308,
+    "asset_id": "2023301",
+    "ai_id": "3",
+    "skill_type": 20,
+    "timeline": "Wishonastar",
+    "name": "星に願いを",
+    "description": "味方全体を対象に最大HP【{[DAMAGE.HP_RATIO_PERCENT]}】分のダメージ / 自身に共鳴を【10】付与 / 最もHP割合が高い敵1体を中心とした範囲内にいる敵全体に【{[PRJCTL.LAND.DAMAGE.HIT_COUNT]}HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 石化【{[PRJCTL.LAND.ABNORMAL.DURATION]}秒 / 成功率:{[PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY]}】を付与"
+  },
+  {
+    "id": 20233010309,
+    "asset_id": "2023301",
+    "ai_id": "3",
+    "skill_type": 40,
+    "timeline": "AssaultSkill",
+    "name": "超新星",
+    "description": "敵全体に石化【{[ABNORMAL.DURATION]}秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】付与 / 【1HIT / 合計最大HP{[DAMAGE.HP_RATIO_PERCENT]}】ダメージ / 【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（中）"
   }
 ]

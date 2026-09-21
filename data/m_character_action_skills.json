@@ -322,6 +322,27 @@
     "description": "ダメージ倍率が【{[DAMAGE.DAMAGE_PERCENT:1]}】に変化 / 紋章：衝撃を5消費し、攻撃ごとに麻痺【10秒 / 成功率:{[IMPACTSUCCEED.ABNORMAL.APPLY_PROBABILITY:1]}】を付与"
   },
   {
+    "id": 1200009000,
+    "m_character_id": 1200009,
+    "trigger_type": 20,
+    "name": "未設定",
+    "description": "未設定"
+  },
+  {
+    "id": 1200010000,
+    "m_character_id": 1200010,
+    "trigger_type": 20,
+    "name": "大地の穿牙",
+    "description": "最も近い敵1体に【4HIT / 合計{[PRJCTL.THROW.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 自身に紋章：情熱を【1】付与"
+  },
+  {
+    "id": 1200010001,
+    "m_character_id": 1200010,
+    "trigger_type": 30,
+    "name": "大地の穿牙",
+    "description": "ダメージ倍率が【{[PRJCTL.THROW.DAMAGE.DAMAGE_PERCENT]}】に変化 / 紋章：情熱が5以上のとき、火・水・土属性の味方フロント・バック全体に自身の最大HP【5%】分のバリア【{[ZEAL.BARRIER.DURATION]秒}】を付与"
+  },
+  {
     "id": 1200011000,
     "m_character_id": 1200011,
     "trigger_type": 20,
@@ -1006,5 +1027,33 @@
     "trigger_type": 30,
     "name": "じゃくにくきょーしょく砲",
     "description": "満腹度が5以上のときのみ使用可能 / 満腹度を5消費し、前方範囲内にいる敵全体に【9HIT / 合計{[TRACK.IMPACTFAILURE.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 紋章：衝撃を20消費し、ダメージ倍率が【{[TRACK.IMPACTSUCCESS.DAMAGE.DAMAGE_PERCENT]}】に変化"
+  },
+  {
+    "id": 1300056000,
+    "m_character_id": 1300056,
+    "trigger_type": 20,
+    "name": "フレイムメテオ",
+    "description": "敵1体を中心とした範囲内にいる敵全体に炎上【{[PRJCTL.LAND.ABNORMAL.DURATION]秒} / 成功率:{[PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY]}】を付与 / 【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】分散ダメージ / 自身にトランスを【{[UNIT109201000TRANSCEND.GRANT_STACK_COUNT]}】付与（トランスは最大3まで）"
+  },
+  {
+    "id": 1300056001,
+    "m_character_id": 1300056,
+    "trigger_type": 30,
+    "name": "フレイムメテオ",
+    "description": "紋章：情熱が5以上のとき、炎上の付与秒数が【{[ZEALBELOW10.ZEALOVER.PRJCTL.LAND.ABNORMAL.DURATION]}秒】に変化 / 紋章：情熱が10以上のとき、ダメージ倍率が【{[ZEALOVER2.PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】に変化"
+  },
+  {
+    "id": 1300057000,
+    "m_character_id": 1300057,
+    "trigger_type": 20,
+    "name": "宵月輪舞",
+    "description": "味方バック全体のスキルを【{[SKILL_CHARGE.CHARGE_VALUE]}】チャージ / 自身に最大HP【{[RECOVER.HEAL_PERCENT]}】分の回復 / マナを【0.25】チャージ"
+  },
+  {
+    "id": 1300057001,
+    "m_character_id": 1300057,
+    "trigger_type": 30,
+    "name": "宵月輪舞",
+    "description": "自身と味方バック全体に防御力UP【{[DEFENCEUP.RATE_PERCENT:1]} / 15秒】を付与 / 紋章：衝撃を10消費し、自身と味方バック全体に攻撃力UP【{[IMPACT.ATTACKUP1.RATE_PERCENT:1]} / 15秒】を付与"
   }
 ]

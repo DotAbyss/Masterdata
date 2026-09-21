@@ -480,7 +480,7 @@
     "serif_type": 2
   },
   {
-    "id": 27,
+    "id": 50000101,
     "m_event_id": 500001,
     "m_character_id": 1300027,
     "character_asset_id": "105601000G",
@@ -490,7 +490,7 @@
     "serif_type": 0
   },
   {
-    "id": 28,
+    "id": 50000102,
     "m_event_id": 500001,
     "m_character_id": 1300037,
     "character_asset_id": "107201000G",
@@ -540,7 +540,7 @@
     "serif_type": 0
   },
   {
-    "id": 30,
+    "id": 60000101,
     "m_event_id": 600001,
     "m_character_id": 1300010,
     "character_asset_id": "101001000G",
@@ -550,7 +550,7 @@
     "serif_type": 0
   },
   {
-    "id": 31,
+    "id": 60000102,
     "m_event_id": 600001,
     "m_character_id": 1300001,
     "character_asset_id": "100901000G",
@@ -580,7 +580,7 @@
     "serif_type": 0
   },
   {
-    "id": 48,
+    "id": 70000101,
     "m_event_id": 700001,
     "m_character_id": 1300018,
     "character_asset_id": "102301000G",
@@ -590,7 +590,7 @@
     "serif_type": 0
   },
   {
-    "id": 36,
+    "id": 80000101,
     "m_event_id": 800001,
     "m_character_id": 1300002,
     "character_asset_id": "300601000",
@@ -600,7 +600,7 @@
     "serif_type": 0
   },
   {
-    "id": 37,
+    "id": 80000102,
     "m_event_id": 800001,
     "m_character_id": 1300002,
     "character_asset_id": "300601000",
@@ -610,7 +610,7 @@
     "serif_type": 0
   },
   {
-    "id": 38,
+    "id": 80000103,
     "m_event_id": 800001,
     "m_character_id": 1300002,
     "character_asset_id": "300601000",
@@ -620,7 +620,7 @@
     "serif_type": 0
   },
   {
-    "id": 8000021,
+    "id": 80000201,
     "m_event_id": 800002,
     "m_character_id": 1300002,
     "character_asset_id": "300701000",
@@ -630,7 +630,7 @@
     "serif_type": 0
   },
   {
-    "id": 8000022,
+    "id": 80000202,
     "m_event_id": 800002,
     "m_character_id": 1300002,
     "character_asset_id": "300701000",
@@ -640,7 +640,7 @@
     "serif_type": 0
   },
   {
-    "id": 8000023,
+    "id": 80000203,
     "m_event_id": 800002,
     "m_character_id": 1300002,
     "character_asset_id": "300701000",
@@ -650,7 +650,7 @@
     "serif_type": 0
   },
   {
-    "id": 8000031,
+    "id": 80000301,
     "m_event_id": 800003,
     "m_character_id": 1300002,
     "character_asset_id": "300801000",
@@ -660,7 +660,7 @@
     "serif_type": 0
   },
   {
-    "id": 8000032,
+    "id": 80000302,
     "m_event_id": 800003,
     "m_character_id": 1300002,
     "character_asset_id": "300801000",
@@ -670,7 +670,7 @@
     "serif_type": 0
   },
   {
-    "id": 8000033,
+    "id": 80000303,
     "m_event_id": 800003,
     "m_character_id": 1300002,
     "character_asset_id": "300801000",
@@ -680,7 +680,27 @@
     "serif_type": 0
   },
   {
-    "id": 40,
+    "id": 80000402,
+    "m_event_id": 800004,
+    "m_character_id": 1300002,
+    "character_asset_id": "300201000",
+    "position": 1,
+    "face": "Normal",
+    "serif": "司令官なら、\nきっと出来るはずですっ！",
+    "serif_type": 0
+  },
+  {
+    "id": 80000403,
+    "m_event_id": 800004,
+    "m_character_id": 1300002,
+    "character_asset_id": "300201000",
+    "position": 1,
+    "face": "Normal",
+    "serif": "前線基地のみんなのために、\nわたしもできる限り\nお手伝いしますねっ！",
+    "serif_type": 0
+  },
+  {
+    "id": 90000101,
     "m_event_id": 900001,
     "m_character_id": 1300002,
     "character_asset_id": "101101000G",
@@ -690,7 +710,7 @@
     "serif_type": 0
   },
   {
-    "id": 41,
+    "id": 90000102,
     "m_event_id": 900001,
     "m_character_id": 1300002,
     "character_asset_id": "101101000G",
@@ -700,7 +720,7 @@
     "serif_type": 0
   },
   {
-    "id": 42,
+    "id": 90000103,
     "m_event_id": 900001,
     "m_character_id": 1300002,
     "character_asset_id": "101101000G",
@@ -710,7 +730,7 @@
     "serif_type": 0
   },
   {
-    "id": 9000021,
+    "id": 90000201,
     "m_event_id": 900002,
     "m_character_id": 1300002,
     "character_asset_id": "101501000G",
@@ -720,7 +740,7 @@
     "serif_type": 0
   },
   {
-    "id": 9000022,
+    "id": 90000202,
     "m_event_id": 900002,
     "m_character_id": 1300002,
     "character_asset_id": "101501000G",
@@ -730,7 +750,7 @@
     "serif_type": 0
   },
   {
-    "id": 9000023,
+    "id": 90000203,
     "m_event_id": 900002,
     "m_character_id": 1300002,
     "character_asset_id": "101501000G",
@@ -740,7 +760,7 @@
     "serif_type": 0
   },
   {
-    "id": 44,
+    "id": 10000101,
     "m_event_id": 100001,
     "m_character_id": 1300023,
     "character_asset_id": "102801000G",
@@ -750,7 +770,7 @@
     "serif_type": 0
   },
   {
-    "id": 45,
+    "id": 10000201,
     "m_event_id": 100002,
     "m_character_id": 1200003,
     "character_asset_id": "100301000G",
@@ -760,7 +780,7 @@
     "serif_type": 0
   },
   {
-    "id": 46,
+    "id": 10000301,
     "m_event_id": 100003,
     "m_character_id": 1300023,
     "character_asset_id": "102801000G",
@@ -770,7 +790,7 @@
     "serif_type": 0
   },
   {
-    "id": 1000041,
+    "id": 10000401,
     "m_event_id": 100004,
     "m_character_id": 1300023,
     "character_asset_id": "102801000G",

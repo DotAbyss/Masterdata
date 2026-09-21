@@ -678,5 +678,85 @@
     "begin_at": "2026-09-14 10:00:00",
     "end_at": "2026-09-30 4:59:59",
     "has_r18": 1
+  },
+  {
+    "id": 77,
+    "title": "覚醒ベリサ ピックアップガチャ",
+    "display_priority": 320,
+    "display_order": 320,
+    "asset_id": "7010020",
+    "begin_at": "2026-09-21 13:00:00",
+    "end_at": "2026-10-05 4:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 78,
+    "title": "ヴェスペラ ピックアップガチャ",
+    "display_priority": 321,
+    "display_order": 321,
+    "asset_id": "7010022",
+    "begin_at": "2026-09-25 10:00:00",
+    "end_at": "2026-10-05 4:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 79,
+    "title": "覚醒ベリサ登場記念！ルクスノヴァピックアップガチャ",
+    "display_priority": 319,
+    "display_order": 319,
+    "asset_id": "7010021",
+    "begin_at": "2026-09-21 13:00:00",
+    "end_at": "2026-10-05 4:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 81,
+    "title": "カムバック通知",
+    "display_priority": 99999,
+    "display_order": 99999,
+    "asset_id": "1200004",
+    "begin_at": "2026-09-21 13:00:00",
+    "end_at": "2099-12-31 23:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 84,
+    "title": "【ショップ】ガチャチケットパック",
+    "display_priority": 317,
+    "display_order": 317,
+    "asset_id": "5010450",
+    "begin_at": "2026-09-21 13:00:00",
+    "end_at": "2026-10-05 4:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 85,
+    "title": "【ショップ】ステップアップパック",
+    "display_priority": 318,
+    "display_order": 318,
+    "asset_id": "5010464",
+    "begin_at": "2026-09-21 13:00:00",
+    "end_at": "2026-10-05 4:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 88,
+    "title": "訓練所実装告知",
+    "display_priority": 322,
+    "display_order": 322,
+    "asset_id": "1100019",
+    "begin_at": "2026-09-21 13:00:00",
+    "end_at": "2026-09-30 11:59:59",
+    "has_r18": 0
+  },
+  {
+    "id": 89,
+    "title": "サイドストーリー実装告知",
+    "display_priority": 323,
+    "display_order": 323,
+    "asset_id": "1022001_1",
+    "begin_at": "2026-09-21 13:00:00",
+    "end_at": "2026-09-30 11:59:59",
+    "has_r18": 1
   }
 ]

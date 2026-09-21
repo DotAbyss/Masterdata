@@ -1475,5 +1475,19 @@
     "asset_id": "Unique",
     "name": "冥界神の権能：ピッケル",
     "description": "紋章：衝撃が消費されたとき、闇属性の味方全体に紋章：衝撃を【{1}】付与（1編成につき1本分のみ効果発動）"
+  },
+  {
+    "id": 224,
+    "enchantment_no": 1046,
+    "asset_id": "Unique",
+    "name": "彗星の権能：モニュメント",
+    "description": "HPが30%以下のとき、自身の攻撃力が【{1}%】上昇"
+  },
+  {
+    "id": 225,
+    "enchantment_no": 1047,
+    "asset_id": "Unique",
+    "name": "焔の権能：アクセサリー",
+    "description": "紋章：情熱1ごとに、自身のスキルチャージ効率【{1}%】UP"
   }
 ]

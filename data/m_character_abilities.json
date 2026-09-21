@@ -368,6 +368,22 @@
     "order": 2
   },
   {
+    "id": 120001001,
+    "m_character_id": 1200010,
+    "asset_id": "Ability_Attack_01",
+    "name": "大地への帰還",
+    "ability_no": 10203,
+    "order": 1
+  },
+  {
+    "id": 120001002,
+    "m_character_id": 1200010,
+    "asset_id": "Ability_Attack_01",
+    "name": "可能性の芽吹き",
+    "ability_no": 10204,
+    "order": 2
+  },
+  {
     "id": 120001101,
     "m_character_id": 1200011,
     "asset_id": "Ability_Attack_01",
@@ -1469,6 +1485,54 @@
     "asset_id": "Ability_Critical_01",
     "name": "お世話され上手",
     "ability_no": 10193,
+    "order": 3
+  },
+  {
+    "id": 130005601,
+    "m_character_id": 1300056,
+    "asset_id": "Ability_SpecialAttack_01",
+    "name": "内なる焔",
+    "ability_no": 10197,
+    "order": 1
+  },
+  {
+    "id": 130005602,
+    "m_character_id": 1300056,
+    "asset_id": "Ability_Attack_01",
+    "name": "螺旋炎舞",
+    "ability_no": 10198,
+    "order": 2
+  },
+  {
+    "id": 130005603,
+    "m_character_id": 1300056,
+    "asset_id": "Ability_Mana_01",
+    "name": "業火の連鎖",
+    "ability_no": 10199,
+    "order": 3
+  },
+  {
+    "id": 130005701,
+    "m_character_id": 1300057,
+    "asset_id": "Ability_SpecialAttack_01",
+    "name": "魔道の導き",
+    "ability_no": 10200,
+    "order": 1
+  },
+  {
+    "id": 130005702,
+    "m_character_id": 1300057,
+    "asset_id": "Ability_Attack_01",
+    "name": "見切りの極意",
+    "ability_no": 10201,
+    "order": 2
+  },
+  {
+    "id": 130005703,
+    "m_character_id": 1300057,
+    "asset_id": "Ability_Attack_01",
+    "name": "師範の歩法",
+    "ability_no": 10202,
     "order": 3
   }
 ]

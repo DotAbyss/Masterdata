@@ -801,5 +801,38 @@
     "m_tavern_card_effect_id_1": 102002,
     "m_tavern_card_effect_id_2": 401004,
     "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 12000100,
+    "m_character_id": 1200010,
+    "m_character_skin_id": 120001002,
+    "name": "アイナの提案",
+    "effect_type": 2,
+    "description": "ランダムな「ミレスガルド」の\nスタッフ最大2体に「料理」を付与。\nそれらのスタッフの満足度+10%",
+    "m_tavern_card_effect_id_1": 101003,
+    "m_tavern_card_effect_id_2": 401000,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 13000560,
+    "m_character_id": 1300056,
+    "m_character_skin_id": 130005602,
+    "name": "【覚醒】ベリサの提案",
+    "effect_type": 1,
+    "description": "評価がGreat以上のスタッフの満足度+50%",
+    "m_tavern_card_effect_id_1": 200002,
+    "m_tavern_card_effect_id_2": 0,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 13000570,
+    "m_character_id": 1300057,
+    "m_character_skin_id": 130005702,
+    "name": "ヴェスペラの提案",
+    "effect_type": 2,
+    "description": "ランダムな「ペルディオン」の\nスタッフ最大3体に「ドリンク」を付与。\nそれらのスタッフの満足度+20%",
+    "m_tavern_card_effect_id_1": 102004,
+    "m_tavern_card_effect_id_2": 401005,
+    "m_tavern_card_effect_id_3": 0
   }
 ]

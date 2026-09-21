@@ -918,6 +918,141 @@
     "stamina": 0
   },
   {
+    "id": 1080101,
+    "m_chapter_area_id": 801,
+    "progress_order": 1,
+    "quest_type": 1,
+    "name": "氷晶の魔法使いヴィーラ",
+    "is_last": 0,
+    "stamina": 0
+  },
+  {
+    "id": 1080102,
+    "m_chapter_area_id": 801,
+    "progress_order": 2,
+    "quest_type": 1,
+    "name": "花の魔法使いアイナ",
+    "is_last": 0,
+    "stamina": 0
+  },
+  {
+    "id": 1080103,
+    "m_chapter_area_id": 801,
+    "progress_order": 3,
+    "quest_type": 1,
+    "name": "潜入調査とゲリラライブ",
+    "is_last": 0,
+    "stamina": 0
+  },
+  {
+    "id": 1080104,
+    "m_chapter_area_id": 801,
+    "progress_order": 4,
+    "quest_type": 2,
+    "name": "白亜の未踏域の調査",
+    "is_last": 1,
+    "stamina": 40
+  },
+  {
+    "id": 1080201,
+    "m_chapter_area_id": 802,
+    "progress_order": 1,
+    "quest_type": 1,
+    "name": "狙われた天才魔法使い",
+    "is_last": 0,
+    "stamina": 0
+  },
+  {
+    "id": 1080202,
+    "m_chapter_area_id": 802,
+    "progress_order": 2,
+    "quest_type": 1,
+    "name": "ロジーからの緊急報告",
+    "is_last": 0,
+    "stamina": 0
+  },
+  {
+    "id": 1080203,
+    "m_chapter_area_id": 802,
+    "progress_order": 3,
+    "quest_type": 1,
+    "name": "古代遺跡の階層",
+    "is_last": 0,
+    "stamina": 0
+  },
+  {
+    "id": 1080204,
+    "m_chapter_area_id": 802,
+    "progress_order": 4,
+    "quest_type": 2,
+    "name": "崩落の神殿街の調査",
+    "is_last": 1,
+    "stamina": 40
+  },
+  {
+    "id": 1080301,
+    "m_chapter_area_id": 803,
+    "progress_order": 1,
+    "quest_type": 1,
+    "name": "密林の古代遺跡",
+    "is_last": 0,
+    "stamina": 0
+  },
+  {
+    "id": 1080302,
+    "m_chapter_area_id": 803,
+    "progress_order": 2,
+    "quest_type": 2,
+    "name": "密林の古代遺跡の調査",
+    "is_last": 1,
+    "stamina": 40
+  },
+  {
+    "id": 1080401,
+    "m_chapter_area_id": 804,
+    "progress_order": 1,
+    "quest_type": 1,
+    "name": "ピラミッドに仕掛けられた罠",
+    "is_last": 0,
+    "stamina": 0
+  },
+  {
+    "id": 1080402,
+    "m_chapter_area_id": 804,
+    "progress_order": 2,
+    "quest_type": 2,
+    "name": "王棺迷宮の調査",
+    "is_last": 1,
+    "stamina": 40
+  },
+  {
+    "id": 1080501,
+    "m_chapter_area_id": 805,
+    "progress_order": 1,
+    "quest_type": 2,
+    "name": "血塗られた祭祀場の調査",
+    "is_last": 0,
+    "stamina": 40
+  },
+  {
+    "id": 1080502,
+    "m_chapter_area_id": 805,
+    "progress_order": 2,
+    "quest_type": 1,
+    "name": "彗星の厄災",
+    "is_last": 0,
+    "stamina": 0
+  },
+  {
+    "id": 1080503,
+    "m_chapter_area_id": 805,
+    "progress_order": 3,
+    "quest_type": 1,
+    "name": "教団の真実",
+    "is_last": 1,
+    "stamina": 0
+  },
+  {
     "id": 2010101,
     "m_chapter_area_id": 111,
     "progress_order": 1,
@@ -1269,6 +1404,60 @@
     "stamina": 0
   },
   {
+    "id": 2080101,
+    "m_chapter_area_id": 811,
+    "progress_order": 1,
+    "quest_type": 2,
+    "name": "白亜の未踏域の調査",
+    "is_last": 1,
+    "stamina": 40
+  },
+  {
+    "id": 2080201,
+    "m_chapter_area_id": 812,
+    "progress_order": 1,
+    "quest_type": 2,
+    "name": "崩落の神殿街の調査",
+    "is_last": 1,
+    "stamina": 40
+  },
+  {
+    "id": 2080301,
+    "m_chapter_area_id": 813,
+    "progress_order": 1,
+    "quest_type": 2,
+    "name": "密林の古代遺跡の調査",
+    "is_last": 1,
+    "stamina": 40
+  },
+  {
+    "id": 2080401,
+    "m_chapter_area_id": 814,
+    "progress_order": 1,
+    "quest_type": 2,
+    "name": "王棺迷宮の調査",
+    "is_last": 1,
+    "stamina": 40
+  },
+  {
+    "id": 2080501,
+    "m_chapter_area_id": 815,
+    "progress_order": 1,
+    "quest_type": 2,
+    "name": "血塗られた祭祀場の調査",
+    "is_last": 0,
+    "stamina": 40
+  },
+  {
+    "id": 2080502,
+    "m_chapter_area_id": 815,
+    "progress_order": 2,
+    "quest_type": 1,
+    "name": "彗星の厄災",
+    "is_last": 1,
+    "stamina": 0
+  },
+  {
     "id": 3010101,
     "m_chapter_area_id": 121,
     "progress_order": 1,
@@ -1616,6 +1805,60 @@
     "progress_order": 2,
     "quest_type": 1,
     "name": "煉獄の厄災",
+    "is_last": 1,
+    "stamina": 0
+  },
+  {
+    "id": 3080101,
+    "m_chapter_area_id": 821,
+    "progress_order": 1,
+    "quest_type": 2,
+    "name": "白亜の未踏域の調査",
+    "is_last": 1,
+    "stamina": 40
+  },
+  {
+    "id": 3080201,
+    "m_chapter_area_id": 822,
+    "progress_order": 1,
+    "quest_type": 2,
+    "name": "崩落の神殿街の調査",
+    "is_last": 1,
+    "stamina": 40
+  },
+  {
+    "id": 3080301,
+    "m_chapter_area_id": 823,
+    "progress_order": 1,
+    "quest_type": 2,
+    "name": "密林の古代遺跡の調査",
+    "is_last": 1,
+    "stamina": 40
+  },
+  {
+    "id": 3080401,
+    "m_chapter_area_id": 824,
+    "progress_order": 1,
+    "quest_type": 2,
+    "name": "王棺迷宮の調査",
+    "is_last": 1,
+    "stamina": 40
+  },
+  {
+    "id": 3080501,
+    "m_chapter_area_id": 825,
+    "progress_order": 1,
+    "quest_type": 2,
+    "name": "血塗られた祭祀場の調査",
+    "is_last": 0,
+    "stamina": 40
+  },
+  {
+    "id": 3080502,
+    "m_chapter_area_id": 825,
+    "progress_order": 2,
+    "quest_type": 1,
+    "name": "彗星の厄災",
     "is_last": 1,
     "stamina": 0
   }

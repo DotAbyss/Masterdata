@@ -159,5 +159,19 @@
     "sub_category_id": 20,
     "category_text": "シルバーウィーク",
     "display_order_desc": 18
+  },
+  {
+    "id": 24,
+    "category": 2,
+    "sub_category_id": 21,
+    "category_text": "8章実装記念",
+    "display_order_desc": 19
+  },
+  {
+    "id": 25,
+    "category": 2,
+    "sub_category_id": 22,
+    "category_text": "ヴェスペラ登場記念",
+    "display_order_desc": 20
   }
 ]

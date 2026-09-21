@@ -39,13 +39,25 @@
     "id": 7,
     "category": 7,
     "asset_id": "5000118",
-    "display_order": 9
+    "display_order": 1
   },
   {
     "id": 8,
     "category": 10,
     "asset_id": "5000222",
     "display_order": 3
+  },
+  {
+    "id": 700,
+    "category": 11,
+    "asset_id": "5000120",
+    "display_order": 2
+  },
+  {
+    "id": 701,
+    "category": 12,
+    "asset_id": "5000121",
+    "display_order": 2
   },
   {
     "id": 888,

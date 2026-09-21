@@ -76,5 +76,29 @@
     "m_campaign_id": 15,
     "effective_target": 2,
     "additional_probability": 1000
+  },
+  {
+    "id": 14,
+    "m_campaign_id": 17,
+    "effective_target": 1,
+    "additional_probability": 100
+  },
+  {
+    "id": 15,
+    "m_campaign_id": 17,
+    "effective_target": 6,
+    "additional_probability": 100
+  },
+  {
+    "id": 16,
+    "m_campaign_id": 18,
+    "effective_target": 4,
+    "additional_probability": 100
+  },
+  {
+    "id": 17,
+    "m_campaign_id": 17,
+    "effective_target": 7,
+    "additional_probability": 100
   }
 ]

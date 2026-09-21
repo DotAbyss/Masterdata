@@ -61,5 +61,14 @@
     "asset_id": "7000",
     "explore_asset_id": "70000",
     "sd_m_character_id": 0
+  },
+  {
+    "id": 8,
+    "display_order": 8,
+    "layer_no": 8,
+    "name": "遺跡の階層",
+    "asset_id": "8000",
+    "explore_asset_id": "80000",
+    "sd_m_character_id": 0
   }
 ]

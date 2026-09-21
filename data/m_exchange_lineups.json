@@ -417,7 +417,7 @@
     "display_order": 78,
     "is_pickup": 1,
     "release_at": "2026-09-09 13:00:00",
-    "close_at": "2026-09-21 11:59:59"
+    "close_at": "2026-09-30 4:59:59"
   },
   {
     "id": 229,
@@ -431,7 +431,63 @@
     "display_order": 77,
     "is_pickup": 1,
     "release_at": "2026-09-14 10:00:00",
-    "close_at": "2026-09-21 11:59:59"
+    "close_at": "2026-09-30 4:59:59"
+  },
+  {
+    "id": 230,
+    "m_exchange_category_id": 11,
+    "content_type": 40,
+    "content_id": 1300056,
+    "acquire_num": 1,
+    "available_type": 1,
+    "available_count": 10,
+    "cost_num": 200,
+    "display_order": 74,
+    "is_pickup": 1,
+    "release_at": "2026-09-21 13:00:00",
+    "close_at": "2026-10-05 4:59:59"
+  },
+  {
+    "id": 231,
+    "m_exchange_category_id": 11,
+    "content_type": 40,
+    "content_id": 1300057,
+    "acquire_num": 1,
+    "available_type": 1,
+    "available_count": 10,
+    "cost_num": 200,
+    "display_order": 73,
+    "is_pickup": 1,
+    "release_at": "2026-09-25 10:00:00",
+    "close_at": "2026-10-05 4:59:59"
+  },
+  {
+    "id": 1001,
+    "m_exchange_category_id": 21,
+    "content_type": 30,
+    "content_id": 190040,
+    "acquire_num": 1,
+    "available_type": 1,
+    "available_count": 1,
+    "cost_num": 100,
+    "display_order": 1,
+    "is_pickup": 1,
+    "release_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 1002,
+    "m_exchange_category_id": 21,
+    "content_type": 30,
+    "content_id": 140015,
+    "acquire_num": 1,
+    "available_type": 1,
+    "available_count": 100,
+    "cost_num": 1,
+    "display_order": 1,
+    "is_pickup": 1,
+    "release_at": "",
+    "close_at": ""
   },
   {
     "id": 10101,
@@ -1467,6 +1523,34 @@
     "display_order": 100,
     "is_pickup": 0,
     "release_at": "2026-09-14 10:00:00",
+    "close_at": ""
+  },
+  {
+    "id": 10437,
+    "m_exchange_category_id": 104,
+    "content_type": 30,
+    "content_id": 10091,
+    "acquire_num": 1,
+    "available_type": 1,
+    "available_count": 9,
+    "cost_num": 50,
+    "display_order": 100,
+    "is_pickup": 0,
+    "release_at": "2026-09-21 13:00:00",
+    "close_at": ""
+  },
+  {
+    "id": 10438,
+    "m_exchange_category_id": 104,
+    "content_type": 30,
+    "content_id": 10092,
+    "acquire_num": 1,
+    "available_type": 1,
+    "available_count": 9,
+    "cost_num": 50,
+    "display_order": 100,
+    "is_pickup": 0,
+    "release_at": "2026-09-25 10:00:00",
     "close_at": ""
   },
   {

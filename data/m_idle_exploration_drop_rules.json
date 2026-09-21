@@ -56,6 +56,14 @@
     "m_idle_exploration_drop_group_id_rare": 100711
   },
   {
+    "id": 100810,
+    "rare_drop_guaranty": 7,
+    "rare_drop_probability": 0,
+    "drop_interval": 900,
+    "m_idle_exploration_drop_group_id_normal": 100810,
+    "m_idle_exploration_drop_group_id_rare": 100811
+  },
+  {
     "id": 700110,
     "rare_drop_guaranty": 7,
     "rare_drop_probability": 0,
