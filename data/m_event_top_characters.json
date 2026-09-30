@@ -480,6 +480,126 @@
     "serif_type": 2
   },
   {
+    "id": 300005001,
+    "m_event_id": 300005,
+    "m_character_id": 1300028,
+    "character_asset_id": "105701000G",
+    "position": 1,
+    "face": "Normal",
+    "serif": "今皆に必要なのは……\nエンターテイメントよ！",
+    "serif_type": 1
+  },
+  {
+    "id": 300005002,
+    "m_event_id": 300005,
+    "m_character_id": 1300028,
+    "character_asset_id": "105701000G",
+    "position": 1,
+    "face": "Anger",
+    "serif": "ほら、下僕！\nさっさと行くわよ！",
+    "serif_type": 1
+  },
+  {
+    "id": 300005003,
+    "m_event_id": 300005,
+    "m_character_id": 1300036,
+    "character_asset_id": "107001000G",
+    "position": 1,
+    "face": "Normal",
+    "serif": "まずは、お手並み拝見\nといったところね",
+    "serif_type": 1
+  },
+  {
+    "id": 300005004,
+    "m_event_id": 300005,
+    "m_character_id": 1300036,
+    "character_asset_id": "107001000G",
+    "position": 1,
+    "face": "Unique02",
+    "serif": "気にしなくていいわ。\nビジネスの話だもの",
+    "serif_type": 1
+  },
+  {
+    "id": 300005005,
+    "m_event_id": 300005,
+    "m_character_id": 1300028,
+    "character_asset_id": "105701000G",
+    "position": 1,
+    "face": "Fun",
+    "serif": "さあ、行くわよ！\nパウリーナランド開園！",
+    "serif_type": 1
+  },
+  {
+    "id": 300005006,
+    "m_event_id": 300005,
+    "m_character_id": 1300028,
+    "character_asset_id": "105701000G",
+    "position": 1,
+    "face": "Unique02",
+    "serif": "民のため……じゃなくて\n私のために働きなさい！",
+    "serif_type": 1
+  },
+  {
+    "id": 300005007,
+    "m_event_id": 300005,
+    "m_character_id": 1300036,
+    "character_asset_id": "107001000G",
+    "position": 1,
+    "face": "Unique01",
+    "serif": "いいわよ。\nここまでは契約のうちだから",
+    "serif_type": 1
+  },
+  {
+    "id": 300005008,
+    "m_event_id": 300005,
+    "m_character_id": 1300036,
+    "character_asset_id": "107001000G",
+    "position": 1,
+    "face": "Shy",
+    "serif": "ここからは、個人的な動機よ。\n……何か言いたそうね？",
+    "serif_type": 1
+  },
+  {
+    "id": 300005009,
+    "m_event_id": 300005,
+    "m_character_id": 1300028,
+    "character_asset_id": "105701000G",
+    "position": 1,
+    "face": "Unique01",
+    "serif": "皆、楽しそう……\nほら、何してるの下僕。\n私たちもいくわよ！",
+    "serif_type": 2
+  },
+  {
+    "id": 300005010,
+    "m_event_id": 300005,
+    "m_character_id": 1300028,
+    "character_asset_id": "105701000G",
+    "position": 1,
+    "face": "Happy",
+    "serif": "あー、楽しかった♪\nはい、これはオーレリナと\n一緒に買ったお土産ね",
+    "serif_type": 2
+  },
+  {
+    "id": 300005011,
+    "m_event_id": 300005,
+    "m_character_id": 1300036,
+    "character_asset_id": "107001000G",
+    "position": 1,
+    "face": "Happy",
+    "serif": "お金だけが事業の\nリターンじゃないわ。\n例えば皆の笑顔……とかね",
+    "serif_type": 2
+  },
+  {
+    "id": 300005012,
+    "m_event_id": 300005,
+    "m_character_id": 1300036,
+    "character_asset_id": "107001000G",
+    "position": 1,
+    "face": "Fun",
+    "serif": "パウリーナったら……\nふふっ、たまにはこうして\n友達と遊ぶのもいいものね",
+    "serif_type": 2
+  },
+  {
     "id": 50000101,
     "m_event_id": 500001,
     "m_character_id": 1300027,
@@ -677,6 +797,16 @@
     "position": 1,
     "face": "Normal",
     "serif": "大穴はまさに宝の山♪\n貴重な鉱石や素材の鑑定は\nエルドラーナにおまかせ～",
+    "serif_type": 0
+  },
+  {
+    "id": 80000401,
+    "m_event_id": 800004,
+    "m_character_id": 1300002,
+    "character_asset_id": "300201000",
+    "position": 1,
+    "face": "Normal",
+    "serif": "前線基地が認めてもらえるように\nがんばりましょうっ！",
     "serif_type": 0
   },
   {

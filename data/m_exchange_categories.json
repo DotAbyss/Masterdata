@@ -91,41 +91,41 @@
   },
   {
     "id": 107,
-    "category_name": "アビスシール交換所",
+    "category_name": "【旧】アビスシール交換所",
     "cost_content_type": 30,
     "cost_content_id": 220001,
     "start_at": "2024-01-01 00:00:00",
-    "end_at": "2038-01-01 00:00:00",
+    "end_at": "2026-10-01 04:59:59",
     "display_order": 900,
     "asset_id": "5000215"
   },
   {
     "id": 108,
-    "category_name": "金のマテリアル交換所",
+    "category_name": "【旧】金のマテリアル交換所",
     "cost_content_type": 30,
     "cost_content_id": 230003,
     "start_at": "2024-01-01 00:00:00",
-    "end_at": "2038-01-01 00:00:00",
+    "end_at": "2026-10-01 04:59:59",
     "display_order": 500,
     "asset_id": "5000216"
   },
   {
     "id": 109,
-    "category_name": "紫銀のマテリアル交換所",
+    "category_name": "【旧】紫銀のマテリアル交換所",
     "cost_content_type": 30,
     "cost_content_id": 230002,
     "start_at": "2024-01-01 00:00:00",
-    "end_at": "2038-01-01 00:00:00",
+    "end_at": "2026-10-01 04:59:59",
     "display_order": 501,
     "asset_id": "5000217"
   },
   {
     "id": 110,
-    "category_name": "銀のマテリアル交換所",
+    "category_name": "【旧】銀のマテリアル交換所",
     "cost_content_type": 30,
     "cost_content_id": 230001,
     "start_at": "2024-01-01 00:00:00",
-    "end_at": "2038-01-01 00:00:00",
+    "end_at": "2026-10-01 04:59:59",
     "display_order": 502,
     "asset_id": "5000218"
   },
@@ -148,6 +148,46 @@
     "end_at": "2038-01-01 00:00:00",
     "display_order": 401,
     "asset_id": "5000223"
+  },
+  {
+    "id": 113,
+    "category_name": "【新】金のマテリアル交換所",
+    "cost_content_type": 30,
+    "cost_content_id": 230003,
+    "start_at": "2026-10-01 05:00:00",
+    "end_at": "2038-01-01 00:00:00",
+    "display_order": 500,
+    "asset_id": "5000216"
+  },
+  {
+    "id": 114,
+    "category_name": "【新】紫銀のマテリアル交換所",
+    "cost_content_type": 30,
+    "cost_content_id": 230002,
+    "start_at": "2026-10-01 05:00:00",
+    "end_at": "2038-01-01 00:00:00",
+    "display_order": 501,
+    "asset_id": "5000217"
+  },
+  {
+    "id": 115,
+    "category_name": "【新】銀のマテリアル交換所",
+    "cost_content_type": 30,
+    "cost_content_id": 230001,
+    "start_at": "2026-10-01 05:00:00",
+    "end_at": "2038-01-01 00:00:00",
+    "display_order": 502,
+    "asset_id": "5000218"
+  },
+  {
+    "id": 116,
+    "category_name": "【新】アビスシール交換所",
+    "cost_content_type": 30,
+    "cost_content_id": 220001,
+    "start_at": "2026-10-01 05:00:00",
+    "end_at": "2038-01-01 00:00:00",
+    "display_order": 900,
+    "asset_id": "5000215"
   },
   {
     "id": 300001,
@@ -186,6 +226,16 @@
     "cost_content_id": 3003,
     "start_at": "2026-08-31 13:00:00",
     "end_at": "2026-09-16 04:59:59",
+    "display_order": 1,
+    "asset_id": ""
+  },
+  {
+    "id": 300005,
+    "category_name": "皇立ペルディオン遊園地～ツンデレ皇女と投資姫の夢～",
+    "cost_content_type": 54,
+    "cost_content_id": 3004,
+    "start_at": "2026-09-30 13:00:00",
+    "end_at": "2026-10-16 04:59:59",
     "display_order": 1,
     "asset_id": ""
   },

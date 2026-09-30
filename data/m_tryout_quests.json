@@ -1,20 +1,20 @@
 [
-  [
-    30001001,
-    "ドMナイト先輩(弱点属性なし)",
-    1000,
-    1,
-    1000,
-    0,
-    "2057001",
-    "30000",
-    0,
-    0,
-    0,
-    0,
-    "",
-    180,
-    0,
-    1
-  ]
+  {
+    "id": 30001001,
+    "name": "ドMナイト先輩(弱点属性なし)",
+    "recommended_power": 1000,
+    "stage_type": 1,
+    "stage_id": 1000,
+    "stage_effect_no": 0,
+    "image_id": "2057001",
+    "bgm_id": "30000",
+    "m_fixed_party_id": 0,
+    "m_fixed_fort_id": 0,
+    "m_ally_id_1": 0,
+    "m_ally_id_2": 0,
+    "suggest_elements": "",
+    "time_limit": 180,
+    "m_party_restriction_group_no": 0,
+    "display_order": 1
+  }
 ]

@@ -450,6 +450,21 @@
     "display_order": 2
   },
   {
+    "id": 130002801,
+    "weapon_type": 1040,
+    "rarity": 2,
+    "name": "黒き不死鳥の弓",
+    "description": "ペルディオンの皇女パウリーナが持つ黒き弓。\n魔力を籠めた複数の矢は、標的を豪快に爆破し焦がす。\n魅了の輝きで心を奪い皇女としての覇気を見せつける。",
+    "m_character_id": 1300028,
+    "is_default": 0,
+    "is_paid": 1,
+    "bonus_bond_point": 0,
+    "is_collabo": 0,
+    "released_at": "2026-09-30 13:00:00",
+    "asset_id": "41054007",
+    "display_order": 2
+  },
+  {
     "id": 130002901,
     "weapon_type": 1010,
     "rarity": 2,
@@ -537,6 +552,21 @@
     "is_collabo": 0,
     "released_at": "2026-07-10 12:00:00",
     "asset_id": "41064009",
+    "display_order": 2
+  },
+  {
+    "id": 130003601,
+    "weapon_type": 1020,
+    "rarity": 2,
+    "name": "パラソル・セイバー",
+    "description": "投資で稼いだオーレリナの特注品の傘型両手剣。\n閉じれば鋭い両手剣、拡げれば強力な盾に変わる。\n膨大な富で優雅さと強さを両立した至高の武器。",
+    "m_character_id": 1300036,
+    "is_default": 0,
+    "is_paid": 1,
+    "bonus_bond_point": 0,
+    "is_collabo": 0,
+    "released_at": "2026-09-30 13:00:00",
+    "asset_id": "41024009",
     "display_order": 2
   },
   {

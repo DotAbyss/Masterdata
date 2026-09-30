@@ -258,5 +258,25 @@
     "pos_x": -13,
     "pos_z": -28,
     "direction_type": 0
+  },
+  {
+    "id": 29,
+    "m_home_stage_group_id": 21,
+    "m_character_id": 1300028,
+    "m_character_skin_id": 130002801,
+    "serif": "ペルディオン皇女の誇りを\n見せてあげるわ。光栄に思いなさい",
+    "pos_x": 45,
+    "pos_z": -50,
+    "direction_type": 0
+  },
+  {
+    "id": 30,
+    "m_home_stage_group_id": 21,
+    "m_character_id": 1300036,
+    "m_character_skin_id": 130003601,
+    "serif": "お金に困っているなら私を頼りなさい。\nあなたにならいくらでも投資するわ",
+    "pos_x": -45,
+    "pos_z": 35,
+    "direction_type": 1
   }
 ]

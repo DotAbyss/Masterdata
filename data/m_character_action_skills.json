@@ -791,6 +791,20 @@
     "description": "さらに味方フロント全体に攻撃力UP【{[ATTACKUP.RATE_PERCENT]} / 15秒】を付与 / 紋章：情熱が5以上のとき、味方フロント全体に自身の最大HP【{[ZEAL.BARRIER.RATE]}】分のバリア【15秒】を付与"
   },
   {
+    "id": 1300028000,
+    "m_character_id": 1300028,
+    "trigger_type": 20,
+    "name": "インペリアル・チャーム",
+    "description": "最も遠い敵を中心とした範囲内にいる敵全体に魅了【5秒 / 成功率:{[PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY]}】を付与 / 【5HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 自身に紋章：衝撃を【1】付与"
+  },
+  {
+    "id": 1300028001,
+    "m_character_id": 1300028,
+    "trigger_type": 30,
+    "name": "インペリアル・チャーム",
+    "description": "光・闇・無属性の味方バック全体に魅了状態の敵に対して与ダメージUP【{[ABNORMALCHARMEDTARGETDAMAGEUP.RATE_PERCENT]} / 15秒】を付与 / 紋章：衝撃を10消費し、自身を除く光・闇・無属性の味方バック全体に会心率UP【{[IMPACTSUCCESS.CRITICALUP.FIXED_PERCENT]} / 15秒】を付与 / 魅了状態の敵に対してダメージ倍率が【{[IMPACTSUCCESS.PRJCTL.LAND.DAMAGE.ENHANCE_0.DAMAGE_PERCENT]}】上昇"
+  },
+  {
     "id": 1300029000,
     "m_character_id": 1300029,
     "trigger_type": 20,
@@ -887,6 +901,20 @@
     "trigger_type": 30,
     "name": "ガチ恋♡デビルハート",
     "description": "魅了の付与秒数が【{[IMPACTFAILED.PRJCTL.LAND.ABNORMAL.DURATION:1]秒}】に変化 / 紋章：衝撃を5消費し、ダメージ倍率が【{[IMPACTSUCCEED.PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT]}】に変化"
+  },
+  {
+    "id": 1300036000,
+    "m_character_id": 1300036,
+    "trigger_type": 20,
+    "name": "レバレッジ・スパイラル",
+    "description": "自身に会心率UP【{[CRITICALUP.FIXED_PERCENT]}】を付与【累積 / 最大30%】 / 最も近い敵1体に【3HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 自身に紋章：情熱を【1】付与"
+  },
+  {
+    "id": 1300036001,
+    "m_character_id": 1300036,
+    "trigger_type": 30,
+    "name": "レバレッジ・スパイラル",
+    "description": "ダメージ倍率が【{[DAMAGE.DAMAGE_PERCENT]}】に変化 / 紋章：情熱が5以上のとき、自身に会心ダメージ倍率UP【25% / {[ZEAL.CRITICALDAMAGERATEUP.DURATION]秒}】を付与"
   },
   {
     "id": 1300037000,

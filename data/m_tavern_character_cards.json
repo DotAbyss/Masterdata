@@ -834,5 +834,27 @@
     "m_tavern_card_effect_id_1": 102004,
     "m_tavern_card_effect_id_2": 401005,
     "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 13000280,
+    "m_character_id": 1300028,
+    "m_character_skin_id": 130002802,
+    "name": "パウリーナの提案",
+    "effect_type": 2,
+    "description": "ランダムな「ペルディオン」の\nスタッフ最大1体に「料理」を付与。\nそれらのスタッフの満足度+100%",
+    "m_tavern_card_effect_id_1": 100006,
+    "m_tavern_card_effect_id_2": 401013,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 13000360,
+    "m_character_id": 1300036,
+    "m_character_skin_id": 130003602,
+    "name": "オーレリナの提案",
+    "effect_type": 3,
+    "description": "次ターンの営業カードが必ず「ドリンク」関連のものになる。\nミレスガルドのスタッフの満足度+20％",
+    "m_tavern_card_effect_id_1": 500000,
+    "m_tavern_card_effect_id_2": 401004,
+    "m_tavern_card_effect_id_3": 0
   }
 ]

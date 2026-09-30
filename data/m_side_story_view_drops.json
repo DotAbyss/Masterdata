@@ -1,100 +1,100 @@
 [
-  [
-    400,
-    1022001004,
-    30,
-    230001,
-    0
-  ],
-  [
-    401,
-    1022001004,
-    30,
-    230002,
-    0
-  ],
-  [
-    402,
-    1022001004,
-    70,
-    16010410,
-    0
-  ],
-  [
-    403,
-    1022001004,
-    80,
-    22010410,
-    0
-  ],
-  [
-    404,
-    1022001004,
-    70,
-    16010420,
-    0
-  ],
-  [
-    405,
-    1022001004,
-    80,
-    22010420,
-    0
-  ],
-  [
-    406,
-    1022001004,
-    70,
-    16010430,
-    0
-  ],
-  [
-    407,
-    1022001004,
-    80,
-    22010430,
-    0
-  ],
-  [
-    408,
-    1022001004,
-    90,
-    30010440,
-    1
-  ],
-  [
-    409,
-    1022001004,
-    90,
-    30020440,
-    1
-  ],
-  [
-    410,
-    1022001004,
-    90,
-    30030440,
-    1
-  ],
-  [
-    411,
-    1022001004,
-    90,
-    30040440,
-    0
-  ],
-  [
-    412,
-    1022001004,
-    90,
-    30050440,
-    0
-  ],
-  [
-    413,
-    1022001004,
-    90,
-    30060440,
-    0
-  ]
+  {
+    "id": 400,
+    "m_side_story_quest_id": 1022001004,
+    "content_type": 30,
+    "content_id": 230001,
+    "is_rare_drop": 0
+  },
+  {
+    "id": 401,
+    "m_side_story_quest_id": 1022001004,
+    "content_type": 30,
+    "content_id": 230002,
+    "is_rare_drop": 0
+  },
+  {
+    "id": 402,
+    "m_side_story_quest_id": 1022001004,
+    "content_type": 70,
+    "content_id": 16010410,
+    "is_rare_drop": 0
+  },
+  {
+    "id": 403,
+    "m_side_story_quest_id": 1022001004,
+    "content_type": 80,
+    "content_id": 22010410,
+    "is_rare_drop": 0
+  },
+  {
+    "id": 404,
+    "m_side_story_quest_id": 1022001004,
+    "content_type": 70,
+    "content_id": 16010420,
+    "is_rare_drop": 0
+  },
+  {
+    "id": 405,
+    "m_side_story_quest_id": 1022001004,
+    "content_type": 80,
+    "content_id": 22010420,
+    "is_rare_drop": 0
+  },
+  {
+    "id": 406,
+    "m_side_story_quest_id": 1022001004,
+    "content_type": 70,
+    "content_id": 16010430,
+    "is_rare_drop": 0
+  },
+  {
+    "id": 407,
+    "m_side_story_quest_id": 1022001004,
+    "content_type": 80,
+    "content_id": 22010430,
+    "is_rare_drop": 0
+  },
+  {
+    "id": 408,
+    "m_side_story_quest_id": 1022001004,
+    "content_type": 90,
+    "content_id": 30010440,
+    "is_rare_drop": 1
+  },
+  {
+    "id": 409,
+    "m_side_story_quest_id": 1022001004,
+    "content_type": 90,
+    "content_id": 30020440,
+    "is_rare_drop": 1
+  },
+  {
+    "id": 410,
+    "m_side_story_quest_id": 1022001004,
+    "content_type": 90,
+    "content_id": 30030440,
+    "is_rare_drop": 1
+  },
+  {
+    "id": 411,
+    "m_side_story_quest_id": 1022001004,
+    "content_type": 90,
+    "content_id": 30040440,
+    "is_rare_drop": 0
+  },
+  {
+    "id": 412,
+    "m_side_story_quest_id": 1022001004,
+    "content_type": 90,
+    "content_id": 30050440,
+    "is_rare_drop": 0
+  },
+  {
+    "id": 413,
+    "m_side_story_quest_id": 1022001004,
+    "content_type": 90,
+    "content_id": 30060440,
+    "is_rare_drop": 0
+  }
 ]

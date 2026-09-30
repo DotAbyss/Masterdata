@@ -1,65 +1,65 @@
 [
-  [
-    1000100101,
-    10001001,
-    2,
-    1020404,
-    0
-  ],
-  [
-    1000100201,
-    10001002,
-    1,
-    10001001,
-    0
-  ],
-  [
-    1000100301,
-    10001003,
-    2,
-    2020501,
-    0
-  ],
-  [
-    1000100401,
-    10001004,
-    2,
-    3020501,
-    0
-  ],
-  [
-    1000200101,
-    10002001,
-    2,
-    1040503,
-    0
-  ],
-  [
-    1000200201,
-    10002002,
-    1,
-    10002001,
-    0
-  ],
-  [
-    1000200301,
-    10002003,
-    1,
-    10002002,
-    0
-  ],
-  [
-    1000200401,
-    10002004,
-    2,
-    2040501,
-    0
-  ],
-  [
-    1000200501,
-    10002005,
-    2,
-    3040501,
-    0
-  ]
+  {
+    "id": 1000100101,
+    "m_coaching_quest_id": 10001001,
+    "restrict_type": 2,
+    "restrict_param_1": 1020404,
+    "restrict_param_2": 0
+  },
+  {
+    "id": 1000100201,
+    "m_coaching_quest_id": 10001002,
+    "restrict_type": 1,
+    "restrict_param_1": 10001001,
+    "restrict_param_2": 0
+  },
+  {
+    "id": 1000100301,
+    "m_coaching_quest_id": 10001003,
+    "restrict_type": 2,
+    "restrict_param_1": 2020501,
+    "restrict_param_2": 0
+  },
+  {
+    "id": 1000100401,
+    "m_coaching_quest_id": 10001004,
+    "restrict_type": 2,
+    "restrict_param_1": 3020501,
+    "restrict_param_2": 0
+  },
+  {
+    "id": 1000200101,
+    "m_coaching_quest_id": 10002001,
+    "restrict_type": 2,
+    "restrict_param_1": 1040503,
+    "restrict_param_2": 0
+  },
+  {
+    "id": 1000200201,
+    "m_coaching_quest_id": 10002002,
+    "restrict_type": 1,
+    "restrict_param_1": 10002001,
+    "restrict_param_2": 0
+  },
+  {
+    "id": 1000200301,
+    "m_coaching_quest_id": 10002003,
+    "restrict_type": 1,
+    "restrict_param_1": 10002002,
+    "restrict_param_2": 0
+  },
+  {
+    "id": 1000200401,
+    "m_coaching_quest_id": 10002004,
+    "restrict_type": 2,
+    "restrict_param_1": 2040501,
+    "restrict_param_2": 0
+  },
+  {
+    "id": 1000200501,
+    "m_coaching_quest_id": 10002005,
+    "restrict_type": 2,
+    "restrict_param_1": 3040501,
+    "restrict_param_2": 0
+  }
 ]

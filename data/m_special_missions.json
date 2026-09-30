@@ -10,7 +10,7 @@
     "m_character_skins_id": 120000202,
     "bg_name": "abg11000b",
     "logo_id": 1200001,
-    "key_11": 300
+    "display_order": 300
   },
   {
     "id": 102,
@@ -23,7 +23,7 @@
     "m_character_skins_id": 130005601,
     "bg_name": "abg11000b",
     "logo_id": 1200003,
-    "key_11": 200
+    "display_order": 200
   },
   {
     "id": 103,
@@ -36,6 +36,6 @@
     "m_character_skins_id": 130005601,
     "bg_name": "abg11000b",
     "logo_id": 1200004,
-    "key_11": 100
+    "display_order": 100
   }
 ]

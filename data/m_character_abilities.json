@@ -1080,6 +1080,30 @@
     "order": 3
   },
   {
+    "id": 130002801,
+    "m_character_id": 1300028,
+    "asset_id": "Ability_SpecialAttack_01",
+    "name": "フォールン・ハート",
+    "ability_no": 10077,
+    "order": 1
+  },
+  {
+    "id": 130002802,
+    "m_character_id": 1300028,
+    "asset_id": "Ability_Attack_01",
+    "name": "アウトレンジ・マスタリー",
+    "ability_no": 10078,
+    "order": 2
+  },
+  {
+    "id": 130002803,
+    "m_character_id": 1300028,
+    "asset_id": "Ability_Attack_01",
+    "name": "皇女のカリスマ",
+    "ability_no": 10079,
+    "order": 3
+  },
+  {
     "id": 130002901,
     "m_character_id": 1300029,
     "asset_id": "Ability_SpecialAttack_01",
@@ -1245,6 +1269,30 @@
     "asset_id": "Ability_Manatype_Grant",
     "name": "おけまるトラップ",
     "ability_no": 10166,
+    "order": 3
+  },
+  {
+    "id": 130003601,
+    "m_character_id": 1300036,
+    "asset_id": "Ability_SpecialAttack_01",
+    "name": "スプレッド・リターン",
+    "ability_no": 10205,
+    "order": 1
+  },
+  {
+    "id": 130003602,
+    "m_character_id": 1300036,
+    "asset_id": "Ability_Critical_01",
+    "name": "ファンド・マスタリー",
+    "ability_no": 10206,
+    "order": 2
+  },
+  {
+    "id": 130003603,
+    "m_character_id": 1300036,
+    "asset_id": "Ability_Attack_01",
+    "name": "投資家の慧眼",
+    "ability_no": 10207,
     "order": 3
   },
   {

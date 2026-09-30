@@ -1024,6 +1024,22 @@
     "display_order": 1
   },
   {
+    "id": 120001704,
+    "m_character_id": 1200017,
+    "type": 1,
+    "rarity": 2,
+    "name": "異世界サマーメモリアル",
+    "description": "未知なる世界で訪れた束の間のおやすみ。\n波音と海風に包まれた、とびきり甘くて特別な夏の記録。\n砂浜での思い出とともに、彼女の笑顔が眩しく輝く。",
+    "serif": "やっぱりちょっと恥ずかしいな……。\nしれーかんの前でこんなカッコ……",
+    "is_default": 0,
+    "bonus_bond_point": 0,
+    "is_collabo": 0,
+    "released_at": "2026-09-30 13:00:00",
+    "asset_id": "106601002G",
+    "bg_asset_id": "abg10100a",
+    "display_order": 3
+  },
+  {
     "id": 120001801,
     "m_character_id": 1200018,
     "type": 1,
@@ -1118,6 +1134,22 @@
     "asset_id": "100901000X",
     "bg_asset_id": "abg10100a",
     "display_order": 1
+  },
+  {
+    "id": 130000103,
+    "m_character_id": 1300001,
+    "type": 1,
+    "rarity": 1,
+    "name": "勝利を呼ぶチアリーダー",
+    "description": "彼女が舞い、声援を送るたびに、\n戦場の士気は最高潮に達する。\nその姿は、勝利へ導く希望の女神だ。",
+    "serif": "チアリーディング効果……！？\nえ～と、これを振るだけでいいの！？",
+    "is_default": 0,
+    "bonus_bond_point": 0,
+    "is_collabo": 0,
+    "released_at": "2026-09-30 13:00:00",
+    "asset_id": "100901001G",
+    "bg_asset_id": "abg10100a",
+    "display_order": 2
   },
   {
     "id": 130000201,
@@ -1952,6 +1984,38 @@
     "display_order": 1
   },
   {
+    "id": 130002801,
+    "m_character_id": 1300028,
+    "type": 1,
+    "rarity": 1,
+    "name": "パウリーナ基本コスチューム",
+    "description": "パウリーナの基本コスチュームです。",
+    "serif": "ペルディオン皇女の誇りを\n見せてあげるわ。光栄に思いなさい",
+    "is_default": 1,
+    "bonus_bond_point": 0,
+    "is_collabo": 0,
+    "released_at": "2026-09-30 13:00:00",
+    "asset_id": "105701000G",
+    "bg_asset_id": "abg10100a",
+    "display_order": 1
+  },
+  {
+    "id": 130002802,
+    "m_character_id": 1300028,
+    "type": 2,
+    "rarity": 1,
+    "name": "パウリーナおしごと時基本コスチューム",
+    "description": "パウリーナの基本コスチュームです。",
+    "serif": "ペルディオン皇女の誇りを\n見せてあげるわ。光栄に思いなさい",
+    "is_default": 1,
+    "bonus_bond_point": 0,
+    "is_collabo": 0,
+    "released_at": "2026-09-30 13:00:00",
+    "asset_id": "105701000X",
+    "bg_asset_id": "abg10100a",
+    "display_order": 1
+  },
+  {
     "id": 130002901,
     "m_character_id": 1300029,
     "type": 1,
@@ -2238,6 +2302,38 @@
     "asset_id": "106901001G",
     "bg_asset_id": "abg10100a",
     "display_order": 2
+  },
+  {
+    "id": 130003601,
+    "m_character_id": 1300036,
+    "type": 1,
+    "rarity": 1,
+    "name": "オーレリナ基本コスチューム",
+    "description": "オーレリナの基本コスチュームです。",
+    "serif": "お金に困っているなら私を頼りなさい。\nあなたにならいくらでも投資するわ",
+    "is_default": 1,
+    "bonus_bond_point": 0,
+    "is_collabo": 0,
+    "released_at": "2026-09-30 13:00:00",
+    "asset_id": "107001000G",
+    "bg_asset_id": "abg10100a",
+    "display_order": 1
+  },
+  {
+    "id": 130003602,
+    "m_character_id": 1300036,
+    "type": 2,
+    "rarity": 1,
+    "name": "オーレリナおしごと時基本コスチューム",
+    "description": "オーレリナの基本コスチュームです。",
+    "serif": "お金に困っているなら私を頼りなさい。\nあなたにならいくらでも投資するわ",
+    "is_default": 1,
+    "bonus_bond_point": 0,
+    "is_collabo": 0,
+    "released_at": "2026-09-30 13:00:00",
+    "asset_id": "107001000X",
+    "bg_asset_id": "abg10100a",
+    "display_order": 1
   },
   {
     "id": 130003701,

@@ -173,5 +173,19 @@
     "sub_category_id": 22,
     "category_text": "ヴェスペラ登場記念",
     "display_order_desc": 20
+  },
+  {
+    "id": 26,
+    "category": 2,
+    "sub_category_id": 23,
+    "category_text": "ストーリーイベント(前半)",
+    "display_order_desc": 21
+  },
+  {
+    "id": 27,
+    "category": 2,
+    "sub_category_id": 24,
+    "category_text": "ストーリーイベント(後半)",
+    "display_order_desc": 22
   }
 ]
