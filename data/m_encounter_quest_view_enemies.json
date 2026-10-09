@@ -9305,37 +9305,79 @@
   {
     "id": 16600,
     "m_encounter_quest_id": 1080306,
-    "m_enemy_id": 160163101,
-    "is_boss": 1,
-    "asset_id": "2001402"
+    "m_enemy_id": 160163201,
+    "is_boss": 0,
+    "asset_id": "2005301"
   },
   {
     "id": 16601,
     "m_encounter_quest_id": 1080306,
-    "m_enemy_id": 160163102,
+    "m_enemy_id": 160163202,
     "is_boss": 0,
-    "asset_id": "2001401"
+    "asset_id": "2006301"
   },
   {
     "id": 16602,
     "m_encounter_quest_id": 1080306,
-    "m_enemy_id": 160163103,
+    "m_enemy_id": 160163203,
     "is_boss": 0,
-    "asset_id": "2014401"
+    "asset_id": "2007301"
   },
   {
     "id": 16603,
     "m_encounter_quest_id": 1080306,
-    "m_enemy_id": 160163104,
+    "m_enemy_id": 160163204,
     "is_boss": 0,
-    "asset_id": "2016401"
+    "asset_id": "2001302"
   },
   {
     "id": 16604,
     "m_encounter_quest_id": 1080306,
-    "m_enemy_id": 160163105,
+    "m_enemy_id": 160163205,
     "is_boss": 0,
-    "asset_id": "2031401"
+    "asset_id": "2004301"
+  },
+  {
+    "id": 16605,
+    "m_encounter_quest_id": 1080306,
+    "m_enemy_id": 160163206,
+    "is_boss": 0,
+    "asset_id": "2001301"
+  },
+  {
+    "id": 16606,
+    "m_encounter_quest_id": 1080306,
+    "m_enemy_id": 160163207,
+    "is_boss": 0,
+    "asset_id": "2008301"
+  },
+  {
+    "id": 16607,
+    "m_encounter_quest_id": 1080306,
+    "m_enemy_id": 160163208,
+    "is_boss": 0,
+    "asset_id": "2003301"
+  },
+  {
+    "id": 16608,
+    "m_encounter_quest_id": 1080306,
+    "m_enemy_id": 160163215,
+    "is_boss": 0,
+    "asset_id": "2015301"
+  },
+  {
+    "id": 16609,
+    "m_encounter_quest_id": 1080306,
+    "m_enemy_id": 160163216,
+    "is_boss": 0,
+    "asset_id": "2016301"
+  },
+  {
+    "id": 16610,
+    "m_encounter_quest_id": 1080306,
+    "m_enemy_id": 160163217,
+    "is_boss": 1,
+    "asset_id": "2045001"
   },
   {
     "id": 16700,
