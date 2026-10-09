@@ -278,5 +278,25 @@
     "pos_x": -45,
     "pos_z": 35,
     "direction_type": 1
+  },
+  {
+    "id": 31,
+    "m_home_stage_group_id": 22,
+    "m_character_id": 1300058,
+    "m_character_skin_id": 130005801,
+    "serif": "アカデミーからきましたステミアです。\nはあ、どうして私がこんな辺境に……",
+    "pos_x": -13,
+    "pos_z": -28,
+    "direction_type": 0
+  },
+  {
+    "id": 32,
+    "m_home_stage_group_id": 23,
+    "m_character_id": 1300043,
+    "m_character_skin_id": 130004301,
+    "serif": "え？　ボクのチェーンソーの出番？　\nこ、心の準備が……！",
+    "pos_x": -13,
+    "pos_z": -28,
+    "direction_type": 0
   }
 ]

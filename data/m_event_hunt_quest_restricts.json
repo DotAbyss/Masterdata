@@ -178,5 +178,65 @@
     "m_event_hunt_quest_id": 500003206,
     "m_event_hunt_quest_restrict_id": 500003205,
     "description": "フェルトゥーナ＆リコリット LV80をクリアで開放"
+  },
+  {
+    "id": 31,
+    "m_event_hunt_quest_id": 500004102,
+    "m_event_hunt_quest_restrict_id": 500004101,
+    "description": "ステミア模擬戦 Lv10をクリアで開放"
+  },
+  {
+    "id": 32,
+    "m_event_hunt_quest_id": 500004103,
+    "m_event_hunt_quest_restrict_id": 500004102,
+    "description": "ステミア模擬戦 Lv30をクリアで開放"
+  },
+  {
+    "id": 33,
+    "m_event_hunt_quest_id": 500004104,
+    "m_event_hunt_quest_restrict_id": 500004103,
+    "description": "ステミア模擬戦 Lv40をクリアで開放"
+  },
+  {
+    "id": 34,
+    "m_event_hunt_quest_id": 500004106,
+    "m_event_hunt_quest_restrict_id": 500004105,
+    "description": "メイベル模擬戦 Lv20をクリアで開放"
+  },
+  {
+    "id": 35,
+    "m_event_hunt_quest_id": 500004107,
+    "m_event_hunt_quest_restrict_id": 500004106,
+    "description": "メイベル模擬戦 Lv40をクリアで開放"
+  },
+  {
+    "id": 36,
+    "m_event_hunt_quest_id": 500004108,
+    "m_event_hunt_quest_restrict_id": 500004107,
+    "description": "メイベル模擬戦 Lv55をクリアで開放"
+  },
+  {
+    "id": 37,
+    "m_event_hunt_quest_id": 500004202,
+    "m_event_hunt_quest_restrict_id": 500004201,
+    "description": "ステミア LV40をクリアで開放"
+  },
+  {
+    "id": 38,
+    "m_event_hunt_quest_id": 500004203,
+    "m_event_hunt_quest_restrict_id": 500004202,
+    "description": "ステミア LV60をクリアで開放"
+  },
+  {
+    "id": 39,
+    "m_event_hunt_quest_id": 500004205,
+    "m_event_hunt_quest_restrict_id": 500004204,
+    "description": "ステミア＆メイベル LV50をクリアで開放"
+  },
+  {
+    "id": 40,
+    "m_event_hunt_quest_id": 500004206,
+    "m_event_hunt_quest_restrict_id": 500004205,
+    "description": "ステミア＆メイベル LV80をクリアで開放"
   }
 ]

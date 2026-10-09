@@ -9612,6 +9612,24 @@
     "mana_type": 3
   },
   {
+    "id": 12070340,
+    "asset_id": "41023003",
+    "name": "フェイタルバスター",
+    "weapon_type": 1020,
+    "group_no": 207,
+    "rank": 3,
+    "rarity": 4,
+    "up_parameter_type": 2,
+    "basic_parameter": 368,
+    "min_parameter": 0,
+    "max_parameter": 157,
+    "lottery_interval": 1,
+    "base_power": 1000,
+    "mileage": 500,
+    "flavor_text": "穏やかな光を纏う神秘的な大剣\n紋章：情熱に反応して味方の攻撃力を高める",
+    "mana_type": 2
+  },
+  {
     "id": 13040340,
     "asset_id": "41033002",
     "name": "龍牙のナックル",
@@ -9720,6 +9738,24 @@
     "mana_type": 3
   },
   {
+    "id": 14070340,
+    "asset_id": "41053003",
+    "name": "龍雷弓",
+    "weapon_type": 1040,
+    "group_no": 407,
+    "rank": 3,
+    "rarity": 4,
+    "up_parameter_type": 2,
+    "basic_parameter": 417,
+    "min_parameter": 0,
+    "max_parameter": 178,
+    "lottery_interval": 1,
+    "base_power": 1000,
+    "mileage": 500,
+    "flavor_text": "雷を纏う龍を模した弓\n紋章：衝撃の力を解放した際にスキルチャージを高める",
+    "mana_type": 3
+  },
+  {
     "id": 15040340,
     "asset_id": "41063002",
     "name": "エーテルノヴァブラスター",
@@ -9734,7 +9770,7 @@
     "lottery_interval": 1,
     "base_power": 1000,
     "mileage": 500,
-    "flavor_text": "異世界の銃、低温の衝撃を放ち、紋章：情熱の\n力の高まりに合わせて攻撃力が上昇する。\n\n",
+    "flavor_text": "異世界の銃、低温の衝撃を放ち、紋章：情熱の\n力の高まりに合わせて攻撃力が上昇する。",
     "mana_type": 2
   },
   {
@@ -10098,6 +10134,24 @@
     "mana_type": 3
   },
   {
+    "id": 12070440,
+    "asset_id": "41023003",
+    "name": "フェイタルバスター",
+    "weapon_type": 1020,
+    "group_no": 207,
+    "rank": 4,
+    "rarity": 4,
+    "up_parameter_type": 2,
+    "basic_parameter": 525,
+    "min_parameter": 0,
+    "max_parameter": 225,
+    "lottery_interval": 1,
+    "base_power": 1000,
+    "mileage": 500,
+    "flavor_text": "穏やかな光を纏う神秘的な大剣\n紋章：情熱に反応して味方の攻撃力を高める",
+    "mana_type": 2
+  },
+  {
     "id": 13040440,
     "asset_id": "41033002",
     "name": "龍牙のナックル",
@@ -10203,6 +10257,24 @@
     "base_power": 1000,
     "mileage": 500,
     "flavor_text": "謂れが謎に包まれた漆黒の弓。周囲の味方の\n紋章：衝撃の力を高める。",
+    "mana_type": 3
+  },
+  {
+    "id": 14070440,
+    "asset_id": "41053003",
+    "name": "龍雷弓",
+    "weapon_type": 1040,
+    "group_no": 407,
+    "rank": 4,
+    "rarity": 4,
+    "up_parameter_type": 2,
+    "basic_parameter": 595,
+    "min_parameter": 0,
+    "max_parameter": 255,
+    "lottery_interval": 1,
+    "base_power": 1000,
+    "mileage": 500,
+    "flavor_text": "雷を纏う龍を模した弓\n紋章：衝撃の力を解放した際にスキルチャージを高める",
     "mana_type": 3
   },
   {
@@ -10584,6 +10656,24 @@
     "mana_type": 3
   },
   {
+    "id": 12070540,
+    "asset_id": "41023003",
+    "name": "フェイタルバスター",
+    "weapon_type": 1020,
+    "group_no": 207,
+    "rank": 5,
+    "rarity": 4,
+    "up_parameter_type": 2,
+    "basic_parameter": 683,
+    "min_parameter": 0,
+    "max_parameter": 292,
+    "lottery_interval": 1,
+    "base_power": 1000,
+    "mileage": 500,
+    "flavor_text": "穏やかな光を纏う神秘的な大剣\n紋章：情熱に反応して味方の攻撃力を高める",
+    "mana_type": 2
+  },
+  {
     "id": 13040540,
     "asset_id": "41033002",
     "name": "龍牙のナックル",
@@ -10689,6 +10779,24 @@
     "base_power": 1000,
     "mileage": 500,
     "flavor_text": "謂れが謎に包まれた漆黒の弓。周囲の味方の\n紋章：衝撃の力を高める。",
+    "mana_type": 3
+  },
+  {
+    "id": 14070540,
+    "asset_id": "41053003",
+    "name": "龍雷弓",
+    "weapon_type": 1040,
+    "group_no": 407,
+    "rank": 5,
+    "rarity": 4,
+    "up_parameter_type": 2,
+    "basic_parameter": 774,
+    "min_parameter": 0,
+    "max_parameter": 331,
+    "lottery_interval": 1,
+    "base_power": 1000,
+    "mileage": 500,
+    "flavor_text": "雷を纏う龍を模した弓\n紋章：衝撃の力を解放した際にスキルチャージを高める",
     "mana_type": 3
   },
   {
@@ -11070,6 +11178,24 @@
     "mana_type": 3
   },
   {
+    "id": 12070541,
+    "asset_id": "41023003",
+    "name": "フェイタルバスター",
+    "weapon_type": 1020,
+    "group_no": 207,
+    "rank": 5,
+    "rarity": 4,
+    "up_parameter_type": 2,
+    "basic_parameter": 683,
+    "min_parameter": 0,
+    "max_parameter": 292,
+    "lottery_interval": 1,
+    "base_power": 1000,
+    "mileage": 500,
+    "flavor_text": "穏やかな光を纏う神秘的な大剣\n紋章：情熱に反応して味方の攻撃力を高める",
+    "mana_type": 2
+  },
+  {
     "id": 13040541,
     "asset_id": "41033002",
     "name": "龍牙のナックル",
@@ -11175,6 +11301,24 @@
     "base_power": 1000,
     "mileage": 500,
     "flavor_text": "謂れが謎に包まれた漆黒の弓。周囲の味方の\n紋章：衝撃の力を高める。",
+    "mana_type": 3
+  },
+  {
+    "id": 14070541,
+    "asset_id": "41053003",
+    "name": "龍雷弓",
+    "weapon_type": 1040,
+    "group_no": 407,
+    "rank": 5,
+    "rarity": 4,
+    "up_parameter_type": 2,
+    "basic_parameter": 774,
+    "min_parameter": 0,
+    "max_parameter": 331,
+    "lottery_interval": 1,
+    "base_power": 1000,
+    "mileage": 500,
+    "flavor_text": "雷を纏う龍を模した弓\n紋章：衝撃の力を解放した際にスキルチャージを高める",
     "mana_type": 3
   },
   {
@@ -15822,6 +15966,24 @@
     "mana_type": 3
   },
   {
+    "id": 18100340,
+    "asset_id": "41083004",
+    "name": "豪炎神のツルハシ",
+    "weapon_type": 1080,
+    "group_no": 810,
+    "rank": 3,
+    "rarity": 4,
+    "up_parameter_type": 2,
+    "basic_parameter": 368,
+    "min_parameter": 0,
+    "max_parameter": 157,
+    "lottery_interval": 1,
+    "base_power": 1000,
+    "mileage": 500,
+    "flavor_text": "クリスタルの力を宿すツルハシ\n紋章：情熱の力に反応して火属性の味方の防御力を高める。",
+    "mana_type": 2
+  },
+  {
     "id": 18110340,
     "asset_id": "41083005",
     "name": "海洋神のツルハシ",
@@ -15876,6 +16038,24 @@
     "mana_type": 3
   },
   {
+    "id": 18100440,
+    "asset_id": "41083004",
+    "name": "豪炎神のツルハシ",
+    "weapon_type": 1080,
+    "group_no": 810,
+    "rank": 4,
+    "rarity": 4,
+    "up_parameter_type": 2,
+    "basic_parameter": 525,
+    "min_parameter": 0,
+    "max_parameter": 225,
+    "lottery_interval": 1,
+    "base_power": 1000,
+    "mileage": 500,
+    "flavor_text": "クリスタルの力を宿すツルハシ\n紋章：情熱の力に反応して火属性の味方の防御力を高める。",
+    "mana_type": 2
+  },
+  {
     "id": 18110440,
     "asset_id": "41083005",
     "name": "海洋神のツルハシ",
@@ -15928,6 +16108,24 @@
     "mileage": 500,
     "flavor_text": "クリスタルの力を宿すツルハシ\n紋章：衝撃の力を解放した際に光属性の味方の連撃率が上昇する。",
     "mana_type": 3
+  },
+  {
+    "id": 18100540,
+    "asset_id": "41083004",
+    "name": "豪炎神のツルハシ",
+    "weapon_type": 1080,
+    "group_no": 810,
+    "rank": 5,
+    "rarity": 4,
+    "up_parameter_type": 2,
+    "basic_parameter": 683,
+    "min_parameter": 0,
+    "max_parameter": 292,
+    "lottery_interval": 1,
+    "base_power": 1000,
+    "mileage": 500,
+    "flavor_text": "クリスタルの力を宿すツルハシ\n紋章：情熱の力に反応して火属性の味方の防御力を高める。",
+    "mana_type": 2
   },
   {
     "id": 18110540,

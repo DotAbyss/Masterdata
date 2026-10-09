@@ -535,7 +535,7 @@
     "m_payment_pack_pack_id": 10054,
     "name": "クレハ武器スキンパック",
     "asset_id": "5010287",
-    "description": "[有償]アビスジェム×800\n▼以下おまけ\n[無償]アビスジェム×300\nクレハ専用武器スキン「羅刹の剣と盾」×1\n絆の追憶(能力強化)×1\nプレミアムガチャチケット×5",
+    "description": "[有償]アビスジェム×800\n▼以下おまけ\n[無償]アビスジェム×300\nクレハ専用武器スキン「羅刹の剣と盾」×1\n絆の追憶(能力強化)×1\nプレミアムガチャチケット×5\n\n注意事項）\n・クレハを獲得した後に\n　この武器スキンに着せ替えできるようになります。\n・本スキンは販売期間終了後に\n　今後再登場する可能性があります。",
     "has_r18": 1
   },
   {
@@ -546,7 +546,7 @@
     "m_payment_pack_pack_id": 10055,
     "name": "シラエス武器スキンパック",
     "asset_id": "5010288",
-    "description": "[有償]アビスジェム×800\n▼以下おまけ\n[無償]アビスジェム×300\nシラエス専用武器スキン「長き叡智の杖」×1\n絆の追憶(能力強化)×1\nプレミアムガチャチケット×5",
+    "description": "[有償]アビスジェム×800\n▼以下おまけ\n[無償]アビスジェム×300\nシラエス専用武器スキン「長き叡智の杖」×1\n絆の追憶(能力強化)×1\nプレミアムガチャチケット×5\n\n注意事項）\n・シラエスを獲得した後に\n　この武器スキンに着せ替えできるようになります。\n・本スキンは販売期間終了後に\n　今後再登場する可能性があります。",
     "has_r18": 1
   },
   {
@@ -590,7 +590,7 @@
     "m_payment_pack_pack_id": 10059,
     "name": "グラディア武器スキンパック",
     "asset_id": "5010293",
-    "description": "[有償]アビスジェム×800\n▼以下おまけ\n[無償]アビスジェム×300\nグラディア専用武器スキン「ハンマー・ドリル」×1\n絆の追憶(能力強化)×1\nプレミアムガチャチケット×5",
+    "description": "[有償]アビスジェム×800\n▼以下おまけ\n[無償]アビスジェム×300\nグラディア専用武器スキン「ハンマー・ドリル」×1\n絆の追憶(能力強化)×1\nプレミアムガチャチケット×5\n\n注意事項）\n・グラディアを獲得した後に\n　この武器スキンに着せ替えできるようになります。\n・本スキンは販売期間終了後に\n　今後再登場する可能性があります。",
     "has_r18": 1
   },
   {
@@ -2354,6 +2354,215 @@
     "has_r18": 1
   },
   {
+    "id": 10221,
+    "store_product_id": "com.dmm.games.dotabyss.lm_1201",
+    "currency_amount": 1200,
+    "price": 1500,
+    "m_payment_pack_pack_id": 10221,
+    "name": "PickUpキャラ ガチャチケットパック1",
+    "asset_id": "5010501",
+    "description": "[有償]アビスジェム×1200\n▼以下おまけ\nピックアップガチャチケット×5",
+    "has_r18": 1
+  },
+  {
+    "id": 10222,
+    "store_product_id": "com.dmm.games.dotabyss.lm_1202",
+    "currency_amount": 2400,
+    "price": 3000,
+    "m_payment_pack_pack_id": 10222,
+    "name": "PickUpキャラ ガチャチケットパック2",
+    "asset_id": "5010502",
+    "description": "[有償]アビスジェム×2400\n▼以下おまけ\nピックアップガチャチケット×10",
+    "has_r18": 1
+  },
+  {
+    "id": 10223,
+    "store_product_id": "com.dmm.games.dotabyss.lm_1203",
+    "currency_amount": 4800,
+    "price": 6000,
+    "m_payment_pack_pack_id": 10223,
+    "name": "PickUpキャラ ガチャチケットパック3",
+    "asset_id": "5010503",
+    "description": "[有償]アビスジェム×4800\n▼以下おまけ\nピックアップガチャチケット×20\n【凸】純真結晶引換券(ルクスノヴァ除く)×5",
+    "has_r18": 1
+  },
+  {
+    "id": 10224,
+    "store_product_id": "com.dmm.games.dotabyss.lm_1204",
+    "currency_amount": 9600,
+    "price": 12000,
+    "m_payment_pack_pack_id": 10224,
+    "name": "PickUpキャラ ガチャチケットパック4",
+    "asset_id": "5010504",
+    "description": "[有償]アビスジェム×9600\n▼以下おまけ\nピックアップガチャチケット×40\n【凸】純真結晶引換券(ルクスノヴァ除く)×15",
+    "has_r18": 1
+  },
+  {
+    "id": 10225,
+    "store_product_id": "com.dmm.games.dotabyss.lm_1205",
+    "currency_amount": 4000,
+    "price": 5000,
+    "m_payment_pack_pack_id": 10225,
+    "name": "【SSR確定】紅魔の栄光・大勲パック",
+    "asset_id": "5010523",
+    "description": "[有償]アビスジェム×4000\n▼以下おまけ\n【SSR確定】紅魔の栄光・大勲×50\nプレミアムガチャチケット×10\n【凸】純真結晶引換券(ルクスノヴァ除く)×10",
+    "has_r18": 1
+  },
+  {
+    "id": 10226,
+    "store_product_id": "com.dmm.games.dotabyss.lm_1206",
+    "currency_amount": 4000,
+    "price": 5000,
+    "m_payment_pack_pack_id": 10226,
+    "name": "【SSR確定】翠石の隆盛・大勲パック",
+    "asset_id": "5010524",
+    "description": "[有償]アビスジェム×4000\n▼以下おまけ\n【SSR確定】翠石の隆盛・大勲×50\nプレミアムガチャチケット×10\n【凸】純真結晶引換券(ルクスノヴァ除く)×10",
+    "has_r18": 1
+  },
+  {
+    "id": 10227,
+    "store_product_id": "com.dmm.games.dotabyss.lm_1207",
+    "currency_amount": 4000,
+    "price": 5000,
+    "m_payment_pack_pack_id": 10227,
+    "name": "【SSR確定】黒縄の連帯・大勲パック",
+    "asset_id": "5010525",
+    "description": "[有償]アビスジェム×4000\n▼以下おまけ\n【SSR確定】黒縄の連帯・大勲×50\nプレミアムガチャチケット×10\n【凸】純真結晶引換券(ルクスノヴァ除く)×10",
+    "has_r18": 1
+  },
+  {
+    "id": 10228,
+    "store_product_id": "com.dmm.games.dotabyss.lm_1208",
+    "currency_amount": 800,
+    "price": 1000,
+    "m_payment_pack_pack_id": 10228,
+    "name": "ステミア武器スキンパック",
+    "asset_id": "5010505",
+    "description": "[有償]アビスジェム×800\n▼以下おまけ\n[無償]アビスジェム×300\nステミア専用武器スキン「アカデミー正式研究目録」×1\n絆の追憶(能力強化)×1\nプレミアムガチャチケット×5\n\n注意事項）\n・ステミアを獲得した後に\n　この武器スキンに着せ替えできるようになります。\n・本スキンは販売期間終了後に\n　今後再登場する可能性があります。",
+    "has_r18": 1
+  },
+  {
+    "id": 10229,
+    "store_product_id": "com.dmm.games.dotabyss.lm_1209",
+    "currency_amount": 1200,
+    "price": 1500,
+    "m_payment_pack_pack_id": 10229,
+    "name": "ステミアアビリティ強化パック",
+    "asset_id": "5010506",
+    "description": "[有償]アビスジェム×1200\n▼以下おまけ\n[無償]アビスジェム×300\n特級技能元素（万能）×1\n初級技能元素(土)×15\n初級技能元素(バック)×15\n中級技能元素(土)×15\n中級技能元素(バック)×15\n上級技能元素(土)×15\n上級技能元素(バック)×15",
+    "has_r18": 1
+  },
+  {
+    "id": 10230,
+    "store_product_id": "com.dmm.games.dotabyss.lm_1210",
+    "currency_amount": 4000,
+    "price": 5000,
+    "m_payment_pack_pack_id": 10230,
+    "name": "限界突破応援パック",
+    "asset_id": "5010507",
+    "description": "[有償]アビスジェム×4000\n▼以下おまけ\n【凸】純真結晶引換券(ルクスノヴァ除く)×40",
+    "has_r18": 1
+  },
+  {
+    "id": 10231,
+    "store_product_id": "com.dmm.games.dotabyss.lm_1211",
+    "currency_amount": 400,
+    "price": 500,
+    "m_payment_pack_pack_id": 10231,
+    "name": "スタミナ周回パック",
+    "asset_id": "5010508",
+    "description": "[有償]アビスジェム×400\n▼以下おまけ\nスタミナ回復薬(中)×5\nプレミアムガチャチケット×2",
+    "has_r18": 1
+  },
+  {
+    "id": 10232,
+    "store_product_id": "com.dmm.games.dotabyss.lm_1212",
+    "currency_amount": 800,
+    "price": 1000,
+    "m_payment_pack_pack_id": 10232,
+    "name": "絆Lv強化パック",
+    "asset_id": "5010509",
+    "description": "[有償]アビスジェム×800\n▼以下おまけ\n[無償]アビスジェム×300\nうれしいプレゼント×40\n深・絆の追憶(能力強化)×1\nキャラ経験値セット(1時間)×5\nゴールドセット(1時間)×5　\n記憶の欠片セット(1時間)×5",
+    "has_r18": 1
+  },
+  {
+    "id": 10233,
+    "store_product_id": "com.dmm.games.dotabyss.lm_1213",
+    "currency_amount": 9600,
+    "price": 12000,
+    "m_payment_pack_pack_id": 10233,
+    "name": "特級(万能)＆ピックアップチケ＆ジェムパック3",
+    "asset_id": "5010510",
+    "description": "[有償]アビスジェム×9600\n▼以下おまけ\n[無償]アビスジェム×4800\nピックアップガチャチケット×24\n特級技能元素(万能)×2\n選べる上級技能元素BOX×60\n選べる中級技能元素BOX×60\n選べる初級技能元素BOX×60　",
+    "has_r18": 1
+  },
+  {
+    "id": 10234,
+    "store_product_id": "com.dmm.games.dotabyss.lm_1214",
+    "currency_amount": 4800,
+    "price": 6000,
+    "m_payment_pack_pack_id": 10234,
+    "name": "特級(万能)＆ピックアップチケ＆ジェムパック2",
+    "asset_id": "5010511",
+    "description": "[有償]アビスジェム×4800\n▼以下おまけ\n[無償]アビスジェム×2400\nピックアップガチャチケット×12\n特級技能元素(万能)×2",
+    "has_r18": 1
+  },
+  {
+    "id": 10235,
+    "store_product_id": "com.dmm.games.dotabyss.lm_1215",
+    "currency_amount": 2400,
+    "price": 3000,
+    "m_payment_pack_pack_id": 10235,
+    "name": "特級(万能)＆ピックアップチケ＆ジェムパック1",
+    "asset_id": "5010512",
+    "description": "[有償]アビスジェム×2400\n▼以下おまけ\n[無償]アビスジェム×1200\nピックアップガチャチケット×6\n特級技能元素(万能)×1",
+    "has_r18": 1
+  },
+  {
+    "id": 10236,
+    "store_product_id": "com.dmm.games.dotabyss.lm_1216",
+    "currency_amount": 800,
+    "price": 1000,
+    "m_payment_pack_pack_id": 10236,
+    "name": "メイベル武器スキンパック",
+    "asset_id": "5010513",
+    "description": "[有償]アビスジェム×800\n▼以下おまけ\n[無償]アビスジェム×300\nメイベル専用武器スキン「魔石駆動式チェーンソー」×1\n絆の追憶(能力強化)×1\nプレミアムガチャチケット×5\n\n注意事項）\n・メイベルを獲得した後に\n　この武器スキンに着せ替えできるようになります。\n・本スキンは販売期間終了後に\n　今後再登場する可能性があります。",
+    "has_r18": 1
+  },
+  {
+    "id": 10237,
+    "store_product_id": "com.dmm.games.dotabyss.lm_1217",
+    "currency_amount": 1200,
+    "price": 1500,
+    "m_payment_pack_pack_id": 10237,
+    "name": "メイベルアビリティ強化パック",
+    "asset_id": "5010514",
+    "description": "[有償]アビスジェム×1200\n▼以下おまけ\n[無償]アビスジェム×300\n特級技能元素（万能）×1\n初級技能元素(光)×15\n初級技能元素(フロント)×15\n中級技能元素(光)×15\n中級技能元素(フロント)×15\n上級技能元素(光)×15\n上級技能元素(フロント)×15",
+    "has_r18": 1
+  },
+  {
+    "id": 10238,
+    "store_product_id": "com.dmm.games.dotabyss.lm_1218",
+    "currency_amount": 400,
+    "price": 500,
+    "m_payment_pack_pack_id": 10238,
+    "name": "階層レアスキップチケットパック1",
+    "asset_id": "5010515",
+    "description": "[有償]アビスジェム×400\n▼以下おまけ\n[無償]アビスジェム×100\n階層レアスキップチケット「深淵」×4\nゲートキー「深淵」×4",
+    "has_r18": 1
+  },
+  {
+    "id": 10239,
+    "store_product_id": "com.dmm.games.dotabyss.lm_1219",
+    "currency_amount": 2400,
+    "price": 3000,
+    "m_payment_pack_pack_id": 10239,
+    "name": "階層レアスキップチケットパック2",
+    "asset_id": "5010516",
+    "description": "[有償]アビスジェム×2400\n▼以下おまけ\n[無償]アビスジェム×600\n階層レアスキップチケット「深淵」×40\n階層スキップチケット「深淵」×40\nゲートキー「深淵」×15",
+    "has_r18": 1
+  },
+  {
     "id": 20001,
     "store_product_id": "com.dmm.games.dotabyss.sub_00001",
     "currency_amount": 800,
@@ -3286,6 +3495,72 @@
     "name": "アビスジェム5日間ログインパス",
     "asset_id": "5010500",
     "description": "[有償]アビスジェム×2400\n▼以下おまけ\n期間中(最大5日間)毎日初回ログイン時に\n・［無償］アビスジェム×1200\n・【凸】純真結晶引換券(ルクスノヴァ除く)×5\n\n※おまけは最大で5日間分獲得できます。\n※1日目はログインパスを購入した直後に獲得できます。\n※2日目～5日目は毎日初回ログイン時に獲得できます。\n※ログインパス報酬の受取期間は購入後、10日間となります。おまけ報酬をすべて獲得された場合、受取期間が残っている場合でもおまけ報酬は獲得できません。",
+    "has_r18": 1
+  },
+  {
+    "id": 110035,
+    "store_product_id": "com.dmm.games.dotabyss.ps_035",
+    "currency_amount": 1200,
+    "price": 1500,
+    "m_payment_pack_pack_id": 110035,
+    "name": "ピックアップガチャチケ5日間ログインパス1",
+    "asset_id": "5010517",
+    "description": "[有償]アビスジェム×1200\n▼以下おまけ\n期間中(最大5日間)毎日初回ログイン時に\n・ピックアップガチャチケット×1\n・プレミアムガチャチケット×1\n・［無償］アビスジェム×200\n\n※おまけは最大で5日間分獲得できます。\n※1日目はログインパスを購入した直後に獲得できます。\n※2日目～5日目は毎日初回ログイン時に獲得できます。\n※ログインパス報酬の受取期間は購入後、10日間となります。おまけ報酬をすべて獲得された場合、受取期間が残っている場合でもおまけ報酬は獲得できません。",
+    "has_r18": 1
+  },
+  {
+    "id": 110036,
+    "store_product_id": "com.dmm.games.dotabyss.ps_036",
+    "currency_amount": 2400,
+    "price": 3000,
+    "m_payment_pack_pack_id": 110036,
+    "name": "ピックアップガチャチケ5日間ログインパス2",
+    "asset_id": "5010518",
+    "description": "[有償]アビスジェム×2400\n▼以下おまけ\n期間中(最大5日間)毎日初回ログイン時に\n・ピックアップガチャチケット×2\n・プレミアムガチャチケット×2\n・［無償］アビスジェム×400\n\n※おまけは最大で5日間分獲得できます。\n※1日目はログインパスを購入した直後に獲得できます。\n※2日目～5日目は毎日初回ログイン時に獲得できます。\n※ログインパス報酬の受取期間は購入後、10日間となります。おまけ報酬をすべて獲得された場合、受取期間が残っている場合でもおまけ報酬は獲得できません。",
+    "has_r18": 1
+  },
+  {
+    "id": 110037,
+    "store_product_id": "com.dmm.games.dotabyss.ps_037",
+    "currency_amount": 1200,
+    "price": 1500,
+    "m_payment_pack_pack_id": 110037,
+    "name": "ピックアップガチャチケ5日間ログインパス1",
+    "asset_id": "5010519",
+    "description": "[有償]アビスジェム×1200\n▼以下おまけ\n期間中(最大5日間)毎日初回ログイン時に\n・ピックアップガチャチケット×1\n・プレミアムガチャチケット×1\n・［無償］アビスジェム×200\n\n※おまけは最大で5日間分獲得できます。\n※1日目はログインパスを購入した直後に獲得できます。\n※2日目～5日目は毎日初回ログイン時に獲得できます。\n※ログインパス報酬の受取期間は購入後、10日間となります。おまけ報酬をすべて獲得された場合、受取期間が残っている場合でもおまけ報酬は獲得できません。",
+    "has_r18": 1
+  },
+  {
+    "id": 110038,
+    "store_product_id": "com.dmm.games.dotabyss.ps_038",
+    "currency_amount": 2400,
+    "price": 3000,
+    "m_payment_pack_pack_id": 110038,
+    "name": "ピックアップガチャチケ5日間ログインパス2",
+    "asset_id": "5010520",
+    "description": "[有償]アビスジェム×2400\n▼以下おまけ\n期間中(最大5日間)毎日初回ログイン時に\n・ピックアップガチャチケット×2\n・プレミアムガチャチケット×2\n・［無償］アビスジェム×400\n\n※おまけは最大で5日間分獲得できます。\n※1日目はログインパスを購入した直後に獲得できます。\n※2日目～5日目は毎日初回ログイン時に獲得できます。\n※ログインパス報酬の受取期間は購入後、10日間となります。おまけ報酬をすべて獲得された場合、受取期間が残っている場合でもおまけ報酬は獲得できません。",
+    "has_r18": 1
+  },
+  {
+    "id": 110039,
+    "store_product_id": "com.dmm.games.dotabyss.ps_039",
+    "currency_amount": 1200,
+    "price": 1500,
+    "m_payment_pack_pack_id": 110039,
+    "name": "週末3日間ログインパス",
+    "asset_id": "5010521",
+    "description": "[有償]アビスジェム×1200\n▼以下おまけ\n期間中(最大3日間)毎日初回ログイン時に\n・［無償］アビスジェム×1000\n・ログインパス引換券×1\n・選べる親愛度アイテムBOX×10\n\n※おまけは最大で3日間分獲得できます。\n※1日目はログインパスを購入した直後に獲得できます。\n※2日目～3日目は毎日初回ログイン時に獲得できます。\n※ログインパス報酬の受取期間は購入後、10日間となります。おまけ報酬をすべて獲得された場合、受取期間が残っている場合でもおまけ報酬は獲得できません。",
+    "has_r18": 1
+  },
+  {
+    "id": 110040,
+    "store_product_id": "com.dmm.games.dotabyss.ps_040",
+    "currency_amount": 1200,
+    "price": 1500,
+    "m_payment_pack_pack_id": 110040,
+    "name": "週末3日間ログインパス",
+    "asset_id": "5010522",
+    "description": "[有償]アビスジェム×1200\n▼以下おまけ\n期間中(最大3日間)毎日初回ログイン時に\n・［無償］アビスジェム×1000\n・ログインパス引換券×1\n・選べる親愛度アイテムBOX×10\n\n※おまけは最大で3日間分獲得できます。\n※1日目はログインパスを購入した直後に獲得できます。\n※2日目～3日目は毎日初回ログイン時に獲得できます。\n※ログインパス報酬の受取期間は購入後、10日間となります。おまけ報酬をすべて獲得された場合、受取期間が残っている場合でもおまけ報酬は獲得できません。",
     "has_r18": 1
   },
   {
@@ -6597,6 +6872,204 @@
     "name": "イベントプレイ感謝！",
     "asset_id": "5010301",
     "description": "[有償]アビスジェム×400\n▼以下おまけ\n[無償]アビスジェム×400\n【SSR確定】探索者の証・大勲×5",
+    "has_r18": 0
+  },
+  {
+    "id": 260174,
+    "store_product_id": "com.dmm.games.dotabyss_rmdev_1200",
+    "currency_amount": 4000,
+    "price": 5000,
+    "m_payment_pack_pack_id": 260174,
+    "name": "ステミア獲得記念\n該当キャラの限界突破アイテム付き！",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×4000\n▼以下おまけ\n[無償]アビスジェム×4000\nステミアの純真結晶×1\n初級技能元素(土)×60\n初級技能元素(バック)×60\n中級技能元素(土)×30\n中級技能元素(バック)×30\n上級技能元素(土)×15\n上級技能元素(バック)×15",
+    "has_r18": 0
+  },
+  {
+    "id": 260175,
+    "store_product_id": "com.dmm.games.dotabyss_rmdev_1201",
+    "currency_amount": 4000,
+    "price": 5000,
+    "m_payment_pack_pack_id": 260175,
+    "name": "ステミアマナ覚醒応援！\n該当キャラの限界突破アイテム付き！",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×4000\n▼以下おまけ\n[無償]アビスジェム×4000\nステミアの純真結晶×1\n【凸】純真結晶引換券(ルクスノヴァ除く)×10",
+    "has_r18": 0
+  },
+  {
+    "id": 260176,
+    "store_product_id": "com.dmm.games.dotabyss_rmdev_1202",
+    "currency_amount": 4000,
+    "price": 5000,
+    "m_payment_pack_pack_id": 260176,
+    "name": "メイベル獲得記念\n該当キャラの限界突破アイテム付き！",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×4000\n▼以下おまけ\n[無償]アビスジェム×4000\nメイベルの純真結晶×1\n初級技能元素(光)×60\n初級技能元素(フロント)×60\n中級技能元素(光)×30\n中級技能元素(フロント)×30\n上級技能元素(光)×15\n上級技能元素(フロント)×15",
+    "has_r18": 0
+  },
+  {
+    "id": 260177,
+    "store_product_id": "com.dmm.games.dotabyss_rmdev_1203",
+    "currency_amount": 4000,
+    "price": 5000,
+    "m_payment_pack_pack_id": 260177,
+    "name": "メイベルマナ覚醒応援！\n該当キャラの限界突破アイテム付き！",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×4000\n▼以下おまけ\n[無償]アビスジェム×4000\nメイベルの純真結晶×1\n【凸】純真結晶引換券(ルクスノヴァ除く)×10",
+    "has_r18": 0
+  },
+  {
+    "id": 260178,
+    "store_product_id": "com.dmm.games.dotabyss_rmdev_1204",
+    "currency_amount": 2400,
+    "price": 3000,
+    "m_payment_pack_pack_id": 260178,
+    "name": "ピックアップガチャチケット応援！",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×2400\n▼以下おまけ\n[無償]アビスジェム×2400\nピックアップガチャチケット×10",
+    "has_r18": 0
+  },
+  {
+    "id": 260179,
+    "store_product_id": "com.dmm.games.dotabyss_rmdev_1205",
+    "currency_amount": 2400,
+    "price": 3000,
+    "m_payment_pack_pack_id": 260179,
+    "name": "ピックアップガチャチケット応援！",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×2400\n▼以下おまけ\n[無償]アビスジェム×2400\nピックアップガチャチケット×10",
+    "has_r18": 0
+  },
+  {
+    "id": 260180,
+    "store_product_id": "com.dmm.games.dotabyss_rmdev_1206",
+    "currency_amount": 1200,
+    "price": 1500,
+    "m_payment_pack_pack_id": 260180,
+    "name": "イベント前半プレイ感謝！",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×1200\n▼以下おまけ\n[無償]アビスジェム×1200\nピックアップガチャチケット×5",
+    "has_r18": 0
+  },
+  {
+    "id": 260181,
+    "store_product_id": "com.dmm.games.dotabyss_rmdev_1207",
+    "currency_amount": 800,
+    "price": 1000,
+    "m_payment_pack_pack_id": 260181,
+    "name": "イベント前半ステージクリア記念！",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×800\n▼以下おまけ\n[無償]アビスジェム×800\n【SSR確定】探索者の証・大勲×15",
+    "has_r18": 0
+  },
+  {
+    "id": 260182,
+    "store_product_id": "com.dmm.games.dotabyss_rmdev_1208",
+    "currency_amount": 1200,
+    "price": 1500,
+    "m_payment_pack_pack_id": 260182,
+    "name": "イベント前半ボスステージプレイ感謝！",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×1200\n▼以下おまけ\n[無償]アビスジェム×1200\nピックアップガチャチケット×5",
+    "has_r18": 0
+  },
+  {
+    "id": 260183,
+    "store_product_id": "com.dmm.games.dotabyss_rmdev_1209",
+    "currency_amount": 800,
+    "price": 1000,
+    "m_payment_pack_pack_id": 260183,
+    "name": "イベント前半ボスステージクリア記念！",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×800\n▼以下おまけ\n[無償]アビスジェム×800\n【凸】純真結晶引換券(ルクスノヴァ除く)×10",
+    "has_r18": 0
+  },
+  {
+    "id": 260184,
+    "store_product_id": "com.dmm.games.dotabyss_rmdev_1210",
+    "currency_amount": 1200,
+    "price": 1500,
+    "m_payment_pack_pack_id": 260184,
+    "name": "イベント後半プレイ感謝！",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×1200\n▼以下おまけ\n[無償]アビスジェム×1200\nピックアップガチャチケット×5",
+    "has_r18": 0
+  },
+  {
+    "id": 260185,
+    "store_product_id": "com.dmm.games.dotabyss_rmdev_1211",
+    "currency_amount": 800,
+    "price": 1000,
+    "m_payment_pack_pack_id": 260185,
+    "name": "イベント後半ステージクリア記念！",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×800\n▼以下おまけ\n[無償]アビスジェム×800\n【SSR確定】探索者の証・大勲×15",
+    "has_r18": 0
+  },
+  {
+    "id": 260186,
+    "store_product_id": "com.dmm.games.dotabyss_rmdev_1212",
+    "currency_amount": 1200,
+    "price": 1500,
+    "m_payment_pack_pack_id": 260186,
+    "name": "イベント後半ボスステージプレイ感謝！",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×1200\n▼以下おまけ\n[無償]アビスジェム×1200\nピックアップガチャチケット×5",
+    "has_r18": 0
+  },
+  {
+    "id": 260187,
+    "store_product_id": "com.dmm.games.dotabyss_rmdev_1213",
+    "currency_amount": 800,
+    "price": 1000,
+    "m_payment_pack_pack_id": 260187,
+    "name": "イベント後半ボスステージクリア記念！",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×800\n▼以下おまけ\n[無償]アビスジェム×800\n【凸】純真結晶引換券(ルクスノヴァ除く)×10",
+    "has_r18": 0
+  },
+  {
+    "id": 260188,
+    "store_product_id": "com.dmm.games.dotabyss_rmdev_1214",
+    "currency_amount": 400,
+    "price": 500,
+    "m_payment_pack_pack_id": 260188,
+    "name": "クリスタルハント1クリア記念！",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×400\n▼以下おまけ\n[無償]アビスジェム×400\n【SSR確定】探索者の証・大勲×5",
+    "has_r18": 0
+  },
+  {
+    "id": 260189,
+    "store_product_id": "com.dmm.games.dotabyss_rmdev_1215",
+    "currency_amount": 1200,
+    "price": 1500,
+    "m_payment_pack_pack_id": 260189,
+    "name": "クリスタルハント3クリア記念！",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×1200\n▼以下おまけ\n[無償]アビスジェム×1200\n【SSR確定】探索者の証・大勲×25",
+    "has_r18": 0
+  },
+  {
+    "id": 260190,
+    "store_product_id": "com.dmm.games.dotabyss_rmdev_1216",
+    "currency_amount": 400,
+    "price": 500,
+    "m_payment_pack_pack_id": 260190,
+    "name": "クリスタルハント5クリア記念！",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×400\n▼以下おまけ\n[無償]アビスジェム×400\n【凸】純真結晶引換券(ルクスノヴァ除く)×5",
+    "has_r18": 0
+  },
+  {
+    "id": 260191,
+    "store_product_id": "com.dmm.games.dotabyss_rmdev_1217",
+    "currency_amount": 1200,
+    "price": 1500,
+    "m_payment_pack_pack_id": 260191,
+    "name": "クリスタルハント7クリア記念！",
+    "asset_id": "5010301",
+    "description": "[有償]アビスジェム×1200\n▼以下おまけ\n[無償]アビスジェム×1200\n【凸】純真結晶引換券(ルクスノヴァ除く)×15",
     "has_r18": 0
   },
   {

@@ -187,5 +187,26 @@
     "sub_category_id": 24,
     "category_text": "ストーリーイベント(後半)",
     "display_order_desc": 22
+  },
+  {
+    "id": 28,
+    "category": 2,
+    "sub_category_id": 25,
+    "category_text": "武器スキン(復刻)",
+    "display_order_desc": 23
+  },
+  {
+    "id": 29,
+    "category": 2,
+    "sub_category_id": 26,
+    "category_text": "鏡影の回廊(前半)",
+    "display_order_desc": 24
+  },
+  {
+    "id": 30,
+    "category": 2,
+    "sub_category_id": 27,
+    "category_text": "鏡影の回廊(後半)",
+    "display_order_desc": 25
   }
 ]

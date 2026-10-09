@@ -1368,6 +1368,30 @@
     "order": 3
   },
   {
+    "id": 130004301,
+    "m_character_id": 1300043,
+    "asset_id": "Ability_SpecialAttack_01",
+    "name": "パワーチャージ",
+    "ability_no": 10208,
+    "order": 1
+  },
+  {
+    "id": 130004302,
+    "m_character_id": 1300043,
+    "asset_id": "Ability_Defense_01",
+    "name": "スペシャルフォース",
+    "ability_no": 10209,
+    "order": 2
+  },
+  {
+    "id": 130004303,
+    "m_character_id": 1300043,
+    "asset_id": "Ability_Defense_01",
+    "name": "トリニティバイタリティ",
+    "ability_no": 10210,
+    "order": 3
+  },
+  {
     "id": 130004901,
     "m_character_id": 1300049,
     "asset_id": "Ability_SpecialAttack_01",
@@ -1581,6 +1605,30 @@
     "asset_id": "Ability_Attack_01",
     "name": "師範の歩法",
     "ability_no": 10202,
+    "order": 3
+  },
+  {
+    "id": 130005801,
+    "m_character_id": 1300058,
+    "asset_id": "Ability_SpecialAttack_01",
+    "name": "研究成果",
+    "ability_no": 10211,
+    "order": 1
+  },
+  {
+    "id": 130005802,
+    "m_character_id": 1300058,
+    "asset_id": "Ability_Attack_01",
+    "name": "アカデミーの秀才",
+    "ability_no": 10212,
+    "order": 2
+  },
+  {
+    "id": 130005803,
+    "m_character_id": 1300058,
+    "asset_id": "Ability_Attack_01",
+    "name": "研究者気質",
+    "ability_no": 10213,
     "order": 3
   }
 ]

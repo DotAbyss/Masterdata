@@ -190,5 +190,53 @@
     "restrict_param_1": 100004106,
     "restrict_param_2": 0,
     "description": "クリスタルハント6 をクリア"
+  },
+  {
+    "id": 29,
+    "m_event_miner_quest_id": 100005102,
+    "restrict_type": 1,
+    "restrict_param_1": 100005101,
+    "restrict_param_2": 0,
+    "description": "クリスタルハント1 をクリア"
+  },
+  {
+    "id": 30,
+    "m_event_miner_quest_id": 100005103,
+    "restrict_type": 1,
+    "restrict_param_1": 100005102,
+    "restrict_param_2": 0,
+    "description": "クリスタルハント2 をクリア"
+  },
+  {
+    "id": 31,
+    "m_event_miner_quest_id": 100005104,
+    "restrict_type": 1,
+    "restrict_param_1": 100005103,
+    "restrict_param_2": 0,
+    "description": "クリスタルハント3 をクリア"
+  },
+  {
+    "id": 32,
+    "m_event_miner_quest_id": 100005105,
+    "restrict_type": 1,
+    "restrict_param_1": 100005104,
+    "restrict_param_2": 0,
+    "description": "クリスタルハント4 をクリア"
+  },
+  {
+    "id": 33,
+    "m_event_miner_quest_id": 100005106,
+    "restrict_type": 1,
+    "restrict_param_1": 100005105,
+    "restrict_param_2": 0,
+    "description": "クリスタルハント5 をクリア"
+  },
+  {
+    "id": 34,
+    "m_event_miner_quest_id": 100005201,
+    "restrict_type": 1,
+    "restrict_param_1": 100005106,
+    "restrict_param_2": 0,
+    "description": "クリスタルハント6 をクリア"
   }
 ]

@@ -198,6 +198,24 @@
     "is_enemy": 0
   },
   {
+    "id": 9103,
+    "asset_id": "901",
+    "name": "衝撃のマナクリスタル【烈風】",
+    "type": 1,
+    "cost": 3,
+    "flavor_text": "英雄の血脈に応じ、複数のマナの波動を一点に集束させる高純度魔力結晶。\n仲間の猛き衝撃を共鳴の火種とし、空間をも震わせる激動の波動を放つ。\n\nすべてを圧壊するその一撃は、敵の戦列を無慈悲に吹き飛ばし、硬着した戦況を、一気呵成の猛攻へと塗り替えるだろう。",
+    "default_m_mana_gem_auto_condition_id": 3,
+    "mana_type": 3,
+    "chain_count": 4,
+    "append_effect_condition_stack": 5,
+    "effect_description": "敵全体に攻撃力【(Rank×1000)】で【1HIT / 100％】のダメージ / 敵全体にノックバックLv6",
+    "append_effect_description": "【条件】紋章：衝撃が5以上の味方がチェインに参加\n【効果】敵全体に条件を満たした参加者の合計攻撃力で【1HIT / 125％】のダメージ / 味方全体に連撃率UP【50%/15秒】を付与",
+    "append_effect_description_ingame": "【条件】紋章：衝撃が5以上の味方がチェインに参加\n【効果】敵全体に条件を満たした参加者の合計攻撃力で【1HIT / 125％】のダメージ / 味方全体に連撃率UP【50%/15秒】を付与",
+    "is_show_total_recovery": 0,
+    "is_show_total_buff": 0,
+    "is_enemy": 1
+  },
+  {
     "id": 9202,
     "asset_id": "907",
     "name": "衝撃のマナクリスタル【猛毒】",

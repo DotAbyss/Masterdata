@@ -660,6 +660,26 @@
     "serif_type": 0
   },
   {
+    "id": 50000401,
+    "m_event_id": 500004,
+    "m_character_id": 1300058,
+    "character_asset_id": "110801000G",
+    "position": 0,
+    "face": "Normal",
+    "serif": "ステミア",
+    "serif_type": 0
+  },
+  {
+    "id": 50000402,
+    "m_event_id": 500004,
+    "m_character_id": 1300043,
+    "character_asset_id": "107901000G",
+    "position": 0,
+    "face": "Normal",
+    "serif": "メイベル",
+    "serif_type": 0
+  },
+  {
     "id": 60000101,
     "m_event_id": 600001,
     "m_character_id": 1300010,
@@ -924,6 +944,16 @@
     "m_event_id": 100004,
     "m_character_id": 1300023,
     "character_asset_id": "102801000G",
+    "position": 1,
+    "face": "Normal",
+    "serif": "セリフ1\nセリフ1\nセリフ1",
+    "serif_type": 0
+  },
+  {
+    "id": 10000501,
+    "m_event_id": 100005,
+    "m_character_id": 1300023,
+    "character_asset_id": "106301000G",
     "position": 1,
     "face": "Normal",
     "serif": "セリフ1\nセリフ1\nセリフ1",

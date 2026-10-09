@@ -350,5 +350,29 @@
     "open_at": "2026-10-05 10:00:00",
     "close_at": "2026-10-09 11:59:59",
     "display_order": 8979
+  },
+  {
+    "id": 47,
+    "m_payment_lineups_id_1": 10227,
+    "m_payment_lineups_id_2": 0,
+    "open_at": "2026-10-09 13:00:00",
+    "close_at": "2026-10-19 11:59:59",
+    "display_order": 8968
+  },
+  {
+    "id": 48,
+    "m_payment_lineups_id_1": 10224,
+    "m_payment_lineups_id_2": 10222,
+    "open_at": "2026-10-09 13:00:00",
+    "close_at": "2026-10-19 11:59:59",
+    "display_order": 8970
+  },
+  {
+    "id": 49,
+    "m_payment_lineups_id_1": 10233,
+    "m_payment_lineups_id_2": 10235,
+    "open_at": "2026-10-14 10:00:00",
+    "close_at": "2026-10-19 11:59:59",
+    "display_order": 8969
   }
 ]

@@ -858,5 +858,75 @@
     "begin_at": "2026-09-30 13:00:00",
     "end_at": "2026-10-09 11:59:59",
     "has_r18": 1
+  },
+  {
+    "id": 95,
+    "title": "【開催中】鏡影の回廊4回目",
+    "display_priority": 340,
+    "display_order": 340,
+    "asset_id": "1030005_1",
+    "begin_at": "2026-10-09 13:00:00",
+    "end_at": "2026-10-19 11:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 96,
+    "title": "ステミア ピックアップガチャ",
+    "display_priority": 339,
+    "display_order": 339,
+    "asset_id": "7010025",
+    "begin_at": "2026-10-09 13:00:00",
+    "end_at": "2026-10-19 11:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 97,
+    "title": "メイベル ピックアップガチャ",
+    "display_priority": 341,
+    "display_order": 341,
+    "asset_id": "7010026",
+    "begin_at": "2026-10-14 10:00:00",
+    "end_at": "2026-10-19 11:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 98,
+    "title": "第5回クリスタルハント　",
+    "display_priority": 342,
+    "display_order": 342,
+    "asset_id": "1070005",
+    "begin_at": "2026-10-18 10:00:00",
+    "end_at": "2026-10-23 4:59:59",
+    "has_r18": 0
+  },
+  {
+    "id": 102,
+    "title": "アシストジャストステップアップガチャ",
+    "display_priority": 338,
+    "display_order": 338,
+    "asset_id": "7060004",
+    "begin_at": "2026-10-14 10:00:00",
+    "end_at": "2026-10-22 4:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 104,
+    "title": "自動分解機能のアップデート",
+    "display_priority": 336,
+    "display_order": 336,
+    "asset_id": "1100020",
+    "begin_at": "2026-10-09 13:00:00",
+    "end_at": "2026-10-19 11:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 105,
+    "title": "深淵階層追加",
+    "display_priority": 337,
+    "display_order": 337,
+    "asset_id": "1100021",
+    "begin_at": "2026-10-09 13:00:00",
+    "end_at": "2026-10-19 11:59:59",
+    "has_r18": 1
   }
 ]

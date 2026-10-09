@@ -1438,5 +1438,65 @@
     "effect_parameter_1": 5,
     "effect_parameter_2": 0,
     "effect_parameter_3": 0
+  },
+  {
+    "id": 170101,
+    "m_nether_sphere_board_id": 170,
+    "type": 10,
+    "level": 1,
+    "asset_id": "1003",
+    "description": "チェックポイント解放(100F)",
+    "effect_type": 20,
+    "effect_parameter_1": 20,
+    "effect_parameter_2": 0,
+    "effect_parameter_3": 0
+  },
+  {
+    "id": 170011,
+    "m_nether_sphere_board_id": 170,
+    "type": 1,
+    "level": 1,
+    "asset_id": "101",
+    "description": "アビスコード所持上限増加",
+    "effect_type": 1,
+    "effect_parameter_1": 1,
+    "effect_parameter_2": 0,
+    "effect_parameter_3": 0
+  },
+  {
+    "id": 170021,
+    "m_nether_sphere_board_id": 170,
+    "type": 2,
+    "level": 1,
+    "asset_id": "202",
+    "description": "ドロップ率上昇",
+    "effect_type": 2,
+    "effect_parameter_1": 2,
+    "effect_parameter_2": 0,
+    "effect_parameter_3": 0
+  },
+  {
+    "id": 170031,
+    "m_nether_sphere_board_id": 170,
+    "type": 3,
+    "level": 1,
+    "asset_id": "303",
+    "description": "研究ポイント倍率上昇",
+    "effect_type": 3,
+    "effect_parameter_1": 22,
+    "effect_parameter_2": 0,
+    "effect_parameter_3": 0
+  },
+  {
+    "id": 170041,
+    "m_nether_sphere_board_id": 170,
+    "type": 4,
+    "level": 1,
+    "asset_id": "404",
+    "description": "初期アビスコイン増加",
+    "effect_type": 4,
+    "effect_parameter_1": 5,
+    "effect_parameter_2": 0,
+    "effect_parameter_3": 0
   }
 ]

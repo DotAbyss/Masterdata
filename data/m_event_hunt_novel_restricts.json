@@ -46,5 +46,21 @@
     "restrict_type": 1,
     "restrict_param": 0,
     "open_at": "2026-09-14 10:00:00"
+  },
+  {
+    "id": 7,
+    "m_event_id": 500004,
+    "m_novel_event_id": 50000401,
+    "restrict_type": 0,
+    "restrict_param": 0,
+    "open_at": "2026-10-09 13:00:00"
+  },
+  {
+    "id": 8,
+    "m_event_id": 500004,
+    "m_novel_event_id": 50000402,
+    "restrict_type": 1,
+    "restrict_param": 0,
+    "open_at": "2026-10-14 10:00:00"
   }
 ]

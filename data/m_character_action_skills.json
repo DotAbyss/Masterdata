@@ -959,6 +959,20 @@
     "description": "対象が3体に変化 / 紋章：情熱が5以上のとき、対象にスキルチャージ効率UP【{[PRJCTL.AOE.ZEAL.SKILLCHARGEQUANTITYUP.RATE_PERCENT]} / 15秒】を付与"
   },
   {
+    "id": 1300043000,
+    "m_character_id": 1300043,
+    "trigger_type": 20,
+    "name": "ビックチェーン",
+    "description": "自身の前方範囲内にいる敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 光・闇・無属性の味方全体に会心ダメージ倍率UP【{[CRITICALDAMAGERATEUP.FIXED_PERCENT]} / 20秒】と会心率UP【{[CRITICALUP.FIXED_PERCENT]} / 20秒】を付与"
+  },
+  {
+    "id": 1300043001,
+    "m_character_id": 1300043,
+    "trigger_type": 30,
+    "name": "ビックチェーン",
+    "description": "紋章：衝撃を5消費し、ダメージ倍率が【{[IMPACTSUCCESS.DAMAGE.DAMAGE_FIRST_PERCENT]}】に変化"
+  },
+  {
     "id": 1300049000,
     "m_character_id": 1300049,
     "trigger_type": 20,
@@ -1083,5 +1097,19 @@
     "trigger_type": 30,
     "name": "宵月輪舞",
     "description": "自身と味方バック全体に防御力UP【{[DEFENCEUP.RATE_PERCENT:1]} / 15秒】を付与 / 紋章：衝撃を10消費し、自身と味方バック全体に攻撃力UP【{[IMPACT.ATTACKUP1.RATE_PERCENT:1]} / 15秒】を付与"
+  },
+  {
+    "id": 1300058000,
+    "m_character_id": 1300058,
+    "trigger_type": 20,
+    "name": "神樹の目覚め",
+    "description": "攻撃力が最も高い味方フロント・バック1体に通常回復の【50%】回復 / 対象のスキルを【{[ZEALFAILED.PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE]}】チャージ / 攻撃力UP【{[ZEALSUCCEED.PRJCTL.AOE.ATTACKUP1.RATE_PERCENT]} / 20秒】を付与"
+  },
+  {
+    "id": 1300058001,
+    "m_character_id": 1300058,
+    "trigger_type": 30,
+    "name": "神樹の目覚め",
+    "description": "対象にスキルチャージ効率UP【{[ZEALFAILED.PRJCTL.AOE.SKILLCHARGEQUANTITYUP.RATE_PERCENT]} / 20秒】を付与 / 紋章：情熱が5以上のとき、 スキル与ダメージUP【{[ZEALSUCCEED.PRJCTL.AOE.SKILLDAMAGEUP.RATE_PERCENT]} / 20秒】を付与"
   }
 ]

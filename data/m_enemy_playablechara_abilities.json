@@ -4555,5 +4555,1188 @@
     "order": 3,
     "ability_lv": 7,
     "ability_awake_lv": 2
+  },
+  {
+    "id": 4104101011,
+    "m_enemy_id": 410410101,
+    "order": 1,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104101012,
+    "m_enemy_id": 410410101,
+    "order": 2,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104101013,
+    "m_enemy_id": 410410101,
+    "order": 3,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104102011,
+    "m_enemy_id": 410410201,
+    "order": 1,
+    "ability_lv": 3,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104102012,
+    "m_enemy_id": 410410201,
+    "order": 2,
+    "ability_lv": 3,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104102013,
+    "m_enemy_id": 410410201,
+    "order": 3,
+    "ability_lv": 3,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104103011,
+    "m_enemy_id": 410410301,
+    "order": 1,
+    "ability_lv": 4,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104103012,
+    "m_enemy_id": 410410301,
+    "order": 2,
+    "ability_lv": 4,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104103013,
+    "m_enemy_id": 410410301,
+    "order": 3,
+    "ability_lv": 4,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104104011,
+    "m_enemy_id": 410410401,
+    "order": 1,
+    "ability_lv": 5,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104104012,
+    "m_enemy_id": 410410401,
+    "order": 2,
+    "ability_lv": 5,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104104013,
+    "m_enemy_id": 410410401,
+    "order": 3,
+    "ability_lv": 5,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104105011,
+    "m_enemy_id": 410410501,
+    "order": 1,
+    "ability_lv": 2,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104105012,
+    "m_enemy_id": 410410501,
+    "order": 2,
+    "ability_lv": 2,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104105013,
+    "m_enemy_id": 410410501,
+    "order": 3,
+    "ability_lv": 2,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104106011,
+    "m_enemy_id": 410410601,
+    "order": 1,
+    "ability_lv": 4,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104106012,
+    "m_enemy_id": 410410601,
+    "order": 2,
+    "ability_lv": 4,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104106013,
+    "m_enemy_id": 410410601,
+    "order": 3,
+    "ability_lv": 4,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104107011,
+    "m_enemy_id": 410410701,
+    "order": 1,
+    "ability_lv": 5,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104107012,
+    "m_enemy_id": 410410701,
+    "order": 2,
+    "ability_lv": 5,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104107013,
+    "m_enemy_id": 410410701,
+    "order": 3,
+    "ability_lv": 5,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104108011,
+    "m_enemy_id": 410410801,
+    "order": 1,
+    "ability_lv": 6,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104108012,
+    "m_enemy_id": 410410801,
+    "order": 2,
+    "ability_lv": 6,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104108013,
+    "m_enemy_id": 410410801,
+    "order": 3,
+    "ability_lv": 6,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104201011,
+    "m_enemy_id": 410420101,
+    "order": 1,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104201012,
+    "m_enemy_id": 410420101,
+    "order": 2,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104201021,
+    "m_enemy_id": 410420102,
+    "order": 1,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104201022,
+    "m_enemy_id": 410420102,
+    "order": 2,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104201031,
+    "m_enemy_id": 410420103,
+    "order": 1,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104201032,
+    "m_enemy_id": 410420103,
+    "order": 2,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104201041,
+    "m_enemy_id": 410420104,
+    "order": 1,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104201042,
+    "m_enemy_id": 410420104,
+    "order": 2,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104201051,
+    "m_enemy_id": 410420105,
+    "order": 1,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104201052,
+    "m_enemy_id": 410420105,
+    "order": 2,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104201061,
+    "m_enemy_id": 410420106,
+    "order": 1,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104201062,
+    "m_enemy_id": 410420106,
+    "order": 2,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104201071,
+    "m_enemy_id": 410420107,
+    "order": 1,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104201072,
+    "m_enemy_id": 410420107,
+    "order": 2,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104201073,
+    "m_enemy_id": 410420107,
+    "order": 3,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104201081,
+    "m_enemy_id": 410420108,
+    "order": 1,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104201082,
+    "m_enemy_id": 410420108,
+    "order": 2,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104201091,
+    "m_enemy_id": 410420109,
+    "order": 1,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104201092,
+    "m_enemy_id": 410420109,
+    "order": 2,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104201101,
+    "m_enemy_id": 410420110,
+    "order": 1,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104201102,
+    "m_enemy_id": 410420110,
+    "order": 2,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104202011,
+    "m_enemy_id": 410420201,
+    "order": 1,
+    "ability_lv": 3,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104202012,
+    "m_enemy_id": 410420201,
+    "order": 2,
+    "ability_lv": 3,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104202021,
+    "m_enemy_id": 410420202,
+    "order": 1,
+    "ability_lv": 3,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104202022,
+    "m_enemy_id": 410420202,
+    "order": 2,
+    "ability_lv": 3,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104202031,
+    "m_enemy_id": 410420203,
+    "order": 1,
+    "ability_lv": 3,
+    "ability_awake_lv": 1
+  },
+  {
+    "id": 4104202032,
+    "m_enemy_id": 410420203,
+    "order": 2,
+    "ability_lv": 3,
+    "ability_awake_lv": 1
+  },
+  {
+    "id": 4104202033,
+    "m_enemy_id": 410420203,
+    "order": 3,
+    "ability_lv": 3,
+    "ability_awake_lv": 1
+  },
+  {
+    "id": 4104202041,
+    "m_enemy_id": 410420204,
+    "order": 1,
+    "ability_lv": 3,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104202042,
+    "m_enemy_id": 410420204,
+    "order": 2,
+    "ability_lv": 3,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104202051,
+    "m_enemy_id": 410420205,
+    "order": 1,
+    "ability_lv": 3,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104202052,
+    "m_enemy_id": 410420205,
+    "order": 2,
+    "ability_lv": 3,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104202071,
+    "m_enemy_id": 410420207,
+    "order": 1,
+    "ability_lv": 7,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104202072,
+    "m_enemy_id": 410420207,
+    "order": 2,
+    "ability_lv": 7,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104202073,
+    "m_enemy_id": 410420207,
+    "order": 3,
+    "ability_lv": 7,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104202081,
+    "m_enemy_id": 410420208,
+    "order": 1,
+    "ability_lv": 3,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104202082,
+    "m_enemy_id": 410420208,
+    "order": 2,
+    "ability_lv": 3,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104202091,
+    "m_enemy_id": 410420209,
+    "order": 1,
+    "ability_lv": 3,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104202092,
+    "m_enemy_id": 410420209,
+    "order": 2,
+    "ability_lv": 3,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104202101,
+    "m_enemy_id": 410420210,
+    "order": 1,
+    "ability_lv": 3,
+    "ability_awake_lv": 1
+  },
+  {
+    "id": 4104202102,
+    "m_enemy_id": 410420210,
+    "order": 2,
+    "ability_lv": 3,
+    "ability_awake_lv": 1
+  },
+  {
+    "id": 4104202103,
+    "m_enemy_id": 410420210,
+    "order": 3,
+    "ability_lv": 3,
+    "ability_awake_lv": 1
+  },
+  {
+    "id": 4104203011,
+    "m_enemy_id": 410420301,
+    "order": 1,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104203012,
+    "m_enemy_id": 410420301,
+    "order": 2,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104203013,
+    "m_enemy_id": 410420301,
+    "order": 3,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104203021,
+    "m_enemy_id": 410420302,
+    "order": 1,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104203022,
+    "m_enemy_id": 410420302,
+    "order": 2,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104203023,
+    "m_enemy_id": 410420302,
+    "order": 3,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104203031,
+    "m_enemy_id": 410420303,
+    "order": 1,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104203032,
+    "m_enemy_id": 410420303,
+    "order": 2,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104203033,
+    "m_enemy_id": 410420303,
+    "order": 3,
+    "ability_lv": 4,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104203041,
+    "m_enemy_id": 410420304,
+    "order": 1,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104203042,
+    "m_enemy_id": 410420304,
+    "order": 2,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104203043,
+    "m_enemy_id": 410420304,
+    "order": 3,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104203051,
+    "m_enemy_id": 410420305,
+    "order": 1,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104203052,
+    "m_enemy_id": 410420305,
+    "order": 2,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104203053,
+    "m_enemy_id": 410420305,
+    "order": 3,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104203061,
+    "m_enemy_id": 410420306,
+    "order": 1,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104203062,
+    "m_enemy_id": 410420306,
+    "order": 2,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104203063,
+    "m_enemy_id": 410420306,
+    "order": 3,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104203071,
+    "m_enemy_id": 410420307,
+    "order": 1,
+    "ability_lv": 10,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104203072,
+    "m_enemy_id": 410420307,
+    "order": 2,
+    "ability_lv": 10,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104203073,
+    "m_enemy_id": 410420307,
+    "order": 3,
+    "ability_lv": 10,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104203081,
+    "m_enemy_id": 410420308,
+    "order": 1,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104203082,
+    "m_enemy_id": 410420308,
+    "order": 2,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104203083,
+    "m_enemy_id": 410420308,
+    "order": 3,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104203091,
+    "m_enemy_id": 410420309,
+    "order": 1,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104203092,
+    "m_enemy_id": 410420309,
+    "order": 2,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104203093,
+    "m_enemy_id": 410420309,
+    "order": 3,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104203101,
+    "m_enemy_id": 410420310,
+    "order": 1,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104203102,
+    "m_enemy_id": 410420310,
+    "order": 2,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104203103,
+    "m_enemy_id": 410420310,
+    "order": 3,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104204011,
+    "m_enemy_id": 410420401,
+    "order": 1,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104204012,
+    "m_enemy_id": 410420401,
+    "order": 2,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104204013,
+    "m_enemy_id": 410420401,
+    "order": 3,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104204021,
+    "m_enemy_id": 410420402,
+    "order": 1,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104204022,
+    "m_enemy_id": 410420402,
+    "order": 2,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104204031,
+    "m_enemy_id": 410420403,
+    "order": 1,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104204032,
+    "m_enemy_id": 410420403,
+    "order": 2,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104204041,
+    "m_enemy_id": 410420404,
+    "order": 1,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104204042,
+    "m_enemy_id": 410420404,
+    "order": 2,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104204051,
+    "m_enemy_id": 410420405,
+    "order": 1,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104204052,
+    "m_enemy_id": 410420405,
+    "order": 2,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104204061,
+    "m_enemy_id": 410420406,
+    "order": 1,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104204062,
+    "m_enemy_id": 410420406,
+    "order": 2,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104204071,
+    "m_enemy_id": 410420407,
+    "order": 1,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104204072,
+    "m_enemy_id": 410420407,
+    "order": 2,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104204073,
+    "m_enemy_id": 410420407,
+    "order": 3,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104204081,
+    "m_enemy_id": 410420408,
+    "order": 1,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104204082,
+    "m_enemy_id": 410420408,
+    "order": 2,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104204091,
+    "m_enemy_id": 410420409,
+    "order": 1,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104204092,
+    "m_enemy_id": 410420409,
+    "order": 2,
+    "ability_lv": 1,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104205011,
+    "m_enemy_id": 410420501,
+    "order": 1,
+    "ability_lv": 7,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104205012,
+    "m_enemy_id": 410420501,
+    "order": 2,
+    "ability_lv": 7,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104205013,
+    "m_enemy_id": 410420501,
+    "order": 3,
+    "ability_lv": 7,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104205021,
+    "m_enemy_id": 410420502,
+    "order": 1,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104205022,
+    "m_enemy_id": 410420502,
+    "order": 2,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104205023,
+    "m_enemy_id": 410420502,
+    "order": 3,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104205031,
+    "m_enemy_id": 410420503,
+    "order": 1,
+    "ability_lv": 5,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104205032,
+    "m_enemy_id": 410420503,
+    "order": 2,
+    "ability_lv": 5,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104205051,
+    "m_enemy_id": 410420505,
+    "order": 1,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104205052,
+    "m_enemy_id": 410420505,
+    "order": 2,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104205053,
+    "m_enemy_id": 410420505,
+    "order": 3,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104205061,
+    "m_enemy_id": 410420506,
+    "order": 1,
+    "ability_lv": 5,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104205062,
+    "m_enemy_id": 410420506,
+    "order": 2,
+    "ability_lv": 5,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104205071,
+    "m_enemy_id": 410420507,
+    "order": 1,
+    "ability_lv": 7,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104205072,
+    "m_enemy_id": 410420507,
+    "order": 2,
+    "ability_lv": 7,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104205073,
+    "m_enemy_id": 410420507,
+    "order": 3,
+    "ability_lv": 7,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104205081,
+    "m_enemy_id": 410420508,
+    "order": 1,
+    "ability_lv": 5,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104205082,
+    "m_enemy_id": 410420508,
+    "order": 2,
+    "ability_lv": 5,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104205091,
+    "m_enemy_id": 410420509,
+    "order": 1,
+    "ability_lv": 5,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104205092,
+    "m_enemy_id": 410420509,
+    "order": 2,
+    "ability_lv": 5,
+    "ability_awake_lv": 0
+  },
+  {
+    "id": 4104205101,
+    "m_enemy_id": 410420510,
+    "order": 1,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104205102,
+    "m_enemy_id": 410420510,
+    "order": 2,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104205103,
+    "m_enemy_id": 410420510,
+    "order": 3,
+    "ability_lv": 5,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104206011,
+    "m_enemy_id": 410420601,
+    "order": 1,
+    "ability_lv": 10,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104206012,
+    "m_enemy_id": 410420601,
+    "order": 2,
+    "ability_lv": 10,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104206013,
+    "m_enemy_id": 410420601,
+    "order": 3,
+    "ability_lv": 10,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104206021,
+    "m_enemy_id": 410420602,
+    "order": 1,
+    "ability_lv": 7,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104206022,
+    "m_enemy_id": 410420602,
+    "order": 2,
+    "ability_lv": 7,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104206023,
+    "m_enemy_id": 410420602,
+    "order": 3,
+    "ability_lv": 7,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104206031,
+    "m_enemy_id": 410420603,
+    "order": 1,
+    "ability_lv": 7,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104206032,
+    "m_enemy_id": 410420603,
+    "order": 2,
+    "ability_lv": 7,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104206033,
+    "m_enemy_id": 410420603,
+    "order": 3,
+    "ability_lv": 7,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104206041,
+    "m_enemy_id": 410420604,
+    "order": 1,
+    "ability_lv": 7,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104206042,
+    "m_enemy_id": 410420604,
+    "order": 2,
+    "ability_lv": 7,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104206043,
+    "m_enemy_id": 410420604,
+    "order": 3,
+    "ability_lv": 7,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104206051,
+    "m_enemy_id": 410420605,
+    "order": 1,
+    "ability_lv": 7,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104206052,
+    "m_enemy_id": 410420605,
+    "order": 2,
+    "ability_lv": 7,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104206053,
+    "m_enemy_id": 410420605,
+    "order": 3,
+    "ability_lv": 7,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104206061,
+    "m_enemy_id": 410420606,
+    "order": 1,
+    "ability_lv": 7,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104206062,
+    "m_enemy_id": 410420606,
+    "order": 2,
+    "ability_lv": 7,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104206063,
+    "m_enemy_id": 410420606,
+    "order": 3,
+    "ability_lv": 7,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104206071,
+    "m_enemy_id": 410420607,
+    "order": 1,
+    "ability_lv": 10,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104206072,
+    "m_enemy_id": 410420607,
+    "order": 2,
+    "ability_lv": 10,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104206073,
+    "m_enemy_id": 410420607,
+    "order": 3,
+    "ability_lv": 10,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104206081,
+    "m_enemy_id": 410420608,
+    "order": 1,
+    "ability_lv": 7,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104206082,
+    "m_enemy_id": 410420608,
+    "order": 2,
+    "ability_lv": 7,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104206083,
+    "m_enemy_id": 410420608,
+    "order": 3,
+    "ability_lv": 7,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104206091,
+    "m_enemy_id": 410420609,
+    "order": 1,
+    "ability_lv": 7,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104206092,
+    "m_enemy_id": 410420609,
+    "order": 2,
+    "ability_lv": 7,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104206093,
+    "m_enemy_id": 410420609,
+    "order": 3,
+    "ability_lv": 7,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104206101,
+    "m_enemy_id": 410420610,
+    "order": 1,
+    "ability_lv": 7,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104206102,
+    "m_enemy_id": 410420610,
+    "order": 2,
+    "ability_lv": 7,
+    "ability_awake_lv": 2
+  },
+  {
+    "id": 4104206103,
+    "m_enemy_id": 410420610,
+    "order": 3,
+    "ability_lv": 7,
+    "ability_awake_lv": 2
   }
 ]

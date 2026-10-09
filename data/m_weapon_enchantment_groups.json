@@ -9555,6 +9555,27 @@
     "is_appraisal": 0
   },
   {
+    "id": 1100244,
+    "m_weapon_id": 18100340,
+    "enchantment_group_no": 810041,
+    "order": 1,
+    "is_appraisal": 0
+  },
+  {
+    "id": 1100245,
+    "m_weapon_id": 18100340,
+    "enchantment_group_no": 810042,
+    "order": 2,
+    "is_appraisal": 0
+  },
+  {
+    "id": 1100246,
+    "m_weapon_id": 18100340,
+    "enchantment_group_no": 810043,
+    "order": 3,
+    "is_appraisal": 0
+  },
+  {
     "id": 1100247,
     "m_weapon_id": 18110340,
     "enchantment_group_no": 811041,
@@ -9618,6 +9639,27 @@
     "is_appraisal": 0
   },
   {
+    "id": 1100259,
+    "m_weapon_id": 18100440,
+    "enchantment_group_no": 810041,
+    "order": 1,
+    "is_appraisal": 0
+  },
+  {
+    "id": 1100260,
+    "m_weapon_id": 18100440,
+    "enchantment_group_no": 810042,
+    "order": 2,
+    "is_appraisal": 0
+  },
+  {
+    "id": 1100261,
+    "m_weapon_id": 18100440,
+    "enchantment_group_no": 810043,
+    "order": 3,
+    "is_appraisal": 0
+  },
+  {
     "id": 1100262,
     "m_weapon_id": 18110440,
     "enchantment_group_no": 811041,
@@ -9677,6 +9719,27 @@
     "id": 1100270,
     "m_weapon_id": 18130440,
     "enchantment_group_no": 813043,
+    "order": 3,
+    "is_appraisal": 0
+  },
+  {
+    "id": 1100274,
+    "m_weapon_id": 18100540,
+    "enchantment_group_no": 810041,
+    "order": 1,
+    "is_appraisal": 0
+  },
+  {
+    "id": 1100275,
+    "m_weapon_id": 18100540,
+    "enchantment_group_no": 810042,
+    "order": 2,
+    "is_appraisal": 0
+  },
+  {
+    "id": 1100276,
+    "m_weapon_id": 18100540,
+    "enchantment_group_no": 810043,
     "order": 3,
     "is_appraisal": 0
   },
@@ -10286,6 +10349,174 @@
     "id": 1100366,
     "m_weapon_id": 18070541,
     "enchantment_group_no": 807043,
+    "order": 3,
+    "is_appraisal": 1
+  },
+  {
+    "id": 1100367,
+    "m_weapon_id": 12070340,
+    "enchantment_group_no": 207041,
+    "order": 1,
+    "is_appraisal": 0
+  },
+  {
+    "id": 1100368,
+    "m_weapon_id": 12070340,
+    "enchantment_group_no": 207042,
+    "order": 2,
+    "is_appraisal": 0
+  },
+  {
+    "id": 1100369,
+    "m_weapon_id": 12070340,
+    "enchantment_group_no": 207043,
+    "order": 3,
+    "is_appraisal": 0
+  },
+  {
+    "id": 1100370,
+    "m_weapon_id": 14070340,
+    "enchantment_group_no": 407041,
+    "order": 1,
+    "is_appraisal": 0
+  },
+  {
+    "id": 1100371,
+    "m_weapon_id": 14070340,
+    "enchantment_group_no": 407042,
+    "order": 2,
+    "is_appraisal": 0
+  },
+  {
+    "id": 1100372,
+    "m_weapon_id": 14070340,
+    "enchantment_group_no": 407043,
+    "order": 3,
+    "is_appraisal": 0
+  },
+  {
+    "id": 1100373,
+    "m_weapon_id": 12070440,
+    "enchantment_group_no": 207041,
+    "order": 1,
+    "is_appraisal": 0
+  },
+  {
+    "id": 1100374,
+    "m_weapon_id": 12070440,
+    "enchantment_group_no": 207042,
+    "order": 2,
+    "is_appraisal": 0
+  },
+  {
+    "id": 1100375,
+    "m_weapon_id": 12070440,
+    "enchantment_group_no": 207043,
+    "order": 3,
+    "is_appraisal": 0
+  },
+  {
+    "id": 1100376,
+    "m_weapon_id": 14070440,
+    "enchantment_group_no": 407041,
+    "order": 1,
+    "is_appraisal": 0
+  },
+  {
+    "id": 1100377,
+    "m_weapon_id": 14070440,
+    "enchantment_group_no": 407042,
+    "order": 2,
+    "is_appraisal": 0
+  },
+  {
+    "id": 1100378,
+    "m_weapon_id": 14070440,
+    "enchantment_group_no": 407043,
+    "order": 3,
+    "is_appraisal": 0
+  },
+  {
+    "id": 1100379,
+    "m_weapon_id": 12070540,
+    "enchantment_group_no": 207041,
+    "order": 1,
+    "is_appraisal": 0
+  },
+  {
+    "id": 1100380,
+    "m_weapon_id": 12070540,
+    "enchantment_group_no": 207042,
+    "order": 2,
+    "is_appraisal": 0
+  },
+  {
+    "id": 1100381,
+    "m_weapon_id": 12070540,
+    "enchantment_group_no": 207043,
+    "order": 3,
+    "is_appraisal": 0
+  },
+  {
+    "id": 1100382,
+    "m_weapon_id": 14070540,
+    "enchantment_group_no": 407041,
+    "order": 1,
+    "is_appraisal": 0
+  },
+  {
+    "id": 1100383,
+    "m_weapon_id": 14070540,
+    "enchantment_group_no": 407042,
+    "order": 2,
+    "is_appraisal": 0
+  },
+  {
+    "id": 1100384,
+    "m_weapon_id": 14070540,
+    "enchantment_group_no": 407043,
+    "order": 3,
+    "is_appraisal": 0
+  },
+  {
+    "id": 1100385,
+    "m_weapon_id": 12070541,
+    "enchantment_group_no": 207041,
+    "order": 1,
+    "is_appraisal": 0
+  },
+  {
+    "id": 1100386,
+    "m_weapon_id": 12070541,
+    "enchantment_group_no": 207042,
+    "order": 2,
+    "is_appraisal": 0
+  },
+  {
+    "id": 1100387,
+    "m_weapon_id": 12070541,
+    "enchantment_group_no": 207043,
+    "order": 3,
+    "is_appraisal": 1
+  },
+  {
+    "id": 1100388,
+    "m_weapon_id": 14070541,
+    "enchantment_group_no": 407041,
+    "order": 1,
+    "is_appraisal": 0
+  },
+  {
+    "id": 1100389,
+    "m_weapon_id": 14070541,
+    "enchantment_group_no": 407042,
+    "order": 2,
+    "is_appraisal": 0
+  },
+  {
+    "id": 1100390,
+    "m_weapon_id": 14070541,
+    "enchantment_group_no": 407043,
     "order": 3,
     "is_appraisal": 1
   },

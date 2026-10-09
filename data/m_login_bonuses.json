@@ -276,6 +276,18 @@
     "end_at": "2026-10-10 4:59:59"
   },
   {
+    "id": 24,
+    "login_type": 1,
+    "bonus_type": 2,
+    "condition_type": 0,
+    "condition_value": 0,
+    "display_priority": 24,
+    "display_order": 24,
+    "expire_days": 0,
+    "begin_at": "2026-10-09 13:00:00",
+    "end_at": "2026-10-20 4:59:59"
+  },
+  {
     "id": 10001,
     "login_type": 1,
     "bonus_type": 91,
@@ -673,6 +685,78 @@
   },
   {
     "id": 10034,
+    "login_type": 1,
+    "bonus_type": 91,
+    "condition_type": 0,
+    "condition_value": 0,
+    "display_priority": 3,
+    "display_order": 3,
+    "expire_days": 10,
+    "begin_at": "2026-04-13 15:00:00",
+    "end_at": "2040-12-31 23:59:59"
+  },
+  {
+    "id": 10035,
+    "login_type": 1,
+    "bonus_type": 91,
+    "condition_type": 0,
+    "condition_value": 0,
+    "display_priority": 3,
+    "display_order": 3,
+    "expire_days": 10,
+    "begin_at": "2026-04-13 15:00:00",
+    "end_at": "2040-12-31 23:59:59"
+  },
+  {
+    "id": 10036,
+    "login_type": 1,
+    "bonus_type": 91,
+    "condition_type": 0,
+    "condition_value": 0,
+    "display_priority": 3,
+    "display_order": 3,
+    "expire_days": 10,
+    "begin_at": "2026-04-13 15:00:00",
+    "end_at": "2040-12-31 23:59:59"
+  },
+  {
+    "id": 10037,
+    "login_type": 1,
+    "bonus_type": 91,
+    "condition_type": 0,
+    "condition_value": 0,
+    "display_priority": 3,
+    "display_order": 3,
+    "expire_days": 10,
+    "begin_at": "2026-04-13 15:00:00",
+    "end_at": "2040-12-31 23:59:59"
+  },
+  {
+    "id": 10038,
+    "login_type": 1,
+    "bonus_type": 91,
+    "condition_type": 0,
+    "condition_value": 0,
+    "display_priority": 3,
+    "display_order": 3,
+    "expire_days": 10,
+    "begin_at": "2026-04-13 15:00:00",
+    "end_at": "2040-12-31 23:59:59"
+  },
+  {
+    "id": 10039,
+    "login_type": 1,
+    "bonus_type": 91,
+    "condition_type": 0,
+    "condition_value": 0,
+    "display_priority": 3,
+    "display_order": 3,
+    "expire_days": 10,
+    "begin_at": "2026-04-13 15:00:00",
+    "end_at": "2040-12-31 23:59:59"
+  },
+  {
+    "id": 10040,
     "login_type": 1,
     "bonus_type": 91,
     "condition_type": 0,

@@ -110,10 +110,28 @@
   {
     "id": 13,
     "m_nether_map_floor_id": 605,
-    "description": "侵食率20以上500以下",
+    "description": "侵食率20以上50以下",
     "restrict_type": 1,
     "restrict_param_1": 20,
     "restrict_param_2": 50,
+    "restrict_param_3": 0
+  },
+  {
+    "id": 14,
+    "m_nether_map_floor_id": 652,
+    "description": "侵食率0以上10以下",
+    "restrict_type": 1,
+    "restrict_param_1": 0,
+    "restrict_param_2": 10,
+    "restrict_param_3": 0
+  },
+  {
+    "id": 15,
+    "m_nether_map_floor_id": 698,
+    "description": "侵食率0以上20以下",
+    "restrict_type": 1,
+    "restrict_param_1": 0,
+    "restrict_param_2": 20,
     "restrict_param_3": 0
   }
 ]

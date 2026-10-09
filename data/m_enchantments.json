@@ -1573,5 +1573,26 @@
     "enchantment_ability_no": 104701,
     "display_order": 1,
     "is_unique": 0
+  },
+  {
+    "id": 242,
+    "enchantment_no": 1048,
+    "enchantment_ability_no": 104801,
+    "display_order": 1,
+    "is_unique": 1
+  },
+  {
+    "id": 243,
+    "enchantment_no": 1049,
+    "enchantment_ability_no": 104901,
+    "display_order": 1,
+    "is_unique": 1
+  },
+  {
+    "id": 244,
+    "enchantment_no": 1050,
+    "enchantment_ability_no": 105001,
+    "display_order": 1,
+    "is_unique": 1
   }
 ]
