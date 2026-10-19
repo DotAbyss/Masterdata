@@ -1037,7 +1037,7 @@
     "nameEN": "Holy",
     "limit": 0,
     "icon_asset_id": "Holy",
-    "description": "Lvに応じて強化された状態\n（自信を除く味方の数に応じてLvが変動）"
+    "description": "Lvに応じて強化された状態\n（自身を除く味方の数に応じてLvが変動）"
   },
   {
     "id": 40001,
