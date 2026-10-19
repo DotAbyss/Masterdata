@@ -1368,6 +1368,30 @@
     "order": 3
   },
   {
+    "id": 130004201,
+    "m_character_id": 1300042,
+    "asset_id": "Ability_SpecialAttack_01",
+    "name": "ヒステリック・バースト",
+    "ability_no": 10214,
+    "order": 1
+  },
+  {
+    "id": 130004202,
+    "m_character_id": 1300042,
+    "asset_id": "Ability_Defense_01",
+    "name": "被害妄想レジスト",
+    "ability_no": 10215,
+    "order": 2
+  },
+  {
+    "id": 130004203,
+    "m_character_id": 1300042,
+    "asset_id": "Ability_Critical_01",
+    "name": "地雷系メンタリティー",
+    "ability_no": 10216,
+    "order": 3
+  },
+  {
     "id": 130004301,
     "m_character_id": 1300043,
     "asset_id": "Ability_SpecialAttack_01",
@@ -1629,6 +1653,30 @@
     "asset_id": "Ability_Attack_01",
     "name": "研究者気質",
     "ability_no": 10213,
+    "order": 3
+  },
+  {
+    "id": 130005901,
+    "m_character_id": 1300059,
+    "asset_id": "Ability_SpecialAttack_01",
+    "name": "愛砲",
+    "ability_no": 10217,
+    "order": 1
+  },
+  {
+    "id": 130005902,
+    "m_character_id": 1300059,
+    "asset_id": "Ability_Attack_01",
+    "name": "爆速クリーンナップ",
+    "ability_no": 10218,
+    "order": 2
+  },
+  {
+    "id": 130005903,
+    "m_character_id": 1300059,
+    "asset_id": "Ability_Attack_01",
+    "name": "ポンコツメイド",
+    "ability_no": 10219,
     "order": 3
   }
 ]

@@ -22,5 +22,29 @@
     "m_event_disaster_quest_id": 202,
     "m_event_disaster_quest_id_restrict": 102,
     "description": "イベントステージ 難易度HARDをクリアで解放"
+  },
+  {
+    "id": 5,
+    "m_event_disaster_quest_id": 1102,
+    "m_event_disaster_quest_id_restrict": 1101,
+    "description": "難易度NORMALをクリアで解放"
+  },
+  {
+    "id": 6,
+    "m_event_disaster_quest_id": 1103,
+    "m_event_disaster_quest_id_restrict": 1102,
+    "description": "難易度HARDをクリアで解放"
+  },
+  {
+    "id": 7,
+    "m_event_disaster_quest_id": 1201,
+    "m_event_disaster_quest_id_restrict": 1102,
+    "description": "イベントステージ 難易度HARDをクリアで解放"
+  },
+  {
+    "id": 8,
+    "m_event_disaster_quest_id": 1202,
+    "m_event_disaster_quest_id_restrict": 1102,
+    "description": "イベントステージ 難易度HARDをクリアで解放"
   }
 ]

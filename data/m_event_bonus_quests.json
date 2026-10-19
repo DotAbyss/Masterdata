@@ -10,5 +10,11 @@
     "m_event_id": 700001,
     "default_probability": 0,
     "increase_probability": 30
+  },
+  {
+    "id": 600003,
+    "m_event_id": 600003,
+    "default_probability": 0,
+    "increase_probability": 30
   }
 ]

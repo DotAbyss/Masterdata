@@ -165,6 +165,21 @@
     "cue_id": "bgm0005"
   },
   {
+    "id": 600003,
+    "name": "第3回ラッキーボックス",
+    "type": 6,
+    "m_mission_term_category_group": 0,
+    "m_exchange_category_id": 0,
+    "m_gacha_group_id": 0,
+    "m_event_boss_ticket_id": 0,
+    "m_event_stage_effect_assignment_group_no": 0,
+    "open_at": "2026-10-19 13:00:00",
+    "end_at": "2026-10-30 11:59:59",
+    "close_at": "2026-11-07 4:59:59",
+    "cue_sheet": "bgm0005",
+    "cue_id": "bgm0005"
+  },
+  {
     "id": 700001,
     "name": "第1回トレジャーボード",
     "type": 4,
@@ -270,6 +285,21 @@
     "cue_id": "bgm0005"
   },
   {
+    "id": 900003,
+    "name": "第3回育成イベント",
+    "type": 8,
+    "m_mission_term_category_group": 900003,
+    "m_exchange_category_id": 0,
+    "m_gacha_group_id": 166,
+    "m_event_boss_ticket_id": 0,
+    "m_event_stage_effect_assignment_group_no": 0,
+    "open_at": "2026-10-24 10:00:00",
+    "end_at": "2026-11-02 4:59:59",
+    "close_at": "2026-11-09 4:59:59",
+    "cue_sheet": "bgm0005",
+    "cue_id": "bgm0005"
+  },
+  {
     "id": 100001,
     "name": "第1回クリスタルハント",
     "type": 1,
@@ -356,6 +386,21 @@
     "open_at": "2026-07-27 10:00:00",
     "end_at": "2026-08-03 4:59:59",
     "close_at": "2026-08-13 4:59:59",
+    "cue_sheet": "bgm0009",
+    "cue_id": "bgm0009"
+  },
+  {
+    "id": 1050003,
+    "name": "凶化厄災戦 -天使-",
+    "type": 2,
+    "m_mission_term_category_group": 0,
+    "m_exchange_category_id": 0,
+    "m_gacha_group_id": 166,
+    "m_event_boss_ticket_id": 0,
+    "m_event_stage_effect_assignment_group_no": 0,
+    "open_at": "2026-10-27 10:00:00",
+    "end_at": "2026-11-02 4:59:59",
+    "close_at": "2026-11-09 4:59:59",
     "cue_sheet": "bgm0009",
     "cue_id": "bgm0009"
   },

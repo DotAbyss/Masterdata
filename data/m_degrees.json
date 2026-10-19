@@ -40,6 +40,14 @@
     "flavor_text": "一定の実績を達成した者に贈られる称号。"
   },
   {
+    "id": 10006,
+    "asset_id": "6002003",
+    "rarity": 3,
+    "type": 2,
+    "display_text": "嘆きの解放者",
+    "flavor_text": "一定の実績を達成した者に贈られる称号。"
+  },
+  {
     "id": 100000,
     "asset_id": "6001001",
     "rarity": 1,
@@ -269,6 +277,70 @@
     "rarity": 1,
     "type": 1,
     "display_text": "真夏の海岸物語",
+    "flavor_text": "一定の実績を達成した者に贈られる称号。"
+  },
+  {
+    "id": 200201,
+    "asset_id": "6001003",
+    "rarity": 1,
+    "type": 1,
+    "display_text": "第2回凶化厄災戦 敢闘賞",
+    "flavor_text": "一定の実績を達成した者に贈られる称号。"
+  },
+  {
+    "id": 200202,
+    "asset_id": "6001002",
+    "rarity": 3,
+    "type": 1,
+    "display_text": "第2回凶化厄災戦 入賞",
+    "flavor_text": "一定の実績を達成した者に贈られる称号。"
+  },
+  {
+    "id": 200203,
+    "asset_id": "6001002",
+    "rarity": 3,
+    "type": 1,
+    "display_text": "第2回凶化厄災戦 1位",
+    "flavor_text": "一定の実績を達成した者に贈られる称号。"
+  },
+  {
+    "id": 200204,
+    "asset_id": "6001002",
+    "rarity": 3,
+    "type": 1,
+    "display_text": "第2回凶化厄災戦 2位",
+    "flavor_text": "一定の実績を達成した者に贈られる称号。"
+  },
+  {
+    "id": 200205,
+    "asset_id": "6001002",
+    "rarity": 3,
+    "type": 1,
+    "display_text": "第2回凶化厄災戦 3位",
+    "flavor_text": "一定の実績を達成した者に贈られる称号。"
+  },
+  {
+    "id": 200206,
+    "asset_id": "6001002",
+    "rarity": 3,
+    "type": 1,
+    "display_text": "第2回凶化厄災戦 BEST50",
+    "flavor_text": "一定の実績を達成した者に贈られる称号。"
+  },
+  {
+    "id": 200207,
+    "asset_id": "6001002",
+    "rarity": 3,
+    "type": 1,
+    "display_text": "第2回凶化厄災戦 BEST100",
+    "flavor_text": "一定の実績を達成した者に贈られる称号。"
+  },
+  {
+    "id": 200208,
+    "asset_id": "6001002",
+    "rarity": 3,
+    "type": 1,
+    "display_text": "第2回凶化厄災戦 上位1%",
     "flavor_text": "一定の実績を達成した者に贈られる称号。"
   }
 ]

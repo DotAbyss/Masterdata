@@ -70,5 +70,50 @@
     "difficulty": 3,
     "display_order": 3,
     "release_condition_m_event_training_stage_ids": "90000203"
+  },
+  {
+    "id": 90000301,
+    "m_event_id": 900003,
+    "name": "地雷系騎士スカーレット",
+    "type": 1,
+    "difficulty": 1,
+    "display_order": 1,
+    "release_condition_m_event_training_stage_ids": ""
+  },
+  {
+    "id": 90000302,
+    "m_event_id": 900003,
+    "name": "特別強化トレーニング！1",
+    "type": 2,
+    "difficulty": 1,
+    "display_order": 1,
+    "release_condition_m_event_training_stage_ids": "90000301"
+  },
+  {
+    "id": 90000303,
+    "m_event_id": 900003,
+    "name": "特別強化トレーニング！2",
+    "type": 2,
+    "difficulty": 2,
+    "display_order": 2,
+    "release_condition_m_event_training_stage_ids": "90000302"
+  },
+  {
+    "id": 90000304,
+    "m_event_id": 900003,
+    "name": "特別強化トレーニング！3",
+    "type": 2,
+    "difficulty": 3,
+    "display_order": 3,
+    "release_condition_m_event_training_stage_ids": "90000303"
+  },
+  {
+    "id": 90000305,
+    "m_event_id": 900003,
+    "name": "スカーレット体験ステージ",
+    "type": 3,
+    "difficulty": 1,
+    "display_order": 1,
+    "release_condition_m_event_training_stage_ids": ""
   }
 ]

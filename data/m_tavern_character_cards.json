@@ -852,7 +852,7 @@
     "m_character_skin_id": 130003602,
     "name": "オーレリナの提案",
     "effect_type": 3,
-    "description": "次ターンの営業カードが必ず「ドリンク」関連のものになる。\nミレスガルドのスタッフの満足度+20％",
+    "description": "次ターンの営業カードが必ず「ドリンク」関連のものになる。\nミレスガルドのスタッフの満足度+20%",
     "m_tavern_card_effect_id_1": 500000,
     "m_tavern_card_effect_id_2": 401020,
     "m_tavern_card_effect_id_3": 0
@@ -877,6 +877,28 @@
     "description": "ランダムな「エルドラーナ」の\nスタッフ最大3体に「料理」を付与。\nそれらのスタッフの満足度+20%",
     "m_tavern_card_effect_id_1": 102009,
     "m_tavern_card_effect_id_2": 401006,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 13000420,
+    "m_character_id": 1300042,
+    "m_character_skin_id": 130004202,
+    "name": "スカーレットの提案",
+    "effect_type": 2,
+    "description": "ランダムな「ミレスガルド」の\nスタッフ最大2体に「料理」を付与。\nそれらのスタッフの満足度+40%",
+    "m_tavern_card_effect_id_1": 101003,
+    "m_tavern_card_effect_id_2": 401008,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 13000590,
+    "m_character_id": 1300059,
+    "m_character_skin_id": 130005902,
+    "name": "ミコラの提案",
+    "effect_type": 3,
+    "description": "次ターンの営業カードが必ず「料理」関連のものになる。\nペルディオンのスタッフの満足度+20%",
+    "m_tavern_card_effect_id_1": 500002,
+    "m_tavern_card_effect_id_2": 401021,
     "m_tavern_card_effect_id_3": 0
   }
 ]

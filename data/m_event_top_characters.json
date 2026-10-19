@@ -720,6 +720,16 @@
     "serif_type": 0
   },
   {
+    "id": 60000301,
+    "m_event_id": 600003,
+    "m_character_id": 1300059,
+    "character_asset_id": "108501000G",
+    "position": 0,
+    "face": "Normal",
+    "serif": "ミコラ",
+    "serif_type": 0
+  },
+  {
     "id": 70000101,
     "m_event_id": 700001,
     "m_character_id": 1300018,
@@ -907,6 +917,36 @@
     "position": 1,
     "face": "Normal",
     "serif": "『迅雷の魔剣士』、いざ参る！",
+    "serif_type": 0
+  },
+  {
+    "id": 90000301,
+    "m_event_id": 900003,
+    "m_character_id": 1300003,
+    "character_asset_id": "107801000G",
+    "position": 1,
+    "face": "Normal",
+    "serif": "司令官さんのために！",
+    "serif_type": 0
+  },
+  {
+    "id": 90000302,
+    "m_event_id": 900003,
+    "m_character_id": 1300003,
+    "character_asset_id": "107801000G",
+    "position": 1,
+    "face": "Normal",
+    "serif": "みんな順調に強くなってるね\nあれ……わたしって、必要？",
+    "serif_type": 0
+  },
+  {
+    "id": 90000303,
+    "m_event_id": 900003,
+    "m_character_id": 1300003,
+    "character_asset_id": "107801000G",
+    "position": 1,
+    "face": "Normal",
+    "serif": "司令官さんには\nわたしがついてないと……",
     "serif_type": 0
   },
   {

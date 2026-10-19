@@ -38,5 +38,45 @@
     "content_id": 0,
     "amount": 100,
     "is_first_reward": 1
+  },
+  {
+    "id": 105000301,
+    "m_event_disaster_quest_id": 1101,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 100,
+    "is_first_reward": 1
+  },
+  {
+    "id": 105000302,
+    "m_event_disaster_quest_id": 1102,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 100,
+    "is_first_reward": 1
+  },
+  {
+    "id": 105000303,
+    "m_event_disaster_quest_id": 1103,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 100,
+    "is_first_reward": 1
+  },
+  {
+    "id": 105000304,
+    "m_event_disaster_quest_id": 1103,
+    "content_type": 190,
+    "content_id": 10006,
+    "amount": 1,
+    "is_first_reward": 1
+  },
+  {
+    "id": 105000305,
+    "m_event_disaster_quest_id": 1201,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 100,
+    "is_first_reward": 1
   }
 ]

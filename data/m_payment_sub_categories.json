@@ -25,7 +25,7 @@
     "category": 3,
     "sub_category_id": 1,
     "category_text": "マンスリー",
-    "display_order_desc": 3
+    "display_order_desc": 1
   },
   {
     "id": 5,
@@ -39,7 +39,7 @@
     "category": 3,
     "sub_category_id": 3,
     "category_text": "デイリー",
-    "display_order_desc": 1
+    "display_order_desc": 3
   },
   {
     "id": 7,
@@ -207,6 +207,20 @@
     "category": 2,
     "sub_category_id": 27,
     "category_text": "鏡影の回廊(後半)",
+    "display_order_desc": 25
+  },
+  {
+    "id": 31,
+    "category": 2,
+    "sub_category_id": 28,
+    "category_text": "ラッキーボックス",
+    "display_order_desc": 24
+  },
+  {
+    "id": 32,
+    "category": 2,
+    "sub_category_id": 29,
+    "category_text": "特別強化トレーニング",
     "display_order_desc": 25
   }
 ]
