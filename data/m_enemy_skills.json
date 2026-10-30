@@ -4822,5 +4822,104 @@
     "timeline": "Skill002",
     "name": "審判",
     "description": "敵全体に【4HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（小） / 麻痺【15秒 / 成功率:100%}】を付与 / 自身の信仰Lvに応じて味方全体に最大HP【5～40%】分の回復 / 自身の信仰Lvが最大になる"
+  },
+  {
+    "id": 20424010501,
+    "asset_id": "2042401",
+    "ai_id": "5",
+    "skill_type": 10,
+    "timeline": "Attack001",
+    "name": "",
+    "description": "一定時間ごとに範囲内にいる自身を除いた味方全体に最大HP【{[RECOVER.HEAL_PERCENT]}】分の回復 / 攻撃力UP【{[ATTACKUP1.RATE_PERCENT]} / {[ATTACKUP1.DURATION]}秒】を付与 / 防御力UP【{[DEFENCEUP.RATE_PERCENT]} / {[DEFENCEUP.DURATION]}秒】を付与"
+  },
+  {
+    "id": 20424010502,
+    "asset_id": "2042401",
+    "ai_id": "5",
+    "skill_type": 20,
+    "timeline": "Skill001A",
+    "name": "聖剣",
+    "description": "自身の信仰Lvに応じてランダムな敵2～7体に【1HIT / 合計100～200%】ダメージ / ノックバック（小） / 対象に与ダメージDOWN【{[DAMAGEDOWN.FIXED_PERCENT]} / {[DAMAGEDOWN.DURATION]}秒】を付与 / 被ダメージUP【{[TAKENDAMAGEUP.FIXED_PERCENT]} / {[TAKENDAMAGEUP.DURATION]}秒】を付与"
+  },
+  {
+    "id": 20424010503,
+    "asset_id": "2042401",
+    "ai_id": "5",
+    "skill_type": 20,
+    "timeline": "Skill001B",
+    "name": "戦慄",
+    "description": "自身の信仰Lvに応じてランダムな敵キャラクター2～7体に麻痺【5～10秒 / 成功率:50～120%】を付与 / 対象のスキルチャージを【50%】減少 / FC参加不可【10秒】を付与"
+  },
+  {
+    "id": 20424010504,
+    "asset_id": "2042401",
+    "ai_id": "5",
+    "skill_type": 20,
+    "timeline": "Skill003A",
+    "name": "咎人",
+    "description": "自身の信仰Lvに応じてランダムな敵キャラクター1～6体に攻撃力DOWN【10～30% / 5～10秒】を付与 / 防御力DOWN【10～30% / 5～10秒】を付与 / 1HIT【合計80～180%】ダメージ"
+  },
+  {
+    "id": 20424010505,
+    "asset_id": "2042401",
+    "ai_id": "5",
+    "skill_type": 20,
+    "timeline": "Skill003B",
+    "name": "盲信",
+    "description": "自身の信仰Lvに応じてランダムな敵キャラクター1～6体に麻痺【5～10秒 / 成功率:25～50%】を付与 / 最大HP【10～50%】分のダメージ"
+  },
+  {
+    "id": 20424010506,
+    "asset_id": "2042401",
+    "ai_id": "5",
+    "skill_type": 20,
+    "timeline": "Skill003C",
+    "name": "恩寵",
+    "description": "自身の信仰Lvに応じて味方全体に攻撃力UP【20～50% / 10～30秒】を付与 / 防御力UP【10～30% / 10～30秒】を付与"
+  },
+  {
+    "id": 20424010507,
+    "asset_id": "2042401",
+    "ai_id": "5",
+    "skill_type": 20,
+    "timeline": "Skill004",
+    "name": "聖槍",
+    "description": "最も近い敵1体を対象とした範囲内の敵全体に、自身の信仰Lvに応じて【1HIT / 合計450～900%】分散ダメージ / ノックバック（小）"
+  },
+  {
+    "id": 20424010508,
+    "asset_id": "2042401",
+    "ai_id": "5",
+    "skill_type": 20,
+    "timeline": "Appeal001A",
+    "name": "祝福",
+    "description": "自身の信仰Lvに応じて、自身を除いた残りHP割合の低い味方1～6体に最大HP【5～40%】分の回復 / 対象に攻撃力UP【20～50% / 10～30秒】を付与 / 防御力UP【10～30% / 10～30秒】を付与"
+  },
+  {
+    "id": 20424010509,
+    "asset_id": "2042401",
+    "ai_id": "5",
+    "skill_type": 20,
+    "timeline": "Appeal001B",
+    "name": "聖杯",
+    "description": "自身を除いた味方全体に最大HPUP【50～100% / 30秒】を付与 / 対象の最大HP【5～30%】分の回復"
+  },
+  {
+    "id": 20424010510,
+    "asset_id": "2042401",
+    "ai_id": "5",
+    "skill_type": 20,
+    "timeline": "Check",
+    "name": "信仰",
+    "description": "フィールド上の自身を信仰している味方の数に応じて、自身の信仰Lvが変化する\n\n信仰：Lvに応じて一部の技が強化される状態。最大5。魅了状態の間はLvが2減少する"
+  },
+  {
+    "id": 20424010511,
+    "asset_id": "2042401",
+    "ai_id": "5",
+    "skill_type": 40,
+    "timeline": "Skill002",
+    "name": "審判",
+    "description": "敵全体に【4HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック（小） / 麻痺【15秒 / 成功率:100%}】を付与 / 自身の信仰Lvに応じて味方全体に最大HP【5～40%】分の回復 / 自身の信仰Lvが最大になる"
   }
 ]

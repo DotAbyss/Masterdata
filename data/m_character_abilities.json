@@ -1032,6 +1032,30 @@
     "order": 3
   },
   {
+    "id": 130002501,
+    "m_character_id": 1300025,
+    "asset_id": "Ability_SpecialAttack_01",
+    "name": "フォートレス・アックス",
+    "ability_no": 10068,
+    "order": 1
+  },
+  {
+    "id": 130002502,
+    "m_character_id": 1300025,
+    "asset_id": "Ability_Attack_01",
+    "name": "気高き庇護",
+    "ability_no": 10069,
+    "order": 2
+  },
+  {
+    "id": 130002503,
+    "m_character_id": 1300025,
+    "asset_id": "Ability_Heal_01",
+    "name": "ノブレス・オブリージュ",
+    "ability_no": 10070,
+    "order": 3
+  },
+  {
     "id": 130002601,
     "m_character_id": 1300026,
     "asset_id": "Ability_SpecialAttack_01",
@@ -1677,6 +1701,30 @@
     "asset_id": "Ability_Attack_01",
     "name": "ポンコツメイド",
     "ability_no": 10219,
+    "order": 3
+  },
+  {
+    "id": 130006001,
+    "m_character_id": 1300060,
+    "asset_id": "Ability_SpecialAttack_01",
+    "name": "千鍛の剛拳",
+    "ability_no": 10220,
+    "order": 1
+  },
+  {
+    "id": 130006002,
+    "m_character_id": 1300060,
+    "asset_id": "Ability_Attack_01",
+    "name": "神速連打",
+    "ability_no": 10221,
+    "order": 2
+  },
+  {
+    "id": 130006003,
+    "m_character_id": 1300060,
+    "asset_id": "Ability_Attack_01",
+    "name": "神威共鳴",
+    "ability_no": 10222,
     "order": 3
   }
 ]

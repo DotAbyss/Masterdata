@@ -145,5 +145,26 @@
     "asset_id": "511301007",
     "ability_no": 19007,
     "level": 10
+  },
+  {
+    "id": 22,
+    "name": "初級【勢力】バフ",
+    "asset_id": "511301008",
+    "ability_no": 19008,
+    "level": 1
+  },
+  {
+    "id": 23,
+    "name": "中級【勢力】バフ",
+    "asset_id": "511301008",
+    "ability_no": 19008,
+    "level": 5
+  },
+  {
+    "id": 24,
+    "name": "上級【勢力】バフ",
+    "asset_id": "511301008",
+    "ability_no": 19008,
+    "level": 10
   }
 ]

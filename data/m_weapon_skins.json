@@ -435,6 +435,21 @@
     "display_order": 2
   },
   {
+    "id": 130002501,
+    "weapon_type": 1010,
+    "rarity": 2,
+    "name": "グレンヴィル家の斧と盾",
+    "description": "グレンヴィル家の歴史と誇りを宿す巨斧と盾。\nノブレスオブリージュを胸に、振るうは民の為。\n巨大で扱うのは難しい武具だが、その一撃は強力。",
+    "m_character_id": 1300025,
+    "is_default": 0,
+    "is_paid": 1,
+    "bonus_bond_point": 0,
+    "is_collabo": 0,
+    "released_at": "2026-10-30 13:00:00",
+    "asset_id": "41014004",
+    "display_order": 2
+  },
+  {
     "id": 130002701,
     "weapon_type": 1040,
     "rarity": 2,
@@ -792,6 +807,21 @@
     "is_collabo": 0,
     "released_at": "2026-10-19 13:00:00",
     "asset_id": "41064011",
+    "display_order": 2
+  },
+  {
+    "id": 130006001,
+    "weapon_type": 1030,
+    "rarity": 2,
+    "name": "浄光の剛手甲",
+    "description": "神を敬うチヒロが身につける、光の力を纏った手甲。\n優美な見た目からは想像もつかないほどの強度を誇り、\n大岩をも粉砕するチヒロの怪力に耐えることができる。",
+    "m_character_id": 1300060,
+    "is_default": 0,
+    "is_paid": 1,
+    "bonus_bond_point": 0,
+    "is_collabo": 0,
+    "released_at": "2026-10-30 13:00:00",
+    "asset_id": "41034011",
     "display_order": 2
   },
   {

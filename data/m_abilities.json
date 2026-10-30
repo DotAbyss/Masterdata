@@ -2515,7 +2515,7 @@
   {
     "id": 1006803,
     "ability_no": 10068,
-    "m_ability_effects_id": 20047,
+    "m_ability_effects_id": 20307,
     "ability_awake_level": 1,
     "display_order": 1
   },
@@ -2529,7 +2529,7 @@
   {
     "id": 1006805,
     "ability_no": 10068,
-    "m_ability_effects_id": 20047,
+    "m_ability_effects_id": 20307,
     "ability_awake_level": 2,
     "display_order": 1
   },
@@ -7154,6 +7154,132 @@
     "display_order": 1
   },
   {
+    "id": 1022001,
+    "ability_no": 10220,
+    "m_ability_effects_id": 20430,
+    "ability_awake_level": 0,
+    "display_order": 1
+  },
+  {
+    "id": 1022002,
+    "ability_no": 10220,
+    "m_ability_effects_id": 20431,
+    "ability_awake_level": 0,
+    "display_order": 1
+  },
+  {
+    "id": 1022003,
+    "ability_no": 10220,
+    "m_ability_effects_id": 20430,
+    "ability_awake_level": 1,
+    "display_order": 1
+  },
+  {
+    "id": 1022004,
+    "ability_no": 10220,
+    "m_ability_effects_id": 20431,
+    "ability_awake_level": 1,
+    "display_order": 1
+  },
+  {
+    "id": 1022005,
+    "ability_no": 10220,
+    "m_ability_effects_id": 20307,
+    "ability_awake_level": 1,
+    "display_order": 1
+  },
+  {
+    "id": 1022006,
+    "ability_no": 10220,
+    "m_ability_effects_id": 20430,
+    "ability_awake_level": 2,
+    "display_order": 1
+  },
+  {
+    "id": 1022007,
+    "ability_no": 10220,
+    "m_ability_effects_id": 20431,
+    "ability_awake_level": 2,
+    "display_order": 1
+  },
+  {
+    "id": 1022008,
+    "ability_no": 10220,
+    "m_ability_effects_id": 20307,
+    "ability_awake_level": 2,
+    "display_order": 1
+  },
+  {
+    "id": 1022101,
+    "ability_no": 10221,
+    "m_ability_effects_id": 20432,
+    "ability_awake_level": 0,
+    "display_order": 1
+  },
+  {
+    "id": 1022102,
+    "ability_no": 10221,
+    "m_ability_effects_id": 20432,
+    "ability_awake_level": 1,
+    "display_order": 1
+  },
+  {
+    "id": 1022103,
+    "ability_no": 10221,
+    "m_ability_effects_id": 20310,
+    "ability_awake_level": 1,
+    "display_order": 1
+  },
+  {
+    "id": 1022104,
+    "ability_no": 10221,
+    "m_ability_effects_id": 20432,
+    "ability_awake_level": 2,
+    "display_order": 1
+  },
+  {
+    "id": 1022105,
+    "ability_no": 10221,
+    "m_ability_effects_id": 20310,
+    "ability_awake_level": 2,
+    "display_order": 1
+  },
+  {
+    "id": 1022201,
+    "ability_no": 10222,
+    "m_ability_effects_id": 20433,
+    "ability_awake_level": 0,
+    "display_order": 1
+  },
+  {
+    "id": 1022202,
+    "ability_no": 10222,
+    "m_ability_effects_id": 20433,
+    "ability_awake_level": 1,
+    "display_order": 1
+  },
+  {
+    "id": 1022203,
+    "ability_no": 10222,
+    "m_ability_effects_id": 20321,
+    "ability_awake_level": 1,
+    "display_order": 1
+  },
+  {
+    "id": 1022204,
+    "ability_no": 10222,
+    "m_ability_effects_id": 20433,
+    "ability_awake_level": 2,
+    "display_order": 1
+  },
+  {
+    "id": 1022205,
+    "ability_no": 10222,
+    "m_ability_effects_id": 20321,
+    "ability_awake_level": 2,
+    "display_order": 1
+  },
+  {
     "id": 1900101,
     "ability_no": 19001,
     "m_ability_effects_id": 19001,
@@ -7199,6 +7325,13 @@
     "id": 1900701,
     "ability_no": 19007,
     "m_ability_effects_id": 19007,
+    "ability_awake_level": 0,
+    "display_order": 1
+  },
+  {
+    "id": 1900801,
+    "ability_no": 19008,
+    "m_ability_effects_id": 19008,
     "ability_awake_level": 0,
     "display_order": 1
   },
@@ -7521,6 +7654,27 @@
     "id": 9003101,
     "ability_no": 90031,
     "m_ability_effects_id": 90031,
+    "ability_awake_level": 0,
+    "display_order": 1
+  },
+  {
+    "id": 9003201,
+    "ability_no": 90032,
+    "m_ability_effects_id": 90032,
+    "ability_awake_level": 0,
+    "display_order": 1
+  },
+  {
+    "id": 9003301,
+    "ability_no": 90033,
+    "m_ability_effects_id": 90033,
+    "ability_awake_level": 0,
+    "display_order": 1
+  },
+  {
+    "id": 9003401,
+    "ability_no": 90034,
+    "m_ability_effects_id": 90034,
     "ability_awake_level": 0,
     "display_order": 1
   },

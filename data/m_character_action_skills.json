@@ -763,6 +763,20 @@
     "description": "さらに味方全体の状態異常を解除 / 火・水・土属性の味方バック全体に紋章：情熱を【2】付与"
   },
   {
+    "id": 1300025000,
+    "m_character_id": 1300025,
+    "trigger_type": 20,
+    "name": "ロイヤル・グランドスラム",
+    "description": "自身の前方範囲内にいる敵全体に【1HIT / 合計 {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 攻撃力DOWN【{[ATTACKDOWN.RATE_PERCENT]} / 15秒】を付与 / ノックバック【Lv3】 / 自身に挑発【25秒】を付与"
+  },
+  {
+    "id": 1300025001,
+    "m_character_id": 1300025,
+    "trigger_type": 30,
+    "name": "ロイヤル・グランドスラム",
+    "description": "味方フロント全体に自身の最大HP【{[BARRIER.RATE]}】分のバリア【15秒】を付与 / 紋章：情熱が10以上のとき、さらに味方フロント全体に防御力UP【30% / {[ZEAL.DEFENCEUP.DURATION]秒}】を付与"
+  },
+  {
     "id": 1300026000,
     "m_character_id": 1300026,
     "trigger_type": 20,
@@ -1139,5 +1153,19 @@
     "trigger_type": 30,
     "name": "フランソワで迅速解決☆",
     "description": "ダメージ倍率が【{[PRJCTL.THROW.DAMAGE.DAMAGE_PERCENT]}】に変化"
+  },
+  {
+    "id": 1300060000,
+    "m_character_id": 1300060,
+    "trigger_type": 20,
+    "name": "神恩光華衝",
+    "description": "自身に与ダメージUP【{[SKILLUNIQUEACTION01_03.DAMAGEUP.FIXED_PERCENT]}】を付与【累積 / 最大20%】 /  敵1体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ                                                                        "
+  },
+  {
+    "id": 1300060001,
+    "m_character_id": 1300060,
+    "trigger_type": 30,
+    "name": "神恩光華衝",
+    "description": "味方全体に攻撃力UP【{[SKILLUNIQUEACTION01_03.ATTACKUP1.RATE_PERCENT]} / 15秒】を付与 / マナを【1】チャージ /  紋章：衝撃を10消費し、さらにマナを【1】チャージ"
   }
 ]

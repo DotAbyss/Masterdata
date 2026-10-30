@@ -318,5 +318,25 @@
     "pos_x": -13,
     "pos_z": -28,
     "direction_type": 0
+  },
+  {
+    "id": 35,
+    "m_home_stage_group_id": 26,
+    "m_character_id": 1300060,
+    "m_character_skin_id": 130006001,
+    "serif": "神に仕えし巫女――チヒロです。\n共に心の汚れを清めていきましょう",
+    "pos_x": 45,
+    "pos_z": -50,
+    "direction_type": 0
+  },
+  {
+    "id": 36,
+    "m_home_stage_group_id": 26,
+    "m_character_id": 1300025,
+    "m_character_skin_id": 130002501,
+    "serif": "あたしはヘンリエッタ・グレンヴィル\n誇りあるグレンヴィル家、次期当主よ！",
+    "pos_x": -45,
+    "pos_z": 35,
+    "direction_type": 1
   }
 ]

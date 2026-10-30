@@ -3036,5 +3036,859 @@
     "m_enemy_id": 450041012,
     "is_boss": 1,
     "asset_id": "2019001"
+  },
+  {
+    "id": 4100,
+    "m_event_commission_quest_id": 80000501,
+    "m_enemy_id": 450050101,
+    "is_boss": 1,
+    "asset_id": "2002301"
+  },
+  {
+    "id": 4101,
+    "m_event_commission_quest_id": 80000501,
+    "m_enemy_id": 450050102,
+    "is_boss": 0,
+    "asset_id": "2006501"
+  },
+  {
+    "id": 4102,
+    "m_event_commission_quest_id": 80000501,
+    "m_enemy_id": 450050103,
+    "is_boss": 0,
+    "asset_id": "2005201"
+  },
+  {
+    "id": 4103,
+    "m_event_commission_quest_id": 80000501,
+    "m_enemy_id": 450050104,
+    "is_boss": 0,
+    "asset_id": "2004101"
+  },
+  {
+    "id": 4104,
+    "m_event_commission_quest_id": 80000501,
+    "m_enemy_id": 450050105,
+    "is_boss": 0,
+    "asset_id": "2007001"
+  },
+  {
+    "id": 4105,
+    "m_event_commission_quest_id": 80000501,
+    "m_enemy_id": 450050106,
+    "is_boss": 0,
+    "asset_id": "2008501"
+  },
+  {
+    "id": 4106,
+    "m_event_commission_quest_id": 80000501,
+    "m_enemy_id": 450050107,
+    "is_boss": 0,
+    "asset_id": "2015401"
+  },
+  {
+    "id": 4107,
+    "m_event_commission_quest_id": 80000501,
+    "m_enemy_id": 450050108,
+    "is_boss": 0,
+    "asset_id": "2003001"
+  },
+  {
+    "id": 4108,
+    "m_event_commission_quest_id": 80000501,
+    "m_enemy_id": 450050109,
+    "is_boss": 0,
+    "asset_id": "2001401"
+  },
+  {
+    "id": 4109,
+    "m_event_commission_quest_id": 80000501,
+    "m_enemy_id": 450050110,
+    "is_boss": 0,
+    "asset_id": "2016401"
+  },
+  {
+    "id": 4110,
+    "m_event_commission_quest_id": 80000501,
+    "m_enemy_id": 450050111,
+    "is_boss": 0,
+    "asset_id": "2014401"
+  },
+  {
+    "id": 4200,
+    "m_event_commission_quest_id": 80000502,
+    "m_enemy_id": 450050201,
+    "is_boss": 0,
+    "asset_id": "2009501"
+  },
+  {
+    "id": 4201,
+    "m_event_commission_quest_id": 80000502,
+    "m_enemy_id": 450050202,
+    "is_boss": 0,
+    "asset_id": "2010101"
+  },
+  {
+    "id": 4202,
+    "m_event_commission_quest_id": 80000502,
+    "m_enemy_id": 450050203,
+    "is_boss": 0,
+    "asset_id": "2013301"
+  },
+  {
+    "id": 4203,
+    "m_event_commission_quest_id": 80000502,
+    "m_enemy_id": 450050204,
+    "is_boss": 0,
+    "asset_id": "2011401"
+  },
+  {
+    "id": 4204,
+    "m_event_commission_quest_id": 80000502,
+    "m_enemy_id": 450050205,
+    "is_boss": 0,
+    "asset_id": "2012001"
+  },
+  {
+    "id": 4205,
+    "m_event_commission_quest_id": 80000502,
+    "m_enemy_id": 450050206,
+    "is_boss": 0,
+    "asset_id": "2028201"
+  },
+  {
+    "id": 4206,
+    "m_event_commission_quest_id": 80000502,
+    "m_enemy_id": 450050208,
+    "is_boss": 0,
+    "asset_id": "2028301"
+  },
+  {
+    "id": 4207,
+    "m_event_commission_quest_id": 80000502,
+    "m_enemy_id": 450050209,
+    "is_boss": 0,
+    "asset_id": "2028101"
+  },
+  {
+    "id": 4208,
+    "m_event_commission_quest_id": 80000502,
+    "m_enemy_id": 450050210,
+    "is_boss": 0,
+    "asset_id": "2009401"
+  },
+  {
+    "id": 4209,
+    "m_event_commission_quest_id": 80000502,
+    "m_enemy_id": 450050212,
+    "is_boss": 0,
+    "asset_id": "2010001"
+  },
+  {
+    "id": 4210,
+    "m_event_commission_quest_id": 80000502,
+    "m_enemy_id": 450050213,
+    "is_boss": 0,
+    "asset_id": "2013501"
+  },
+  {
+    "id": 4211,
+    "m_event_commission_quest_id": 80000502,
+    "m_enemy_id": 450050214,
+    "is_boss": 0,
+    "asset_id": "2029101"
+  },
+  {
+    "id": 4212,
+    "m_event_commission_quest_id": 80000502,
+    "m_enemy_id": 450050215,
+    "is_boss": 0,
+    "asset_id": "2029301"
+  },
+  {
+    "id": 4213,
+    "m_event_commission_quest_id": 80000502,
+    "m_enemy_id": 450050216,
+    "is_boss": 1,
+    "asset_id": "2029201"
+  },
+  {
+    "id": 4300,
+    "m_event_commission_quest_id": 80000503,
+    "m_enemy_id": 450050301,
+    "is_boss": 0,
+    "asset_id": "2002401"
+  },
+  {
+    "id": 4301,
+    "m_event_commission_quest_id": 80000503,
+    "m_enemy_id": 450050302,
+    "is_boss": 0,
+    "asset_id": "2006001"
+  },
+  {
+    "id": 4302,
+    "m_event_commission_quest_id": 80000503,
+    "m_enemy_id": 450050303,
+    "is_boss": 0,
+    "asset_id": "2001302"
+  },
+  {
+    "id": 4303,
+    "m_event_commission_quest_id": 80000503,
+    "m_enemy_id": 450050304,
+    "is_boss": 0,
+    "asset_id": "2034201"
+  },
+  {
+    "id": 4304,
+    "m_event_commission_quest_id": 80000503,
+    "m_enemy_id": 450050305,
+    "is_boss": 0,
+    "asset_id": "2034501"
+  },
+  {
+    "id": 4305,
+    "m_event_commission_quest_id": 80000503,
+    "m_enemy_id": 450050306,
+    "is_boss": 0,
+    "asset_id": "2004101"
+  },
+  {
+    "id": 4306,
+    "m_event_commission_quest_id": 80000503,
+    "m_enemy_id": 450050307,
+    "is_boss": 0,
+    "asset_id": "2001201"
+  },
+  {
+    "id": 4307,
+    "m_event_commission_quest_id": 80000503,
+    "m_enemy_id": 450050308,
+    "is_boss": 0,
+    "asset_id": "2001301"
+  },
+  {
+    "id": 4308,
+    "m_event_commission_quest_id": 80000503,
+    "m_enemy_id": 450050309,
+    "is_boss": 0,
+    "asset_id": "2007401"
+  },
+  {
+    "id": 4309,
+    "m_event_commission_quest_id": 80000503,
+    "m_enemy_id": 450050310,
+    "is_boss": 0,
+    "asset_id": "2007501"
+  },
+  {
+    "id": 4310,
+    "m_event_commission_quest_id": 80000503,
+    "m_enemy_id": 450050311,
+    "is_boss": 0,
+    "asset_id": "2007001"
+  },
+  {
+    "id": 4311,
+    "m_event_commission_quest_id": 80000503,
+    "m_enemy_id": 450050312,
+    "is_boss": 1,
+    "asset_id": "2018101"
+  },
+  {
+    "id": 4400,
+    "m_event_commission_quest_id": 80000504,
+    "m_enemy_id": 450050401,
+    "is_boss": 0,
+    "asset_id": "2006101"
+  },
+  {
+    "id": 4401,
+    "m_event_commission_quest_id": 80000504,
+    "m_enemy_id": 450050402,
+    "is_boss": 0,
+    "asset_id": "2006201"
+  },
+  {
+    "id": 4402,
+    "m_event_commission_quest_id": 80000504,
+    "m_enemy_id": 450050403,
+    "is_boss": 0,
+    "asset_id": "2006301"
+  },
+  {
+    "id": 4403,
+    "m_event_commission_quest_id": 80000504,
+    "m_enemy_id": 450050404,
+    "is_boss": 0,
+    "asset_id": "2001402"
+  },
+  {
+    "id": 4404,
+    "m_event_commission_quest_id": 80000504,
+    "m_enemy_id": 450050405,
+    "is_boss": 0,
+    "asset_id": "2001002"
+  },
+  {
+    "id": 4405,
+    "m_event_commission_quest_id": 80000504,
+    "m_enemy_id": 450050406,
+    "is_boss": 0,
+    "asset_id": "2031301"
+  },
+  {
+    "id": 4406,
+    "m_event_commission_quest_id": 80000504,
+    "m_enemy_id": 450050408,
+    "is_boss": 0,
+    "asset_id": "2046401"
+  },
+  {
+    "id": 4407,
+    "m_event_commission_quest_id": 80000504,
+    "m_enemy_id": 450050409,
+    "is_boss": 0,
+    "asset_id": "2008201"
+  },
+  {
+    "id": 4408,
+    "m_event_commission_quest_id": 80000504,
+    "m_enemy_id": 450050410,
+    "is_boss": 0,
+    "asset_id": "2003001"
+  },
+  {
+    "id": 4409,
+    "m_event_commission_quest_id": 80000504,
+    "m_enemy_id": 450050411,
+    "is_boss": 0,
+    "asset_id": "2003101"
+  },
+  {
+    "id": 4410,
+    "m_event_commission_quest_id": 80000504,
+    "m_enemy_id": 450050415,
+    "is_boss": 0,
+    "asset_id": "2003501"
+  },
+  {
+    "id": 4411,
+    "m_event_commission_quest_id": 80000504,
+    "m_enemy_id": 450050416,
+    "is_boss": 1,
+    "asset_id": "2017501"
+  },
+  {
+    "id": 4500,
+    "m_event_commission_quest_id": 80000505,
+    "m_enemy_id": 450050501,
+    "is_boss": 1,
+    "asset_id": "2002301"
+  },
+  {
+    "id": 4501,
+    "m_event_commission_quest_id": 80000505,
+    "m_enemy_id": 450050502,
+    "is_boss": 0,
+    "asset_id": "2006501"
+  },
+  {
+    "id": 4502,
+    "m_event_commission_quest_id": 80000505,
+    "m_enemy_id": 450050503,
+    "is_boss": 0,
+    "asset_id": "2005201"
+  },
+  {
+    "id": 4503,
+    "m_event_commission_quest_id": 80000505,
+    "m_enemy_id": 450050504,
+    "is_boss": 0,
+    "asset_id": "2004101"
+  },
+  {
+    "id": 4504,
+    "m_event_commission_quest_id": 80000505,
+    "m_enemy_id": 450050505,
+    "is_boss": 0,
+    "asset_id": "2007001"
+  },
+  {
+    "id": 4505,
+    "m_event_commission_quest_id": 80000505,
+    "m_enemy_id": 450050506,
+    "is_boss": 0,
+    "asset_id": "2008501"
+  },
+  {
+    "id": 4506,
+    "m_event_commission_quest_id": 80000505,
+    "m_enemy_id": 450050507,
+    "is_boss": 0,
+    "asset_id": "2015401"
+  },
+  {
+    "id": 4507,
+    "m_event_commission_quest_id": 80000505,
+    "m_enemy_id": 450050508,
+    "is_boss": 0,
+    "asset_id": "2003001"
+  },
+  {
+    "id": 4508,
+    "m_event_commission_quest_id": 80000505,
+    "m_enemy_id": 450050509,
+    "is_boss": 0,
+    "asset_id": "2001401"
+  },
+  {
+    "id": 4509,
+    "m_event_commission_quest_id": 80000505,
+    "m_enemy_id": 450050510,
+    "is_boss": 0,
+    "asset_id": "2016401"
+  },
+  {
+    "id": 4510,
+    "m_event_commission_quest_id": 80000505,
+    "m_enemy_id": 450050511,
+    "is_boss": 0,
+    "asset_id": "2014401"
+  },
+  {
+    "id": 4600,
+    "m_event_commission_quest_id": 80000506,
+    "m_enemy_id": 450050601,
+    "is_boss": 0,
+    "asset_id": "2009501"
+  },
+  {
+    "id": 4601,
+    "m_event_commission_quest_id": 80000506,
+    "m_enemy_id": 450050602,
+    "is_boss": 0,
+    "asset_id": "2010101"
+  },
+  {
+    "id": 4602,
+    "m_event_commission_quest_id": 80000506,
+    "m_enemy_id": 450050603,
+    "is_boss": 0,
+    "asset_id": "2013301"
+  },
+  {
+    "id": 4603,
+    "m_event_commission_quest_id": 80000506,
+    "m_enemy_id": 450050604,
+    "is_boss": 0,
+    "asset_id": "2011401"
+  },
+  {
+    "id": 4604,
+    "m_event_commission_quest_id": 80000506,
+    "m_enemy_id": 450050605,
+    "is_boss": 0,
+    "asset_id": "2012001"
+  },
+  {
+    "id": 4605,
+    "m_event_commission_quest_id": 80000506,
+    "m_enemy_id": 450050606,
+    "is_boss": 0,
+    "asset_id": "2028201"
+  },
+  {
+    "id": 4606,
+    "m_event_commission_quest_id": 80000506,
+    "m_enemy_id": 450050608,
+    "is_boss": 0,
+    "asset_id": "2028301"
+  },
+  {
+    "id": 4607,
+    "m_event_commission_quest_id": 80000506,
+    "m_enemy_id": 450050609,
+    "is_boss": 0,
+    "asset_id": "2028101"
+  },
+  {
+    "id": 4608,
+    "m_event_commission_quest_id": 80000506,
+    "m_enemy_id": 450050610,
+    "is_boss": 0,
+    "asset_id": "2009401"
+  },
+  {
+    "id": 4609,
+    "m_event_commission_quest_id": 80000506,
+    "m_enemy_id": 450050612,
+    "is_boss": 0,
+    "asset_id": "2010001"
+  },
+  {
+    "id": 4610,
+    "m_event_commission_quest_id": 80000506,
+    "m_enemy_id": 450050613,
+    "is_boss": 0,
+    "asset_id": "2013501"
+  },
+  {
+    "id": 4611,
+    "m_event_commission_quest_id": 80000506,
+    "m_enemy_id": 450050614,
+    "is_boss": 0,
+    "asset_id": "2029101"
+  },
+  {
+    "id": 4612,
+    "m_event_commission_quest_id": 80000506,
+    "m_enemy_id": 450050615,
+    "is_boss": 0,
+    "asset_id": "2029301"
+  },
+  {
+    "id": 4613,
+    "m_event_commission_quest_id": 80000506,
+    "m_enemy_id": 450050616,
+    "is_boss": 1,
+    "asset_id": "2029201"
+  },
+  {
+    "id": 4700,
+    "m_event_commission_quest_id": 80000507,
+    "m_enemy_id": 450050701,
+    "is_boss": 0,
+    "asset_id": "2002401"
+  },
+  {
+    "id": 4701,
+    "m_event_commission_quest_id": 80000507,
+    "m_enemy_id": 450050702,
+    "is_boss": 0,
+    "asset_id": "2006001"
+  },
+  {
+    "id": 4702,
+    "m_event_commission_quest_id": 80000507,
+    "m_enemy_id": 450050703,
+    "is_boss": 0,
+    "asset_id": "2001302"
+  },
+  {
+    "id": 4703,
+    "m_event_commission_quest_id": 80000507,
+    "m_enemy_id": 450050704,
+    "is_boss": 0,
+    "asset_id": "2034201"
+  },
+  {
+    "id": 4704,
+    "m_event_commission_quest_id": 80000507,
+    "m_enemy_id": 450050705,
+    "is_boss": 0,
+    "asset_id": "2034501"
+  },
+  {
+    "id": 4705,
+    "m_event_commission_quest_id": 80000507,
+    "m_enemy_id": 450050706,
+    "is_boss": 0,
+    "asset_id": "2004101"
+  },
+  {
+    "id": 4706,
+    "m_event_commission_quest_id": 80000507,
+    "m_enemy_id": 450050707,
+    "is_boss": 0,
+    "asset_id": "2001201"
+  },
+  {
+    "id": 4707,
+    "m_event_commission_quest_id": 80000507,
+    "m_enemy_id": 450050708,
+    "is_boss": 0,
+    "asset_id": "2001301"
+  },
+  {
+    "id": 4708,
+    "m_event_commission_quest_id": 80000507,
+    "m_enemy_id": 450050709,
+    "is_boss": 0,
+    "asset_id": "2007401"
+  },
+  {
+    "id": 4709,
+    "m_event_commission_quest_id": 80000507,
+    "m_enemy_id": 450050710,
+    "is_boss": 0,
+    "asset_id": "2007501"
+  },
+  {
+    "id": 4710,
+    "m_event_commission_quest_id": 80000507,
+    "m_enemy_id": 450050711,
+    "is_boss": 0,
+    "asset_id": "2007001"
+  },
+  {
+    "id": 4711,
+    "m_event_commission_quest_id": 80000507,
+    "m_enemy_id": 450050712,
+    "is_boss": 1,
+    "asset_id": "2018101"
+  },
+  {
+    "id": 4800,
+    "m_event_commission_quest_id": 80000508,
+    "m_enemy_id": 450050801,
+    "is_boss": 0,
+    "asset_id": "2006101"
+  },
+  {
+    "id": 4801,
+    "m_event_commission_quest_id": 80000508,
+    "m_enemy_id": 450050802,
+    "is_boss": 0,
+    "asset_id": "2006201"
+  },
+  {
+    "id": 4802,
+    "m_event_commission_quest_id": 80000508,
+    "m_enemy_id": 450050803,
+    "is_boss": 0,
+    "asset_id": "2006301"
+  },
+  {
+    "id": 4803,
+    "m_event_commission_quest_id": 80000508,
+    "m_enemy_id": 450050804,
+    "is_boss": 0,
+    "asset_id": "2001402"
+  },
+  {
+    "id": 4804,
+    "m_event_commission_quest_id": 80000508,
+    "m_enemy_id": 450050805,
+    "is_boss": 0,
+    "asset_id": "2001002"
+  },
+  {
+    "id": 4805,
+    "m_event_commission_quest_id": 80000508,
+    "m_enemy_id": 450050806,
+    "is_boss": 0,
+    "asset_id": "2031301"
+  },
+  {
+    "id": 4806,
+    "m_event_commission_quest_id": 80000508,
+    "m_enemy_id": 450050808,
+    "is_boss": 0,
+    "asset_id": "2046401"
+  },
+  {
+    "id": 4807,
+    "m_event_commission_quest_id": 80000508,
+    "m_enemy_id": 450050809,
+    "is_boss": 0,
+    "asset_id": "2008201"
+  },
+  {
+    "id": 4808,
+    "m_event_commission_quest_id": 80000508,
+    "m_enemy_id": 450050810,
+    "is_boss": 0,
+    "asset_id": "2003001"
+  },
+  {
+    "id": 4809,
+    "m_event_commission_quest_id": 80000508,
+    "m_enemy_id": 450050811,
+    "is_boss": 0,
+    "asset_id": "2003101"
+  },
+  {
+    "id": 4810,
+    "m_event_commission_quest_id": 80000508,
+    "m_enemy_id": 450050815,
+    "is_boss": 0,
+    "asset_id": "2003501"
+  },
+  {
+    "id": 4811,
+    "m_event_commission_quest_id": 80000508,
+    "m_enemy_id": 450050816,
+    "is_boss": 1,
+    "asset_id": "2017501"
+  },
+  {
+    "id": 4900,
+    "m_event_commission_quest_id": 80000509,
+    "m_enemy_id": 450050901,
+    "is_boss": 0,
+    "asset_id": "2010101"
+  },
+  {
+    "id": 4901,
+    "m_event_commission_quest_id": 80000509,
+    "m_enemy_id": 450050902,
+    "is_boss": 0,
+    "asset_id": "2010201"
+  },
+  {
+    "id": 4902,
+    "m_event_commission_quest_id": 80000509,
+    "m_enemy_id": 450050903,
+    "is_boss": 0,
+    "asset_id": "2010301"
+  },
+  {
+    "id": 4903,
+    "m_event_commission_quest_id": 80000509,
+    "m_enemy_id": 450050904,
+    "is_boss": 0,
+    "asset_id": "2013401"
+  },
+  {
+    "id": 4904,
+    "m_event_commission_quest_id": 80000509,
+    "m_enemy_id": 450050905,
+    "is_boss": 0,
+    "asset_id": "2013501"
+  },
+  {
+    "id": 4905,
+    "m_event_commission_quest_id": 80000509,
+    "m_enemy_id": 450050906,
+    "is_boss": 0,
+    "asset_id": "2013001"
+  },
+  {
+    "id": 4906,
+    "m_event_commission_quest_id": 80000509,
+    "m_enemy_id": 450050907,
+    "is_boss": 0,
+    "asset_id": "2046501"
+  },
+  {
+    "id": 4907,
+    "m_event_commission_quest_id": 80000509,
+    "m_enemy_id": 450050908,
+    "is_boss": 0,
+    "asset_id": "2016201"
+  },
+  {
+    "id": 4908,
+    "m_event_commission_quest_id": 80000509,
+    "m_enemy_id": 450050909,
+    "is_boss": 0,
+    "asset_id": "2046101"
+  },
+  {
+    "id": 4909,
+    "m_event_commission_quest_id": 80000509,
+    "m_enemy_id": 450050910,
+    "is_boss": 0,
+    "asset_id": "2007001"
+  },
+  {
+    "id": 4910,
+    "m_event_commission_quest_id": 80000509,
+    "m_enemy_id": 450050911,
+    "is_boss": 0,
+    "asset_id": "2007301"
+  },
+  {
+    "id": 4911,
+    "m_event_commission_quest_id": 80000509,
+    "m_enemy_id": 450050912,
+    "is_boss": 1,
+    "asset_id": "2030401"
+  },
+  {
+    "id": 5000,
+    "m_event_commission_quest_id": 80000510,
+    "m_enemy_id": 450051001,
+    "is_boss": 0,
+    "asset_id": "2015301"
+  },
+  {
+    "id": 5001,
+    "m_event_commission_quest_id": 80000510,
+    "m_enemy_id": 450051002,
+    "is_boss": 0,
+    "asset_id": "2014401"
+  },
+  {
+    "id": 5002,
+    "m_event_commission_quest_id": 80000510,
+    "m_enemy_id": 450051003,
+    "is_boss": 0,
+    "asset_id": "2006101"
+  },
+  {
+    "id": 5003,
+    "m_event_commission_quest_id": 80000510,
+    "m_enemy_id": 450051004,
+    "is_boss": 0,
+    "asset_id": "2034201"
+  },
+  {
+    "id": 5004,
+    "m_event_commission_quest_id": 80000510,
+    "m_enemy_id": 450051005,
+    "is_boss": 0,
+    "asset_id": "2034501"
+  },
+  {
+    "id": 5005,
+    "m_event_commission_quest_id": 80000510,
+    "m_enemy_id": 450051006,
+    "is_boss": 0,
+    "asset_id": "2034001"
+  },
+  {
+    "id": 5006,
+    "m_event_commission_quest_id": 80000510,
+    "m_enemy_id": 450051007,
+    "is_boss": 0,
+    "asset_id": "2003101"
+  },
+  {
+    "id": 5007,
+    "m_event_commission_quest_id": 80000510,
+    "m_enemy_id": 450051008,
+    "is_boss": 0,
+    "asset_id": "2003501"
+  },
+  {
+    "id": 5008,
+    "m_event_commission_quest_id": 80000510,
+    "m_enemy_id": 450051009,
+    "is_boss": 0,
+    "asset_id": "2003401"
+  },
+  {
+    "id": 5009,
+    "m_event_commission_quest_id": 80000510,
+    "m_enemy_id": 450051010,
+    "is_boss": 0,
+    "asset_id": "2046301"
+  },
+  {
+    "id": 5010,
+    "m_event_commission_quest_id": 80000510,
+    "m_enemy_id": 450051011,
+    "is_boss": 0,
+    "asset_id": "2007201"
+  },
+  {
+    "id": 5011,
+    "m_event_commission_quest_id": 80000510,
+    "m_enemy_id": 450051018,
+    "is_boss": 1,
+    "asset_id": "2019001"
   }
 ]

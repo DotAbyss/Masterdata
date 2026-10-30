@@ -600,6 +600,126 @@
     "serif_type": 2
   },
   {
+    "id": 300006001,
+    "m_event_id": 300006,
+    "m_character_id": 1300060,
+    "character_asset_id": "108901000G",
+    "position": 1,
+    "face": "Happy",
+    "serif": "あの子たちに会えたのも、\n神のお導き……必ずやチヒロ式\nブートキャンプを成功させます♪",
+    "serif_type": 1
+  },
+  {
+    "id": 300006002,
+    "m_event_id": 300006,
+    "m_character_id": 1300060,
+    "character_asset_id": "108901000G",
+    "position": 1,
+    "face": "Unique01",
+    "serif": "チームワーク……\nつまり、パワーが足りませんねッ",
+    "serif_type": 1
+  },
+  {
+    "id": 300006003,
+    "m_event_id": 300006,
+    "m_character_id": 1300025,
+    "character_asset_id": "103001000G",
+    "position": 1,
+    "face": "Happy",
+    "serif": "この私、ヘンリエッタが\nリーダーよ！　さあ！！\nついてきなさい、あんたたち！",
+    "serif_type": 1
+  },
+  {
+    "id": 300006004,
+    "m_event_id": 300006,
+    "m_character_id": 1300025,
+    "character_asset_id": "103001000G",
+    "position": 1,
+    "face": "Anger",
+    "serif": "ふ、ふん！\nこの程度の訓練、\n私にかかれば楽勝なんだから！",
+    "serif_type": 1
+  },
+  {
+    "id": 300006005,
+    "m_event_id": 300006,
+    "m_character_id": 1300060,
+    "character_asset_id": "108901000G",
+    "position": 1,
+    "face": "Unique01",
+    "serif": "本当はヘンリエッタさんに\nついて行ってあげたいですが……\n我慢、我慢です……",
+    "serif_type": 1
+  },
+  {
+    "id": 300006006,
+    "m_event_id": 300006,
+    "m_character_id": 1300060,
+    "character_asset_id": "108901000G",
+    "position": 1,
+    "face": "Normal",
+    "serif": "あの子たちなら、\nきっと乗り越えられます……\n神よ、どうかお見守りください",
+    "serif_type": 1
+  },
+  {
+    "id": 300006007,
+    "m_event_id": 300006,
+    "m_character_id": 1300025,
+    "character_asset_id": "103001000G",
+    "position": 1,
+    "face": "Sad",
+    "serif": "アシュリーには、まず謝って、\n彼女が好きなあやとりをして……\nうぅ～、緊張するわぁ～～っ",
+    "serif_type": 1
+  },
+  {
+    "id": 300006008,
+    "m_event_id": 300006,
+    "m_character_id": 1300025,
+    "character_asset_id": "103001000G",
+    "position": 1,
+    "face": "Anger",
+    "serif": "スカーレットにはとにかく\n笑顔で優しく話さないと……\nよ、よ～し、いくわよ～～ッ",
+    "serif_type": 1
+  },
+  {
+    "id": 300006009,
+    "m_event_id": 300006,
+    "m_character_id": 1300060,
+    "character_asset_id": "108901000G",
+    "position": 1,
+    "face": "Fun",
+    "serif": "皆さん、おめでとうございます！\nこれぞチームワーク……\nパワーです！",
+    "serif_type": 2
+  },
+  {
+    "id": 300006010,
+    "m_event_id": 300006,
+    "m_character_id": 1300060,
+    "character_asset_id": "108901000G",
+    "position": 1,
+    "face": "Happy",
+    "serif": "まだまだ、\nチヒロ式ブートキャンプは\n終わりませんよ♪",
+    "serif_type": 2
+  },
+  {
+    "id": 300006011,
+    "m_event_id": 300006,
+    "m_character_id": 1300025,
+    "character_asset_id": "103001000G",
+    "position": 1,
+    "face": "Happy",
+    "serif": "アシュリー！　スカーレット！\nこれからも一緒に頑張るわよ！\nノブレスオブリージュ！",
+    "serif_type": 2
+  },
+  {
+    "id": 300006012,
+    "m_event_id": 300006,
+    "m_character_id": 1300025,
+    "character_asset_id": "103001000G",
+    "position": 1,
+    "face": "Normal",
+    "serif": "チヒロ教官！\nありがとうございました！\n司令官も、一応ありがとッ",
+    "serif_type": 2
+  },
+  {
     "id": 50000101,
     "m_event_id": 500001,
     "m_character_id": 1300027,
@@ -857,6 +977,36 @@
     "position": 1,
     "face": "Normal",
     "serif": "前線基地のみんなのために、\nわたしもできる限り\nお手伝いしますねっ！",
+    "serif_type": 0
+  },
+  {
+    "id": 80000501,
+    "m_event_id": 800005,
+    "m_character_id": 1300002,
+    "character_asset_id": "300501000",
+    "position": 1,
+    "face": "Normal",
+    "serif": "私たちルクスノヴァの技術は\nこの世界には早すぎる危険物……\n接触は前線基地だけにしないと",
+    "serif_type": 0
+  },
+  {
+    "id": 80000502,
+    "m_event_id": 800005,
+    "m_character_id": 1300002,
+    "character_asset_id": "300501000",
+    "position": 1,
+    "face": "Normal",
+    "serif": "前線基地の司令官は\n話が通じやすくて助かるわ",
+    "serif_type": 0
+  },
+  {
+    "id": 80000503,
+    "m_event_id": 800005,
+    "m_character_id": 1300002,
+    "character_asset_id": "300501000",
+    "position": 1,
+    "face": "Normal",
+    "serif": "転移者保護や危険な異物回収……\n大穴は広すぎて私たちだけでは\n手が回らないのも事実よ",
     "serif_type": 0
   },
   {

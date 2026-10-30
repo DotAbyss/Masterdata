@@ -506,6 +506,17 @@
     "m_tavern_card_effect_id_3": 0
   },
   {
+    "id": 13000250,
+    "m_character_id": 1300025,
+    "m_character_skin_id": 130002502,
+    "name": "ヘンリエッタの提案",
+    "effect_type": 1,
+    "description": "全てのスタッフの満足度+20%",
+    "m_tavern_card_effect_id_1": 400001,
+    "m_tavern_card_effect_id_2": 0,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
     "id": 13000260,
     "m_character_id": 1300026,
     "m_character_skin_id": 130002602,
@@ -863,7 +874,7 @@
     "m_character_skin_id": 130005802,
     "name": "ステミアの提案",
     "effect_type": 2,
-    "description": "次ターンの営業カードが必ず「料理」関連のものになる。\n全てのスタッフの満足度+10％",
+    "description": "次ターンの営業カードが必ず「料理」関連のものになる。\n全てのスタッフの満足度+10%",
     "m_tavern_card_effect_id_1": 500002,
     "m_tavern_card_effect_id_2": 400000,
     "m_tavern_card_effect_id_3": 0
@@ -899,6 +910,17 @@
     "description": "次ターンの営業カードが必ず「料理」関連のものになる。\nペルディオンのスタッフの満足度+20%",
     "m_tavern_card_effect_id_1": 500002,
     "m_tavern_card_effect_id_2": 401021,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 13000600,
+    "m_character_id": 1300060,
+    "m_character_skin_id": 130006002,
+    "name": "チヒロの提案",
+    "effect_type": 1,
+    "description": "ランダムな「千国連合」の\nスタッフ最大3体に満足度+80%",
+    "m_tavern_card_effect_id_1": 401019,
+    "m_tavern_card_effect_id_2": 0,
     "m_tavern_card_effect_id_3": 0
   }
 ]

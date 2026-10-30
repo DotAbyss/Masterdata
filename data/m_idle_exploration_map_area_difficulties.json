@@ -310,5 +310,29 @@
     "m_idle_exploration_drop_rule_id": 700120,
     "m_idle_exploration_encounter_rule_id": 84,
     "m_idle_exploration_power_bonus_id": 71
+  },
+  {
+    "id": 7016,
+    "m_idle_exploration_map_area_id": 716,
+    "difficulty": 1,
+    "m_idle_exploration_drop_rule_id": 700120,
+    "m_idle_exploration_encounter_rule_id": 85,
+    "m_idle_exploration_power_bonus_id": 71
+  },
+  {
+    "id": 7017,
+    "m_idle_exploration_map_area_id": 717,
+    "difficulty": 1,
+    "m_idle_exploration_drop_rule_id": 700120,
+    "m_idle_exploration_encounter_rule_id": 86,
+    "m_idle_exploration_power_bonus_id": 71
+  },
+  {
+    "id": 7018,
+    "m_idle_exploration_map_area_id": 718,
+    "difficulty": 1,
+    "m_idle_exploration_drop_rule_id": 700120,
+    "m_idle_exploration_encounter_rule_id": 87,
+    "m_idle_exploration_power_bonus_id": 71
   }
 ]

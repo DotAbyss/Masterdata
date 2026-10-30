@@ -2,133 +2,136 @@
   {
     "id": 1,
     "m_event_id": 800001,
-    "supply_condition_type": 2,
-    "supply_condition_param": 2,
-    "character_min": 3,
-    "character_max": 4,
     "condition_text": "紋章：情熱を持つキャラを3～4人編成",
-    "party_num_summary_text": "紋章：情熱を持つキャラ【{0}人】編成中",
-    "m_supplied_item_id": 16
+    "party_num_summary_text": "紋章：情熱を持つキャラ【{1}人】編成中",
+    "m_supplied_item_id": 16,
+    "grade": 1,
+    "m_supplied_conditions_group_id": 2203
   },
   {
     "id": 2,
     "m_event_id": 800001,
-    "supply_condition_type": 2,
-    "supply_condition_param": 2,
-    "character_min": 5,
-    "character_max": 9,
     "condition_text": "紋章：情熱を持つキャラを5～9人編成",
-    "party_num_summary_text": "紋章：情熱を持つキャラ【{0}人】編成中",
-    "m_supplied_item_id": 17
+    "party_num_summary_text": "紋章：情熱を持つキャラ【{1}人】編成中",
+    "m_supplied_item_id": 17,
+    "grade": 2,
+    "m_supplied_conditions_group_id": 2205
   },
   {
     "id": 3,
     "m_event_id": 800001,
-    "supply_condition_type": 2,
-    "supply_condition_param": 2,
-    "character_min": 10,
-    "character_max": 10,
     "condition_text": "紋章：情熱を持つキャラを10人編成",
-    "party_num_summary_text": "紋章：情熱を持つキャラ【{0}人】編成中",
-    "m_supplied_item_id": 18
+    "party_num_summary_text": "紋章：情熱を持つキャラ【{1}人】編成中",
+    "m_supplied_item_id": 18,
+    "grade": 3,
+    "m_supplied_conditions_group_id": 2210
   },
   {
     "id": 4,
     "m_event_id": 800002,
-    "supply_condition_type": 2,
-    "supply_condition_param": 3,
-    "character_min": 3,
-    "character_max": 4,
     "condition_text": "紋章：衝撃を持つキャラを3～4人編成",
-    "party_num_summary_text": "紋章：衝撃を持つキャラ【{0}人】編成中",
-    "m_supplied_item_id": 19
+    "party_num_summary_text": "紋章：衝撃を持つキャラ【{1}人】編成中",
+    "m_supplied_item_id": 19,
+    "grade": 1,
+    "m_supplied_conditions_group_id": 2303
   },
   {
     "id": 5,
     "m_event_id": 800002,
-    "supply_condition_type": 2,
-    "supply_condition_param": 3,
-    "character_min": 5,
-    "character_max": 9,
     "condition_text": "紋章：衝撃を持つキャラを5～9人編成",
-    "party_num_summary_text": "紋章：衝撃を持つキャラ【{0}人】編成中",
-    "m_supplied_item_id": 20
+    "party_num_summary_text": "紋章：衝撃を持つキャラ【{1}人】編成中",
+    "m_supplied_item_id": 20,
+    "grade": 2,
+    "m_supplied_conditions_group_id": 2305
   },
   {
     "id": 6,
     "m_event_id": 800002,
-    "supply_condition_type": 2,
-    "supply_condition_param": 3,
-    "character_min": 10,
-    "character_max": 10,
     "condition_text": "紋章：衝撃を持つキャラを10人編成",
-    "party_num_summary_text": "紋章：衝撃を持つキャラ【{0}人】編成中",
-    "m_supplied_item_id": 21
+    "party_num_summary_text": "紋章：衝撃を持つキャラ【{1}人】編成中",
+    "m_supplied_item_id": 21,
+    "grade": 3,
+    "m_supplied_conditions_group_id": 2310
   },
   {
     "id": 7,
     "m_event_id": 800003,
-    "supply_condition_type": 2,
-    "supply_condition_param": 2,
-    "character_min": 3,
-    "character_max": 4,
     "condition_text": "紋章：情熱を持つキャラを3～4人編成",
-    "party_num_summary_text": "紋章：情熱を持つキャラ【{0}人】編成中",
-    "m_supplied_item_id": 16
+    "party_num_summary_text": "紋章：情熱を持つキャラ【{1}人】編成中",
+    "m_supplied_item_id": 16,
+    "grade": 1,
+    "m_supplied_conditions_group_id": 2203
   },
   {
     "id": 8,
     "m_event_id": 800003,
-    "supply_condition_type": 2,
-    "supply_condition_param": 2,
-    "character_min": 5,
-    "character_max": 9,
     "condition_text": "紋章：情熱を持つキャラを5～9人編成",
-    "party_num_summary_text": "紋章：情熱を持つキャラ【{0}人】編成中",
-    "m_supplied_item_id": 17
+    "party_num_summary_text": "紋章：情熱を持つキャラ【{1}人】編成中",
+    "m_supplied_item_id": 17,
+    "grade": 2,
+    "m_supplied_conditions_group_id": 2205
   },
   {
     "id": 9,
     "m_event_id": 800003,
-    "supply_condition_type": 2,
-    "supply_condition_param": 2,
-    "character_min": 10,
-    "character_max": 10,
     "condition_text": "紋章：情熱を持つキャラを10人編成",
-    "party_num_summary_text": "紋章：情熱を持つキャラ【{0}人】編成中",
-    "m_supplied_item_id": 18
+    "party_num_summary_text": "紋章：情熱を持つキャラ【{1}人】編成中",
+    "m_supplied_item_id": 18,
+    "grade": 3,
+    "m_supplied_conditions_group_id": 2210
   },
   {
     "id": 10,
     "m_event_id": 800004,
-    "supply_condition_type": 2,
-    "supply_condition_param": 3,
-    "character_min": 3,
-    "character_max": 4,
     "condition_text": "紋章：衝撃を持つキャラを3～4人編成",
-    "party_num_summary_text": "紋章：衝撃を持つキャラ【{0}人】編成中",
-    "m_supplied_item_id": 19
+    "party_num_summary_text": "紋章：衝撃を持つキャラ【{1}人】編成中",
+    "m_supplied_item_id": 19,
+    "grade": 1,
+    "m_supplied_conditions_group_id": 2303
   },
   {
     "id": 11,
     "m_event_id": 800004,
-    "supply_condition_type": 2,
-    "supply_condition_param": 3,
-    "character_min": 5,
-    "character_max": 9,
     "condition_text": "紋章：衝撃を持つキャラを5～9人編成",
-    "party_num_summary_text": "紋章：衝撃を持つキャラ【{0}人】編成中",
-    "m_supplied_item_id": 20
+    "party_num_summary_text": "紋章：衝撃を持つキャラ【{1}人】編成中",
+    "m_supplied_item_id": 20,
+    "grade": 2,
+    "m_supplied_conditions_group_id": 2305
   },
   {
     "id": 12,
     "m_event_id": 800004,
-    "supply_condition_type": 2,
-    "supply_condition_param": 3,
-    "character_min": 10,
-    "character_max": 10,
     "condition_text": "紋章：衝撃を持つキャラを10人編成",
-    "party_num_summary_text": "紋章：衝撃を持つキャラ【{0}人】編成中",
-    "m_supplied_item_id": 21
+    "party_num_summary_text": "紋章：衝撃を持つキャラ【{1}人】編成中",
+    "m_supplied_item_id": 21,
+    "grade": 3,
+    "m_supplied_conditions_group_id": 2310
+  },
+  {
+    "id": 13,
+    "m_event_id": 800005,
+    "condition_text": "ルクスノヴァ以外の勢力を各1人以上編成",
+    "party_num_summary_text": "ルクスノヴァ以外の各勢力を1人以上編成中",
+    "m_supplied_item_id": 22,
+    "grade": 1,
+    "m_supplied_conditions_group_id": 1
+  },
+  {
+    "id": 14,
+    "m_event_id": 800005,
+    "condition_text": "ルクスノヴァ以外の勢力を各2人以上編成",
+    "party_num_summary_text": "ルクスノヴァ以外の各勢力を2人以上編成中",
+    "m_supplied_item_id": 23,
+    "grade": 2,
+    "m_supplied_conditions_group_id": 2
+  },
+  {
+    "id": 15,
+    "m_event_id": 800005,
+    "condition_text": "ルクスノヴァ1人以上、他勢力を2人以上編成",
+    "party_num_summary_text": "ルクスノヴァ【{5}人】、他勢力2人以上編成中",
+    "m_supplied_item_id": 24,
+    "grade": 3,
+    "m_supplied_conditions_group_id": 3
   }
 ]

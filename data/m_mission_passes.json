@@ -53,5 +53,16 @@
     "m_character_skin_id": 130000103,
     "logo_asset_id": "",
     "pickup_reward_level": 50
+  },
+  {
+    "id": 202611,
+    "name": "限界突破応援ミッションパス",
+    "start_at": "2026-10-31 10:00:00",
+    "end_at": "2026-11-30 04:59:59",
+    "premium_m_payment_lineup_id": 90006,
+    "m_mission_pass_level_max": 50,
+    "m_character_skin_id": 300201000,
+    "logo_asset_id": "1600006",
+    "pickup_reward_level": 50
   }
 ]
