@@ -42724,7 +42724,7 @@
     "ability_no": 10222,
     "ability_awake_level": 0,
     "level": 1,
-    "description": "チェインスキル発動時、自身に攻撃力UP【{2.5%} / 15秒】を付与",
+    "description": "チェインスキル発動時、自身に攻撃力UP【{5%} / 15秒】を付与",
     "awake_description": ""
   },
   {
@@ -42732,7 +42732,7 @@
     "ability_no": 10222,
     "ability_awake_level": 0,
     "level": 2,
-    "description": "チェインスキル発動時、自身に攻撃力UP【{4.3%} / 15秒】を付与",
+    "description": "チェインスキル発動時、自身に攻撃力UP【{8.7%} / 15秒】を付与",
     "awake_description": ""
   },
   {
@@ -42740,7 +42740,7 @@
     "ability_no": 10222,
     "ability_awake_level": 0,
     "level": 3,
-    "description": "チェインスキル発動時、自身に攻撃力UP【{6.2%} / 15秒】を付与",
+    "description": "チェインスキル発動時、自身に攻撃力UP【{12.5%} / 15秒】を付与",
     "awake_description": ""
   },
   {
@@ -42748,7 +42748,7 @@
     "ability_no": 10222,
     "ability_awake_level": 0,
     "level": 4,
-    "description": "チェインスキル発動時、自身に攻撃力UP【{8.1%} / 15秒】を付与",
+    "description": "チェインスキル発動時、自身に攻撃力UP【{16.2%} / 15秒】を付与",
     "awake_description": ""
   },
   {
@@ -42756,7 +42756,7 @@
     "ability_no": 10222,
     "ability_awake_level": 0,
     "level": 5,
-    "description": "チェインスキル発動時、自身に攻撃力UP【{11.8%} / 15秒】を付与",
+    "description": "チェインスキル発動時、自身に攻撃力UP【{23.7%} / 15秒】を付与",
     "awake_description": ""
   },
   {
@@ -42764,7 +42764,7 @@
     "ability_no": 10222,
     "ability_awake_level": 0,
     "level": 6,
-    "description": "チェインスキル発動時、自身に攻撃力UP【{13.7%} / 15秒】を付与",
+    "description": "チェインスキル発動時、自身に攻撃力UP【{27.5%} / 15秒】を付与",
     "awake_description": ""
   },
   {
@@ -42772,7 +42772,7 @@
     "ability_no": 10222,
     "ability_awake_level": 0,
     "level": 7,
-    "description": "チェインスキル発動時、自身に攻撃力UP【{15.6%} / 15秒】を付与",
+    "description": "チェインスキル発動時、自身に攻撃力UP【{31.2%} / 15秒】を付与",
     "awake_description": ""
   },
   {
@@ -42780,7 +42780,7 @@
     "ability_no": 10222,
     "ability_awake_level": 0,
     "level": 8,
-    "description": "チェインスキル発動時、自身に攻撃力UP【{19.3%} / 15秒】を付与",
+    "description": "チェインスキル発動時、自身に攻撃力UP【{38.7%} / 15秒】を付与",
     "awake_description": ""
   },
   {
@@ -42788,7 +42788,7 @@
     "ability_no": 10222,
     "ability_awake_level": 0,
     "level": 9,
-    "description": "チェインスキル発動時、自身に攻撃力UP【{21.2%} / 15秒】を付与",
+    "description": "チェインスキル発動時、自身に攻撃力UP【{42.5%} / 15秒】を付与",
     "awake_description": ""
   },
   {
@@ -42796,7 +42796,7 @@
     "ability_no": 10222,
     "ability_awake_level": 0,
     "level": 10,
-    "description": "チェインスキル発動時、自身に攻撃力UP【{25%} / 15秒】を付与",
+    "description": "チェインスキル発動時、自身に攻撃力UP【{50%} / 15秒】を付与",
     "awake_description": ""
   },
   {
@@ -42804,160 +42804,160 @@
     "ability_no": 10222,
     "ability_awake_level": 1,
     "level": 1,
-    "description": "チェインスキル発動時、自身に攻撃力UP【{2.5%} / 15秒】を付与",
-    "awake_description": "30秒に1回、自身に紋章：情熱を【{1}】付与"
+    "description": "チェインスキル発動時、自身に攻撃力UP【{5%} / 15秒】を付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
   },
   {
     "id": 1022212,
     "ability_no": 10222,
     "ability_awake_level": 1,
     "level": 2,
-    "description": "チェインスキル発動時、自身に攻撃力UP【{4.3%} / 15秒】を付与",
-    "awake_description": "30秒に1回、自身に紋章：情熱を【{1}】付与"
+    "description": "チェインスキル発動時、自身に攻撃力UP【{8.7%} / 15秒】を付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
   },
   {
     "id": 1022213,
     "ability_no": 10222,
     "ability_awake_level": 1,
     "level": 3,
-    "description": "チェインスキル発動時、自身に攻撃力UP【{6.2%} / 15秒】を付与",
-    "awake_description": "30秒に1回、自身に紋章：情熱を【{1}】付与"
+    "description": "チェインスキル発動時、自身に攻撃力UP【{12.5%} / 15秒】を付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
   },
   {
     "id": 1022214,
     "ability_no": 10222,
     "ability_awake_level": 1,
     "level": 4,
-    "description": "チェインスキル発動時、自身に攻撃力UP【{8.1%} / 15秒】を付与",
-    "awake_description": "30秒に1回、自身に紋章：情熱を【{1}】付与"
+    "description": "チェインスキル発動時、自身に攻撃力UP【{16.2%} / 15秒】を付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
   },
   {
     "id": 1022215,
     "ability_no": 10222,
     "ability_awake_level": 1,
     "level": 5,
-    "description": "チェインスキル発動時、自身に攻撃力UP【{11.8%} / 15秒】を付与",
-    "awake_description": "30秒に1回、自身に紋章：情熱を【{1}】付与"
+    "description": "チェインスキル発動時、自身に攻撃力UP【{23.7%} / 15秒】を付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
   },
   {
     "id": 1022216,
     "ability_no": 10222,
     "ability_awake_level": 1,
     "level": 6,
-    "description": "チェインスキル発動時、自身に攻撃力UP【{13.7%} / 15秒】を付与",
-    "awake_description": "30秒に1回、自身に紋章：情熱を【{1}】付与"
+    "description": "チェインスキル発動時、自身に攻撃力UP【{27.5%} / 15秒】を付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
   },
   {
     "id": 1022217,
     "ability_no": 10222,
     "ability_awake_level": 1,
     "level": 7,
-    "description": "チェインスキル発動時、自身に攻撃力UP【{15.6%} / 15秒】を付与",
-    "awake_description": "30秒に1回、自身に紋章：情熱を【{1}】付与"
+    "description": "チェインスキル発動時、自身に攻撃力UP【{31.2%} / 15秒】を付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
   },
   {
     "id": 1022218,
     "ability_no": 10222,
     "ability_awake_level": 1,
     "level": 8,
-    "description": "チェインスキル発動時、自身に攻撃力UP【{19.3%} / 15秒】を付与",
-    "awake_description": "30秒に1回、自身に紋章：情熱を【{1}】付与"
+    "description": "チェインスキル発動時、自身に攻撃力UP【{38.7%} / 15秒】を付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
   },
   {
     "id": 1022219,
     "ability_no": 10222,
     "ability_awake_level": 1,
     "level": 9,
-    "description": "チェインスキル発動時、自身に攻撃力UP【{21.2%} / 15秒】を付与",
-    "awake_description": "30秒に1回、自身に紋章：情熱を【{1}】付与"
+    "description": "チェインスキル発動時、自身に攻撃力UP【{42.5%} / 15秒】を付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
   },
   {
     "id": 1022220,
     "ability_no": 10222,
     "ability_awake_level": 1,
     "level": 10,
-    "description": "チェインスキル発動時、自身に攻撃力UP【{25%} / 15秒】を付与",
-    "awake_description": "30秒に1回、自身に紋章：情熱を【{1}】付与"
+    "description": "チェインスキル発動時、自身に攻撃力UP【{50%} / 15秒】を付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{4}】付与（クエスト中1回まで）"
   },
   {
     "id": 1022221,
     "ability_no": 10222,
     "ability_awake_level": 2,
     "level": 1,
-    "description": "チェインスキル発動時、自身に攻撃力UP【{2.5%} / 15秒】を付与",
-    "awake_description": "30秒に1回、自身に紋章：情熱を【{2}】付与"
+    "description": "チェインスキル発動時、自身に攻撃力UP【{5%} / 15秒】を付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
   },
   {
     "id": 1022222,
     "ability_no": 10222,
     "ability_awake_level": 2,
     "level": 2,
-    "description": "チェインスキル発動時、自身に攻撃力UP【{4.3%} / 15秒】を付与",
-    "awake_description": "30秒に1回、自身に紋章：情熱を【{2}】付与"
+    "description": "チェインスキル発動時、自身に攻撃力UP【{8.7%} / 15秒】を付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
   },
   {
     "id": 1022223,
     "ability_no": 10222,
     "ability_awake_level": 2,
     "level": 3,
-    "description": "チェインスキル発動時、自身に攻撃力UP【{6.2%} / 15秒】を付与",
-    "awake_description": "30秒に1回、自身に紋章：情熱を【{2}】付与"
+    "description": "チェインスキル発動時、自身に攻撃力UP【{12.5%} / 15秒】を付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
   },
   {
     "id": 1022224,
     "ability_no": 10222,
     "ability_awake_level": 2,
     "level": 4,
-    "description": "チェインスキル発動時、自身に攻撃力UP【{8.1%} / 15秒】を付与",
-    "awake_description": "30秒に1回、自身に紋章：情熱を【{2}】付与"
+    "description": "チェインスキル発動時、自身に攻撃力UP【{16.2%} / 15秒】を付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
   },
   {
     "id": 1022225,
     "ability_no": 10222,
     "ability_awake_level": 2,
     "level": 5,
-    "description": "チェインスキル発動時、自身に攻撃力UP【{11.8%} / 15秒】を付与",
-    "awake_description": "30秒に1回、自身に紋章：情熱を【{2}】付与"
+    "description": "チェインスキル発動時、自身に攻撃力UP【{23.7%} / 15秒】を付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
   },
   {
     "id": 1022226,
     "ability_no": 10222,
     "ability_awake_level": 2,
     "level": 6,
-    "description": "チェインスキル発動時、自身に攻撃力UP【{13.7%} / 15秒】を付与",
-    "awake_description": "30秒に1回、自身に紋章：情熱を【{2}】付与"
+    "description": "チェインスキル発動時、自身に攻撃力UP【{27.5%} / 15秒】を付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
   },
   {
     "id": 1022227,
     "ability_no": 10222,
     "ability_awake_level": 2,
     "level": 7,
-    "description": "チェインスキル発動時、自身に攻撃力UP【{15.6%} / 15秒】を付与",
-    "awake_description": "30秒に1回、自身に紋章：情熱を【{2}】付与"
+    "description": "チェインスキル発動時、自身に攻撃力UP【{31.2%} / 15秒】を付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
   },
   {
     "id": 1022228,
     "ability_no": 10222,
     "ability_awake_level": 2,
     "level": 8,
-    "description": "チェインスキル発動時、自身に攻撃力UP【{19.3%} / 15秒】を付与",
-    "awake_description": "30秒に1回、自身に紋章：情熱を【{2}】付与"
+    "description": "チェインスキル発動時、自身に攻撃力UP【{38.7%} / 15秒】を付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
   },
   {
     "id": 1022229,
     "ability_no": 10222,
     "ability_awake_level": 2,
     "level": 9,
-    "description": "チェインスキル発動時、自身に攻撃力UP【{21.2%} / 15秒】を付与",
-    "awake_description": "30秒に1回、自身に紋章：情熱を【{2}】付与"
+    "description": "チェインスキル発動時、自身に攻撃力UP【{42.5%} / 15秒】を付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
   },
   {
     "id": 1022230,
     "ability_no": 10222,
     "ability_awake_level": 2,
     "level": 10,
-    "description": "チェインスキル発動時、自身に攻撃力UP【{25%} / 15秒】を付与",
-    "awake_description": "30秒に1回、自身に紋章：情熱を【{2}】付与"
+    "description": "チェインスキル発動時、自身に攻撃力UP【{50%} / 15秒】を付与",
+    "awake_description": "バトル開始時、自身に紋章：衝撃を【{8}】付与（クエスト中1回まで）"
   },
   {
     "id": 1022301,
