@@ -290,6 +290,16 @@
     "asset_id": ""
   },
   {
+    "id": 500005,
+    "category_name": "鏡影の回廊　5回目",
+    "cost_content_type": 54,
+    "cost_content_id": 5008,
+    "start_at": "2026-11-09 13:00:00",
+    "end_at": "2026-11-27 04:59:59",
+    "display_order": 3,
+    "asset_id": ""
+  },
+  {
     "id": 100001,
     "category_name": "第1回クリスタルハント",
     "cost_content_type": 54,
@@ -347,6 +357,16 @@
     "start_at": "2026-10-30 13:00:00",
     "end_at": "2026-11-16 04:59:59",
     "display_order": 1,
+    "asset_id": ""
+  },
+  {
+    "id": 100006,
+    "category_name": "第6回クリスタルハント",
+    "cost_content_type": 54,
+    "cost_content_id": 1005,
+    "start_at": "2026-11-18 10:00:00",
+    "end_at": "2026-11-30 04:59:59",
+    "display_order": 4,
     "asset_id": ""
   }
 ]

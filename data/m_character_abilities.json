@@ -816,6 +816,30 @@
     "order": 3
   },
   {
+    "id": 130001301,
+    "m_character_id": 1300013,
+    "asset_id": "Ability_SpecialAttack_01",
+    "name": "蓄光のリズム",
+    "ability_no": 10035,
+    "order": 1
+  },
+  {
+    "id": 130001302,
+    "m_character_id": 1300013,
+    "asset_id": "Ability_Defense_01",
+    "name": "護りの綾目",
+    "ability_no": 10036,
+    "order": 2
+  },
+  {
+    "id": 130001303,
+    "m_character_id": 1300013,
+    "asset_id": "Ability_Defense_01",
+    "name": "天才の気まぐれ",
+    "ability_no": 10037,
+    "order": 3
+  },
+  {
     "id": 130001401,
     "m_character_id": 1300014,
     "asset_id": "Ability_SpecialAttack_01",
@@ -1725,6 +1749,30 @@
     "asset_id": "Ability_Attack_01",
     "name": "神威共鳴",
     "ability_no": 10222,
+    "order": 3
+  },
+  {
+    "id": 130006101,
+    "m_character_id": 1300061,
+    "asset_id": "Ability_SpecialAttack_01",
+    "name": "ホバー・ストリーム",
+    "ability_no": 10223,
+    "order": 1
+  },
+  {
+    "id": 130006102,
+    "m_character_id": 1300061,
+    "asset_id": "Ability_Attack_01",
+    "name": "タイダル・チャージャー",
+    "ability_no": 10224,
+    "order": 2
+  },
+  {
+    "id": 130006103,
+    "m_character_id": 1300061,
+    "asset_id": "Ability_Defense_01",
+    "name": "蒼翼の波紋",
+    "ability_no": 10225,
     "order": 3
   }
 ]

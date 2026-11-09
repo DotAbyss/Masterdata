@@ -238,5 +238,65 @@
     "m_event_hunt_quest_id": 500004206,
     "m_event_hunt_quest_restrict_id": 500004205,
     "description": "ステミア＆メイベル LV80をクリアで開放"
+  },
+  {
+    "id": 41,
+    "m_event_hunt_quest_id": 500005102,
+    "m_event_hunt_quest_restrict_id": 500005101,
+    "description": "アシュリー模擬戦 Lv10をクリアで開放"
+  },
+  {
+    "id": 42,
+    "m_event_hunt_quest_id": 500005103,
+    "m_event_hunt_quest_restrict_id": 500005102,
+    "description": "アシュリー模擬戦 Lv30をクリアで開放"
+  },
+  {
+    "id": 43,
+    "m_event_hunt_quest_id": 500005104,
+    "m_event_hunt_quest_restrict_id": 500005103,
+    "description": "アシュリー模擬戦 Lv40をクリアで開放"
+  },
+  {
+    "id": 44,
+    "m_event_hunt_quest_id": 500005106,
+    "m_event_hunt_quest_restrict_id": 500005105,
+    "description": "ファリス模擬戦 Lv20をクリアで開放"
+  },
+  {
+    "id": 45,
+    "m_event_hunt_quest_id": 500005107,
+    "m_event_hunt_quest_restrict_id": 500005106,
+    "description": "ファリス模擬戦 Lv40をクリアで開放"
+  },
+  {
+    "id": 46,
+    "m_event_hunt_quest_id": 500005108,
+    "m_event_hunt_quest_restrict_id": 500005107,
+    "description": "ファリス模擬戦 Lv55をクリアで開放"
+  },
+  {
+    "id": 47,
+    "m_event_hunt_quest_id": 500005202,
+    "m_event_hunt_quest_restrict_id": 500005201,
+    "description": "アシュリー LV40をクリアで開放"
+  },
+  {
+    "id": 48,
+    "m_event_hunt_quest_id": 500005203,
+    "m_event_hunt_quest_restrict_id": 500005202,
+    "description": "アシュリー LV60をクリアで開放"
+  },
+  {
+    "id": 49,
+    "m_event_hunt_quest_id": 500005205,
+    "m_event_hunt_quest_restrict_id": 500005204,
+    "description": "アシュリー＆ファリス LV50をクリアで開放"
+  },
+  {
+    "id": 50,
+    "m_event_hunt_quest_id": 500005206,
+    "m_event_hunt_quest_restrict_id": 500005205,
+    "description": "アシュリー＆ファリス LV80をクリアで開放"
   }
 ]

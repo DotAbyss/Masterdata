@@ -5100,6 +5100,276 @@
     "m_character_skin_id": 0
   },
   {
+    "id": 260228,
+    "name": "アシュリー獲得記念\n該当キャラの限界突破アイテム付き！",
+    "asset_id": "5010301",
+    "start_at": "2026-11-09 13:00:00",
+    "end_at": "2026-11-20 11:59:59",
+    "valid_minutes": 2880,
+    "recommend_type": 1,
+    "condition_type": 4,
+    "condition_id": 1300013,
+    "condition_value": 1,
+    "description": "",
+    "display_order": 260228,
+    "m_character_skin_id": 0
+  },
+  {
+    "id": 260229,
+    "name": "アシュリーマナ覚醒応援！\n該当キャラの限界突破アイテム付き！",
+    "asset_id": "5010301",
+    "start_at": "2026-11-09 13:00:00",
+    "end_at": "2026-11-20 11:59:59",
+    "valid_minutes": 2880,
+    "recommend_type": 1,
+    "condition_type": 3,
+    "condition_id": 1300013,
+    "condition_value": 3,
+    "description": "",
+    "display_order": 260229,
+    "m_character_skin_id": 0
+  },
+  {
+    "id": 260230,
+    "name": "ファリス獲得記念\n該当キャラの限界突破アイテム付き！",
+    "asset_id": "5010301",
+    "start_at": "2026-11-15 10:00:00",
+    "end_at": "2026-11-20 11:59:59",
+    "valid_minutes": 2880,
+    "recommend_type": 1,
+    "condition_type": 4,
+    "condition_id": 1300061,
+    "condition_value": 1,
+    "description": "",
+    "display_order": 260230,
+    "m_character_skin_id": 0
+  },
+  {
+    "id": 260231,
+    "name": "ファリスマナ覚醒応援！\n該当キャラの限界突破アイテム付き！",
+    "asset_id": "5010301",
+    "start_at": "2026-11-15 10:00:00",
+    "end_at": "2026-11-20 11:59:59",
+    "valid_minutes": 2880,
+    "recommend_type": 1,
+    "condition_type": 3,
+    "condition_id": 1300061,
+    "condition_value": 3,
+    "description": "",
+    "display_order": 260231,
+    "m_character_skin_id": 0
+  },
+  {
+    "id": 260232,
+    "name": "ピックアップガチャチケット応援！",
+    "asset_id": "5010301",
+    "start_at": "2026-11-09 13:00:00",
+    "end_at": "2026-11-20 11:59:59",
+    "valid_minutes": 2880,
+    "recommend_type": 1,
+    "condition_type": 20,
+    "condition_id": 17501,
+    "condition_value": 1,
+    "description": "",
+    "display_order": 260232,
+    "m_character_skin_id": 0
+  },
+  {
+    "id": 260233,
+    "name": "ピックアップガチャチケット応援！",
+    "asset_id": "5010301",
+    "start_at": "2026-11-15 10:00:00",
+    "end_at": "2026-11-20 11:59:59",
+    "valid_minutes": 2880,
+    "recommend_type": 1,
+    "condition_type": 20,
+    "condition_id": 17701,
+    "condition_value": 1,
+    "description": "",
+    "display_order": 260233,
+    "m_character_skin_id": 0
+  },
+  {
+    "id": 260234,
+    "name": "イベント前半プレイ感謝！",
+    "asset_id": "5010301",
+    "start_at": "2026-11-09 13:00:00",
+    "end_at": "2026-11-20 11:59:59",
+    "valid_minutes": 2880,
+    "recommend_type": 1,
+    "condition_type": 15,
+    "condition_id": 500005101,
+    "condition_value": 1,
+    "description": "",
+    "display_order": 260234,
+    "m_character_skin_id": 0
+  },
+  {
+    "id": 260235,
+    "name": "イベント前半ステージクリア記念！",
+    "asset_id": "5010301",
+    "start_at": "2026-11-09 13:00:00",
+    "end_at": "2026-11-20 11:59:59",
+    "valid_minutes": 2880,
+    "recommend_type": 1,
+    "condition_type": 15,
+    "condition_id": 500005104,
+    "condition_value": 1,
+    "description": "",
+    "display_order": 260235,
+    "m_character_skin_id": 0
+  },
+  {
+    "id": 260236,
+    "name": "イベント前半ボスステージプレイ感謝！",
+    "asset_id": "5010301",
+    "start_at": "2026-11-09 13:00:00",
+    "end_at": "2026-11-20 11:59:59",
+    "valid_minutes": 2880,
+    "recommend_type": 1,
+    "condition_type": 15,
+    "condition_id": 500005201,
+    "condition_value": 1,
+    "description": "",
+    "display_order": 260236,
+    "m_character_skin_id": 0
+  },
+  {
+    "id": 260237,
+    "name": "イベント前半ボスステージクリア記念！",
+    "asset_id": "5010301",
+    "start_at": "2026-11-09 13:00:00",
+    "end_at": "2026-11-20 11:59:59",
+    "valid_minutes": 2880,
+    "recommend_type": 1,
+    "condition_type": 15,
+    "condition_id": 500005203,
+    "condition_value": 1,
+    "description": "",
+    "display_order": 260237,
+    "m_character_skin_id": 0
+  },
+  {
+    "id": 260238,
+    "name": "イベント後半プレイ感謝！",
+    "asset_id": "5010301",
+    "start_at": "2026-11-15 10:00:00",
+    "end_at": "2026-11-20 11:59:59",
+    "valid_minutes": 2880,
+    "recommend_type": 1,
+    "condition_type": 15,
+    "condition_id": 500005105,
+    "condition_value": 1,
+    "description": "",
+    "display_order": 260238,
+    "m_character_skin_id": 0
+  },
+  {
+    "id": 260239,
+    "name": "イベント後半ステージクリア記念！",
+    "asset_id": "5010301",
+    "start_at": "2026-11-15 10:00:00",
+    "end_at": "2026-11-20 11:59:59",
+    "valid_minutes": 2880,
+    "recommend_type": 1,
+    "condition_type": 15,
+    "condition_id": 500005108,
+    "condition_value": 1,
+    "description": "",
+    "display_order": 260239,
+    "m_character_skin_id": 0
+  },
+  {
+    "id": 260240,
+    "name": "イベント後半ボスステージプレイ感謝！",
+    "asset_id": "5010301",
+    "start_at": "2026-11-15 10:00:00",
+    "end_at": "2026-11-20 11:59:59",
+    "valid_minutes": 2880,
+    "recommend_type": 1,
+    "condition_type": 15,
+    "condition_id": 500005204,
+    "condition_value": 1,
+    "description": "",
+    "display_order": 260240,
+    "m_character_skin_id": 0
+  },
+  {
+    "id": 260241,
+    "name": "イベント後半ボスステージクリア記念！",
+    "asset_id": "5010301",
+    "start_at": "2026-11-15 10:00:00",
+    "end_at": "2026-11-20 11:59:59",
+    "valid_minutes": 2880,
+    "recommend_type": 1,
+    "condition_type": 15,
+    "condition_id": 500005206,
+    "condition_value": 1,
+    "description": "",
+    "display_order": 260241,
+    "m_character_skin_id": 0
+  },
+  {
+    "id": 260242,
+    "name": "クリスタルハント1クリア記念！",
+    "asset_id": "5010301",
+    "start_at": "2026-11-18 10:00:00",
+    "end_at": "2026-11-23 4:59:59",
+    "valid_minutes": 2880,
+    "recommend_type": 1,
+    "condition_type": 19,
+    "condition_id": 100006101,
+    "condition_value": 1,
+    "description": "",
+    "display_order": 260242,
+    "m_character_skin_id": 0
+  },
+  {
+    "id": 260243,
+    "name": "クリスタルハント3クリア記念！",
+    "asset_id": "5010301",
+    "start_at": "2026-11-18 10:00:00",
+    "end_at": "2026-11-23 4:59:59",
+    "valid_minutes": 2880,
+    "recommend_type": 1,
+    "condition_type": 19,
+    "condition_id": 100006103,
+    "condition_value": 1,
+    "description": "",
+    "display_order": 260243,
+    "m_character_skin_id": 0
+  },
+  {
+    "id": 260244,
+    "name": "クリスタルハント5クリア記念！",
+    "asset_id": "5010301",
+    "start_at": "2026-11-18 10:00:00",
+    "end_at": "2026-11-23 4:59:59",
+    "valid_minutes": 2880,
+    "recommend_type": 1,
+    "condition_type": 19,
+    "condition_id": 100006105,
+    "condition_value": 1,
+    "description": "",
+    "display_order": 260244,
+    "m_character_skin_id": 0
+  },
+  {
+    "id": 260245,
+    "name": "クリスタルハント7クリア記念！",
+    "asset_id": "5010301",
+    "start_at": "2026-11-18 10:00:00",
+    "end_at": "2026-11-23 4:59:59",
+    "valid_minutes": 2880,
+    "recommend_type": 1,
+    "condition_type": 19,
+    "condition_id": 100006201,
+    "condition_value": 1,
+    "description": "",
+    "display_order": 260245,
+    "m_character_skin_id": 0
+  },
+  {
     "id": 300001,
     "name": "プレイヤーレベルLV5到達記念無料パック",
     "asset_id": "5010301",
@@ -5111,7 +5381,7 @@
     "condition_id": 0,
     "condition_value": 5,
     "description": "",
-    "display_order": 10,
+    "display_order": 14,
     "m_character_skin_id": 0
   },
   {
@@ -5126,7 +5396,7 @@
     "condition_id": 0,
     "condition_value": 10,
     "description": "",
-    "display_order": 9,
+    "display_order": 13,
     "m_character_skin_id": 0
   },
   {
@@ -5141,7 +5411,7 @@
     "condition_id": 0,
     "condition_value": 15,
     "description": "",
-    "display_order": 8,
+    "display_order": 12,
     "m_character_skin_id": 0
   },
   {
@@ -5156,7 +5426,7 @@
     "condition_id": 0,
     "condition_value": 20,
     "description": "",
-    "display_order": 7,
+    "display_order": 11,
     "m_character_skin_id": 0
   },
   {
@@ -5171,7 +5441,7 @@
     "condition_id": 0,
     "condition_value": 25,
     "description": "",
-    "display_order": 6,
+    "display_order": 10,
     "m_character_skin_id": 0
   },
   {
@@ -5186,7 +5456,7 @@
     "condition_id": 0,
     "condition_value": 30,
     "description": "",
-    "display_order": 5,
+    "display_order": 9,
     "m_character_skin_id": 0
   },
   {
@@ -5201,7 +5471,7 @@
     "condition_id": 0,
     "condition_value": 35,
     "description": "",
-    "display_order": 4,
+    "display_order": 8,
     "m_character_skin_id": 0
   },
   {
@@ -5216,7 +5486,7 @@
     "condition_id": 0,
     "condition_value": 40,
     "description": "",
-    "display_order": 3,
+    "display_order": 7,
     "m_character_skin_id": 0
   },
   {
@@ -5231,7 +5501,7 @@
     "condition_id": 0,
     "condition_value": 45,
     "description": "",
-    "display_order": 2,
+    "display_order": 6,
     "m_character_skin_id": 0
   },
   {
@@ -5246,7 +5516,7 @@
     "condition_id": 0,
     "condition_value": 50,
     "description": "",
-    "display_order": 1,
+    "display_order": 5,
     "m_character_skin_id": 0
   },
   {
@@ -5261,7 +5531,7 @@
     "condition_id": 0,
     "condition_value": 5,
     "description": "",
-    "display_order": 20,
+    "display_order": 114,
     "m_character_skin_id": 0
   },
   {
@@ -5276,7 +5546,7 @@
     "condition_id": 0,
     "condition_value": 10,
     "description": "",
-    "display_order": 19,
+    "display_order": 113,
     "m_character_skin_id": 0
   },
   {
@@ -5291,7 +5561,7 @@
     "condition_id": 0,
     "condition_value": 15,
     "description": "",
-    "display_order": 18,
+    "display_order": 112,
     "m_character_skin_id": 0
   },
   {
@@ -5306,7 +5576,7 @@
     "condition_id": 0,
     "condition_value": 20,
     "description": "",
-    "display_order": 17,
+    "display_order": 111,
     "m_character_skin_id": 0
   },
   {
@@ -5321,7 +5591,7 @@
     "condition_id": 0,
     "condition_value": 25,
     "description": "",
-    "display_order": 16,
+    "display_order": 110,
     "m_character_skin_id": 0
   },
   {
@@ -5336,7 +5606,7 @@
     "condition_id": 0,
     "condition_value": 30,
     "description": "",
-    "display_order": 15,
+    "display_order": 109,
     "m_character_skin_id": 0
   },
   {
@@ -5351,7 +5621,7 @@
     "condition_id": 0,
     "condition_value": 35,
     "description": "",
-    "display_order": 14,
+    "display_order": 108,
     "m_character_skin_id": 0
   },
   {
@@ -5366,7 +5636,7 @@
     "condition_id": 0,
     "condition_value": 40,
     "description": "",
-    "display_order": 13,
+    "display_order": 107,
     "m_character_skin_id": 0
   },
   {
@@ -5381,7 +5651,7 @@
     "condition_id": 0,
     "condition_value": 45,
     "description": "",
-    "display_order": 12,
+    "display_order": 106,
     "m_character_skin_id": 0
   },
   {
@@ -5396,7 +5666,127 @@
     "condition_id": 0,
     "condition_value": 50,
     "description": "",
-    "display_order": 11,
+    "display_order": 105,
+    "m_character_skin_id": 0
+  },
+  {
+    "id": 300021,
+    "name": "プレイヤーレベルLV55到達記念無料パック",
+    "asset_id": "5010301",
+    "start_at": "2026-11-09 13:00:00",
+    "end_at": "2038-01-01 0:00:00",
+    "valid_minutes": 0,
+    "recommend_type": 2,
+    "condition_type": 13,
+    "condition_id": 0,
+    "condition_value": 55,
+    "description": "",
+    "display_order": 4,
+    "m_character_skin_id": 0
+  },
+  {
+    "id": 300022,
+    "name": "プレイヤーレベルLV60到達記念無料パック",
+    "asset_id": "5010301",
+    "start_at": "2026-11-09 13:00:00",
+    "end_at": "2038-01-01 0:00:00",
+    "valid_minutes": 0,
+    "recommend_type": 2,
+    "condition_type": 13,
+    "condition_id": 0,
+    "condition_value": 60,
+    "description": "",
+    "display_order": 3,
+    "m_character_skin_id": 0
+  },
+  {
+    "id": 300023,
+    "name": "プレイヤーレベルLV65到達記念無料パック",
+    "asset_id": "5010301",
+    "start_at": "2026-11-09 13:00:00",
+    "end_at": "2038-01-01 0:00:00",
+    "valid_minutes": 0,
+    "recommend_type": 2,
+    "condition_type": 13,
+    "condition_id": 0,
+    "condition_value": 65,
+    "description": "",
+    "display_order": 2,
+    "m_character_skin_id": 0
+  },
+  {
+    "id": 300024,
+    "name": "プレイヤーレベルLV70到達記念無料パック",
+    "asset_id": "5010301",
+    "start_at": "2026-11-09 13:00:00",
+    "end_at": "2038-01-01 0:00:00",
+    "valid_minutes": 0,
+    "recommend_type": 2,
+    "condition_type": 13,
+    "condition_id": 0,
+    "condition_value": 70,
+    "description": "",
+    "display_order": 1,
+    "m_character_skin_id": 0
+  },
+  {
+    "id": 300025,
+    "name": "プレイヤーレベルLV55到達記念パック\n【50個でルクスノヴァSSR獲得アイテム付き！】",
+    "asset_id": "5010301",
+    "start_at": "2026-11-09 13:00:00",
+    "end_at": "2038-01-01 0:00:00",
+    "valid_minutes": 0,
+    "recommend_type": 2,
+    "condition_type": 13,
+    "condition_id": 0,
+    "condition_value": 55,
+    "description": "",
+    "display_order": 104,
+    "m_character_skin_id": 0
+  },
+  {
+    "id": 300026,
+    "name": "プレイヤーレベルLV60到達記念パック\n【50個でルクスノヴァSSR獲得アイテム付き！】",
+    "asset_id": "5010301",
+    "start_at": "2026-11-09 13:00:00",
+    "end_at": "2038-01-01 0:00:00",
+    "valid_minutes": 0,
+    "recommend_type": 2,
+    "condition_type": 13,
+    "condition_id": 0,
+    "condition_value": 60,
+    "description": "",
+    "display_order": 103,
+    "m_character_skin_id": 0
+  },
+  {
+    "id": 300027,
+    "name": "プレイヤーレベルLV65到達記念パック\n【50個でルクスノヴァSSR獲得アイテム付き！】",
+    "asset_id": "5010301",
+    "start_at": "2026-11-09 13:00:00",
+    "end_at": "2038-01-01 0:00:00",
+    "valid_minutes": 0,
+    "recommend_type": 2,
+    "condition_type": 13,
+    "condition_id": 0,
+    "condition_value": 65,
+    "description": "",
+    "display_order": 102,
+    "m_character_skin_id": 0
+  },
+  {
+    "id": 300028,
+    "name": "プレイヤーレベルLV70到達記念パック\n【50個でルクスノヴァSSR獲得アイテム付き！】",
+    "asset_id": "5010301",
+    "start_at": "2026-11-09 13:00:00",
+    "end_at": "2038-01-01 0:00:00",
+    "valid_minutes": 0,
+    "recommend_type": 2,
+    "condition_type": 13,
+    "condition_id": 0,
+    "condition_value": 70,
+    "description": "",
+    "display_order": 101,
     "m_character_skin_id": 0
   }
 ]

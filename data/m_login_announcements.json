@@ -1078,5 +1078,75 @@
     "begin_at": "2026-10-31 10:00:00",
     "end_at": "2026-11-30 4:59:59",
     "has_r18": 1
+  },
+  {
+    "id": 117,
+    "title": "アシュリーピックアップガチャ",
+    "display_priority": 370,
+    "display_order": 370,
+    "asset_id": "7010032",
+    "begin_at": "2026-11-09 13:00:00",
+    "end_at": "2026-11-20 11:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 118,
+    "title": "ファリスピックアップガチャ",
+    "display_priority": 372,
+    "display_order": 372,
+    "asset_id": "7010033",
+    "begin_at": "2026-11-15 10:00:00",
+    "end_at": "2026-11-20 11:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 119,
+    "title": "【開催中】鏡影の回廊5回目",
+    "display_priority": 371,
+    "display_order": 371,
+    "asset_id": "1030006_1",
+    "begin_at": "2026-11-09 13:00:00",
+    "end_at": "2026-11-21 4:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 120,
+    "title": "第6回クリスタルハント　",
+    "display_priority": 373,
+    "display_order": 373,
+    "asset_id": "1070002",
+    "begin_at": "2026-11-18 10:00:00",
+    "end_at": "2026-11-23 4:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 122,
+    "title": "エアリエルピックアップガチャ",
+    "display_priority": 368,
+    "display_order": 368,
+    "asset_id": "7010039",
+    "begin_at": "2026-11-15 10:00:00",
+    "end_at": "2026-11-30 11:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 126,
+    "title": "鏡影の回廊記念ジェム＆絆の追憶パック4",
+    "display_priority": 369,
+    "display_order": 369,
+    "asset_id": "5010573",
+    "begin_at": "2026-11-09 13:00:00",
+    "end_at": "2026-11-20 11:59:59",
+    "has_r18": 1
+  },
+  {
+    "id": 129,
+    "title": "ゲリライベント告知",
+    "display_priority": 372,
+    "display_order": 372,
+    "asset_id": "1091002",
+    "begin_at": "2026-11-12 5:00:00",
+    "end_at": "2026-11-20 4:59:59",
+    "has_r18": 1
   }
 ]

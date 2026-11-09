@@ -922,5 +922,27 @@
     "m_tavern_card_effect_id_1": 401019,
     "m_tavern_card_effect_id_2": 0,
     "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 13000610,
+    "m_character_id": 1300061,
+    "m_character_skin_id": 130006102,
+    "name": "ファリスの提案",
+    "effect_type": 3,
+    "description": "次ターンの営業カードが必ず「ドリンク」関連のものになる。\n千国連合のスタッフの満足度+20%",
+    "m_tavern_card_effect_id_1": 500000,
+    "m_tavern_card_effect_id_2": 401023,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 13000130,
+    "m_character_id": 1300013,
+    "m_character_skin_id": 130001302,
+    "name": "アシュリーの提案",
+    "effect_type": 2,
+    "description": "ランダムな「ミレスガルド」の\nスタッフ最大1体に「ドリンク」を付与。\nそれらのスタッフの満足度+100%",
+    "m_tavern_card_effect_id_1": 100001,
+    "m_tavern_card_effect_id_2": 401012,
+    "m_tavern_card_effect_id_3": 0
   }
 ]

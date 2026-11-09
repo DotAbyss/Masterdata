@@ -338,5 +338,25 @@
     "pos_x": -45,
     "pos_z": 35,
     "direction_type": 1
+  },
+  {
+    "id": 37,
+    "m_home_stage_group_id": 27,
+    "m_character_id": 1300013,
+    "m_character_skin_id": 130001301,
+    "serif": "魔法の天才、アシュリーだよ\n人と話すの嫌いだけどよろしくね",
+    "pos_x": -13,
+    "pos_z": -28,
+    "direction_type": 0
+  },
+  {
+    "id": 38,
+    "m_home_stage_group_id": 28,
+    "m_character_id": 1300061,
+    "m_character_skin_id": 130006101,
+    "serif": "蒼翼の哨兵ナンバー００１、ファリス！\n他のメンバーは絶賛大募集中なのです！",
+    "pos_x": -13,
+    "pos_z": -28,
+    "direction_type": 0
   }
 ]

@@ -637,6 +637,20 @@
     "description": "さらに光属性の味方全体に会心率UP【{[CRITICALUP.FIXED_PERCENT]} / 15秒】を付与 / 紋章：衝撃を5消費し、ダメージ倍率が【{[IMPACTSUCCEED.DAMAGE.DAMAGE_PERCENT]}】に変化 "
   },
   {
+    "id": 1300013000,
+    "m_character_id": 1300013,
+    "trigger_type": 20,
+    "name": "光紡ぎのロンド",
+    "description": "光・闇・無属性の味方全体に防御力UP【{[DEFENCEUP.RATE_PERCENT]} / 25秒】と攻撃力UP【{[ATTACKUP1.RATE_PERCENT]} / 5秒】を付与"
+  },
+  {
+    "id": 1300013001,
+    "m_character_id": 1300013,
+    "trigger_type": 30,
+    "name": "光紡ぎのロンド",
+    "description": "攻撃力UPの効果時間が【10秒】に変化 / 自身に紋章：衝撃を【2】付与 / 紋章：衝撃を10消費し、光・闇・無属性の味方全体にスキル与ダメージUP【{[IMPACTSUCCESS.SKILLDAMAGEUP.RATE_PERCENT]} / 5秒】を付与"
+  },
+  {
     "id": 1300014000,
     "m_character_id": 1300014,
     "trigger_type": 20,
@@ -1167,5 +1181,19 @@
     "trigger_type": 30,
     "name": "神恩光華衝",
     "description": "味方全体に攻撃力UP【{[SKILLUNIQUEACTION01_03.ATTACKUP1.RATE_PERCENT]} / 15秒】を付与 / マナを【1】チャージ /  紋章：衝撃を10消費し、さらにマナを【1】チャージ"
+  },
+  {
+    "id": 1300061000,
+    "m_character_id": 1300061,
+    "trigger_type": 20,
+    "name": "アクア・テンペスト",
+    "description": "敵1体を中心とした範囲内の敵全体に【4HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 攻撃力DOWN【{[ATTACKDOWN.RATE_PERCENT]} / 12.5秒】を付与 "
+  },
+  {
+    "id": 1300061001,
+    "m_character_id": 1300061,
+    "trigger_type": 30,
+    "name": "アクア・テンペスト",
+    "description": "ダメージ倍率が【{[DAMAGE.DAMAGE_PERCENT]}】に変化 / 味方全体の炎上状態を解除 / 紋章：情熱が5以上のとき、攻撃力DOWNの効果時間が【{[ZEALSUCCESS1.ATTACKDOWN.DURATION]}秒】に変化"
   }
 ]
