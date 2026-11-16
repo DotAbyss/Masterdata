@@ -1187,7 +1187,7 @@
     "m_character_id": 1300061,
     "trigger_type": 20,
     "name": "アクア・テンペスト",
-    "description": "敵1体を中心とした範囲内の敵全体に【4HIT / {[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 攻撃力DOWN【{[ATTACKDOWN.RATE_PERCENT]} / 12.5秒】を付与 "
+    "description": "敵1体を中心とした範囲内の敵全体に【4HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 攻撃力DOWN【{[ATTACKDOWN.RATE_PERCENT]} / 12.5秒】を付与 "
   },
   {
     "id": 1300061001,
