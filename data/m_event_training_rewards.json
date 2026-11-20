@@ -550,5 +550,205 @@
     "content_id": 21020330,
     "amount": 1,
     "is_first_reward": 1
+  },
+  {
+    "id": 9000040101,
+    "m_event_training_stage_id": 90000401,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 50,
+    "is_first_reward": 1
+  },
+  {
+    "id": 9000040201,
+    "m_event_training_stage_id": 90000402,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 50,
+    "is_first_reward": 1
+  },
+  {
+    "id": 9000040202,
+    "m_event_training_stage_id": 90000402,
+    "content_type": 70,
+    "content_id": 17020130,
+    "amount": 1,
+    "is_first_reward": 1
+  },
+  {
+    "id": 9000040203,
+    "m_event_training_stage_id": 90000402,
+    "content_type": 80,
+    "content_id": 23030130,
+    "amount": 1,
+    "is_first_reward": 1
+  },
+  {
+    "id": 9000040204,
+    "m_event_training_stage_id": 90000402,
+    "content_type": 30,
+    "content_id": 20050,
+    "amount": 4,
+    "is_first_reward": 0
+  },
+  {
+    "id": 9000040205,
+    "m_event_training_stage_id": 90000402,
+    "content_type": 30,
+    "content_id": 20051,
+    "amount": 4,
+    "is_first_reward": 0
+  },
+  {
+    "id": 9000040206,
+    "m_event_training_stage_id": 90000402,
+    "content_type": 30,
+    "content_id": 20110,
+    "amount": 4,
+    "is_first_reward": 0
+  },
+  {
+    "id": 9000040207,
+    "m_event_training_stage_id": 90000402,
+    "content_type": 30,
+    "content_id": 20111,
+    "amount": 4,
+    "is_first_reward": 0
+  },
+  {
+    "id": 9000040301,
+    "m_event_training_stage_id": 90000403,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 50,
+    "is_first_reward": 1
+  },
+  {
+    "id": 9000040302,
+    "m_event_training_stage_id": 90000403,
+    "content_type": 70,
+    "content_id": 17020230,
+    "amount": 1,
+    "is_first_reward": 1
+  },
+  {
+    "id": 9000040303,
+    "m_event_training_stage_id": 90000403,
+    "content_type": 80,
+    "content_id": 23030230,
+    "amount": 1,
+    "is_first_reward": 1
+  },
+  {
+    "id": 9000040304,
+    "m_event_training_stage_id": 90000403,
+    "content_type": 30,
+    "content_id": 20050,
+    "amount": 6,
+    "is_first_reward": 0
+  },
+  {
+    "id": 9000040305,
+    "m_event_training_stage_id": 90000403,
+    "content_type": 30,
+    "content_id": 20051,
+    "amount": 6,
+    "is_first_reward": 0
+  },
+  {
+    "id": 9000040306,
+    "m_event_training_stage_id": 90000403,
+    "content_type": 30,
+    "content_id": 20110,
+    "amount": 6,
+    "is_first_reward": 0
+  },
+  {
+    "id": 9000040307,
+    "m_event_training_stage_id": 90000403,
+    "content_type": 30,
+    "content_id": 20111,
+    "amount": 6,
+    "is_first_reward": 0
+  },
+  {
+    "id": 9000040401,
+    "m_event_training_stage_id": 90000404,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 50,
+    "is_first_reward": 1
+  },
+  {
+    "id": 9000040402,
+    "m_event_training_stage_id": 90000404,
+    "content_type": 70,
+    "content_id": 17020330,
+    "amount": 1,
+    "is_first_reward": 1
+  },
+  {
+    "id": 9000040403,
+    "m_event_training_stage_id": 90000404,
+    "content_type": 80,
+    "content_id": 23030330,
+    "amount": 1,
+    "is_first_reward": 1
+  },
+  {
+    "id": 9000040404,
+    "m_event_training_stage_id": 90000404,
+    "content_type": 30,
+    "content_id": 20050,
+    "amount": 8,
+    "is_first_reward": 0
+  },
+  {
+    "id": 9000040405,
+    "m_event_training_stage_id": 90000404,
+    "content_type": 30,
+    "content_id": 20051,
+    "amount": 8,
+    "is_first_reward": 0
+  },
+  {
+    "id": 9000040406,
+    "m_event_training_stage_id": 90000404,
+    "content_type": 30,
+    "content_id": 20110,
+    "amount": 8,
+    "is_first_reward": 0
+  },
+  {
+    "id": 9000040407,
+    "m_event_training_stage_id": 90000404,
+    "content_type": 30,
+    "content_id": 20111,
+    "amount": 8,
+    "is_first_reward": 0
+  },
+  {
+    "id": 9000040501,
+    "m_event_training_stage_id": 90000405,
+    "content_type": 10,
+    "content_id": 0,
+    "amount": 50,
+    "is_first_reward": 1
+  },
+  {
+    "id": 9000040502,
+    "m_event_training_stage_id": 90000405,
+    "content_type": 70,
+    "content_id": 17020330,
+    "amount": 1,
+    "is_first_reward": 1
+  },
+  {
+    "id": 9000040503,
+    "m_event_training_stage_id": 90000405,
+    "content_type": 80,
+    "content_id": 23030330,
+    "amount": 1,
+    "is_first_reward": 1
   }
 ]

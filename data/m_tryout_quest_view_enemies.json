@@ -5,5 +5,47 @@
     "m_enemy_id": 100001,
     "is_boss": 1,
     "asset_id": "2057001"
+  },
+  {
+    "id": 200,
+    "m_tryout_quest_id": 30001002,
+    "m_enemy_id": 100201,
+    "is_boss": 1,
+    "asset_id": "2057101"
+  },
+  {
+    "id": 300,
+    "m_tryout_quest_id": 30001003,
+    "m_enemy_id": 100301,
+    "is_boss": 1,
+    "asset_id": "2057201"
+  },
+  {
+    "id": 400,
+    "m_tryout_quest_id": 30001004,
+    "m_enemy_id": 100101,
+    "is_boss": 1,
+    "asset_id": "2057301"
+  },
+  {
+    "id": 500,
+    "m_tryout_quest_id": 30001005,
+    "m_enemy_id": 100501,
+    "is_boss": 1,
+    "asset_id": "2057401"
+  },
+  {
+    "id": 600,
+    "m_tryout_quest_id": 30001006,
+    "m_enemy_id": 100401,
+    "is_boss": 1,
+    "asset_id": "2057501"
+  },
+  {
+    "id": 700,
+    "m_tryout_quest_id": 30001007,
+    "m_enemy_id": 100601,
+    "is_boss": 1,
+    "asset_id": "2057002"
   }
 ]

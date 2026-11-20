@@ -1008,6 +1008,30 @@
     "order": 3
   },
   {
+    "id": 130002201,
+    "m_character_id": 1300022,
+    "asset_id": "Ability_SpecialAttack_01",
+    "name": "執行体勢",
+    "ability_no": 10059,
+    "order": 1
+  },
+  {
+    "id": 130002202,
+    "m_character_id": 1300022,
+    "asset_id": "Ability_Critical_01",
+    "name": "歪んだ忠誠心",
+    "ability_no": 10060,
+    "order": 2
+  },
+  {
+    "id": 130002203,
+    "m_character_id": 1300022,
+    "asset_id": "Ability_Attack_01",
+    "name": "リベリオン",
+    "ability_no": 10061,
+    "order": 3
+  },
+  {
     "id": 130002301,
     "m_character_id": 1300023,
     "asset_id": "Ability_SpecialAttack_01",
@@ -1773,6 +1797,30 @@
     "asset_id": "Ability_Defense_01",
     "name": "蒼翼の波紋",
     "ability_no": 10225,
+    "order": 3
+  },
+  {
+    "id": 130006201,
+    "m_character_id": 1300062,
+    "asset_id": "Ability_SpecialAttack_01",
+    "name": "完全無欠の処方",
+    "ability_no": 10226,
+    "order": 1
+  },
+  {
+    "id": 130006202,
+    "m_character_id": 1300062,
+    "asset_id": "Ability_Heal_01",
+    "name": "喪服の誓い",
+    "ability_no": 10227,
+    "order": 2
+  },
+  {
+    "id": 130006203,
+    "m_character_id": 1300062,
+    "asset_id": "Ability_Attack_01",
+    "name": "スタットコール",
+    "ability_no": 10228,
     "order": 3
   }
 ]

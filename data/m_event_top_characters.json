@@ -880,6 +880,16 @@
     "serif_type": 0
   },
   {
+    "id": 70000201,
+    "m_event_id": 700002,
+    "m_character_id": 1300022,
+    "character_asset_id": "102701000G",
+    "position": 0,
+    "face": "Normal",
+    "serif": "",
+    "serif_type": 0
+  },
+  {
     "id": 80000101,
     "m_event_id": 800001,
     "m_character_id": 1300002,
@@ -1030,6 +1040,36 @@
     "serif_type": 0
   },
   {
+    "id": 80000601,
+    "m_event_id": 800006,
+    "m_character_id": 1300002,
+    "character_asset_id": "300201000",
+    "position": 1,
+    "face": "Normal",
+    "serif": "前線基地が認めてもらえるように\nがんばりましょうっ！",
+    "serif_type": 0
+  },
+  {
+    "id": 80000602,
+    "m_event_id": 800006,
+    "m_character_id": 1300002,
+    "character_asset_id": "300201000",
+    "position": 1,
+    "face": "Normal",
+    "serif": "司令官なら、\nきっと出来るはずですっ！",
+    "serif_type": 0
+  },
+  {
+    "id": 80000603,
+    "m_event_id": 800006,
+    "m_character_id": 1300002,
+    "character_asset_id": "300201000",
+    "position": 1,
+    "face": "Normal",
+    "serif": "前線基地のみんなのために、\nわたしもできる限り\nお手伝いしますねっ！",
+    "serif_type": 0
+  },
+  {
     "id": 90000101,
     "m_event_id": 900001,
     "m_character_id": 1300002,
@@ -1117,6 +1157,36 @@
     "position": 1,
     "face": "Normal",
     "serif": "司令官さんには\nわたしがついてないと……",
+    "serif_type": 0
+  },
+  {
+    "id": 90000401,
+    "m_event_id": 900004,
+    "m_character_id": 1300003,
+    "character_asset_id": "109501000G",
+    "position": 1,
+    "face": "Normal",
+    "serif": "珍しい症例だな\n実に興味深い……",
+    "serif_type": 0
+  },
+  {
+    "id": 90000402,
+    "m_event_id": 900004,
+    "m_character_id": 1300003,
+    "character_asset_id": "109501000G",
+    "position": 1,
+    "face": "Normal",
+    "serif": "必ず治療法を見つけ\n特効薬を開発してみせよう",
+    "serif_type": 0
+  },
+  {
+    "id": 90000403,
+    "m_event_id": 900004,
+    "m_character_id": 1300003,
+    "character_asset_id": "109501000G",
+    "position": 1,
+    "face": "Normal",
+    "serif": "極度の依存症か……\n熱狂とは恐ろしいものだな",
     "serif_type": 0
   },
   {

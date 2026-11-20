@@ -2121,149 +2121,170 @@
     "display_order": 1
   },
   {
-    "id": 1005901,
+    "id": 1005913,
     "ability_no": 10059,
     "m_ability_effects_id": 20030,
     "ability_awake_level": 0,
     "display_order": 1
   },
   {
-    "id": 1006001,
+    "id": 1005914,
+    "ability_no": 10059,
+    "m_ability_effects_id": 20030,
+    "ability_awake_level": 1,
+    "display_order": 1
+  },
+  {
+    "id": 1005915,
+    "ability_no": 10059,
+    "m_ability_effects_id": 20307,
+    "ability_awake_level": 1,
+    "display_order": 1
+  },
+  {
+    "id": 1005916,
+    "ability_no": 10059,
+    "m_ability_effects_id": 20030,
+    "ability_awake_level": 2,
+    "display_order": 1
+  },
+  {
+    "id": 1005917,
+    "ability_no": 10059,
+    "m_ability_effects_id": 20307,
+    "ability_awake_level": 2,
+    "display_order": 1
+  },
+  {
+    "id": 1006009,
     "ability_no": 10060,
     "m_ability_effects_id": 20031,
     "ability_awake_level": 0,
     "display_order": 1
   },
   {
-    "id": 1006101,
-    "ability_no": 10061,
-    "m_ability_effects_id": 20032,
+    "id": 1006010,
+    "ability_no": 10060,
+    "m_ability_effects_id": 20132,
     "ability_awake_level": 0,
     "display_order": 1
   },
   {
-    "id": 1005902,
-    "ability_no": 10059,
-    "m_ability_effects_id": 20030,
-    "ability_awake_level": 0,
-    "display_order": 1
-  },
-  {
-    "id": 1005903,
-    "ability_no": 10059,
-    "m_ability_effects_id": 20031,
-    "ability_awake_level": 0,
-    "display_order": 1
-  },
-  {
-    "id": 1005904,
-    "ability_no": 10059,
-    "m_ability_effects_id": 20030,
-    "ability_awake_level": 1,
-    "display_order": 1
-  },
-  {
-    "id": 1005905,
-    "ability_no": 10059,
+    "id": 1006011,
+    "ability_no": 10060,
     "m_ability_effects_id": 20031,
     "ability_awake_level": 1,
     "display_order": 1
   },
   {
-    "id": 1005906,
-    "ability_no": 10059,
+    "id": 1006012,
+    "ability_no": 10060,
     "m_ability_effects_id": 20132,
     "ability_awake_level": 1,
     "display_order": 1
   },
   {
-    "id": 1005907,
-    "ability_no": 10059,
-    "m_ability_effects_id": 20030,
-    "ability_awake_level": 2,
+    "id": 1006013,
+    "ability_no": 10060,
+    "m_ability_effects_id": 20310,
+    "ability_awake_level": 1,
     "display_order": 1
   },
   {
-    "id": 1005908,
-    "ability_no": 10059,
+    "id": 1006014,
+    "ability_no": 10060,
     "m_ability_effects_id": 20031,
     "ability_awake_level": 2,
     "display_order": 1
   },
   {
-    "id": 1005909,
-    "ability_no": 10059,
+    "id": 1006015,
+    "ability_no": 10060,
     "m_ability_effects_id": 20132,
     "ability_awake_level": 2,
     "display_order": 1
   },
   {
-    "id": 1006002,
+    "id": 1006016,
     "ability_no": 10060,
+    "m_ability_effects_id": 20310,
+    "ability_awake_level": 2,
+    "display_order": 1
+  },
+  {
+    "id": 1006109,
+    "ability_no": 10061,
     "m_ability_effects_id": 20032,
     "ability_awake_level": 0,
     "display_order": 1
   },
   {
-    "id": 1006003,
-    "ability_no": 10060,
-    "m_ability_effects_id": 20032,
-    "ability_awake_level": 1,
-    "display_order": 1
-  },
-  {
-    "id": 1006004,
-    "ability_no": 10060,
-    "m_ability_effects_id": 20133,
-    "ability_awake_level": 1,
-    "display_order": 1
-  },
-  {
-    "id": 1006005,
-    "ability_no": 10060,
-    "m_ability_effects_id": 20032,
-    "ability_awake_level": 2,
-    "display_order": 1
-  },
-  {
-    "id": 1006006,
-    "ability_no": 10060,
-    "m_ability_effects_id": 20133,
-    "ability_awake_level": 2,
-    "display_order": 1
-  },
-  {
-    "id": 1006102,
+    "id": 1006110,
     "ability_no": 10061,
     "m_ability_effects_id": 20131,
     "ability_awake_level": 0,
     "display_order": 1
   },
   {
-    "id": 1006103,
+    "id": 1006111,
+    "ability_no": 10061,
+    "m_ability_effects_id": 20129,
+    "ability_awake_level": 0,
+    "display_order": 1
+  },
+  {
+    "id": 1006112,
+    "ability_no": 10061,
+    "m_ability_effects_id": 20032,
+    "ability_awake_level": 1,
+    "display_order": 1
+  },
+  {
+    "id": 1006113,
     "ability_no": 10061,
     "m_ability_effects_id": 20131,
     "ability_awake_level": 1,
     "display_order": 1
   },
   {
-    "id": 1006104,
+    "id": 1006114,
     "ability_no": 10061,
-    "m_ability_effects_id": 20134,
+    "m_ability_effects_id": 20129,
     "ability_awake_level": 1,
     "display_order": 1
   },
   {
-    "id": 1006105,
+    "id": 1006115,
+    "ability_no": 10061,
+    "m_ability_effects_id": 20321,
+    "ability_awake_level": 1,
+    "display_order": 1
+  },
+  {
+    "id": 1006116,
+    "ability_no": 10061,
+    "m_ability_effects_id": 20032,
+    "ability_awake_level": 2,
+    "display_order": 1
+  },
+  {
+    "id": 1006117,
     "ability_no": 10061,
     "m_ability_effects_id": 20131,
     "ability_awake_level": 2,
     "display_order": 1
   },
   {
-    "id": 1006106,
+    "id": 1006118,
     "ability_no": 10061,
-    "m_ability_effects_id": 20134,
+    "m_ability_effects_id": 20129,
+    "ability_awake_level": 2,
+    "display_order": 1
+  },
+  {
+    "id": 1006119,
+    "ability_no": 10061,
+    "m_ability_effects_id": 20321,
     "ability_awake_level": 2,
     "display_order": 1
   },
@@ -7381,6 +7402,132 @@
     "id": 1022505,
     "ability_no": 10225,
     "m_ability_effects_id": 20320,
+    "ability_awake_level": 2,
+    "display_order": 1
+  },
+  {
+    "id": 1022601,
+    "ability_no": 10226,
+    "m_ability_effects_id": 20437,
+    "ability_awake_level": 0,
+    "display_order": 1
+  },
+  {
+    "id": 1022602,
+    "ability_no": 10226,
+    "m_ability_effects_id": 20437,
+    "ability_awake_level": 1,
+    "display_order": 1
+  },
+  {
+    "id": 1022603,
+    "ability_no": 10226,
+    "m_ability_effects_id": 20307,
+    "ability_awake_level": 1,
+    "display_order": 1
+  },
+  {
+    "id": 1022604,
+    "ability_no": 10226,
+    "m_ability_effects_id": 20437,
+    "ability_awake_level": 2,
+    "display_order": 1
+  },
+  {
+    "id": 1022605,
+    "ability_no": 10226,
+    "m_ability_effects_id": 20307,
+    "ability_awake_level": 2,
+    "display_order": 1
+  },
+  {
+    "id": 1022701,
+    "ability_no": 10227,
+    "m_ability_effects_id": 20438,
+    "ability_awake_level": 0,
+    "display_order": 1
+  },
+  {
+    "id": 1022702,
+    "ability_no": 10227,
+    "m_ability_effects_id": 20440,
+    "ability_awake_level": 0,
+    "display_order": 1
+  },
+  {
+    "id": 1022703,
+    "ability_no": 10227,
+    "m_ability_effects_id": 20438,
+    "ability_awake_level": 1,
+    "display_order": 1
+  },
+  {
+    "id": 1022704,
+    "ability_no": 10227,
+    "m_ability_effects_id": 20440,
+    "ability_awake_level": 1,
+    "display_order": 1
+  },
+  {
+    "id": 1022705,
+    "ability_no": 10227,
+    "m_ability_effects_id": 20319,
+    "ability_awake_level": 1,
+    "display_order": 1
+  },
+  {
+    "id": 1022706,
+    "ability_no": 10227,
+    "m_ability_effects_id": 20438,
+    "ability_awake_level": 2,
+    "display_order": 1
+  },
+  {
+    "id": 1022707,
+    "ability_no": 10227,
+    "m_ability_effects_id": 20440,
+    "ability_awake_level": 2,
+    "display_order": 1
+  },
+  {
+    "id": 1022708,
+    "ability_no": 10227,
+    "m_ability_effects_id": 20319,
+    "ability_awake_level": 2,
+    "display_order": 1
+  },
+  {
+    "id": 1022801,
+    "ability_no": 10228,
+    "m_ability_effects_id": 20439,
+    "ability_awake_level": 0,
+    "display_order": 1
+  },
+  {
+    "id": 1022802,
+    "ability_no": 10228,
+    "m_ability_effects_id": 20439,
+    "ability_awake_level": 1,
+    "display_order": 1
+  },
+  {
+    "id": 1022803,
+    "ability_no": 10228,
+    "m_ability_effects_id": 20321,
+    "ability_awake_level": 1,
+    "display_order": 1
+  },
+  {
+    "id": 1022804,
+    "ability_no": 10228,
+    "m_ability_effects_id": 20439,
+    "ability_awake_level": 2,
+    "display_order": 1
+  },
+  {
+    "id": 1022805,
+    "ability_no": 10228,
+    "m_ability_effects_id": 20321,
     "ability_awake_level": 2,
     "display_order": 1
   },

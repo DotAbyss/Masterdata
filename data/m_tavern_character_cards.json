@@ -944,5 +944,38 @@
     "m_tavern_card_effect_id_1": 100001,
     "m_tavern_card_effect_id_2": 401012,
     "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 13000220,
+    "m_character_id": 1300022,
+    "m_character_skin_id": 130002202,
+    "name": "アンリの提案",
+    "effect_type": 2,
+    "description": "ランダムな「ペルディオン」の\nスタッフ最大3体に「ドリンク」を付与。\nそれらのスタッフの満足度+20%",
+    "m_tavern_card_effect_id_1": 102004,
+    "m_tavern_card_effect_id_2": 401005,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 13000221,
+    "m_character_id": 1300022,
+    "m_character_skin_id": 130002203,
+    "name": "女王様アンリの提案",
+    "effect_type": 3,
+    "description": "「料理」が付与されているスタッフに\n「接客」を付与する。",
+    "m_tavern_card_effect_id_1": 300006,
+    "m_tavern_card_effect_id_2": 0,
+    "m_tavern_card_effect_id_3": 0
+  },
+  {
+    "id": 13000620,
+    "m_character_id": 1300062,
+    "m_character_skin_id": 130006202,
+    "name": "レイヴンの提案",
+    "effect_type": 2,
+    "description": "ランダムな「ペルディオン」の\nスタッフ最大1体に「料理」を付与。\nそれらのスタッフの満足度+100%",
+    "m_tavern_card_effect_id_1": 100006,
+    "m_tavern_card_effect_id_2": 401013,
+    "m_tavern_card_effect_id_3": 0
   }
 ]

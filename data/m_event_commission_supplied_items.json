@@ -133,5 +133,32 @@
     "m_supplied_item_id": 24,
     "grade": 3,
     "m_supplied_conditions_group_id": 3
+  },
+  {
+    "id": 16,
+    "m_event_id": 800006,
+    "condition_text": "紋章：衝撃を持つキャラを3～4人編成",
+    "party_num_summary_text": "紋章：衝撃を持つキャラ【{1}人】編成中",
+    "m_supplied_item_id": 19,
+    "grade": 1,
+    "m_supplied_conditions_group_id": 2303
+  },
+  {
+    "id": 17,
+    "m_event_id": 800006,
+    "condition_text": "紋章：衝撃を持つキャラを5～9人編成",
+    "party_num_summary_text": "紋章：衝撃を持つキャラ【{1}人】編成中",
+    "m_supplied_item_id": 20,
+    "grade": 2,
+    "m_supplied_conditions_group_id": 2305
+  },
+  {
+    "id": 18,
+    "m_event_id": 800006,
+    "condition_text": "紋章：衝撃を持つキャラを10人編成",
+    "party_num_summary_text": "紋章：衝撃を持つキャラ【{1}人】編成中",
+    "m_supplied_item_id": 21,
+    "grade": 3,
+    "m_supplied_conditions_group_id": 2310
   }
 ]

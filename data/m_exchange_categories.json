@@ -200,6 +200,16 @@
     "asset_id": "5000224"
   },
   {
+    "id": 118,
+    "category_name": "武器スキン交換所",
+    "cost_content_type": 30,
+    "cost_content_id": 240001,
+    "start_at": "2026-11-20 13:00:00",
+    "end_at": "2038-01-01 00:00:00",
+    "display_order": 1000,
+    "asset_id": "5000225"
+  },
+  {
     "id": 300001,
     "category_name": "オートマタと魔術師姉妹のサプライズ",
     "cost_content_type": 54,

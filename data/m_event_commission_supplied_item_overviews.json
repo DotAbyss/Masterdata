@@ -38,5 +38,13 @@
     "supply_item_empty_text": "この依頼では５つの勢力を編成することで\u003cbr\u003eより強力なサポートを受け取ることができます。",
     "supply_item_empty_short_text": "5勢力",
     "supply_item_empty_icon_asset_id": "511301008"
+  },
+  {
+    "id": 6,
+    "m_event_id": 800006,
+    "text": "クエストごとに紋章：衝撃の付与など、様々な効果が発生します。（内容はクエスト詳細で確認できます。）",
+    "supply_item_empty_text": "この依頼では衝撃タイプのキャラクターを多く編成することでより強力なサポートを受け取ることができます。",
+    "supply_item_empty_short_text": "紋章：衝撃",
+    "supply_item_empty_icon_asset_id": "511301006"
   }
 ]

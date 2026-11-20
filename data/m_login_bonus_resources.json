@@ -252,6 +252,33 @@
     "has_r18": 1
   },
   {
+    "id": 29,
+    "m_login_bonus_sheet_id": 29,
+    "prefab_id": "LoginBonus_1500011",
+    "m_character_id": 1300020,
+    "voice_id": "0",
+    "serif": "セリフ関係なし",
+    "has_r18": 1
+  },
+  {
+    "id": 30,
+    "m_login_bonus_sheet_id": 30,
+    "prefab_id": "LoginBonus_1041002",
+    "m_character_id": 1300020,
+    "voice_id": "0",
+    "serif": "セリフ関係なし",
+    "has_r18": 1
+  },
+  {
+    "id": 31,
+    "m_login_bonus_sheet_id": 31,
+    "prefab_id": "LoginBonus_1060004",
+    "m_character_id": 1300020,
+    "voice_id": "0",
+    "serif": "セリフ関係なし",
+    "has_r18": 1
+  },
+  {
     "id": 10001,
     "m_login_bonus_sheet_id": 10001,
     "prefab_id": "LoginBonus_1020001",
@@ -740,6 +767,69 @@
   {
     "id": 10055,
     "m_login_bonus_sheet_id": 10055,
+    "prefab_id": "LoginBonus_1020001",
+    "m_character_id": 1300020,
+    "voice_id": "0",
+    "serif": "イベント用　ウェンディのセリフ",
+    "has_r18": 0
+  },
+  {
+    "id": 10056,
+    "m_login_bonus_sheet_id": 10056,
+    "prefab_id": "LoginBonus_1020001",
+    "m_character_id": 1300020,
+    "voice_id": "0",
+    "serif": "イベント用　ウェンディのセリフ",
+    "has_r18": 0
+  },
+  {
+    "id": 10057,
+    "m_login_bonus_sheet_id": 10057,
+    "prefab_id": "LoginBonus_1020001",
+    "m_character_id": 1300020,
+    "voice_id": "0",
+    "serif": "イベント用　ウェンディのセリフ",
+    "has_r18": 0
+  },
+  {
+    "id": 10058,
+    "m_login_bonus_sheet_id": 10058,
+    "prefab_id": "LoginBonus_1020001",
+    "m_character_id": 1300020,
+    "voice_id": "0",
+    "serif": "イベント用　ウェンディのセリフ",
+    "has_r18": 0
+  },
+  {
+    "id": 10059,
+    "m_login_bonus_sheet_id": 10059,
+    "prefab_id": "LoginBonus_1020001",
+    "m_character_id": 1300020,
+    "voice_id": "0",
+    "serif": "イベント用　ウェンディのセリフ",
+    "has_r18": 0
+  },
+  {
+    "id": 10060,
+    "m_login_bonus_sheet_id": 10060,
+    "prefab_id": "LoginBonus_1020001",
+    "m_character_id": 1300020,
+    "voice_id": "0",
+    "serif": "イベント用　ウェンディのセリフ",
+    "has_r18": 0
+  },
+  {
+    "id": 10061,
+    "m_login_bonus_sheet_id": 10061,
+    "prefab_id": "LoginBonus_1020001",
+    "m_character_id": 1300020,
+    "voice_id": "0",
+    "serif": "イベント用　ウェンディのセリフ",
+    "has_r18": 0
+  },
+  {
+    "id": 10062,
+    "m_login_bonus_sheet_id": 10062,
     "prefab_id": "LoginBonus_1020001",
     "m_character_id": 1300020,
     "voice_id": "0",
